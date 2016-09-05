@@ -16,7 +16,7 @@ meHO.note2 = ""
 
 meVE.Stichera01.mode = //misc_en_US_dedes.Mode1
 meVE.Stichera01.melody = //he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-meVE.Stichera01.text = "a test"
+meVE.Stichera01.text = ""
 
 meVE.Stichera02.mode = //misc_en_US_dedes.Mode1
 meVE.Stichera02.melody = //he.a.m1_en_US_dedes.TonOuranionTagmaton.name
@@ -784,7 +784,7 @@ alt1.meMA.Ode6C1T.melody = //he.h.m4_en_US_dedes.TinTheianTaftin.name
 alt1.meMA.Ode6C1T.text = ""
 
 alt1.meMA.Kontakion1.mode = //misc_en_US_dedes.Mode8
-alt1.meMA.Kontakion1.melody = //misc_en_US_dedes.NotMetered //he.a.m8_en_US_dedes.TiYpermacho.name
+alt1.meMA.Kontakion1.melody = misc_en_US_andronache.NotMetered //he.a.m8_en_US_dedes.TiYpermacho.name
 alt1.meMA.Kontakion1.text = "Let us honor Kassiane who glorified God, as a lamp of compunction, for she has been adorned with all goodness and virtue; she was made holy through ceaseless vigil and was well-pleasing to Christ the King. Thus, let us cry to her with fervor: Rejoice, mother most luminous."
 
 alt1.meMA.Oikos1.text = "Angels and men, beholding the heavenly ways of your repentance, the rivers of your tears, and pure character, august Kassiane, were greatly amazed and were crying out to you, shield of dignity, things such as these:"
