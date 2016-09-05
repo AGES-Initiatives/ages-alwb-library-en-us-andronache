@@ -487,11 +487,11 @@ meLI.MM.CommunionHymn.text = properties_en_US_dedes.media.key
 
 meMegalynarion.text = ""
 
-alt1.meDate.text = "" // date
-alt1.meCommemoration.text = "" //full title of day
-alt1.meShortCommemoration1.text = ""
-alt1.meInsert1 = "" //for use in petitions and dismissal
-alt1.meInsert2 = "" //for use in petitions and dismissal
+alt1.meDate.text = "September 7" // date
+alt1.meCommemoration.text = "Memory of our Devout Mother Kassiane the Hymnographer" //full title of day
+alt1.meShortCommemoration1.text = "Devout St. Kassiane the Hymnographer"
+alt1.meInsert1 = "our devout mother Kassiane the hymnographer," //for use in petitions and dismissal
+alt1.meInsert2 = "whose memory we observe," //for use in petitions and dismissal
 alt1.meNote.text = ""
 alt1.meLE.commemoration1 = ""
 alt1.meLE.commemoration2 = ""
@@ -549,35 +549,35 @@ alt1.meSV.AposBoth.text = ""
 
 alt1.meVE.Stichera01.mode = misc_en_US_dedes.Mode1
 alt1.meVE.Stichera01.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-alt1.meVE.Stichera01.text = ""
+alt1.meVE.Stichera01.text = "Kassiane, the devout saint, was reared and trained in divine * learning and admonition, * then through her own incessant * labors of ascetical discipline was purified, and richly received * the Holy Spirit's enlightenment in her soul. * O believers, let us sing her praise."
 
 alt1.meVE.Stichera02.mode = misc_en_US_dedes.Mode1
 alt1.meVE.Stichera02.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-alt1.meVE.Stichera02.text = ""
+alt1.meVE.Stichera02.text = "Kassiane, the devout saint, noble and beautiful, * was born with mighty blessings * of the all-holy Virgin. * God-inspired poet and most favored was she * and a daughter of the Queen City. * She has enlightened the world by her life and toils. * O believers, let us honor her."
 
 alt1.meVE.Stichera03.mode = misc_en_US_dedes.Mode1
 alt1.meVE.Stichera03.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-alt1.meVE.Stichera03.text = ""
+alt1.meVE.Stichera03.text = "Kassiane, full of virtues, refused the love of the king, * for her heart was afire * with insatiable yearning * for the King of all and so she became * the sweet lyre of the divine * Holy Spirit and lived a life pleasing God. * O believers, let us honor her."
 
 alt1.meVE.Stichera04.mode = misc_en_US_dedes.Mode1
 alt1.meVE.Stichera04.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-alt1.meVE.Stichera04.text = ""
+alt1.meVE.Stichera04.text = "Kassiane, the devout saint, vessel of self restraint * struggled in the caves of * the island of Kassos. * To women monastics she became a lamp * and was shown as a spotless dove. * She was noetically filled with the light of God. * O believers, let us honor her."
 
 alt1.meVE.Stichera05.mode = misc_en_US_dedes.Mode1
 alt1.meVE.Stichera05.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-alt1.meVE.Stichera05.text = ""
+alt1.meVE.Stichera05.text = "Kassiane, the devout saint, forsook the cares of the flesh* with its corrupted beauty; * instead she was enraptured * by the uncreated comeliness of Christ * which remains ever incorrupt. * We ask, O Mother, always intercede for us * who run to you and sing your praise."
 
 alt1.meVE.Stichera06.mode = misc_en_US_dedes.Mode1
 alt1.meVE.Stichera06.melody = he.a.m1_en_US_dedes.TonOuranionTagmaton.name
-alt1.meVE.Stichera06.text = ""
+alt1.meVE.Stichera06.text = "Kassiane, the most blessed, heard coming to her cell * the footsteps of the sovereign * and she went away and hid * as Eve had done in paradise of old * at the sound of the Lord of all * but unlike Eve who was hiding because of fear * Kassiane was hiding out of dignity. "
 
 alt1.meVE.SticGlory.mode = misc_en_US_dedes.Mode6
 alt1.meVE.SticGlory.melody = 
-alt1.meVE.SticGlory.text = ""
+alt1.meVE.SticGlory.text = "Let us honor Kassiane, for great humility prevented her from falling into many sins and she sought the Lord’s mercy. She refused the golden apple which would have led to an earthly kingdom, and she attained to the heavenly kingdom through her great toils and a life full of love for God and wisdom. And now she rejoices with Him who inclined the heavens because of His ineffable condescension, and she intercedes unceasingly that He send His rich and immeasurable mercy unto us."
 
 alt1.meVE.SticBoth.mode = misc_en_US_dedes.Mode6
 alt1.meVE.SticBoth.melody = 
-alt1.meVE.SticBoth.text = me.m09.d08_en_US_dedes.meVE.Stichera01.text
+alt1.meVE.SticBoth.text = me.m09.d08_en_US_andronache.meVE.Stichera01.text
 
 alt1.meVE.Lity1.mode = misc_en_US_dedes.Mode1
 alt1.meVE.Lity1.melody = 
@@ -605,55 +605,55 @@ alt1.meVE.LityBoth.text = meVE.AposGlory.text
 
 alt1.meVE.Aposticha1.mode = misc_en_US_dedes.Mode5
 alt1.meVE.Aposticha1.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
-alt1.meVE.Aposticha1.text = ""
+alt1.meVE.Aposticha1.text = "Rejoice, * Kassiane praised in song, * support of women * who travail in the ascetic life; * you pondered the pleasures * and fleeting honors of life * and you then appraised them to be counterfeit * Instead you took up the yoke * of the all-holy Lord, our God * and with devotion * followed Him like the heavenly * hosts who sing His praise * in unending, thrice-holy hymns. * As we, the faithful, come today * to honor your memory, * we now sing anthems acclaiming * you the beloved vessel of grace * and ask that you mediate * and intercede for us eternally * with Christ, our loving God."
 
 alt1.meVE.Aposticha2.mode = misc_en_US_dedes.Mode5
 alt1.meVE.Aposticha2.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
-alt1.meVE.Aposticha2.text = ""
+alt1.meVE.Aposticha2.text = "You cried * unto to the Lord, chosen one,* beautiful diadem * in the cluster of women saints,* “Do not disdain me, your servant, * although you know all the darkness of * my soul and my reasoning * and the fullness of all my sins; * instead receive now * of my tears the bitter streams * and the many sighings of my humble heart. * For You move the water of * the sea up to form the clouds * and you give the water of eternal life * to all who approach with faith * your unending spring of mercy infinite and rich."
 
 alt1.meVE.Aposticha3.mode = misc_en_US_dedes.Mode5
 alt1.meVE.Aposticha3.melody = he.a.m5_en_US_dedes.ChairoisAskitikon.name
-alt1.meVE.Aposticha3.text = ""
+alt1.meVE.Aposticha3.text = "Rejoice * Kassiani, the defense * helper and guardian, * of the people of Kassos, * the image of stillness and pure, virginal ewe, * the abode of virtues and beauty of soul. * You took your abode in caves * and you fasted with steadfastness. * The ground was your bed * as you grew in humility. * So we ask you now, * having boldness before our God, * fervently implore the Lord * and your longing Bridegroom *  that he send to us all who  * exalt your honorable memory * the powerful and holy medicine * to destroy all the devices of the enemy. "
 
 alt1.meVE.AposGlory.mode = misc_en_US_dedes.Mode8
 alt1.meVE.AposGlory.melody = 
-alt1.meVE.AposGlory.text = ""
+alt1.meVE.AposGlory.text = "You consumed the thorns of the passions by the fire of the unceasing ascetic labors and put on a garment of dispassion. You appeared like light, O mother who love the virtues. Having led your fleeting bodily vessel to servitude by vigils and the greatest of labors, you received the light of God as lightning, and you purified your reasoning. And now, God-bearer Kassiane, being together with the choirs of angels and beholding the beauty of Christ, we ask you to intercede for our souls."
 
 alt1.meVE.AposBoth.mode = misc_en_US_dedes.Mode8
 alt1.meVE.AposBoth.melody = 
-alt1.meVE.AposBoth.text = me.m09.d08_en_US_dedes.meVE.LityGlory.text
+alt1.meVE.AposBoth.text = me.m09.d08_en_US_andronache.meVE.LityGlory.text
 
 alt1.meVE.Apolytikion1.mode = misc_en_US_dedes.Mode5
 alt1.meVE.Apolytikion1.melody = he.a.m5_en_US_dedes.TonSynanarchonLogon.name
-alt1.meVE.Apolytikion1.text = ""
+alt1.meVE.Apolytikion1.text = "You were wise to refuse the proposal of the king, * for your heart was aflame with the love of the Lord * And we, the faithful, now in song * extol your virtue and your skill, * for God inspired you to write * sacred poems for the Church, * Kassiane, most exalted. * And we ask you to petition that we * be made worthy of the kingdom of God."
 
 alt1.meVE.Apolytikion2.mode = misc_en_US_dedes.Mode4
 alt1.meVE.Apolytikion2.melody = he.a.m4_en_US_dedes.KateplagiIosif.name
-alt1.meVE.Apolytikion2.text = meVE.Apolytikion1.text
+alt1.meVE.Apolytikion2.text = me.m09.d07_en_US_dedes.meVE.Apolytikion1.text
 
 alt1.meMA.Kathisma11.mode = misc_en_US_dedes.Mode1
 alt1.meMA.Kathisma11.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
-alt1.meMA.Kathisma11.text = ""
+alt1.meMA.Kathisma11.text = "As never-setting star * of salvific repentance, * bright light of grace divine * and companion of angels * bring light to our hearts we pray* with the light of Spirit  * and unbind the chains * of the passions which bind us * as we honor your memory."
 
 alt1.meMA.Kathisma12.mode = misc_en_US_dedes.Mode1
 alt1.meMA.Kathisma12.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.name
-alt1.meMA.Kathisma12.text = ""
+alt1.meMA.Kathisma12.text = "You are the shining fruit * of the godly-minded Anna * and holy Joachim, * O Virgin Theotokos. * Fill with joy by your radiant birth * those who honor you faithfully * for you budded forth * the Light that offers salvation * to those in the shadow of death."
 
 alt1.meMA.Kathisma21.mode = misc_en_US_dedes.Mode4
 alt1.meMA.Kathisma21.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
-alt1.meMA.Kathisma21.text = ""
+alt1.meMA.Kathisma21.text = "With the oil of vigilance, dispassion, and chastity, * O holy one you made bright the precious lamp of your soul * and now you rejoice on high *  in the heavenly chambers * with the wise holy virgins. * And you exalt your Bridegroom * and beloved Lord and Master, *  O holy Kassiane, our venerable mother."
 
 alt1.meMA.Kathisma22.mode = misc_en_US_dedes.Mode4
 alt1.meMA.Kathisma22.melody = he.a.m4_en_US_dedes.TachyProkatalave.name
-alt1.meMA.Kathisma22.text = ""
+alt1.meMA.Kathisma22.text = "By your divine birth your brought, O Theotokos most pure, * joy unto the company of those who sing hymns to you, * all-praised Mary, virgin pure; * for in your womb you carried * the divine Son of the Father * and we cry out with fervor: * Rejoice, divine prelude * of the salvation of the world and our deliverance from death."
 
 alt1.meMA.Kathisma31.mode = misc_en_US_dedes.Mode3
 alt1.meMA.Kathisma31.melody = he.a.m3_en_US_dedes.TinOraiotita.name
-alt1.meMA.Kathisma31.text = ""
+alt1.meMA.Kathisma31.text = "Blessed Kassiane,  * beauty of women saints, * in faith and piety * you cried unto the Lord  * “Accept the streams of my tears * O Lover of mankind * and turn away the pain * that now afflicts my heart * and make me worthy to embrace * your all holy and spotless feet * You who inclined the roof of heaven, * and condescended to become man."
 
 alt1.meMA.Kathisma3T.mode = misc_en_US_dedes.Mode3
 alt1.meMA.Kathisma3T.melody = he.a.m3_en_US_dedes.TinOraiotita.name
-alt1.meMA.Kathisma3T.text = ""
+alt1.meMA.Kathisma3T.text = "O virgin Mary pure, * my soul is dim and gray; * bring light to it, I pray * by sending down the grace * of your own Son and our God, * O hope of the hopeless. * And drive away the mist * of my countless iniquities * so that when the judgment comes * I may be given mercy * and fervently cry out to you forever: * Rejoice, O woman full of grace ."
 
 meMA.MM.Prokeimenon.text = properties_en_US_dedes.media.key
 
@@ -667,7 +667,7 @@ alt1.meMA.PostGospelBoth.text = ho.s03_en_US_dedes.hoMA.PostGospelTheotokos.text
 
 alt1.meMA.PostGospelIdiomelon.mode = misc_en_US_dedes.Mode6
 alt1.meMA.PostGospelIdiomelon.melody = 
-alt1.meMA.PostGospelIdiomelon.text = ""
+alt1.meMA.PostGospelIdiomelon.text = "You disregarded the earthly kingdom and set off on ascetical struggles with an inspired soul, glorious Kassiane. You toiled well in Byzantium and Kassos for Christ the Lord of all and were well-pleasing to your beautiful heavenly Bridegroom. Now, having made your abode in the dwellings of the Heavenly Kingdom, do not cease interceding for those who hymn your memory."
 
 alt1.meMA.C1Poet = ""
 alt1.meMA.C1Acrostic.text = ""
@@ -784,17 +784,17 @@ alt1.meMA.Ode6C1T.melody = he.h.m4_en_US_dedes.TinTheianTaftin.name
 alt1.meMA.Ode6C1T.text = ""
 
 alt1.meMA.Kontakion1.mode = misc_en_US_dedes.Mode8
-alt1.meMA.Kontakion1.melody = he.a.m8_en_US_dedes.TiYpermacho.name
-alt1.meMA.Kontakion1.text = ""
+alt1.meMA.Kontakion1.melody = misc_en_US_dedes.NotMetered //he.a.m8_en_US_dedes.TiYpermacho.name
+alt1.meMA.Kontakion1.text = "Let us honor Kassiane who glorified God, as a lamp of compunction, for she has been adorned with all goodness and virtue; she was made holy through ceaseless vigil and was well-pleasing to Christ the King. Thus, let us cry to her with fervor: Rejoice, mother most luminous."
 
-meMA.Oikos1.text = ""
-meMA.Oikos12.text = ""
-meMA.Oikos13.text = ""
-meMA.Oikos14.text = ""
-meMA.Oikos15.text = ""
-meMA.Oikos16.text = ""
-meMA.Oikos17.text = ""
-meMA.Oikos18.text = ""
+meMA.Oikos1.text = "Angels and men, beholding the heavenly ways of your repentance, the rivers of your tears, and pure character, august Kassiane, were greatly amazed and were crying out to you, shield of dignity, things such as these:"
+meMA.Oikos12.text = "Rejoice, the fullness of divine love; rejoice, height of self-restraint."
+meMA.Oikos13.text = "Rejoice, the prefiguration of wisdom through works; rejoice, the manifestation of great intelligence."
+meMA.Oikos14.text = "Rejoice, most pleasant song of angelic living; rejoice, all-radiant fiery word of saving repentance."
+meMA.Oikos15.text = "Rejoice, who disregarded the earthly kingdom; rejoice, who sought out the kingdom of heaven."
+meMA.Oikos16.text = "Rejoice, ray of greatest participation; rejoice, container of divine wisdom."
+meMA.Oikos17.text = "Rejoice, ewe-lamb chosen of God; rejoice, raindrop of the Comforter’s gifts."
+meMA.Oikos18.text = "Rejoice, mother most luminous"
 
 alt1.meMA.Synaxarion.text = ""
 
@@ -860,31 +860,31 @@ alt1.meMA.Ode9C1T.text = ""
 
 alt1.meMA.Exaposteilarion1.mode = misc_en_US_dedes.Mode2
 alt1.meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
-alt1.meMA.Exaposteilarion1.text = ""
+alt1.meMA.Exaposteilarion1.text = "When king Theophilos chose you * to be his queen and consort * you answered no and gave yourself * to your Lord God and Bridegroom; * in labor and repentance * you climbed the ladder rung by rung * unto the height of heaven * and rejoice in the presence * of the saints and the angels."
 
 alt1.meMA.ExapTheotokion.mode = misc_en_US_dedes.Mode2
 alt1.meMA.ExapTheotokion.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.name
-alt1.meMA.ExapTheotokion.text = ""
+alt1.meMA.ExapTheotokion.text = "With joy we celebrate today * the birth of Mary, bride of God, * daughter of holy Joachim, * and of the righteous Anna, * for she is our protection * and healer from diseases * and so with faith we cry to her * send down from heaven unto us * the joy of your Son and our God."
 
 alt1.meMA.Lauds1.mode = misc_en_US_dedes.Mode8
 alt1.meMA.Lauds1.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
-alt1.meMA.Lauds1.text = ""
+alt1.meMA.Lauds1.text = "You loved * Christ your God with all your heart * Kassiane, blessed saint, * and you bravely refused the king * when he asked you to become * the queen of an earthly realm. * Instead you lived the angelic life on earth * and were made worthy to become in truth * partaker of the heavenly * kingdom ruled by the eternal King * and received the gift of joy * beyond all earthly ken."
 
 alt1.meMA.Lauds2.mode = misc_en_US_dedes.Mode8
 alt1.meMA.Lauds2.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
-alt1.meMA.Lauds2.text = ""
+alt1.meMA.Lauds2.text = "You cleansed * the abysses of your heart * Kassiane, precious maid, * and washed out the dark blemish of * murky passions with the streams * of the divine Spirit’s grace. * And you were shown a pure vessel of His gifts * and a most fragrant garden full of song * to your beloved Lord * Bridegroom, Savior, and Redeemer, Christ our God, * the only benevolent * and Almighty One."
 
 alt1.meMA.Lauds3.mode = misc_en_US_dedes.Mode8
 alt1.meMA.Lauds3.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
-alt1.meMA.Lauds3.text = ""
+alt1.meMA.Lauds3.text = "Mother, * pillar of humility, * Kassiane, pure saint, * you built up in your precious soul * a great house of virtues * by the love that you had for Christ. * You longed to kiss, as the harlot did of old * His holy feet and to dry them with your hair * in the dwellings of the Lord, * where the light that never wanes makes all things bright * O most honored and beloved * and blessed servant of God."
 
 alt1.meMA.Lauds4.mode = misc_en_US_dedes.Mode8
 alt1.meMA.Lauds4.melody = he.a.m8_en_US_dedes.OTouParadoxou.name
-alt1.meMA.Lauds4.text = ""
+alt1.meMA.Lauds4.text = "Mother, * bright adornment of the Church, * Kassiane, blessed saint, * you toiled arduously in caves, * like a desert-loving bird * and praised Christ in magnificent songs. * For Kassos you are a rampart and a shield * having completed your life in holiness. * You ran to Christ, your Lord * and He happily received you into His * dwellings with the saints on high * to live eternally."
 
 alt1.meMA.LaudsGlory.mode = misc_en_US_dedes.Mode5
 alt1.meMA.LaudsGlory.melody = 
-alt1.meMA.LaudsGlory.text = ""
+alt1.meMA.LaudsGlory.text = "You are worthy of God-pleasing and all-harmonious hymnody, Venerable and all-glorious Mother Kassiane, for, having disregarded the earthly kingdom, you were made worthy to reign with Christ in paradise. Entreat Him, therefore, to make us also worthy of the eternal good things in the day of Judgment."
 
 alt1.meMA.LaudsTheotokion.mode = misc_en_US_dedes.Mode5
 alt1.meMA.LaudsTheotokion.melody = 
