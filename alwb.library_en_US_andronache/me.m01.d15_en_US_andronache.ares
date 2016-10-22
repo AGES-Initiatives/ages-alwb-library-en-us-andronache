@@ -174,11 +174,11 @@ meMA.Ode3Kathisma2.text = "Leaving perishable wealth and fleeting glory you trul
 
 meMA.Ode3KathismaT.mode = misc_en_US_andronache.Mode3
 meMA.Ode3KathismaT.melody = misc_en_US_andronache.NotMetered //he.a.m3_en_US_andronache.TinOraiotita.name
-meMA.Ode3KathismaT.text = "As an untilled vine, O Virgin, you sprouted forth the most beautiful cluster of grapes, springing up for us the salvific wine which makes all the souls and bodies glad. Therefore blessing you as the cause of all beautiful things, we ever cry to you with the angel: Rejoice, o full of grace."
+meMA.Ode3KathismaT.text = "As an untilled vine, O Virgin, you sprouted forth the most beautiful cluster of grapes, springing up for us the salvific wine which makes all the souls and bodies glad. Therefore blessing you as the cause of all beautiful things, we ever cry to you with the angel: Rejoice, o full of grace." //oc.m3.d5_en_US_andronache.octrMA.Kathisma1T.text
 
 meMA.Ode3KathismaSt.mode = misc_en_US_andronache.Mode3
 meMA.Ode3KathismaSt.melody = misc_en_US_andronache.NotMetered //he.a.m3_en_US_andronache.TinOraiotita.name
-meMA.Ode3KathismaSt.text = "When your pure, unwedded Mother saw you hanging dead upon the wood, in a motherly manner, bewailing, she said: How has the unlawful and graceless people of the Hebrews, who enjoyed so many and great gifts from you, repaid you? I hymn your divine condescension."
+meMA.Ode3KathismaSt.text = "When your pure, unwedded Mother saw you hanging dead upon the wood, in a motherly manner, bewailing, she said: How has the unlawful and graceless people of the Hebrews, who enjoyed so many and great gifts from you, repaid you? I hymn your divine condescension." //oc.m3.d4_en_US_andronache.ocMA.Kathisma23.text 
 
 meMA.Ode4C11.ode = misc_en_US_andronache.Ode4
 meMA.Ode4C11.mode = misc_en_US_andronache.Mode8
