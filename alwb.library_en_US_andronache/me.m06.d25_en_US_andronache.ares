@@ -115,11 +115,11 @@ meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = misc_en_US_andronache.Mode1
 meMA.Ode3Kathisma2.melody = misc_en_US_andronache.NotMetered //he.a.m1_en_US_andronache.TonTafonSouSotir.name
-meMA.Ode3Kathisma2.text = ""
+meMA.Ode3Kathisma2.text = "Longing after Christ who is handsome in beauty, you quickly proceeded to the greatest struggles, through which you utterly put the originator of evil to death. Deliver me from his tangled snares, guiding me, Fevronia, by your prayers to divine repentance."
 
 meMA.Ode3KathismaT.mode = misc_en_US_andronache.Mode1
 meMA.Ode3KathismaT.melody = misc_en_US_andronache.NotMetered //he.a.m1_en_US_andronache.TonTafonSouSotir.name
-meMA.Ode3KathismaT.text = ""
+meMA.Ode3KathismaT.text = "John, jumping in his mother’s womb, by divine grace acknowledged God who was being carried in your womb, O pure one, and he faithfully worshiped Him. I entreat you, O Virgin, that you, together with the Forerunner, fervently intercede with the Logos to whom you gave a body, that your servant be saved."
 
 meMA.Ode4C11.ode = misc_en_US_andronache.Ode4
 meMA.Ode4C11.mode = misc_en_US_andronache.Mode8
