@@ -50,12 +50,12 @@ meVE.AposGlory.melody = misc_en_US_andronache.Idiomelon
 meVE.AposGlory.text = me.m06.d24_en_US_andronache.meVE.AposBoth.text
 
 meVE.Apolytikion1.mode = misc_en_US_andronache.Mode4
-meVE.Apolytikion1.melody = misc_en_US_andronache.NotMetered //he.a.m4_en_US_andronache.TachyProkatalave.name
+meVE.Apolytikion1.melody = he.a.m4_en_US_dedes.TachyProkatalave.notmetered
 meVE.Apolytikion1.text = me.m06.d24_en_US_andronache.meVE.Apolytikion1.text
 
 meVE.Apolytikion2.poet = ""//poets_en_US_andronache.Gerasimou
 meVE.Apolytikion2.mode = misc_en_US_andronache.Mode3
-meVE.Apolytikion2.melody = misc_en_US_andronache.NotMetered //he.a.m3_en_US_andronache.TinOraiotita.name
+meVE.Apolytikion2.melody = he.a.m3_en_US_dedes.TinOraiotita.notmetered
 meVE.Apolytikion2.text = ""
 
 meMA.C1Poet = ""//poets_en_US_andronache.Theofanous
@@ -66,42 +66,42 @@ meMA.C1.verse = ""//prayers_en_US_andronache.verse_SaintW.text
 
 meMA.Ode1C11.ode = misc_en_US_andronache.Ode1
 meMA.Ode1C11.mode = misc_en_US_andronache.Mode8
-meMA.Ode1C11.melody = misc_en_US_andronache.NotMetered //he.h.m8_en_US_andronache.YgranDiodefsas.name
+meMA.Ode1C11.melody = he.h.m8_en_US_dedes.YgranDiodefsas.notmetered
 meMA.Ode1C11.text = "Fevronia, champion general of Christ’s glory, grant me grace and illumination to praise in song your light-bearing and venerable feast."
 
 meMA.Ode1C12.ode = misc_en_US_andronache.Ode1
 meMA.Ode1C12.mode = misc_en_US_andronache.Mode8
-meMA.Ode1C12.melody = misc_en_US_andronache.NotMetered //he.h.m8_en_US_andronache.YgranDiodefsas.name
+meMA.Ode1C12.melody = he.h.m8_en_US_dedes.YgranDiodefsas.notmetered
 meMA.Ode1C12.text = "Fevronia, you illumined your soul by unceasing remembrance of death. You ran to the height of martyrdom and were brought to Christ through many tortures."
 
 meMA.Ode1C13.ode = misc_en_US_andronache.Ode1
 meMA.Ode1C13.mode = misc_en_US_andronache.Mode8
-meMA.Ode1C13.melody = misc_en_US_andronache.NotMetered //he.h.m8_en_US_andronache.YgranDiodefsas.name
+meMA.Ode1C13.melody = he.h.m8_en_US_dedes.YgranDiodefsas.notmetered
 meMA.Ode1C13.text = "O Martyr you resplendently renewed the fertile ground of your heart by the pains of the ascetic struggle. You gained the crowns of the martyrs, singing to our God through perils."
 
 meMA.Ode1C1T.ode = misc_en_US_andronache.Ode1
 meMA.Ode1C1T.mode = misc_en_US_andronache.Mode8
-meMA.Ode1C1T.melody = misc_en_US_andronache.NotMetered //he.h.m8_en_US_andronache.YgranDiodefsas.name
+meMA.Ode1C1T.melody = he.h.m8_en_US_dedes.YgranDiodefsas.notmetered
 meMA.Ode1C1T.text = "The one who made everything through a command took flesh from you, Mother of God; the girl Fevronia, piously and fervently longing for Him, in Him was offered up through martyrdom."
 
 meMA.Ode3C11.ode = misc_en_US_andronache.Ode3
 meMA.Ode3C11.mode = misc_en_US_andronache.Mode8
-meMA.Ode3C11.melody = misc_en_US_andronache.NotMetered //he.h.m8_en_US_andronache.SyEiToStereoma.name
+meMA.Ode3C11.melody = he.h.m8_en_US_dedes.SyEiToStereoma.notmetered
 meMA.Ode3C11.text = "You were enabled by the Spirit to overthrow the tyrannical, ungodly pride, glorious Fevronia."
 
 meMA.Ode3C12.ode = misc_en_US_andronache.Ode3
 meMA.Ode3C12.mode = misc_en_US_andronache.Mode8
-meMA.Ode3C12.melody = misc_en_US_andronache.NotMetered //he.h.m8_en_US_andronache.SyEiToStereoma.name
+meMA.Ode3C12.melody = he.h.m8_en_US_dedes.SyEiToStereoma.notmetered
 meMA.Ode3C12.text = "By the might of your hand, Master, you now strengthen the glorious Fevronia as she struggles in martyrdom."
 
 meMA.Ode3C13.ode = misc_en_US_andronache.Ode3
 meMA.Ode3C13.mode = misc_en_US_andronache.Mode8
-meMA.Ode3C13.melody = misc_en_US_andronache.NotMetered //he.h.m8_en_US_andronache.SyEiToStereoma.name
+meMA.Ode3C13.melody = he.h.m8_en_US_dedes.SyEiToStereoma.notmetered
 meMA.Ode3C13.text = "With your body wounded for Christ, all wise and pure one, by your martyrdom you gained the joy of Paradise."
 
 meMA.Ode3C1T.ode = misc_en_US_andronache.Ode3
 meMA.Ode3C1T.mode = misc_en_US_andronache.Mode8
-meMA.Ode3C1T.melody = misc_en_US_andronache.NotMetered //he.h.m8_en_US_andronache.SyEiToStereoma.name
+meMA.Ode3C1T.melody = he.h.m8_en_US_dedes.SyEiToStereoma.notmetered
 meMA.Ode3C1T.text = "The famous martyr Fevronia found God’s all-pure mother to be her help and she put to shame the tyrants."
 
 meMA.Ode3H.ode = misc_en_US_andronache.Ode3
@@ -110,70 +110,70 @@ meMA.Ode3H.melody = ""//misc_en_US_andronache.Heirmos
 meMA.Ode3H.text = ""//he.h.m8_en_US_andronache.SyEiToStereoma.text
 
 meMA.Ode3Kathisma1.mode = misc_en_US_andronache.Mode1
-meMA.Ode3Kathisma1.melody = misc_en_US_andronache.NotMetered //he.a.m1_en_US_andronache.TonTafonSouSotir.name
+meMA.Ode3Kathisma1.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.notmetered
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = misc_en_US_andronache.Mode1
-meMA.Ode3Kathisma2.melody = misc_en_US_andronache.NotMetered //he.a.m1_en_US_andronache.TonTafonSouSotir.name
+meMA.Ode3Kathisma2.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.notmetered
 meMA.Ode3Kathisma2.text = "Longing after Christ who is handsome in beauty, you quickly proceeded to the greatest struggles, through which you utterly put the originator of evil to death. Deliver me from his tangled snares, guiding me, Fevronia, by your prayers to divine repentance."
 
 meMA.Ode3KathismaT.mode = misc_en_US_andronache.Mode1
-meMA.Ode3KathismaT.melody = misc_en_US_andronache.NotMetered //he.a.m1_en_US_andronache.TonTafonSouSotir.name
+meMA.Ode3KathismaT.melody = he.a.m1_en_US_dedes.TonTafonSouSotir.notmetered
 meMA.Ode3KathismaT.text = "John, jumping in his mother’s womb, by divine grace acknowledged God who was being carried in your womb, O pure one, and he faithfully worshiped Him. I entreat you, O Virgin, that you, together with the Forerunner, fervently intercede with the Logos to whom you gave a body, that your servant be saved."
 
 meMA.Ode4C11.ode = misc_en_US_andronache.Ode4
 meMA.Ode4C11.mode = misc_en_US_andronache.Mode8
-meMA.Ode4C11.melody = misc_en_US_andronache.NotMetered //he.h.m8_en_US_andronache.SyMouIschys.name
+meMA.Ode4C11.melody = he.h.m8_en_US_dedes.SyMouIschys.notmetered
 meMA.Ode4C11.text = "There is no blame in you, most famous Fevronia, for you were eager be well-pleasing to your longed-for redeemer and beloved, being adorned through both asceticism in pains and martyrdom in contests, O blessed and godly-minded one."
 
 meMA.Ode4C12.ode = misc_en_US_andronache.Ode4
 meMA.Ode4C12.mode = misc_en_US_andronache.Mode8
-meMA.Ode4C12.melody = misc_en_US_andronache.NotMetered //he.h.m8_en_US_andronache.SyMouIschys.name
+meMA.Ode4C12.melody = he.h.m8_en_US_dedes.SyMouIschys.notmetered
 meMA.Ode4C12.text = "From delicate childhood you thirsted for the everflowing spring of love, the desire of every rational being; stretching out to it, you endured the pains of tortures, being burned by fire and deprived of your members, O Fevronia, the adornment of virgins."
 
 meMA.Ode4C13.ode = misc_en_US_andronache.Ode4
 meMA.Ode4C13.mode = misc_en_US_andronache.Mode8
-meMA.Ode4C13.melody = misc_en_US_andronache.NotMetered //he.h.m8_en_US_andronache.SyMouIschys.name
+meMA.Ode4C13.melody = he.h.m8_en_US_dedes.SyMouIschys.notmetered
 meMA.Ode4C13.text = "Being trained in the words of God, divinely-wise one, you took in your hands in a holy manner the sacred books and being inspired by God, O Martyr, you explained them to those longing for the word of salvation and you received the reward of those hired for teaching being made rich with the glory of martyrs."
 
 meMA.Ode4C1T.ode = misc_en_US_andronache.Ode4
 meMA.Ode4C1T.mode = misc_en_US_andronache.Mode8
-meMA.Ode4C1T.melody = misc_en_US_andronache.NotMetered //he.h.m8_en_US_andronache.SyMouIschys.name
+meMA.Ode4C1T.melody = he.h.m8_en_US_dedes.SyMouIschys.notmetered
 meMA.Ode4C1T.text = "You were shown to be a pillar of light for all those in darkness, most pure one, for you flashed forth Christ, the uncircumscribed light and the sun of righteousness, circumscribed by a body. Fevronia, now strengthened by His lighthouses, has acquired the glory of martyrs."
 
 meMA.Ode5C11.ode = misc_en_US_andronache.Ode5
 meMA.Ode5C11.mode = misc_en_US_andronache.Mode8
-meMA.Ode5C11.melody = misc_en_US_andronache.NotMetered //he.h.m8_en_US_andronache.InaTiMeAposo.name
+meMA.Ode5C11.melody = he.h.m8_en_US_dedes.InaTiMeAposo.notmetered
 meMA.Ode5C11.text = "You were made beautiful, O Martyr, when a purple robe made from your blood was woven for you; your body was stripped naked and you put away the garment of the passions as you stood before the tribunal of judges, O Fevronia, imitator of Christ’s nakedness."
 
 meMA.Ode5C12.ode = misc_en_US_andronache.Ode5
 meMA.Ode5C12.mode = misc_en_US_andronache.Mode8
-meMA.Ode5C12.melody = misc_en_US_andronache.NotMetered //he.h.m8_en_US_andronache.InaTiMeAposo.name
+meMA.Ode5C12.melody = he.h.m8_en_US_dedes.InaTiMeAposo.notmetered
 meMA.Ode5C12.text = "With your soul being aflame with longing for your noetic Bridegroom, O Martyr, and being beguiled by His undefiled beauty, you suffered the cutting off of your hands and the pains of the strokes, Fevronia, boast of the martyrs."
 
 meMA.Ode5C13.ode = misc_en_US_andronache.Ode5
 meMA.Ode5C13.mode = misc_en_US_andronache.Mode8
-meMA.Ode5C13.melody = misc_en_US_andronache.NotMetered //he.h.m8_en_US_andronache.InaTiMeAposo.name
+meMA.Ode5C13.melody = he.h.m8_en_US_dedes.InaTiMeAposo.notmetered
 meMA.Ode5C13.text = "The flow of your blood quenched the flames of polytheism, and your teeth, being pulled out, pulled up the deception of the idols and they gained for you the enjoyment of eternal delight, O Fevronia."
 
 meMA.Ode5C1T.ode = misc_en_US_andronache.Ode5
 meMA.Ode5C1T.mode = misc_en_US_andronache.Mode8
-meMA.Ode5C1T.melody = misc_en_US_andronache.NotMetered //he.h.m8_en_US_andronache.InaTiMeAposo.name
+meMA.Ode5C1T.melody = he.h.m8_en_US_dedes.InaTiMeAposo.notmetered
 meMA.Ode5C1T.text = "Your feet being cut off, they travelled the path of divine martyrdom and were translated to the one born of a holy virgin, walking pleasantly about paradise, O Fevronia, virgin bride of God."
 
 meMA.Ode6C11.ode = misc_en_US_andronache.Ode6
 meMA.Ode6C11.mode = misc_en_US_andronache.Mode8
-meMA.Ode6C11.melody = misc_en_US_andronache.NotMetered //he.h.m8_en_US_andronache.TinDeisinEkcheo.name
+meMA.Ode6C11.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.notmetered
 meMA.Ode6C11.text = "The godless and bold cruelty of the impious Selenus was overthrown when God’s care for all requested your blood, Glorious one, and the divine Lysimachos was saved through your endurance."
 
 meMA.Ode6C12.ode = misc_en_US_andronache.Ode6
 meMA.Ode6C12.mode = misc_en_US_andronache.Mode8
-meMA.Ode6C12.melody = misc_en_US_andronache.NotMetered //he.h.m8_en_US_andronache.TinDeisinEkcheo.name
+meMA.Ode6C12.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.notmetered
 meMA.Ode6C12.text = "The wise and God-bearing Bryenna, showed you to be a God-lit lamp, as she brought you up on the teachings, O maiden, and she in no way failed to obtain her hope, for she presented you to Christ, Fevronia, undefiled bride."
 
 meMA.Ode6C1T.ode = misc_en_US_andronache.Ode6
 meMA.Ode6C1T.mode = misc_en_US_andronache.Mode8
-meMA.Ode6C1T.melody = misc_en_US_andronache.NotMetered //he.h.m8_en_US_andronache.TinDeisinEkcheo.name
+meMA.Ode6C1T.melody = he.h.m8_en_US_dedes.TinDeisinEkcheo.notmetered
 meMA.Ode6C1T.text = "The most pure and comely Theotokos is worthily glorified as the soul-filled inner room of the Master, the one shining forth like a white lily through the bright rays of virginity in the midst of the thorny confusion."
 
 meMA.Ode6H.ode = misc_en_US_andronache.Ode6
@@ -182,44 +182,44 @@ meMA.Ode6H.melody = misc_en_US_andronache.Heirmos
 meMA.Ode6H.text = ""//he.h.m8_en_US_andronache.TinDeisinEkcheo.text
 
 meMA.Kontakion1.mode = misc_en_US_andronache.Mode3
-meMA.Kontakion1.melody = misc_en_US_andronache.NotMetered //he.a.m3_en_US_andronache.IParthenosSimeron.name
+meMA.Kontakion1.melody = he.a.m3_en_US_dedes.IParthenosSimeron.notmetered
 meMA.Kontakion1.text = ""
 
 meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_US_andronache.Ode7
 meMA.Ode7C11.mode = misc_en_US_andronache.Mode8
-meMA.Ode7C11.melody = misc_en_US_andronache.NotMetered //he.h.m8_en_US_andronache.PaidesEvraion.name
+meMA.Ode7C11.melody = he.h.m8_en_US_dedes.PaidesEvraion.notmetered
 meMA.Ode7C11.text = "You spring forth a stream of healings to those who run in faith to your temple, revered Fevronia, and cry out to Christ: Blessed are you, O Lord God, unto the ages."
 
 meMA.Ode7C12.ode = misc_en_US_andronache.Ode7
 meMA.Ode7C12.mode = misc_en_US_andronache.Mode8
-meMA.Ode7C12.melody = misc_en_US_andronache.NotMetered //he.h.m8_en_US_andronache.PaidesEvraion.name
+meMA.Ode7C12.melody = he.h.m8_en_US_dedes.PaidesEvraion.notmetered
 meMA.Ode7C12.text = "O, how beautiful your transaction! You, godly-minded one, exchanged the blood of the body for the kingdom of God, all-honored one, as you cried out: Blessed are you, O Lord God, unto the ages."
 
 meMA.Ode7C1T.ode = misc_en_US_andronache.Ode7
 meMA.Ode7C1T.mode = misc_en_US_andronache.Mode8
-meMA.Ode7C1T.melody = misc_en_US_andronache.NotMetered //he.h.m8_en_US_andronache.PaidesEvraion.name
+meMA.Ode7C1T.melody = he.h.m8_en_US_dedes.PaidesEvraion.notmetered
 meMA.Ode7C1T.text = "The army of virgins dances together, admirable virgin Fevronia, as you cried out to the Virgin and Mother of God: Blessed is the fruit of your womb, all pure one."
 
 meMA.Ode8C11.ode = misc_en_US_andronache.Ode8
 meMA.Ode8C11.mode = misc_en_US_andronache.Mode8
-meMA.Ode8C11.melody = misc_en_US_andronache.NotMetered //he.h.m8_en_US_andronache.EptaplasiosKaminon.name
+meMA.Ode8C11.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.notmetered
 meMA.Ode8C11.text = "Your memory, O Fevronia, is kept now with brightness, being lit up with luminous rays; for you spoke to the light and you became a bearer of light, calling to the creator and giver of light: Bless the Lord, O you Servants; sing a hymn, Priests; and People, exalt Him beyond measure unto all the ages."
 
 meMA.Ode8C12.ode = misc_en_US_andronache.Ode8
 meMA.Ode8C12.mode = misc_en_US_andronache.Mode8
-meMA.Ode8C12.melody = misc_en_US_andronache.NotMetered //he.h.m8_en_US_andronache.EptaplasiosKaminon.name
+meMA.Ode8C12.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.notmetered
 meMA.Ode8C12.text = "Earlier, you were seen as a marvel in ascetic feast, praiseworthy one, and later you were adorned with martyrdom; for you, bright maiden, ran after your loved one. Your breasts, of goodness beyond that of wine, were severed for the benefit of piety, O Fevronia, and by the fragrance of your myrrh you make the faithful fragrant."
 
 meMA.Ode8C13.ode = misc_en_US_andronache.Ode8
 meMA.Ode8C13.mode = misc_en_US_andronache.Mode8
-meMA.Ode8C13.melody = misc_en_US_andronache.NotMetered //he.h.m8_en_US_andronache.EptaplasiosKaminon.name
+meMA.Ode8C13.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.notmetered
 meMA.Ode8C13.text = "Praiseworthy Fevronia, as I am weighted down with errors and surrounded by the storms of the passions, I run to your protection, seeking release from both; as you are marvelous and chosen unto the Master, do not reject me, as I cry out, but with your prayers, godly minded one, rescue me from the snares that destroy the soul."
 
 meMA.Ode8C1T.ode = misc_en_US_andronache.Ode8
 meMA.Ode8C1T.mode = misc_en_US_andronache.Mode8
-meMA.Ode8C1T.melody = misc_en_US_andronache.NotMetered //he.h.m8_en_US_andronache.EptaplasiosKaminon.name
+meMA.Ode8C1T.melody = he.h.m8_en_US_dedes.EptaplasiosKaminon.notmetered
 meMA.Ode8C1T.text = "The tongues of orators are unable to sing hymns to you, O Mary, Birth-giver and bride of God, for you gave birth to God who rules of all, pure Maiden, from a virginal unwedded womb; to Him now Fevronia, making melody, cries out: O people exalt Him beyond measure unto all the ages."
 
 meMA.Ode8H.ode = misc_en_US_andronache.Ode8
@@ -229,22 +229,22 @@ meMA.Ode8H.text = ""//he.h.m8_en_US_andronache.EptaplasiosKaminon.text
 
 meMA.Ode9C11.ode = misc_en_US_andronache.Ode9
 meMA.Ode9C11.mode = misc_en_US_andronache.Mode8
-meMA.Ode9C11.melody = misc_en_US_andronache.NotMetered //he.h.m8_en_US_andronache.ExestiEpiTouto.name
+meMA.Ode9C11.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.notmetered
 meMA.Ode9C11.text = "O divine dove of the Master, covered with silver in the brilliance of virginity, your body being made to shine through asceticism, with wings covered with gold, showing the sparkling light of your confession and your divine blood, illumine those who hymn you."
 
 meMA.Ode9C12.ode = misc_en_US_andronache.Ode9
 meMA.Ode9C12.mode = misc_en_US_andronache.Mode8
-meMA.Ode9C12.melody = misc_en_US_andronache.NotMetered //he.h.m8_en_US_andronache.ExestiEpiTouto.name
+meMA.Ode9C12.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.notmetered
 meMA.Ode9C12.text = "Conversing with the Mind with your mind unclad, you understood the end of your desires, godly-minded Fevronia and were made worthy to reach a most blessed end. Now you reign radiantly with Christ your Bridegroom in the ineffable inner chamber, remaining ever in joy."
 
 meMA.Ode9C13.ode = misc_en_US_andronache.Ode9
 meMA.Ode9C13.mode = misc_en_US_andronache.Mode8
-meMA.Ode9C13.melody = misc_en_US_andronache.NotMetered //he.h.m8_en_US_andronache.ExestiEpiTouto.name
+meMA.Ode9C13.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.notmetered
 meMA.Ode9C13.text = "Like a river with a rushing sound, you spring up cures with to those who in faith run to your august tomb, divine Fevronia, the glory of virgins, delightful flower of nature, daughter of the King, who hold within you the brightness of the divine glory."
 
 meMA.Ode9C1T.ode = misc_en_US_andronache.Ode9
 meMA.Ode9C1T.mode = misc_en_US_andronache.Mode8
-meMA.Ode9C1T.melody = misc_en_US_andronache.NotMetered //he.h.m8_en_US_andronache.ExestiEpiTouto.name
+meMA.Ode9C1T.melody = he.h.m8_en_US_dedes.ExestiEpiTouto.notmetered
 meMA.Ode9C1T.text = "You, O Virgin, restored the fall of the women by bearing in your womb the Logos, the restoration of the broken, as He is good, and mighty in power; the famous Fevronia longing intensely for Him cried out with joy: I will run after you."
 
 meMA.Ode9H.ode = misc_en_US_andronache.Ode9
@@ -253,7 +253,7 @@ meMA.Ode9H.melody = misc_en_US_andronache.Heirmos
 meMA.Ode9H.text = ""//he.h.m8_en_US_andronache.ExestiEpiTouto.text
 
 meMA.Exaposteilarion1.mode = misc_en_US_andronache.Mode2
-meMA.Exaposteilarion1.melody = misc_en_US_andronache.NotMetered //he.a.m2_en_US_andronache.GynaikesAkoutisthite.name
+meMA.Exaposteilarion1.melody = he.a.m2_en_US_dedes.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion1.text = ""
 
 meMA.MM.LaudsSunday.text = properties_en_US_andronache.media.key
