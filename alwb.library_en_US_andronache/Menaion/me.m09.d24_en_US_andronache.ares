@@ -591,22 +591,22 @@ alt1.meMA.C1.verse = "" //prayers_en_US_andronache.verse_Theotokos.text
 alt1.meMA.Ode1C11.ode = misc_en_US_andronache.Ode1
 alt1.meMA.Ode1C11.mode = misc_en_US_andronache.Mode1
 alt1.meMA.Ode1C11.melody = he.h.m1_en_US_andronache.PepoikilmeniTiTheiaDoxi.notmetered
-alt1.meMA.Ode1C11.text = ""
+alt1.meMA.Ode1C11.text = "O Christ, giver of wisdom, grant me beautiful words, sending me from the heights the wisdom that sits beside your unendurable throne, so that I may chant hymns to your undefiled Mother, who wondrously bore you, the support of those in Kythera, for she is glorified."
 
 alt1.meMA.Ode1C12.ode = misc_en_US_andronache.Ode1
 alt1.meMA.Ode1C12.mode = misc_en_US_andronache.Mode1
 alt1.meMA.Ode1C12.melody = he.h.m1_en_US_andronache.PepoikilmeniTiTheiaDoxi.notmetered
-alt1.meMA.Ode1C12.text = ""
+alt1.meMA.Ode1C12.text = "The most reverent people of the island of Kythera hymn you with divine songs, for you have now revealed your icon to them and they are amazed to see your goodwill towards them and they know you as the source of all good, undefiled Lady."
 
 alt1.meMA.Ode1C13.ode = misc_en_US_andronache.Ode1
 alt1.meMA.Ode1C13.mode = misc_en_US_andronache.Mode1
 alt1.meMA.Ode1C13.melody = he.h.m1_en_US_andronache.PepoikilmeniTiTheiaDoxi.notmetered
-alt1.meMA.Ode1C13.text = ""
+alt1.meMA.Ode1C13.text = " Wonderworking, undefiled virgin, you strengthened the paralytic in a manner past understanding when he asked you with faith in the temple in Myrtidia[a]. Then, leaping like a deer, he hymned your miracle, proclaiming the bountiful spring of your gifts, and magnifying you."
 
 alt1.meMA.Ode1C14.ode = misc_en_US_andronache.Ode1
 alt1.meMA.Ode1C14.mode = misc_en_US_andronache.Mode1
 alt1.meMA.Ode1C14.melody = he.h.m1_en_US_andronache.PepoikilmeniTiTheiaDoxi.notmetered
-alt1.meMA.Ode1C14.text = ""
+alt1.meMA.Ode1C14.text = "The island of Kythera, which had previously been without glory is seen robed with the divine glory of your icon, which was miraculously revealed and is freed from dangers and temptations through you. Therefore it shouts a hymn to you for it is gloriously glorified."
 
 alt1.meMA.Ode3C1H.ode = misc_en_US_andronache.Ode3
 alt1.meMA.Ode3C1H.mode = misc_en_US_andronache.Mode1
@@ -616,30 +616,30 @@ alt1.meMA.Ode3C1H.text = he.h.m1_en_US_andronache.IDimiourgiki.text
 alt1.meMA.Ode3C11.ode = misc_en_US_andronache.Ode3
 alt1.meMA.Ode3C11.mode = misc_en_US_andronache.Mode1
 alt1.meMA.Ode3C11.melody = he.h.m1_en_US_andronache.IDimiourgiki.notmetered
-alt1.meMA.Ode3C11.text = ""
+alt1.meMA.Ode3C11.text = "When the unconscious one was wondrously healed by the prayers of all the people, he cried out with tears of thanksgiving: Glory to you, O Christ, for you showed the one who gave birth to you as a spring of cures."
 
 alt1.meMA.Ode3C12.ode = misc_en_US_andronache.Ode3
 alt1.meMA.Ode3C12.mode = misc_en_US_andronache.Mode1
 alt1.meMA.Ode3C12.melody = he.h.m1_en_US_andronache.IDimiourgiki.notmetered
-alt1.meMA.Ode3C12.text = ""
+alt1.meMA.Ode3C12.text = "Being mistress of earth and of the heavens in the heights, by your foresight you were well pleased to overshadow the humble island of Kythera, O Lady. Therefore it sings to you, honoring your condescension."
 
 alt1.meMA.Ode3C13.ode = misc_en_US_andronache.Ode3
 alt1.meMA.Ode3C13.mode = misc_en_US_andronache.Mode1
 alt1.meMA.Ode3C13.melody = he.h.m1_en_US_andronache.IDimiourgiki.notmetered
-alt1.meMA.Ode3C13.text = ""
+alt1.meMA.Ode3C13.text = "You miraculously heal the madness of the one who comes to you asking for your help, for he has become of sound mind having seen you wondrously as in a dream. Thus, he praises your compassion."
 
 alt1.meMA.Ode3C14.ode = misc_en_US_andronache.Ode3
 alt1.meMA.Ode3C14.mode = misc_en_US_andronache.Mode1
 alt1.meMA.Ode3C14.melody = he.h.m1_en_US_andronache.IDimiourgiki.notmetered
-alt1.meMA.Ode3C14.text = ""
+alt1.meMA.Ode3C14.text = "The hoard of pirates wailed in pain, as it was destroyed by your power. The entire island, therefore, in return shouts hymns to you, confessing you to be an unshakeable wall against enemies."
 
 alt1.meMA.Hypakoe.mode = misc_en_US_andronache.Mode5
 alt1.meMA.Hypakoe.melody = ""
-alt1.meMA.Hypakoe.text = ""
+alt1.meMA.Hypakoe.text = "All the generations of the people of Kythera bless you, O Virgin, for you were well pleased to reveal to us your grace-filled icon. We are blessed to have you as a mighty protection, for you pray for us day and night and, you fill all of us with your gifts as a loving Mother. Therefore, hymning you we cry out: Rejoice, blessed one, the Lord is with you."
 
 alt1.meMA.Ode3Kathisma1.mode = misc_en_US_andronache.Mode4
-alt1.meMA.Ode3Kathisma1.melody = he.a.m4_en_US_andronache.KateplagiIosif.name
-alt1.meMA.Ode3Kathisma1.text = ""
+alt1.meMA.Ode3Kathisma1.melody = he.a.m4_en_US_andronache.KateplagiIosif.notmetered
+alt1.meMA.Ode3Kathisma1.text = "The people of Kythera was piously struck with amazement and understood you to be a spring of everflowing gifts, bride of God and Virgin, without a husband, all-honored, untrodden gate of our God and holy palace of the Logos, who is image of the Father most high and was begotten without seed from your womb, child of God."
 
 alt1.meMA.Ode4C1H.ode = misc_en_US_andronache.Ode4
 alt1.meMA.Ode4C1H.mode = misc_en_US_andronache.Mode1
@@ -649,22 +649,22 @@ alt1.meMA.Ode4C1H.text = he.h.m1_en_US_andronache.RiseisProfitonKaiAinigmata.tex
 alt1.meMA.Ode4C11.ode = misc_en_US_andronache.Ode4
 alt1.meMA.Ode4C11.mode = misc_en_US_andronache.Mode1
 alt1.meMA.Ode4C11.melody = he.h.m1_en_US_andronache.RiseisProfitonKaiAinigmata.notmetered
-alt1.meMA.Ode4C11.text = ""
+alt1.meMA.Ode4C11.text = "You freed sailors from the waves, miraculously guiding them to the harbor of Myrtidia, for you are the mother of Christ who weakens the waves by His all-powerful command. Therefore we cry out: glory to Your power, lover of mankind."
 
 alt1.meMA.Ode4C12.ode = misc_en_US_andronache.Ode4
 alt1.meMA.Ode4C12.mode = misc_en_US_andronache.Mode1
 alt1.meMA.Ode4C12.melody = he.h.m1_en_US_andronache.RiseisProfitonKaiAinigmata.notmetered
-alt1.meMA.Ode4C12.text = ""
+alt1.meMA.Ode4C12.text = "You brought down water for the thirsting earth, and chased away the drought for the people of Kythera who always faithfully entreat your most sacred icon, pure Lady bride of God, and glorify you as an ever-flowing spring of miracles."
 
 alt1.meMA.Ode4C13.ode = misc_en_US_andronache.Ode4
 alt1.meMA.Ode4C13.mode = misc_en_US_andronache.Mode1
 alt1.meMA.Ode4C13.melody = he.h.m1_en_US_andronache.RiseisProfitonKaiAinigmata.notmetered
-alt1.meMA.Ode4C13.text = ""
+alt1.meMA.Ode4C13.text = "O Lady, the dark face of your icon many times changed miraculously for those standing around, looking at it, and faithfully singing the sweet hymn to you in fear: glory to your power, O bride of God."
 
 alt1.meMA.Ode4C14.ode = misc_en_US_andronache.Ode4
 alt1.meMA.Ode4C14.mode = misc_en_US_andronache.Mode1
 alt1.meMA.Ode4C14.melody = he.h.m1_en_US_andronache.RiseisProfitonKaiAinigmata.notmetered
-alt1.meMA.Ode4C14.text = ""
+alt1.meMA.Ode4C14.text = "Having luminously arranged a new feast, we honor you, who have revealed to us your most pure icon as a token of your favor, by venerating it and raising up a hymn to your goodness towards us."
 
 alt1.meMA.Ode5C1H.ode = misc_en_US_andronache.Ode5
 alt1.meMA.Ode5C1H.mode = misc_en_US_andronache.Mode1
@@ -674,22 +674,22 @@ alt1.meMA.Ode5C1H.text = he.h.m1_en_US_andronache.ToTheionKaiArriton.text
 alt1.meMA.Ode5C11.ode = misc_en_US_andronache.Ode5
 alt1.meMA.Ode5C11.mode = misc_en_US_andronache.Mode1
 alt1.meMA.Ode5C11.melody = he.h.m1_en_US_andronache.ToTheionKaiArriton.notmetered
-alt1.meMA.Ode5C11.text = ""
+alt1.meMA.Ode5C11.text = "All of us, the people of Kythera, have acquired your holy icon as a divine treasure and salvation, which you have revealed to us among the myrtles and have wonderfully given to us. Therefore in hymns and spiritual odes we hymn you, O Lady."
 
 alt1.meMA.Ode5C12.ode = misc_en_US_andronache.Ode5
 alt1.meMA.Ode5C12.mode = misc_en_US_andronache.Mode1
 alt1.meMA.Ode5C12.melody = he.h.m1_en_US_andronache.ToTheionKaiArriton.notmetered
-alt1.meMA.Ode5C12.text = ""
+alt1.meMA.Ode5C12.text = "Rejoice, for the Theotokos chose you, the beautiful myrtle, as a throne and palace of her most holy icon. Having wondrously been sanctified, glorify the queen by the voice of your branches."
 
 alt1.meMA.Ode5C13.ode = misc_en_US_andronache.Ode5
 alt1.meMA.Ode5C13.mode = misc_en_US_andronache.Mode1
 alt1.meMA.Ode5C13.melody = he.h.m1_en_US_andronache.ToTheionKaiArriton.notmetered
-alt1.meMA.Ode5C13.text = ""
+alt1.meMA.Ode5C13.text = "The young one, playing games, cried out as he was falling from on high upon a rock \"Theotokos of Myrtidia, help me.\" He was miraculously saved, O Lady, for you made it a quick help for him. Therefore, hymning, he proclaims your miracle."
 
 alt1.meMA.Ode5C14.ode = misc_en_US_andronache.Ode5
 alt1.meMA.Ode5C14.mode = misc_en_US_andronache.Mode1
 alt1.meMA.Ode5C14.melody = he.h.m1_en_US_andronache.ToTheionKaiArriton.notmetered
-alt1.meMA.Ode5C14.text = ""
+alt1.meMA.Ode5C14.text = "O Virgin, according to the words of the prophet, now we see the greatest landing place, for the all aromatic myrtle tree was highly exalted having held your holy and bright icon, becoming its dwelling, throne, and symbol."
 
 alt1.meMA.Ode6C1H.ode = misc_en_US_andronache.Ode6
 alt1.meMA.Ode6C1H.mode = misc_en_US_andronache.Mode1
@@ -699,28 +699,28 @@ alt1.meMA.Ode6C1H.text = he.h.m1_en_US_andronache.AlionPontogenes.text
 alt1.meMA.Ode6C11.ode = misc_en_US_andronache.Ode6
 alt1.meMA.Ode6C11.mode = misc_en_US_andronache.Mode1
 alt1.meMA.Ode6C11.melody = he.h.m1_en_US_andronache.AlionPontogenes.notmetered
-alt1.meMA.Ode6C11.text = ""
+alt1.meMA.Ode6C11.text = "Come all people of Kythera, let us set aside the trouble of worldly cares and go to the holy church of Myrtidia, for the gracious one is a gracious banquet host who sets out plentiful grace for everyone."
 
 alt1.meMA.Ode6C12.ode = misc_en_US_andronache.Ode6
 alt1.meMA.Ode6C12.mode = misc_en_US_andronache.Mode1
 alt1.meMA.Ode6C12.melody = he.h.m1_en_US_andronache.AlionPontogenes.notmetered
-alt1.meMA.Ode6C12.text = ""
+alt1.meMA.Ode6C12.text = "You always pour forth healing of weakness and sickness to the weak, O Virgin, as they run with faith to your most sacred temple of Myrtidia. Thus, saved by your compassion for the grieving ones in sickness, they sing a hymn of praise with their voices."
 
 alt1.meMA.Ode6C13.ode = misc_en_US_andronache.Ode6
 alt1.meMA.Ode6C13.mode = misc_en_US_andronache.Mode1
 alt1.meMA.Ode6C13.melody = he.h.m4_en_US_andronache.TinTheianTaftin.notmetered
-alt1.meMA.Ode6C13.text = ""
+alt1.meMA.Ode6C13.text = "The most pious one hymns with tears the miracle with the fiery projectile which had been thrown from nearby, for listening to his voice you saved him and the missile wondrously left him unharmed, though he was only robed in a garment, Virgin."
 
 alt1.meMA.Ode6C14.ode = misc_en_US_andronache.Ode6
 alt1.meMA.Ode6C14.mode = misc_en_US_andronache.Mode1
 alt1.meMA.Ode6C14.melody = he.h.m1_en_US_andronache.AlionPontogenes.notmetered
-alt1.meMA.Ode6C14.text = ""
+alt1.meMA.Ode6C14.text = "Direct the paths of our journeys toward God, as we know you as our support, God-favored one. Illumining our minds with divine light, make worthy of heavenly glory those who sing a hymn of praise to you with fervent faith."
 
 alt1.meMA.Kontakion1.mode = misc_en_US_andronache.Mode3
 alt1.meMA.Kontakion1.melody = he.a.m3_en_US_andronache.IParthenosSimeron.name
-alt1.meMA.Kontakion1.text = ""
+alt1.meMA.Kontakion1.text = "O Lady favored by God, the island of Kythera has gained your sacred icon which has been seen in the myrtles as a shining adornment and God-given crown and with one voice it sings this hymn to you: Rejoice, Virgin, the joy of all of us."
 
-alt1.meMA.Oikos1.text = ""
+alt1.meMA.Oikos1.text = "Send me wisdom from heaven, as I try to tell of your many renowned deeds, as the one who makes the foolish wise by divine inspiration and are a spring of wisdom. And clearly grant me the gift of words as I open my mouth, so that, rejoicing, I may sing in hymns the finding of your sacred icon, which you were well-pleased to give as a gift to the island of Kythera, O Bride of God. And grant me strength from on high to hymn the straightening of the paralytic, the inexpressible healing of the unconscious one, the salvation of the sailors in dangers, the putting out of the thunderbolts and fire, the removal of pestilent diseases, the stopping of the arrows of the pirates, the cessation of rainless drought, the healing of those suffering from incurable diseases and all your other miracles, through which you are shown to be shelter, protection and champion, firm protector and fortification of the city, benefactor and loving mother of the people of Kythera. Therefore hymning your compassion for us with faith and boundless yearning, with contrition of soul I cry to you: Rejoice, Virgin, the joy of all of us."
 
 alt1.meMA.Synaxarion.text = ""
 
@@ -732,22 +732,22 @@ alt1.meMA.Ode7C1H.text = he.h.m1_en_US_andronache.ItamoThymo.text
 alt1.meMA.Ode7C11.ode = misc_en_US_andronache.Ode7
 alt1.meMA.Ode7C11.mode = misc_en_US_andronache.Mode1
 alt1.meMA.Ode7C11.melody = he.h.m1_en_US_andronache.ItamoThymo.notmetered
-alt1.meMA.Ode7C11.text = ""
+alt1.meMA.Ode7C11.text = "All the people of the island cry Hosanna to you, God-favored one, holding branches of myrtle in their hands in your divine memory. They embrace your icon in faith and with one voice cry out this hymn to Christ: Blessed are you, our glorified God and the God of our fathers."
 
 alt1.meMA.Ode7C12.ode = misc_en_US_andronache.Ode7
 alt1.meMA.Ode7C12.mode = misc_en_US_andronache.Mode1
 alt1.meMA.Ode7C12.melody = he.h.m1_en_US_andronache.ItamoThymo.notmetered
-alt1.meMA.Ode7C12.text = ""
+alt1.meMA.Ode7C12.text = "Bride of God, your ailing suppliant became a herald of the strange and frightening warning, for he sees you on a donkey freely addressing the heavenly judge, escapes the judgment of death and rejoicing cries out:  Blessed are you, our glorified God and the God of our fathers."
 
 alt1.meMA.Ode7C13.ode = misc_en_US_andronache.Ode7
 alt1.meMA.Ode7C13.mode = misc_en_US_andronache.Mode1
 alt1.meMA.Ode7C13.melody = he.h.m1_en_US_andronache.ItamoThymo.notmetered
-alt1.meMA.Ode7C13.text = ""
+alt1.meMA.Ode7C13.text = "Your faithless and unprofitable servant eagerly touches your all-venerable icon and you immediately relieve him of the uncontrollable flow of blood from his wound. Therefore, constrained by repentance he cries out: Blessed are you, our glorified God and the God of our fathers."
 
 alt1.meMA.Ode7C14.ode = misc_en_US_andronache.Ode7
 alt1.meMA.Ode7C14.mode = misc_en_US_andronache.Mode1
 alt1.meMA.Ode7C14.melody = he.h.m1_en_US_andronache.ItamoThymo.notmetered
-alt1.meMA.Ode7C14.text = ""
+alt1.meMA.Ode7C14.text = "You keep soldiers and the fort which is in your city unharmed, binding the fire-breathing power  of thunder as the Mother of God. The nature of the soulless elements obeys you and the people of Kythera cry out with joy: Blessed are you, our glorified God and the God of our fathers."
 
 alt1.meMA.Ode8C1H.ode = misc_en_US_andronache.Ode8
 alt1.meMA.Ode8C1H.mode = misc_en_US_andronache.Mode1
@@ -757,22 +757,22 @@ alt1.meMA.Ode8C1H.text = he.h.m1_en_US_andronache.FlogaDrosizousanOsious.text
 alt1.meMA.Ode8C11.ode = misc_en_US_andronache.Ode8
 alt1.meMA.Ode8C11.mode = misc_en_US_andronache.Mode1
 alt1.meMA.Ode8C11.melody = he.h.m1_en_US_andronache.FlogaDrosizousanOsious.notmetered
-alt1.meMA.Ode8C11.text = ""
+alt1.meMA.Ode8C11.text = "You chase away the armies and troops of unbelievers miraculously keeping the entire island of Kythera unharmed from fearsome destruction and robbery. You gush forth joy beyond understanding for all who celebrate and we, the ransomed ones, hymn the only Creator and exalt Him beyond measure unto all the ages."
 
 alt1.meMA.Ode8C12.ode = misc_en_US_andronache.Ode8
 alt1.meMA.Ode8C12.mode = misc_en_US_andronache.Mode1
 alt1.meMA.Ode8C12.melody = he.h.m1_en_US_andronache.FlogaDrosizousanOsious.notmetered
-alt1.meMA.Ode8C12.text = ""
+alt1.meMA.Ode8C12.text = "You worked a miracle to cure the dangerous manic madness of your servant, O Virgin. You returned him to his senses, who was previously wandering on an untrod cliff. Now he stands before your icon and raises up a hymn with faith: We, the ransomed ones, hymn the only Creator and exalt Him beyond measure unto all the ages."
 
 alt1.meMA.Ode8C13.ode = misc_en_US_andronache.Ode8
 alt1.meMA.Ode8C13.mode = misc_en_US_andronache.Mode1
 alt1.meMA.Ode8C13.melody = he.h.m1_en_US_andronache.FlogaDrosizousanOsious.notmetered
-alt1.meMA.Ode8C13.text = ""
+alt1.meMA.Ode8C13.text = "A stream of life and salvation flows plentifully, God-favored one, for all the faithful in your all-honored temple, which the people of Kythera piously raised up in your honor. Standing in it with fervent faith, we raise up a hymn: we, the ransomed ones, hymn the only Creator and exalt Him beyond measure unto all the ages."
 
 alt1.meMA.Ode8C14.ode = misc_en_US_andronache.Ode8
 alt1.meMA.Ode8C14.mode = misc_en_US_andronache.Mode1
 alt1.meMA.Ode8C14.melody = he.h.m1_en_US_andronache.FlogaDrosizousanOsious.notmetered
-alt1.meMA.Ode8C14.text = ""
+alt1.meMA.Ode8C14.text = "O Theotokos, the man who had been weakened by the illness and could not move for three years, has become a clear proclaimer of the sign. When he became miraculously healthy in your temple, he was filled with divine joy and he glorifies your miracle; celebrating, we hymn the Creator and exalt Him beyond measure unto all the ages."
 
 alt1.meMA.Ode9C1M01.text = ""
 alt1.meMA.Ode9C1M0Tr.text = ""
@@ -786,22 +786,22 @@ alt1.meMA.Ode9C1H.text = he.h.m1_en_US_andronache.NenikintaiTisFyseos.text
 alt1.meMA.Ode9C11.ode = misc_en_US_andronache.Ode9
 alt1.meMA.Ode9C11.mode = misc_en_US_andronache.Mode1
 alt1.meMA.Ode9C11.melody = he.h.m1_en_US_andronache.NenikintaiTisFyseos.notmetered
-alt1.meMA.Ode9C11.text = ""
+alt1.meMA.Ode9C11.text = "Your bright and divine feast which has arisen gloriously illumines the island of Kythera more than the sun and it fills up with fervent joy those who cry: Always save, O Theotokos, the island which honors you."
 
 alt1.meMA.Ode9C12.ode = misc_en_US_andronache.Ode9
 alt1.meMA.Ode9C12.mode = misc_en_US_andronache.Mode1
 alt1.meMA.Ode9C12.melody = he.h.m1_en_US_andronache.NenikintaiTisFyseos.notmetered
-alt1.meMA.Ode9C12.text = ""
+alt1.meMA.Ode9C12.text = "Look upon us from on high in your compassion, O Virgin, spreading out the grace of healing for souls and bodies. Sympathetically receive the requests of those who hymn you, O Theotokos, and always save, O Theotokos, the island which honors you."
 
 alt1.meMA.Ode9C13.ode = misc_en_US_andronache.Ode9
 alt1.meMA.Ode9C13.mode = misc_en_US_andronache.Mode1
 alt1.meMA.Ode9C13.melody = he.h.m1_en_US_andronache.NenikintaiTisFyseos.notmetered
-alt1.meMA.Ode9C13.text = ""
+alt1.meMA.Ode9C13.text = "Rising up brightly in your temple, we crown your sacred icon with branches of myrtles. Venerating it, we ask: since you have motherly boldness before God, always save, O Theotokos, the island which honors you."
 
 alt1.meMA.Ode9C14.ode = misc_en_US_andronache.Ode9
 alt1.meMA.Ode9C14.mode = misc_en_US_andronache.Mode1
 alt1.meMA.Ode9C14.melody = he.h.m1_en_US_andronache.NenikintaiTisFyseos.notmetered
-alt1.meMA.Ode9C14.text = ""
+alt1.meMA.Ode9C14.text = "Supplicate your Son that those who know you as a protector be saved. Make those who hymn you with the angels on high worthy to gain the heavenly kingdom after this life and always save, O Theotokos, the island which honors you."
 
 alt1.meMA.Exaposteilarion1.mode = misc_en_US_andronache.Mode3
 alt1.meMA.Exaposteilarion1.melody = he.a.m3_en_US_andronache.ApostoloiEkPeraton.name
