@@ -246,7 +246,7 @@ MystikosOProfitis.mode = misc_en_US_andronache.Mode8
 MystikosOProfitis.ode = misc_en_US_andronache.Ode4
 MystikosOProfitis.text = ""
 
-NikitaiTyrannou.notmetered = "N/M (By Your grace those Servants.)"
+NikitaiTyrannou.notmetered = "N/M (By Your grace.)"
 NikitaiTyrannou.name = "By Your grace those Servants."
 NikitaiTyrannou.mode = misc_en_US_andronache.Mode8
 NikitaiTyrannou.ode = misc_en_US_andronache.Ode8
@@ -300,7 +300,7 @@ OStereosasEnTiCheiriSou.mode = misc_en_US_andronache.Mode8
 OStereosasEnTiCheiriSou.ode = misc_en_US_andronache.Ode3
 OStereosasEnTiCheiriSou.text = ""
 
-OStereosasKatArchas.notmetered = "N/M (In the beginning You confirmed.)"
+OStereosasKatArchas.notmetered = "N/M (In the beginning.)"
 OStereosasKatArchas.name = "In the beginning You confirmed."
 OStereosasKatArchas.mode = misc_en_US_andronache.Mode8
 OStereosasKatArchas.ode = misc_en_US_andronache.Ode3
@@ -462,7 +462,7 @@ SynechomenonDexaiMe.mode = misc_en_US_andronache.Mode8
 SynechomenonDexaiMe.ode = misc_en_US_andronache.Ode6
 SynechomenonDexaiMe.text = ""
 
-ThalassanEpixas.notmetered = "N/M (Lord, You congealed the sea.)"
+ThalassanEpixas.notmetered = "N/M (Lord, You congealed.)"
 ThalassanEpixas.name = "Lord, You congealed the sea."
 ThalassanEpixas.mode = misc_en_US_andronache.Mode8
 ThalassanEpixas.ode = misc_en_US_andronache.Ode1
