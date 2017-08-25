@@ -142,7 +142,7 @@ DiAgapisinOiktirmon.mode = misc_en_US_andronache.Mode4
 DiAgapisinOiktirmon.ode = misc_en_US_andronache.Ode4
 DiAgapisinOiktirmon.text = ""
 
-EffrainetaiEpiSoi.notmetered = "N/M (Your Church rejoices in You.)"
+EffrainetaiEpiSoi.notmetered = "N/M (Your Church rejoices.)"
 EffrainetaiEpiSoi.name = "Your Church rejoices in You."
 EffrainetaiEpiSoi.mode = misc_en_US_andronache.Mode4
 EffrainetaiEpiSoi.ode = misc_en_US_andronache.Ode3
@@ -172,7 +172,7 @@ EisakikoaTinAkoinSou.mode = misc_en_US_andronache.Mode4
 EisakikoaTinAkoinSou.ode = misc_en_US_andronache.Ode4
 EisakikoaTinAkoinSou.text = ""
 
-EisakikoaTinEndoxon.notmetered = "N/M (I have heard about Your glorious.)"
+EisakikoaTinEndoxon.notmetered = "N/M (I have heard.)"
 EisakikoaTinEndoxon.name = "I have heard about Your glorious."
 EisakikoaTinEndoxon.mode = misc_en_US_andronache.Mode4
 EisakikoaTinEndoxon.ode = misc_en_US_andronache.Ode4
@@ -226,7 +226,7 @@ EnToThlivesthaiMe.mode = misc_en_US_andronache.Mode4
 EnToThlivesthaiMe.ode = misc_en_US_andronache.Ode6
 EnToThlivesthaiMe.text = ""
 
-EparthentaSeIdousa.notmetered = "N/M (When the Church beheld You.)"
+EparthentaSeIdousa.notmetered = "N/M (When the Church.)"
 EparthentaSeIdousa.name = "When the Church beheld You."
 EparthentaSeIdousa.mode = misc_en_US_andronache.Mode4
 EparthentaSeIdousa.ode = misc_en_US_andronache.Ode4
@@ -315,7 +315,7 @@ GiKaiPantaTaEnAfti.mode = misc_en_US_andronache.Mode4
 GiKaiPantaTaEnAfti.ode = misc_en_US_andronache.Ode8
 GiKaiPantaTaEnAfti.text = ""
 
-IlasmosIminChriste.notmetered = "N/M (Master Christ, as expiation.)"
+IlasmosIminChriste.notmetered = "N/M (Master Christ.)"
 IlasmosIminChriste.name = "Master Christ, as expiation."
 IlasmosIminChriste.mode = misc_en_US_andronache.Mode4
 IlasmosIminChriste.ode = misc_en_US_andronache.Ode6
@@ -338,7 +338,7 @@ KryptonTheionAchranton.mode = misc_en_US_andronache.Mode4
 KryptonTheionAchranton.ode = misc_en_US_andronache.Ode9
 KryptonTheionAchranton.text = ""
 
-LithosAcheirotmitos.notmetered = "N/M (A cornerstone was cut out.)"
+LithosAcheirotmitos.notmetered = "N/M (A cornerstone.)"
 LithosAcheirotmitos.name = "A cornerstone was cut out."
 LithosAcheirotmitos.mode = misc_en_US_andronache.Mode4
 LithosAcheirotmitos.ode = misc_en_US_andronache.Ode9
@@ -498,7 +498,7 @@ OTouFotosDiatmixas.mode = misc_en_US_andronache.Mode4
 OTouFotosDiatmixas.ode = misc_en_US_andronache.Ode5
 OTouFotosDiatmixas.text = ""
 
-OfthisanAiPigai.notmetered = "N/M (Once deprived of their waters.)"
+OfthisanAiPigai.notmetered = "N/M (Once deprived.)"
 OfthisanAiPigai.name = "Once deprived of their waters."
 OfthisanAiPigai.mode = misc_en_US_andronache.Mode4
 OfthisanAiPigai.ode = misc_en_US_andronache.Ode1
@@ -646,7 +646,7 @@ TheosKyriosKaiEpefanenImin.mode = misc_en_US_andronache.Mode4
 TheosKyriosKaiEpefanenImin.ode = misc_en_US_andronache.Ode9
 TheosKyriosKaiEpefanenImin.text = ""
 
-ThysoSoiMetaFonis.notmetered = "N/M (The Church cries out to You.)"
+ThysoSoiMetaFonis.notmetered = "N/M (The Church cries out.)"
 ThysoSoiMetaFonis.name = "The Church cries out to You."
 ThysoSoiMetaFonis.mode = misc_en_US_andronache.Mode4
 ThysoSoiMetaFonis.ode = misc_en_US_andronache.Ode6

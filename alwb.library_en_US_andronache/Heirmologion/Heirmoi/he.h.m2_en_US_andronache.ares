@@ -536,7 +536,7 @@ VatosEnOrei.mode = misc_en_US_andronache.Mode2
 VatosEnOrei.ode = misc_en_US_andronache.Ode7
 VatosEnOrei.text = ""
 
-VythoAmartimaton.notmetered = "N/M (The gulf of my transgressions.)"
+VythoAmartimaton.notmetered = "N/M (The gulf.)"
 VythoAmartimaton.name = "The gulf of my transgressions."
 VythoAmartimaton.mode = misc_en_US_andronache.Mode2
 VythoAmartimaton.ode = misc_en_US_andronache.Ode6

@@ -18,7 +18,7 @@ AkikoaKyrieTinAkoin.mode = misc_en_US_andronache.Mode6
 AkikoaKyrieTinAkoin.ode = misc_en_US_andronache.Ode4
 AkikoaKyrieTinAkoin.text = ""
 
-AkikoenOProfitis.notmetered = "N/M (On hearing about Your advent.)"
+AkikoenOProfitis.notmetered = "N/M (On hearing.)"
 AkikoenOProfitis.name = "On hearing about Your advent."
 AkikoenOProfitis.mode = misc_en_US_andronache.Mode6
 AkikoenOProfitis.ode = misc_en_US_andronache.Ode4
@@ -95,13 +95,13 @@ EpiTinAsaleftonChriste.mode = misc_en_US_andronache.Mode6
 EpiTinAsaleftonChriste.ode = misc_en_US_andronache.Ode3
 EpiTinAsaleftonChriste.text = ""
 
-EvoisaEnOliKardiaMou.notmetered = "N/M (I cried aloud and shouted.)"
+EvoisaEnOliKardiaMou.notmetered = "N/M (I cried aloud.)"
 EvoisaEnOliKardiaMou.name = "I cried aloud and shouted."
 EvoisaEnOliKardiaMou.mode = misc_en_US_andronache.Mode6
 EvoisaEnOliKardiaMou.ode = misc_en_US_andronache.Ode6
 EvoisaEnOliKardiaMou.text = ""
 
-IToChaireDiAngelou.notmetered = "N/M (You received the joyful message.)"
+IToChaireDiAngelou.notmetered = "N/M (You received.)"
 IToChaireDiAngelou.name = "You received the joyful message."
 IToChaireDiAngelou.mode = misc_en_US_andronache.Mode6
 IToChaireDiAngelou.ode = misc_en_US_andronache.Ode9
@@ -146,7 +146,7 @@ MiEpodyrestheMatin.mode = misc_en_US_andronache.Mode6
 MiEpodyrestheMatin.ode = misc_en_US_andronache.Ode9
 MiEpodyrestheMatin.text = ""
 
-MiEpodyrouMouMiter.notmetered = "N/M (Weep not for Me, O Mother.)"
+MiEpodyrouMouMiter.notmetered = "N/M (Weep not for Me.)"
 MiEpodyrouMouMiter.name = "Weep not for Me, O Mother."
 MiEpodyrouMouMiter.mode = misc_en_US_andronache.Mode6
 MiEpodyrouMouMiter.ode = misc_en_US_andronache.Ode9
@@ -206,7 +206,7 @@ OukEstinAgios.mode = misc_en_US_andronache.Mode6
 OukEstinAgios.ode = misc_en_US_andronache.Ode3
 OukEstinAgios.text = ""
 
-ProkatidonOProfitis.notmetered = "N/M (When Habakkuk the Prophet.)"
+ProkatidonOProfitis.notmetered = "N/M (When Habakkuk.)"
 ProkatidonOProfitis.name = "When Habakkuk the Prophet."
 ProkatidonOProfitis.mode = misc_en_US_andronache.Mode6
 ProkatidonOProfitis.ode = misc_en_US_andronache.Ode4
@@ -264,7 +264,7 @@ StilinKakiasTouDeinou.mode = misc_en_US_andronache.Mode6
 StilinKakiasTouDeinou.ode = misc_en_US_andronache.Ode8
 StilinKakiasTouDeinou.text = ""
 
-SyneschethiAllOuKateschethi.notmetered = "N/M (Prophet Jonah was in.)"
+SyneschethiAllOuKateschethi.notmetered = "N/M (Prophet Jonah.)"
 SyneschethiAllOuKateschethi.name = "Prophet Jonah was in."
 SyneschethiAllOuKateschethi.mode = misc_en_US_andronache.Mode6
 SyneschethiAllOuKateschethi.ode = misc_en_US_andronache.Ode6
@@ -275,7 +275,7 @@ SyneschethiAllOuKateschethi_Epiphany.mode = misc_en_US_andronache.Mode6
 SyneschethiAllOuKateschethi_Epiphany.ode = misc_en_US_andronache.Ode6
 SyneschethiAllOuKateschethi_Epiphany.text = ""
 
-TheofaneiasSouChriste.notmetered = "N/M (Prophet Isaiah once beheld.)"
+TheofaneiasSouChriste.notmetered = "N/M (Prophet Isaiah.)"
 TheofaneiasSouChriste.name = "Prophet Isaiah once beheld."
 TheofaneiasSouChriste.mode = misc_en_US_andronache.Mode6
 TheofaneiasSouChriste.ode = misc_en_US_andronache.Ode5
@@ -362,7 +362,7 @@ VoithosKaiSkepastis.mode = misc_en_US_andronache.Mode6
 VoithosKaiSkepastis.ode = misc_en_US_andronache.Ode1
 VoithosKaiSkepastis.text = ""
 
-XeniasDespotikis.notmetered = "N/M (Come, believers, let us enjoy.)"
+XeniasDespotikis.notmetered = "N/M (Come, believers.)"
 XeniasDespotikis.name = "Come, believers, let us enjoy."
 XeniasDespotikis.mode = misc_en_US_andronache.Mode6
 XeniasDespotikis.ode = misc_en_US_andronache.Ode9
