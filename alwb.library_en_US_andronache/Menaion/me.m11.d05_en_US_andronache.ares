@@ -1,0 +1,258 @@
+A_Resource_Whose_Name = me.m11.d05_en_US_andronache
+
+meDate.text = ""
+meCommemoration.text = "" //full title of day
+meShortCommemoration1.text = ""
+meInsert1 = "" //for use in petitions and dismissal
+meInsert2 = "" //for use in petitions and dismissal
+meNote.text = ""
+meLE.commemoration1 = ""
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
+
+meVE.Stichera01.mode = misc_en_US_andronache.Mode8
+meVE.Stichera01.melody = he.a.m8_en_US_andronache.OTouParadoxou.name
+meVE.Stichera01.text = ""
+
+meVE.Stichera02.mode = misc_en_US_andronache.Mode8
+meVE.Stichera02.melody = he.a.m8_en_US_andronache.OTouParadoxou.name
+meVE.Stichera02.text = ""
+
+meVE.Stichera03.mode = misc_en_US_andronache.Mode8
+meVE.Stichera03.melody = he.a.m8_en_US_andronache.OTouParadoxou.name
+meVE.Stichera03.text = ""
+
+meVE.SticTheotokion.mode = misc_en_US_andronache.Mode8
+meVE.SticTheotokion.melody = he.a.m8_en_US_andronache.OTouParadoxou.name
+meVE.SticTheotokion.text = //me.m02.d20_en_US_andronache.meVE.SticTheotokion.text
+
+meVE.SticStavrotheotokion.mode = misc_en_US_andronache.Mode8
+meVE.SticStavrotheotokion.melody = he.a.m8_en_US_andronache.OTouParadoxou.name
+meVE.SticStavrotheotokion.text = ""
+
+meVE.Apolytikion1.poet = //poets_en_US_andronache.Gerasimou
+meVE.Apolytikion1.mode = misc_en_US_andronache.Mode1
+meVE.Apolytikion1.melody = he.a.m1_en_US_andronache.TisErimouPolitis.name
+meVE.Apolytikion1.text = ""
+
+meMA.C1.title = //titles_en_US_andronache.KanonTonAgion
+meMA.C1.verse = //prayers_en_US_andronache.verse_SaintsM.text
+
+meMA.Ode1C11.ode = misc_en_US_andronache.Ode1
+meMA.Ode1C11.mode = misc_en_US_andronache.Mode6
+meMA.Ode1C11.melody = he.h.m6_en_US_andronache.OsEnIpeiroPezefsas.notmetered
+meMA.Ode1C11.text = "Let us with faith honor in spiritual hymns the divine athletes of Christ., the unsetting luminaries and reasoning heavens who illumine the earth more than the sun."
+
+meMA.Ode1C12.ode = misc_en_US_andronache.Ode1
+meMA.Ode1C12.mode = misc_en_US_andronache.Mode6
+meMA.Ode1C12.melody = he.h.m6_en_US_andronache.OsEnIpeiroPezefsas.notmetered
+meMA.Ode1C12.text = "From the barren root of the Greeks you have sprung up as a flourishing divinely-gifted shoot, Galaktion, setting forth the fruits of your unmovable faith for the world."
+
+meMA.Ode1C13.ode = misc_en_US_andronache.Ode1
+meMA.Ode1C13.mode = misc_en_US_andronache.Mode6
+meMA.Ode1C13.melody = he.h.m6_en_US_andronache.OsEnIpeiroPezefsas.notmetered
+meMA.Ode1C13.text = "Wisely seeking the faith which leads to Christ, you ran to knowledge of Him and, Episteme, receiving divine gifts, you became His bride."
+
+meMA.Ode1C1T.ode = misc_en_US_andronache.Ode1
+meMA.Ode1C1T.mode = misc_en_US_andronache.Mode6
+meMA.Ode1C1T.melody = he.h.m6_en_US_andronache.OsEnIpeiroPezefsas.notmetered
+meMA.Ode1C1T.text = "O what wretchedness! Having been thrown into the deep of my many deeds, I flee to you, the good one, Mother of God; grant me a helping hand and save me."
+
+meMA.Ode3C11.ode = misc_en_US_andronache.Ode3
+meMA.Ode3C11.mode = misc_en_US_andronache.Mode6
+meMA.Ode3C11.melody = he.h.m6_en_US_andronache.OukEstinAgios.notmetered
+meMA.Ode3C11.text = "By desiring what is better than life and unutterable delight, you disdained all the pleasures of perishable and fleeting things, Galaktion, with Episteme obediently following Christ."
+
+meMA.Ode3C12.ode = misc_en_US_andronache.Ode3
+meMA.Ode3C12.mode = misc_en_US_andronache.Mode6
+meMA.Ode3C12.melody = he.h.m6_en_US_andronache.OukEstinAgios.notmetered
+meMA.Ode3C12.text = "Having withdrawn from the noose of the flesh and and the entanglement of passions, in asceticism you were bound to Christ with fervor and were brought as a pure offering to Him in contests."
+
+meMA.Ode3C13.ode = misc_en_US_andronache.Ode3
+meMA.Ode3C13.mode = misc_en_US_andronache.Mode6
+meMA.Ode3C13.melody = he.h.m6_en_US_andronache.OukEstinAgios.notmetered
+meMA.Ode3C13.text = "By divine longing for Christ you denied the world and were rather bound to the Spirit, O athletes, and through many struggles were made worthy of the divine kingdom."
+
+meMA.Ode3C1T.ode = misc_en_US_andronache.Ode3
+meMA.Ode3C1T.mode = misc_en_US_andronache.Mode6
+meMA.Ode3C1T.melody = he.h.m6_en_US_andronache.OukEstinAgios.notmetered
+meMA.Ode3C1T.text = "There is no one who has run to your shelter, maiden, and did not receive your great compassion. Therefore I, too, ask to receive your support."
+
+meMA.Ode3H.ode = misc_en_US_andronache.Ode3
+meMA.Ode3H.mode = misc_en_US_andronache.Mode6
+meMA.Ode3H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode3H.text = he.h.m6_en_US_andronache.OukEstinAgios.text
+
+meMA.Ode3Kathisma1.mode = misc_en_US_andronache.Mode4
+meMA.Ode3Kathisma1.melody = he.a.m4_en_US_andronache.TachyProkatalave.notmetered
+meMA.Ode3Kathisma1.text = "By ascetic struggles you illumined the eye of your soul; by the ray of your contest you give light to the faithful, blessed Galaktion. Therefore with faith we celebrate your holy and light-bearing memory, piously crying out to you: As one having boldness towards Christ, intercede that we be saved."
+
+meMA.Ode3KathismaT.mode = misc_en_US_andronache.Mode4
+meMA.Ode3KathismaT.melody = he.a.m4_en_US_andronache.TachyProkatalave.notmetered
+meMA.Ode3KathismaT.text = "Spotless virgin, who conceived God who is beyond nature, supplicate HIm unceasingly, together with bodiless powers that, before the end comes, He give remission of offenses and correction of life to those who with faith and fervor hymn you as is proper, only all-hymned one."
+
+meMA.Ode3KathismaSt.mode = misc_en_US_andronache.Mode4
+meMA.Ode3KathismaSt.melody = he.a.m4_en_US_andronache.TachyProkatalave.notmetered
+meMA.Ode3KathismaSt.text = ""
+
+meMA.Ode4C11.ode = misc_en_US_andronache.Ode4
+meMA.Ode4C11.mode = misc_en_US_andronache.Mode6
+meMA.Ode4C11.melody = he.h.m6_en_US_andronache.ChristosMouDynamis.notmetered
+meMA.Ode4C11.text = "God’s providence showed you as a shoot from a barren womb, filled with the fruits of the virtues, and by your exhortations showed forth your wife as fruit-bearing."
+
+meMA.Ode4C12.ode = misc_en_US_andronache.Ode4
+meMA.Ode4C12.mode = misc_en_US_andronache.Mode6
+meMA.Ode4C12.melody = he.h.m6_en_US_andronache.ChristosMouDynamis.notmetered
+meMA.Ode4C12.text = "You yearned after Christ, hated the world, looked down upon riches, and disregarded glory, pleasure, and honor, wisely exchanging imperishable things for perishable, blessed one."
+
+meMA.Ode4C13.ode = misc_en_US_andronache.Ode4
+meMA.Ode4C13.mode = misc_en_US_andronache.Mode6
+meMA.Ode4C13.melody = he.h.m6_en_US_andronache.ChristosMouDynamis.notmetered
+meMA.Ode4C13.text = "You unswervingly followed in the footsteps of Christ, glorious Galaktion with the august Episteme. Therefore you were made worthy of crowns of glory from Him."
+
+meMA.Ode4C1T.ode = misc_en_US_andronache.Ode4
+meMA.Ode4C1T.mode = misc_en_US_andronache.Mode6
+meMA.Ode4C1T.melody = he.h.m6_en_US_andronache.ChristosMouDynamis.notmetered
+meMA.Ode4C1T.text = "I have evilly defiled the temple of the body, all holy virgin who are the pure habitation of God; cleanse all of me from the filth of my passions by your intercessions."
+
+meMA.Ode5C11.ode = misc_en_US_andronache.Ode5
+meMA.Ode5C11.mode = misc_en_US_andronache.Mode6
+meMA.Ode5C11.melody = he.h.m6_en_US_andronache.ToTheioFengeiSou.notmetered
+meMA.Ode5C11.text = "You were illumined by divine light and were shining around with the beauty of dispassion, wise Galaktion; you convinced your wife to purify herself with you, having taken up the light yoke of Christ. "
+
+meMA.Ode5C12.ode = misc_en_US_andronache.Ode5
+meMA.Ode5C12.mode = misc_en_US_andronache.Mode6
+meMA.Ode5C12.melody = he.h.m6_en_US_andronache.ToTheioFengeiSou.notmetered
+meMA.Ode5C12.text = "Being burned by the fire of temptations, you put out the fire of the love of pleasure and the fireplace of polytheism; both of you being of one mind about what was profitable in suffering many toils of soul and body."
+
+meMA.Ode5C13.ode = misc_en_US_andronache.Ode5
+meMA.Ode5C13.mode = misc_en_US_andronache.Mode6
+meMA.Ode5C13.melody = he.h.m6_en_US_andronache.ToTheioFengeiSou.notmetered
+meMA.Ode5C13.text = "Persuaded by the law of God, raising up the cross upon your shoulders, you lived a blameless life and were adorned with the double crowns of asceticism and lawfulness, brightly shining athletes."
+
+meMA.Ode5C1T.ode = misc_en_US_andronache.Ode5
+meMA.Ode5C1T.mode = misc_en_US_andronache.Mode6
+meMA.Ode5C1T.melody = he.h.m6_en_US_andronache.ToTheioFengeiSou.notmetered
+meMA.Ode5C1T.text = "Luminous vehicle of the sun, I pray you to also clean the filth of the soul. Rush the grace of your compassion and heal me who am ill, maiden bride of God."
+
+meMA.Ode6C11.ode = misc_en_US_andronache.Ode6
+meMA.Ode6C11.mode = misc_en_US_andronache.Mode6
+meMA.Ode6C11.melody = he.h.m6_en_US_andronache.TouViouTinThalassan.notmetered
+meMA.Ode6C11.text = "Luminous vehicle of the sun, I pray you to also clean the filth of the soul. Rush the grace of your compassion and heal me who am ill, maiden bride of God."
+
+meMA.Ode6C12.ode = misc_en_US_andronache.Ode6
+meMA.Ode6C12.mode = misc_en_US_andronache.Mode6
+meMA.Ode6C12.melody = he.h.m6_en_US_andronache.TouViouTinThalassan.notmetered
+meMA.Ode6C12.text = "Having already submitted to the separation of the bodies, by the unity of your souls in faith you destroyed the fleshless adversaries, then overthrew the visible ones, by the might of the divine Spirit. "
+
+meMA.Ode6C13.ode = misc_en_US_andronache.Ode6
+meMA.Ode6C13.mode = misc_en_US_andronache.Mode6
+meMA.Ode6C13.melody = he.h.m6_en_US_andronache.TouViouTinThalassan.notmetered
+meMA.Ode6C13.text = "The famous Galaktion and his godly-minded wife Episteme conquered lawfully, manfully, and patiently; by their prayers, O Logos, grant Your mercies to all"
+
+meMA.Ode6C1T.ode = misc_en_US_andronache.Ode6
+meMA.Ode6C1T.mode = misc_en_US_andronache.Mode6
+meMA.Ode6C1T.melody = he.h.m6_en_US_andronache.TouViouTinThalassan.notmetered
+meMA.Ode6C1T.text = "Lady, make good my soul, which is made ill in many errors, and earnestly entreat God, the giver of all good, to make me worthy of the kingdom above."
+
+meMA.Ode6H.ode = misc_en_US_andronache.Ode6
+meMA.Ode6H.mode = misc_en_US_andronache.Mode6
+meMA.Ode6H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode6H.text = he.h.m6_en_US_andronache.TouViouTinThalassan.text
+
+meMA.Kontakion1.mode = misc_en_US_andronache.Mode2
+meMA.Kontakion1.melody = he.a.m2_en_US_andronache.TaAnoZiton.notmetered
+meMA.Kontakion1.text = "You were counted among the ranks of the Martyrs of Christ, who through cruel trials struggled resplendently, glorious Galaktion with your august wife and companion in contests, Episteme; both of you interceding for us all with the only God."
+
+meMA.Oikos1.text = "Let us honor in tuneful odes the brave one among martyrs, Galaktion, with his all-famous wife, Episteme, for they destroyed the insolence of the enemy and put to shame the ungodliness of idols, and preached the faith in Christ. Therefore having manifestly received from Him the crowns of incorruption, they intercede unceasingly for us all."
+
+meMA.Synaxarion.text = ""
+
+meMA.Ode7C11.ode = misc_en_US_andronache.Ode7
+meMA.Ode7C11.mode = misc_en_US_andronache.Mode6
+meMA.Ode7C11.melody = he.h.m6_en_US_andronache.DrosovolonMenTinKaminon.notmetered
+meMA.Ode7C11.text = "The dewy grace of the spirit refreshed you in an all-wise way, having been burned by the fire of temptations, pains, asceticism, and then tortures, which you mightily withstood in contests "
+
+meMA.Ode7C12.ode = misc_en_US_andronache.Ode7
+meMA.Ode7C12.mode = misc_en_US_andronache.Mode6
+meMA.Ode7C12.melody = he.h.m6_en_US_andronache.DrosovolonMenTinKaminon.notmetered
+meMA.Ode7C12.text = "By the yearning for purity and asceticism you were content with the separation, yet in oneness of soul through firmness of faith, you were again united being bound for contests, Venerable martyrs "
+
+meMA.Ode7C13.ode = misc_en_US_andronache.Ode7
+meMA.Ode7C13.mode = misc_en_US_andronache.Mode6
+meMA.Ode7C13.melody = he.h.m6_en_US_andronache.DrosovolonMenTinKaminon.notmetered
+meMA.Ode7C13.text = "The all-glorious Galaktion was led by the oracles of the King of all; he showed the oracles of the impious as nonsense. Therefore he was received the inheritance of the kingdom in Christ."
+
+meMA.Ode7C1T.ode = misc_en_US_andronache.Ode7
+meMA.Ode7C1T.mode = misc_en_US_andronache.Mode6
+meMA.Ode7C1T.melody = he.h.m6_en_US_andronache.DrosovolonMenTinKaminon.notmetered
+meMA.Ode7C1T.text = "You were known to be greater than the noetic powers, all-blameless one, for they do not dare to look upon Him whom you held in your embrace, therefore we glorify you with voices full of thanksgiving."
+
+meMA.Ode8C11.ode = misc_en_US_andronache.Ode8
+meMA.Ode8C11.mode = misc_en_US_andronache.Mode6
+meMA.Ode8C11.melody = he.h.m6_en_US_andronache.EkFlogosToisOsiois.notmetered
+meMA.Ode8C11.text = "You bore a love for Christ more fervent than the yearning of our nature - with your entire mind you denounced dependence on flesh and blood, having wisely stayed away from the muddiness of fleeting things."
+
+meMA.Ode8C12.ode = misc_en_US_andronache.Ode8
+meMA.Ode8C12.mode = misc_en_US_andronache.Mode6
+meMA.Ode8C12.melody = he.h.m6_en_US_andronache.EkFlogosToisOsiois.notmetered
+meMA.Ode8C12.text = "You remained strangers to the love for the flesh and you were divinely united in the love of purity, and you were joined in love for Christ, adornment of marriage and great wonder of the unwedded."
+
+meMA.Ode8C13.ode = misc_en_US_andronache.Ode8
+meMA.Ode8C13.mode = misc_en_US_andronache.Mode6
+meMA.Ode8C13.melody = he.h.m6_en_US_andronache.EkFlogosToisOsiois.notmetered
+meMA.Ode8C13.text = "God-inspired martyr, being eager to dwell in the kingdom above you seized it by your blood, hymned Galaktion, with Episteme, your beautiful partner in contest."
+
+meMA.Ode8C1T.ode = misc_en_US_andronache.Ode8
+meMA.Ode8C1T.mode = misc_en_US_andronache.Mode6
+meMA.Ode8C1T.melody = he.h.m6_en_US_andronache.EkFlogosToisOsiois.notmetered
+meMA.Ode8C1T.text = "As a fiery throne, all blameless one, you bear the one who rests in the bosom of the Father. Entreat Him for us, Theotokos, that we be saved from eternal condemnation."
+
+meMA.Ode8H.ode = misc_en_US_andronache.Ode8
+meMA.Ode8H.mode = misc_en_US_andronache.Mode6
+meMA.Ode8H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode8H.text = he.h.m6_en_US_andronache.EkFlogosToisOsiois.text
+
+meMA.Ode9C11.ode = misc_en_US_andronache.Ode9
+meMA.Ode9C11.mode = misc_en_US_andronache.Mode6
+meMA.Ode9C11.melody = he.h.m6_en_US_andronache.TheonAnthropois.notmetered
+meMA.Ode9C11.text = "Having been steeled by the fervent yearning for Christ, you broke through the cold state of this life and the love of nature and the bonds of the flesh, having risen, for the sake of the one Godhead in Trinity, above the material separation, dual martyrs,."
+
+meMA.Ode9C12.ode = misc_en_US_andronache.Ode9
+meMA.Ode9C12.mode = misc_en_US_andronache.Mode6
+meMA.Ode9C12.melody = he.h.m6_en_US_andronache.TheonAnthropois.notmetered
+meMA.Ode9C12.text = "Dancing in heaven with the choirs of martyrs and the ranks of the virgins, being exalted by light with your wife Episteme, gain for us release from evils, victory to the ruler, and peace and great mercy for the world, Galaktion."
+
+meMA.Ode9C13.ode = misc_en_US_andronache.Ode9
+meMA.Ode9C13.mode = misc_en_US_andronache.Mode6
+meMA.Ode9C13.melody = he.h.m6_en_US_andronache.TheonAnthropois.notmetered
+meMA.Ode9C13.text = "Being firmly united in faith, the divine all-wise Galaktion famously joined with august Episteme, bravely contested together; by their intercession have pity on us, Logos of God, as being above goodness."
+
+meMA.Ode9C1T.ode = misc_en_US_andronache.Ode9
+meMA.Ode9C1T.mode = misc_en_US_andronache.Mode6
+meMA.Ode9C1T.melody = he.h.m6_en_US_andronache.TheonAnthropois.notmetered
+meMA.Ode9C1T.text = "With voices of thanksgiving we hymn you, for we have truly been given deification through you and we cry to you: Rejoice, all-blameless one, rejoice blessed one, rejoice chamber of the King of all and God, rejoice Mother of God."
+
+meMA.Ode9H.ode = misc_en_US_andronache.Ode9
+meMA.Ode9H.mode = misc_en_US_andronache.Mode6
+meMA.Ode9H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode9H.text = he.h.m6_en_US_andronache.TheonAnthropois.text
+
+meMA.Exaposteilarion1.mode = misc_en_US_andronache.Mode3
+meMA.Exaposteilarion1.melody = he.a.m3_en_US_andronache.OOuranonToisAstrois.name
+meMA.Exaposteilarion1.text = ""
+
+meMA.ExapTheotokion.mode = misc_en_US_andronache.Mode3
+meMA.ExapTheotokion.melody = he.a.m3_en_US_andronache.OOuranonToisAstrois.name
+meMA.ExapTheotokion.text = ""
+
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
+meMegalynarion.text = ""
+
