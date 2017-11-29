@@ -67,7 +67,7 @@ meMA.C1.verse = ""//prayers_en_US_andronache.verse_SaintW.text
 meMA.Ode1C11.ode = misc_en_US_andronache.Ode1
 meMA.Ode1C11.mode = misc_en_US_andronache.Mode8
 meMA.Ode1C11.melody = he.h.m8_en_US_andronache.YgranDiodefsas.notmetered
-meMA.Ode1C11.text = "Fevronia, champion general of Christ’s glory, grant me grace and illumination to praise in song your light-bearing and venerable feast."
+meMA.Ode1C11.text = "Fevronia, champion general of Christ's glory, grant me grace and illumination to praise in song your light-bearing and venerable feast."
 
 meMA.Ode1C12.ode = misc_en_US_andronache.Ode1
 meMA.Ode1C12.mode = misc_en_US_andronache.Mode8
@@ -102,7 +102,7 @@ meMA.Ode3C13.text = "With your body wounded for Christ, all wise and pure one, b
 meMA.Ode3C1T.ode = misc_en_US_andronache.Ode3
 meMA.Ode3C1T.mode = misc_en_US_andronache.Mode8
 meMA.Ode3C1T.melody = he.h.m8_en_US_andronache.SyEiToStereoma.notmetered
-meMA.Ode3C1T.text = "The famous martyr Fevronia found God’s all-pure mother to be her help and she put to shame the tyrants."
+meMA.Ode3C1T.text = "The famous martyr Fevronia found God's all-pure mother to be her help and she put to shame the tyrants."
 
 meMA.Ode3H.ode = misc_en_US_andronache.Ode3
 meMA.Ode3H.mode = misc_en_US_andronache.Mode8
@@ -119,7 +119,7 @@ meMA.Ode3Kathisma2.text = "Longing after Christ who is handsome in beauty, you q
 
 meMA.Ode3KathismaT.mode = misc_en_US_andronache.Mode1
 meMA.Ode3KathismaT.melody = he.a.m1_en_US_andronache.TonTafonSouSotir.notmetered
-meMA.Ode3KathismaT.text = "John, jumping in his mother’s womb, by divine grace acknowledged God who was being carried in your womb, O pure one, and he faithfully worshiped Him. I entreat you, O Virgin, that you, together with the Forerunner, fervently intercede with the Logos to whom you gave a body, that your servant be saved."
+meMA.Ode3KathismaT.text = "John, jumping in his mother's womb, by divine grace acknowledged God who was being carried in your womb, O pure one, and he faithfully worshiped Him. I entreat you, O Virgin, that you, together with the Forerunner, fervently intercede with the Logos to whom you gave a body, that your servant be saved."
 
 meMA.Ode4C11.ode = misc_en_US_andronache.Ode4
 meMA.Ode4C11.mode = misc_en_US_andronache.Mode8
@@ -144,7 +144,7 @@ meMA.Ode4C1T.text = "You were shown to be a pillar of light for all those in dar
 meMA.Ode5C11.ode = misc_en_US_andronache.Ode5
 meMA.Ode5C11.mode = misc_en_US_andronache.Mode8
 meMA.Ode5C11.melody = he.h.m8_en_US_andronache.InaTiMeAposo.notmetered
-meMA.Ode5C11.text = "You were made beautiful, O Martyr, when a purple robe made from your blood was woven for you; your body was stripped naked and you put away the garment of the passions as you stood before the tribunal of judges, O Fevronia, imitator of Christ’s nakedness."
+meMA.Ode5C11.text = "You were made beautiful, O Martyr, when a purple robe made from your blood was woven for you; your body was stripped naked and you put away the garment of the passions as you stood before the tribunal of judges, O Fevronia, imitator of Christ's nakedness."
 
 meMA.Ode5C12.ode = misc_en_US_andronache.Ode5
 meMA.Ode5C12.mode = misc_en_US_andronache.Mode8
@@ -164,7 +164,7 @@ meMA.Ode5C1T.text = "Your feet being cut off, they travelled the path of divine 
 meMA.Ode6C11.ode = misc_en_US_andronache.Ode6
 meMA.Ode6C11.mode = misc_en_US_andronache.Mode8
 meMA.Ode6C11.melody = he.h.m8_en_US_andronache.TinDeisinEkcheo.notmetered
-meMA.Ode6C11.text = "The godless and bold cruelty of the impious Selenus was overthrown when God’s care for all requested your blood, Glorious one, and the divine Lysimachos was saved through your endurance."
+meMA.Ode6C11.text = "The godless and bold cruelty of the impious Selenus was overthrown when God's care for all requested your blood, Glorious one, and the divine Lysimachos was saved through your endurance."
 
 meMA.Ode6C12.ode = misc_en_US_andronache.Ode6
 meMA.Ode6C12.mode = misc_en_US_andronache.Mode8

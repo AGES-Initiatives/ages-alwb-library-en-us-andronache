@@ -64,7 +64,7 @@ meMA.C1.verse = //prayers_en_US_andronache.verse_SaintM.text
 meMA.Ode1C11.ode = misc_en_US_andronache.Ode1
 meMA.Ode1C11.mode = misc_en_US_andronache.Mode4
 meMA.Ode1C11.melody = he.h.m4_en_US_andronache.ThalassisToErythraion.notmetered
-meMA.Ode1C11.text = "The rays of the divine light illumined you, glorious one, with knowledge beyond nature from your mother’s pains of childbirth.Therefore, Focas, you were shown to be a light to those in travails to the ends of the world."
+meMA.Ode1C11.text = "The rays of the divine light illumined you, glorious one, with knowledge beyond nature from your mother's pains of childbirth.Therefore, Focas, you were shown to be a light to those in travails to the ends of the world."
 
 meMA.Ode1C12.ode = misc_en_US_andronache.Ode1
 meMA.Ode1C12.mode = misc_en_US_andronache.Mode4
@@ -122,7 +122,7 @@ meMA.Ode3Kathisma1.text = "Focas, while offering to Christ a bloodless sacrifice
 
 meMA.Ode3KathismaT.mode = misc_en_US_andronache.Mode4
 meMA.Ode3KathismaT.melody = he.a.m4_en_US_andronache.TachyProkatalave.notmetered
-meMA.Ode3KathismaT.text = "The only one who bore in your womb the Creator of all, the only one who adorns humanity by your giving-birth, all pure one, deliver me from the snares of the deceitful Belial, establishing me upon the rock of Christ’s will and forever entreating Him to whom you gave a body."
+meMA.Ode3KathismaT.text = "The only one who bore in your womb the Creator of all, the only one who adorns humanity by your giving-birth, all pure one, deliver me from the snares of the deceitful Belial, establishing me upon the rock of Christ's will and forever entreating Him to whom you gave a body."
 
 meMA.Ode3KathismaSt.mode = misc_en_US_andronache.Mode4
 meMA.Ode3KathismaSt.melody = he.a.m4_en_US_andronache.TachyProkatalave.notmetered
@@ -203,7 +203,7 @@ meMA.Ode7C11.text = "Being nailed down by your yearning for Christ, wise martyr,
 meMA.Ode7C12.ode = misc_en_US_andronache.Ode7
 meMA.Ode7C12.mode = misc_en_US_andronache.Mode4
 meMA.Ode7C12.melody = he.h.m4_en_US_andronache.EnTiKaminoAvramiaioi.notmetered
-meMA.Ode7C12.text = "As He paid the ransom for us by his own blood, you offered your blood as a fitting offering in repayment and you chanted crying out “Blessed are you, my God and Lord.”"
+meMA.Ode7C12.text = "As He paid the ransom for us by his own blood, you offered your blood as a fitting offering in repayment and you chanted crying out \"Blessed are you, my God and Lord.\""
 
 meMA.Ode7C13.ode = misc_en_US_andronache.Ode7
 meMA.Ode7C13.mode = misc_en_US_andronache.Mode4

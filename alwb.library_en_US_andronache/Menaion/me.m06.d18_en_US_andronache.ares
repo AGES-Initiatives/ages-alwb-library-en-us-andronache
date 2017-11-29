@@ -49,7 +49,7 @@ meMA.C1.verse = "" //prayers_en_US_andronache.verse_SaintM.text
 meMA.Ode1C11.ode = misc_en_US_andronache.Ode1
 meMA.Ode1C11.mode = misc_en_US_andronache.Mode4
 meMA.Ode1C11.melody = he.h.m4_en_US_andronache.AsomaiSoiKyrie.notmetered
-meMA.Ode1C11.text = "Your virtue cannot be covered by praises, O Leontios, Christ’s servant. For He is your praise and happiness not to be taken away."
+meMA.Ode1C11.text = "Your virtue cannot be covered by praises, O Leontios, Christ's servant. For He is your praise and happiness not to be taken away."
 
 meMA.Ode1C12.ode = misc_en_US_andronache.Ode1
 meMA.Ode1C12.mode = misc_en_US_andronache.Mode4
