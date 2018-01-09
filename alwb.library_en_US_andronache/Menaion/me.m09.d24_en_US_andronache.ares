@@ -219,7 +219,7 @@ meMA.Kontakion1.text = "You shone forth with the beauty of virginity and you wer
 
 meMA.Oikos1.text = "The brightness of the honored feast shines more clearly than the sun; for sparkling with flashes of light it is reflected in the eyes of the faithful. Therefore, dancing together with the angels, let us all cry out to the Savior God, shouting to Him: You have magnified Your mercies, Savior, by giving a perfect gift to your people, the first contestant."
 
-meMA.Synaxarion.text = ""
+meMA.Synaxarion.text = "[This is where the text of the Menaion's Synaxarion will appear.]"
 
 meMA.Ode7C11.ode = misc_en_US_andronache.Ode7
 meMA.Ode7C11.mode = misc_en_US_andronache.Mode8

@@ -311,7 +311,7 @@ meMA.Kontakion1.text = "The whole Church of the faithful honors you, Averkios, a
 
 meMA.Oikos1.text = "How great is the richness of your grace! Your glory is immeasurable, for out of nothing you created all things visible and invisible, O Lord. Do you, yourself, lover of humanity, grant to my impure heart divine praise, O you who are ceaselessly hymned by the angels, so that I may honor the hierarch who truly is most wondrous."
 
-meMA.Synaxarion.text = ""
+meMA.Synaxarion.text = "[This is where the text of the Menaion's Synaxarion will appear.]"
 
 meMA.Ode7C11.ode = misc_en_US_andronache.Ode7
 meMA.Ode7C11.mode = misc_en_US_andronache.Mode2

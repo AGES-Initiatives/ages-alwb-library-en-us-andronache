@@ -185,7 +185,7 @@ meMA.Kontakion1.text = "Having shone out from the earth like a lamp, you scatter
 
 meMA.Oikos1.text = "As roses amid thorns, your relics blooming with the scent of orthodoxy, you sprang up in the world, august glorious martyrs; having well renounced the beauty of the world you endured tortures, you reproved kings doing unlawful deeds, you preached the King and Master of all with boldness; therefore seeing the beauty of heaven, ceaselessly make intercession to the King of the ages for us who celebrate your memorial, divine martyrs, champions of the Trinity."
 
-meMA.Synaxarion.text = ""
+meMA.Synaxarion.text = "[This is where the text of the Menaion's Synaxarion will appear.]"
 
 meMA.Ode7C1H.ode = misc_en_US_andronache.Ode7
 meMA.Ode7C1H.mode = misc_en_US_andronache.Mode8

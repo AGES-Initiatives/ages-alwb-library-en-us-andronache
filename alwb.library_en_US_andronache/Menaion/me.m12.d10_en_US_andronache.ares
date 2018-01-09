@@ -209,7 +209,7 @@ meMA.Kontakion1.text = "The Lord who grants you the crown of incorruption carrie
 
 meMA.Oikos1.text = "Crowning your feast with hymns, Athlete of the Lord, I sing of your battles and I hymns your struggles, because you were considered as gold in the furnace for the only Creator of all, but your firm thought was not shaken by the multitude of the lawless ones, for Christ, who grants to you the incorruptible crown, fortified it from on high for the struggles."
 
-meMA.Synaxarion.text = ""
+meMA.Synaxarion.text = "[This is where the text of the Menaion's Synaxarion will appear.]"
 
 meMA.Ode7C11.ode = misc_en_US_andronache.Ode7
 meMA.Ode7C11.mode = misc_en_US_andronache.Mode1

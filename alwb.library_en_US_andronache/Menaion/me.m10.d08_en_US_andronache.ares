@@ -197,7 +197,7 @@ meMA.Kontakion1.text = "Your body has been worn down in fasting, as you supplica
 
 meMA.Oikos1.text = "As many as are stained by sins in life, such as I, the wretched one, let us emulate the repentance and the tear-filled lamentation of our venerable mother Pelagia, so that we may quickly receive forgiveness from God, just as the blessed one, while still living, washed away the filth of sins and received perfect forgiveness from God, having shown to us the way of repentance."
 
-meMA.Synaxarion.text = ""
+meMA.Synaxarion.text = "[This is where the text of the Menaion's Synaxarion will appear.]"
 
 meMA.Ode7C11.ode = misc_en_US_andronache.Ode7
 meMA.Ode7C11.mode = misc_en_US_andronache.Mode4

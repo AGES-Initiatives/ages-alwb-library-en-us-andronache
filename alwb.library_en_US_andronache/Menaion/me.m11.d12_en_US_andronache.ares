@@ -344,7 +344,7 @@ meMA.Kontakion2.text = "You dispersed your riches to the poor, and received the 
 
 meMA.Oikos2.text = "O John, in the night you saw mercy as a maiden beautifully adorned with olive shoots. Having stored in your soul this beauty of genuine love and the beautiful sympathy, she called you without deceit: if you have me as friend and co-dweller, I shall bring you before Christ the King. And you, being persuaded, did not fail to obtain your purpose, O namesake of mercifulness."
 
-meMA.Synaxarion.text = ""
+meMA.Synaxarion.text = "[This is where the text of the Menaion's Synaxarion will appear.]"
 
 meMA.Ode7C11.ode = misc_en_US_andronache.Ode7
 meMA.Ode7C11.mode = misc_en_US_andronache.Mode8
