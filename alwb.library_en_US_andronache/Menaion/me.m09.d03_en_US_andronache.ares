@@ -302,8 +302,6 @@ meMA.Kontakion1.text = "You were eminently pious in your priesthood and you fini
 
 meMA.Oikos1.text = ""
 
-meMA.Synaxarion.text = "[This is where the text of the Menaion's Synaxarion will appear.]"
-
 meMA.Ode7C11.ode = misc_en_US_andronache.Ode7
 meMA.Ode7C11.mode = misc_en_US_andronache.Mode4
 meMA.Ode7C11.melody = he.h.m4_en_US_andronache.AvramiaioiPote.notmetered

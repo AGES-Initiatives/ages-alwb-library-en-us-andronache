@@ -186,8 +186,6 @@ meMA.Kontakion1.text = "The Church holds you as a great star, O Archippus; illum
 
 meMA.Oikos1.text = "Paul, the chief apostle, deifying you as a faithful servant of Christ, writes your praises and clearly witnesses to you as one who fulfills the word and a holy leader and most wise preacher. And all of us today see an unquenchable lamp, illumining the world, O Apostle, whom Apfia recognized well as a most far-shining light-bringing fire of the First Light, illumining like a torch those who cry: Save those who honor your memory with faith."
 
-meMA.Synaxarion.text = "[This is where the text of the Menaion's Synaxarion will appear.]"
-
 meMA.Ode7C1H.ode = misc_en_US_andronache.Ode7
 meMA.Ode7C1H.mode = misc_en_US_andronache.Mode4
 meMA.Ode7C1H.melody = misc_en_US_andronache.Heirmos
@@ -651,9 +649,7 @@ alt1.meMA.Kontakion1.text = ""
 
 alt1.meMA.Oikos1.text = ""
 
-alt1.meMA.Synaxarion.text = ""
-
-alt1.meMA.Ode7C1H.ode = misc_en_US_andronache.Ode7
+alt1.alt1.meMA.Ode7C1H.ode = misc_en_US_andronache.Ode7
 alt1.meMA.Ode7C1H.mode = misc_en_US_andronache.Mode8
 alt1.meMA.Ode7C1H.melody = misc_en_US_andronache.Heirmos
 alt1.meMA.Ode7C1H.text = he.h.m8_en_US_andronache.TheouSynkatavasin.text

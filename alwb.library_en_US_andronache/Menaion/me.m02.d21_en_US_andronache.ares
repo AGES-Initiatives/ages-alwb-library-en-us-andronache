@@ -191,8 +191,6 @@ meMA.Kontakion1.mode = misc_en_US_andronache.Mode4
 meMA.Kontakion1.melody = he.a.m4_en_US_andronache.EpefanisSimeron.notmetered
 meMA.Kontakion1.text = "Having arisen as a multi-luminous start from the East you clearly shone the virtues of your wonders in the hearts of the faithful, wonder-bearer godly-minded Timothy."
 
-meMA.Synaxarion.text = "[This is where the text of the Menaion's Synaxarion will appear.]"
-
 meMA.Ode7C1H.ode = misc_en_US_andronache.Ode7
 meMA.Ode7C1H.mode = misc_en_US_andronache.Mode8
 meMA.Ode7C1H.melody = misc_en_US_andronache.Heirmos

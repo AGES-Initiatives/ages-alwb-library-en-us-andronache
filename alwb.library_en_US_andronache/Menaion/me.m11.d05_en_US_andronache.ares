@@ -170,8 +170,6 @@ meMA.Kontakion1.text = "You were counted among the ranks of the Martyrs of Chris
 
 meMA.Oikos1.text = "Let us honor in tuneful odes the brave one among martyrs, Galaktion, with his all-famous wife, Episteme, for they destroyed the insolence of the enemy and put to shame the ungodliness of idols, and preached the faith in Christ. Therefore having manifestly received from Him the crowns of incorruption, they intercede unceasingly for us all."
 
-meMA.Synaxarion.text = "[This is where the text of the Menaion's Synaxarion will appear.]"
-
 meMA.Ode7C11.ode = misc_en_US_andronache.Ode7
 meMA.Ode7C11.mode = misc_en_US_andronache.Mode6
 meMA.Ode7C11.melody = he.h.m6_en_US_andronache.DrosovolonMenTinKaminon.notmetered

@@ -331,8 +331,6 @@ meMA.Oikos16.text = "Rejoice joy of those honoring you with faith; rejoice fulfi
 meMA.Oikos17.text = "Rejoice, redemption of many from Belial; Rejoice leader of faithful to God."
 meMA.Oikos18.text = "Rejoice, preacher of the faith."
 
-meMA.Synaxarion.text = "[This is where the text of the Menaion's Synaxarion will appear.]"
-
 meMA.Ode7C11.ode = misc_en_US_andronache.Ode7
 meMA.Ode7C11.mode = misc_en_US_andronache.Mode8
 meMA.Ode7C11.melody = he.h.m8_en_US_andronache.OiEkTisIoudaias.notmetered

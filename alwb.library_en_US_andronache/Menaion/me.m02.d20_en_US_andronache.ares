@@ -187,8 +187,6 @@ meMA.Kontakion1.text = "Since he has been dedicated from infancy and has receive
 
 meMA.Oikos1.text = "Clear up my tongue, my Christ, and grant me a word, giver of words, and provider of our life, that I may be strengthened to praise the whole life of the wise hierarch, which was consumed by the fire of love on earth and he received from heaven the sea of infinite miracles and the power of the dogmas, through which he illuminated the Church, for he is her support."
 
-meMA.Synaxarion.text = "[This is where the text of the Menaion's Synaxarion will appear.]"
-
 meMA.Ode7C1H.ode = misc_en_US_andronache.Ode7
 meMA.Ode7C1H.mode = misc_en_US_andronache.Mode8
 meMA.Ode7C1H.melody = misc_en_US_andronache.Heirmos

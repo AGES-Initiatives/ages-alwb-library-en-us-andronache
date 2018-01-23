@@ -193,8 +193,6 @@ meMA.Kontakion1.text = "Offering rational fruits to the Lord, wise Polycarp, thr
 
 meMA.Oikos1.text = "Having been drawn to the goodness of wisdom, you filled your flock with knowledge of God from it and you illumined as with lightning the triple sun of the all holy and unutterable divinity, having clearly taught the un-begottenness of the Father, the begottenness of the Son and the procession of the Spirit, one divinity and one glory. You trampled the godlessness of idols, offering the souls of the faithful as ripe fruits to God in whom we have been baptized and in whom we believe, as we glorify the Lord."
 
-meMA.Synaxarion.text = "[This is where the text of the Menaion's Synaxarion will appear.]"
-
 meMA.Ode7C1H.ode = misc_en_US_andronache.Ode7
 meMA.Ode7C1H.mode = misc_en_US_andronache.Mode2
 meMA.Ode7C1H.melody = misc_en_US_andronache.Heirmos
