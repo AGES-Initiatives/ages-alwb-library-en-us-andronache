@@ -509,7 +509,7 @@ SynToThavmasioStas.mode = misc_en_US_andronache.Mode1
 SynToThavmasioStas.ode = misc_en_US_andronache.Ode4
 SynToThavmasioStas.text = ""
 
-ThavmatosYperfyous.notmetered = "N/M (Babylon's bedewing furnace.)"
+ThavmatosYperfyous.notmetered = "N/M (Babylon's... furnace.)"
 ThavmatosYperfyous.name = "Babylon's bedewing furnace."
 ThavmatosYperfyous.mode = misc_en_US_andronache.Mode1
 ThavmatosYperfyous.ode = misc_en_US_andronache.Ode8
@@ -622,7 +622,7 @@ TousEnKaminoPaidas.mode = misc_en_US_andronache.Mode1
 TousEnKaminoPaidas.ode = misc_en_US_andronache.Ode7
 TousEnKaminoPaidas.text = ""
 
-TyponTisAgnis.notmetered = "N/M (Burning, yet remaining unconsumed.)"
+TyponTisAgnis.notmetered = "N/M (Burning... unconsumed.)"
 TyponTisAgnis.name = "Burning, yet remaining unconsumed."
 TyponTisAgnis.mode = misc_en_US_andronache.Mode1
 TyponTisAgnis.ode = misc_en_US_andronache.Ode9
