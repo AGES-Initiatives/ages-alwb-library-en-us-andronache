@@ -40,7 +40,7 @@ meVE.SticTheotokion.text = ""
 
 meVE.SticStavrotheotokion.mode = misc_en_US_andronache.Mode8
 meVE.SticStavrotheotokion.melody = he.a.m8_en_US_andronache.OTouParadoxou.notmetered
-meVE.SticStavrotheotokion.text = ""
+meVE.SticStavrotheotokion.text = me.m01.d15_en_US_andronache.meMA.AposStavrotheotokion.text
 
 meVE.AposGlory.poet = //poets_en_US_andronache.Stouditou
 meVE.AposGlory.mode = misc_en_US_andronache.Mode1
