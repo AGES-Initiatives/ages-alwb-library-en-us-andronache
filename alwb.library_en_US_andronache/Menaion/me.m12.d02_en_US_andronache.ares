@@ -1,0 +1,256 @@
+A_Resource_Whose_Name = me.m12.d02_en_US_andronache
+
+meDate.text = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meCommemoration.text = "" //full title of day
+meShortCommemoration1.text = ""
+meInsert1 = "" //for use in petitions and dismissal
+meInsert2 = "" //for use in petitions and dismissal
+meNote.text = ""
+meLE.commemoration1 = ""
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
+
+meVE.Stichera01.mode = misc_en_US_andronache.Mode4
+meVE.Stichera01.melody = he.a.m4_en_US_andronache.OsGennaionEnMartysi.notmetered
+meVE.Stichera01.text = ""
+
+meVE.Stichera02.mode = misc_en_US_andronache.Mode4
+meVE.Stichera02.melody = he.a.m4_en_US_andronache.OsGennaionEnMartysi.notmetered
+meVE.Stichera02.text = ""
+
+meVE.Stichera03.mode = misc_en_US_andronache.Mode4
+meVE.Stichera03.melody = he.a.m4_en_US_andronache.OsGennaionEnMartysi.notmetered
+meVE.Stichera03.text = ""
+
+meVE.SticTheotokion.mode = misc_en_US_andronache.Mode4
+meVE.SticTheotokion.melody = he.a.m4_en_US_andronache.OsGennaionEnMartysi.notmetered
+meVE.SticTheotokion.text = ""
+
+meVE.SticStavrotheotokion.mode = misc_en_US_andronache.Mode4
+meVE.SticStavrotheotokion.melody = he.a.m4_en_US_andronache.OsGennaionEnMartysi.notmetered
+meVE.SticStavrotheotokion.text = ""
+
+meVE.Apolytikion1.mode = misc_en_US_andronache.Mode2
+meVE.Apolytikion1.melody = //he.ga_en_US_andronache.TouProfitouSou.name
+meVE.GeneralApolytikion1.name = ""
+
+meVE.Apolytikion2.poet = //poets_en_US_andronache.Gerasimou
+meVE.Apolytikion2.mode = misc_en_US_andronache.Mode4
+meVE.Apolytikion2.melody = he.a.m4_en_US_andronache.TachyProkatalave.notmetered
+meVE.Apolytikion2.text = ""
+
+meVE.Apolytikion3.poet = //poets_en_US_andronache.Gerasimou
+meVE.Apolytikion3.mode = misc_en_US_andronache.Mode4
+meVE.Apolytikion3.melody = he.a.m4_en_US_andronache.TachyProkatalave.notmetered
+meVE.Apolytikion3.text = ""
+
+meMA.C1Acrostic.text = ""
+
+meMA.C1.title = //titles_en_US_andronache.KanonTouProfitou
+meMA.C1.verse = //prayers_en_US_andronache.verse_Prophet.text
+
+meMA.Ode1C11.ode = misc_en_US_andronache.Ode1
+meMA.Ode1C11.mode = misc_en_US_andronache.Mode4
+meMA.Ode1C11.melody = he.h.m4_en_US_andronache.AsomaiSoiKyrie.notmetered
+meMA.Ode1C11.text = "Make me wise, Lord my God, to hymn your divine prophet Habakkuk, and illumine my mind by your grace, O good one."
+
+meMA.Ode1C12.ode = misc_en_US_andronache.Ode1
+meMA.Ode1C12.mode = misc_en_US_andronache.Mode4
+meMA.Ode1C12.melody = he.h.m4_en_US_andronache.AsomaiSoiKyrie.notmetered
+meMA.Ode1C12.text = "\"Until when, O Lord,\" the prophet says, \"will I cry to you and you will not hear? And why did you show me the impiety of the judges?\""
+
+meMA.Ode1C13.ode = misc_en_US_andronache.Ode1
+meMA.Ode1C13.mode = misc_en_US_andronache.Mode4
+meMA.Ode1C13.melody = he.h.m4_en_US_andronache.AsomaiSoiKyrie.notmetered
+meMA.Ode1C13.text = "By your entreaties, O prophet, deliver from dangers and fearful circumstances those who reverently observe your august memorial."
+
+meMA.Ode1C1T.ode = misc_en_US_andronache.Ode1
+meMA.Ode1C1T.mode = misc_en_US_andronache.Mode4
+meMA.Ode1C1T.melody = he.h.m4_en_US_andronache.AsomaiSoiKyrie.notmetered
+meMA.Ode1C1T.text = "The holy God appeared from you, O Theotokos, when the time drew near, having become human in order to save the human being."
+
+meMA.Ode3C11.ode = misc_en_US_andronache.Ode3
+meMA.Ode3C11.mode = misc_en_US_andronache.Mode4
+meMA.Ode3C11.melody = he.h.m4_en_US_andronache.ToxonDynatonIsthenise.notmetered
+meMA.Ode3C11.text = "Being lifted up by being inclined towards God and illumined with light-giving rays from him, you saw the prefiguration of future things, O revealer of things of God."
+
+meMA.Ode3C12.ode = misc_en_US_andronache.Ode3
+meMA.Ode3C12.mode = misc_en_US_andronache.Mode4
+meMA.Ode3C12.melody = he.h.m4_en_US_andronache.ToxonDynatonIsthenise.notmetered
+meMA.Ode3C12.text = "You practiced every virtue, but hated every evil from the mind and you rightly despised the unrighteous ones, all-blessed one."
+
+meMA.Ode3C13.ode = misc_en_US_andronache.Ode3
+meMA.Ode3C13.mode = misc_en_US_andronache.Mode4
+meMA.Ode3C13.melody = he.h.m4_en_US_andronache.ToxonDynatonIsthenise.notmetered
+meMA.Ode3C13.text = "Sayings of the Holy Spirit were most clearly entrusted to you as being pure, foretelling the fulfillment of things to come, praise-worthy one."
+
+meMA.Ode3C1T.ode = misc_en_US_andronache.Ode3
+meMA.Ode3C1T.mode = misc_en_US_andronache.Mode4
+meMA.Ode3C1T.melody = he.h.m4_en_US_andronache.ToxonDynatonIsthenise.notmetered
+meMA.Ode3C1T.text = "You were seen as a mountain overshadowed by virtues from whom the Master came in the form of a slave to free the people from slavery, all-pure one."
+
+meMA.Ode3H.ode = misc_en_US_andronache.Ode3
+meMA.Ode3H.mode = misc_en_US_andronache.Mode4
+meMA.Ode3H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode3H.text = he.h.m4_en_US_andronache.ToxonDynatonIsthenise.text
+
+meMA.Ode3Kathisma1.mode = misc_en_US_andronache.Mode4
+meMA.Ode3Kathisma1.melody = he.a.m4_en_US_andronache.OYpsotheisEnToStavro.notmetered
+meMA.Ode3Kathisma1.text = "You stood on the divine watch, blessed one, and understood the coming of God through prophetic eyes, God-inspired one and therefore you cried out with fear, O Habakkuk: I have heard, Lord, your fearful coming and I hymn you as you will to wear earthly flesh from the Virgin."
+
+meMA.Ode3KathismaT.mode = misc_en_US_andronache.Mode4
+meMA.Ode3KathismaT.melody = he.a.m4_en_US_andronache.OYpsotheisEnToStavro.notmetered
+meMA.Ode3KathismaT.text = "Being the refuge of those in perils, the reconciliation with God of those who stumble, most holy Lady, ever guard us from all danger and evil of people and fearful chastisement and the passions of dishonor, as we ever call upon you with undoubting faith, all-hymned virgin."
+
+meMA.Ode3KathismaSt.mode = misc_en_US_andronache.Mode4
+meMA.Ode3KathismaSt.melody = he.a.m4_en_US_andronache.OYpsotheisEnToStavro.notmetered
+meMA.Ode3KathismaSt.text = ""
+
+meMA.Ode4C11.ode = misc_en_US_andronache.Ode4
+meMA.Ode4C11.mode = misc_en_US_andronache.Mode4
+meMA.Ode4C11.melody = he.h.m4_en_US_andronache.TousOuranousIAretiSou.notmetered
+meMA.Ode4C11.text = "You were seen luminous through virtue, God-inspired one, and you revealed the unsetting light, to which we now sing with faith: Glory to your power, O Lord."
+
+meMA.Ode4C12.ode = misc_en_US_andronache.Ode4
+meMA.Ode4C12.mode = misc_en_US_andronache.Mode4
+meMA.Ode4C12.melody = he.h.m4_en_US_andronache.TousOuranousIAretiSou.notmetered
+meMA.Ode4C12.text = "The grace of the Spirit which is illuminating to all, having dwelt abundantly in you, all-wise one, made you a prophet, announcing the Savior to all."
+
+meMA.Ode4C13.ode = misc_en_US_andronache.Ode4
+meMA.Ode4C13.mode = misc_en_US_andronache.Mode4
+meMA.Ode4C13.melody = he.h.m4_en_US_andronache.TousOuranousIAretiSou.notmetered
+meMA.Ode4C13.text = "Having been taught by the sound of the almighty, you piously were afraid, wondrous one, and having understood his works you became astonished."
+
+meMA.Ode4C1T.ode = misc_en_US_andronache.Ode4
+meMA.Ode4C1T.mode = misc_en_US_andronache.Mode4
+meMA.Ode4C1T.melody = he.h.m4_en_US_andronache.TousOuranousIAretiSou.notmetered
+meMA.Ode4C1T.text = "The ark of witness marks you, all-blameless one, who has truly received the bread of life, pure one, the Logos co-eternal with the Father."
+
+meMA.Ode5C11.ode = misc_en_US_andronache.Ode5
+meMA.Ode5C11.mode = misc_en_US_andronache.Mode4
+meMA.Ode5C11.melody = he.h.m4_en_US_andronache.OAnateilasToFos.notmetered
+meMA.Ode5C11.text = "Now the august Church sees the Sun upon the wood as as you had foretold, most holy Habakkuk."
+
+meMA.Ode5C12.ode = misc_en_US_andronache.Ode5
+meMA.Ode5C12.mode = misc_en_US_andronache.Mode4
+meMA.Ode5C12.melody = he.h.m4_en_US_andronache.OAnateilasToFos.notmetered
+meMA.Ode5C12.text = "Having lifted up your mind as though on wings you stood on your guard, truly happy one, and you contemplated the coming of the Lord."
+
+meMA.Ode5C13.ode = misc_en_US_andronache.Ode5
+meMA.Ode5C13.mode = misc_en_US_andronache.Mode4
+meMA.Ode5C13.melody = he.h.m4_en_US_andronache.OAnateilasToFos.notmetered
+meMA.Ode5C13.text = "Wise one, with a great voice you cried out: \"I will rejoice and be glad in God the Savior,\" all-blessed Habakkuk."
+
+meMA.Ode5C1T.ode = misc_en_US_andronache.Ode5
+meMA.Ode5C1T.mode = misc_en_US_andronache.Mode4
+meMA.Ode5C1T.melody = he.h.m4_en_US_andronache.OAnateilasToFos.notmetered
+meMA.Ode5C1T.text = "Having been burdened by the ropes of my many errors, I run to you for refuge: save me, O Lady, the strength of the faithful."
+
+meMA.Ode6C11.ode = misc_en_US_andronache.Ode6
+meMA.Ode6C11.mode = misc_en_US_andronache.Mode4
+meMA.Ode6C11.melody = he.h.m4_en_US_andronache.EvoiseProtypon.notmetered
+meMA.Ode6C11.text = "God from Teman has come in the flesh, as you foretold, being conspicuously illumined from him, thrice-blessed Habbakuk, and He made the world brilliant with light."
+
+meMA.Ode6C12.ode = misc_en_US_andronache.Ode6
+meMA.Ode6C12.mode = misc_en_US_andronache.Mode4
+meMA.Ode6C12.melody = he.h.m4_en_US_andronache.EvoiseProtypon.notmetered
+meMA.Ode6C12.text = "O God, by the intercessions of the august and godly-minded Habakkuk, illumine the souls of those who hymn you, who by a divine breath made his mind bright. "
+
+meMA.Ode6C13.ode = misc_en_US_andronache.Ode6
+meMA.Ode6C13.mode = misc_en_US_andronache.Mode4
+meMA.Ode6C13.melody = he.h.m4_en_US_andronache.EvoiseProtypon.notmetered
+meMA.Ode6C13.text = "Your voice and the power of the divine words, O God inspired one, went into all the ends of the world, foretelling us the divine coming of the Logos."
+
+meMA.Ode6C1T.ode = misc_en_US_andronache.Ode6
+meMA.Ode6C1T.mode = misc_en_US_andronache.Mode4
+meMA.Ode6C1T.melody = he.h.m4_en_US_andronache.EvoiseProtypon.notmetered
+meMA.Ode6C1T.text = "O Virgin, you gave birth to the Son who is of one essence with the Father and clearly comprehended with the One who bore him without beginning, having become flesh in the latter times."
+
+meMA.Ode6H.ode = misc_en_US_andronache.Ode6
+meMA.Ode6H.mode = misc_en_US_andronache.Mode4
+meMA.Ode6H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode6H.text = he.h.m4_en_US_andronache.EvoiseProtypon.text
+
+meMA.Kontakion1.mode = misc_en_US_andronache.Mode4
+meMA.Kontakion1.melody = he.a.m4_en_US_andronache.TachyProkatalave.notmetered
+meMA.Kontakion1.text = "You saw the holy disciples as horses, manifestly troubling the seas of ignorance and drowning deceit by the teachings of piety, God-inspired Habakkuk. Therefore we honor you as a true prophet, asking that you intercede so that we be granted mercy."
+
+meMA.Ode7C11.ode = misc_en_US_andronache.Ode7
+meMA.Ode7C11.mode = misc_en_US_andronache.Mode4
+meMA.Ode7C11.melody = he.h.m4_en_US_andronache.AvramiaioiPote.notmetered
+meMA.Ode7C11.text = "Wise one, having been initiated into knowledge beyond understanding and the many-lighted lamp of prophecy, you now cry: O God of our Fathers, you are blessed."
+
+meMA.Ode7C12.ode = misc_en_US_andronache.Ode7
+meMA.Ode7C12.mode = misc_en_US_andronache.Mode4
+meMA.Ode7C12.melody = he.h.m4_en_US_andronache.AvramiaioiPote.notmetered
+meMA.Ode7C12.text = "God has granted you participation in the three-lighted gleaming and unutterable glory, whom you glorified crying out: O God of the Fathers, you are blessed."
+
+meMA.Ode7C1T.ode = misc_en_US_andronache.Ode7
+meMA.Ode7C1T.mode = misc_en_US_andronache.Mode4
+meMA.Ode7C1T.melody = he.h.m4_en_US_andronache.AvramiaioiPote.notmetered
+meMA.Ode7C1T.text = "In generations of generations, O virgin mother, you were seen to be blessed beyond understanding, having given birth beyond nature to the Logos, God in the flesh, O Virgin."
+
+meMA.Ode8C11.ode = misc_en_US_andronache.Ode8
+meMA.Ode8C11.mode = misc_en_US_andronache.Mode4
+meMA.Ode8C11.melody = he.h.m4_en_US_andronache.PantaTaErgaTouTheou.notmetered
+meMA.Ode8C11.text = "Having been illumined by the tri-solar light, you were made worthy, truly happy one, of wonders divine and beyond nature, shouting: hymn and greatly exalt the Lord unto the ages."
+
+meMA.Ode8C12.ode = misc_en_US_andronache.Ode8
+meMA.Ode8C12.mode = misc_en_US_andronache.Mode4
+meMA.Ode8C12.melody = he.h.m4_en_US_andronache.PantaTaErgaTouTheou.notmetered
+meMA.Ode8C12.text = "Drinking waters of delicacy and filled with immaterial contemplation and partaking of the prophetic glory and honor, you hymn God with rejoicing unto the ages."
+
+meMA.Ode8C13.ode = misc_en_US_andronache.Ode8
+meMA.Ode8C13.mode = misc_en_US_andronache.Mode4
+meMA.Ode8C13.melody = he.h.m4_en_US_andronache.PantaTaErgaTouTheou.notmetered
+meMA.Ode8C13.text = "O, the divine and august beauty of Habakkuk the prophet, for he, dancing with the angelic powers, hymns God with rejoicing unto the ages."
+
+meMA.Ode8C1T.ode = misc_en_US_andronache.Ode8
+meMA.Ode8C1T.mode = misc_en_US_andronache.Mode4
+meMA.Ode8C1T.melody = he.h.m4_en_US_andronache.PantaTaErgaTouTheou.notmetered
+meMA.Ode8C1T.text = "You were truly shown to be the mother of the one who arose from the Father before the ages, for you alone became more esteemable than the minds of the bodiless, blessed pure virgin."
+
+meMA.Ode8H.ode = misc_en_US_andronache.Ode8
+meMA.Ode8H.mode = misc_en_US_andronache.Mode4
+meMA.Ode8H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode8H.text = he.h.m4_en_US_andronache.PantaTaErgaTouTheou.text
+
+meMA.Ode9C11.ode = misc_en_US_andronache.Ode9
+meMA.Ode9C11.mode = misc_en_US_andronache.Mode4
+meMA.Ode9C11.melody = he.h.m4_en_US_andronache.OTokosSouAfthoros.notmetered
+meMA.Ode9C11.text = "Your memory, O prophet, shins like lightning, sending out the shining ray of your divine inspiration and of your mystical doctrine and prophecy to those who honor you, most blessed Habakkuk."
+
+meMA.Ode9C12.ode = misc_en_US_andronache.Ode9
+meMA.Ode9C12.mode = misc_en_US_andronache.Mode4
+meMA.Ode9C12.melody = he.h.m4_en_US_andronache.OTokosSouAfthoros.notmetered
+meMA.Ode9C12.text = "Having preached the Lord of glory and foretold His coming from a holy virgin, manifestly seeing it having come to pass and brought to light, rejoice most blessed Habakkuk."
+
+meMA.Ode9C13.ode = misc_en_US_andronache.Ode9
+meMA.Ode9C13.mode = misc_en_US_andronache.Mode4
+meMA.Ode9C13.melody = he.h.m4_en_US_andronache.OTokosSouAfthoros.notmetered
+meMA.Ode9C13.text = "All the prophets rejoice on your joyful day, having become partakers with you in joy and divine glory, godly-minded one. Interceding together with them, ever save those who hymn you."
+
+meMA.Ode9C1T.ode = misc_en_US_andronache.Ode9
+meMA.Ode9C1T.mode = misc_en_US_andronache.Mode4
+meMA.Ode9C1T.melody = he.h.m4_en_US_andronache.OTokosSouAfthoros.notmetered
+meMA.Ode9C1T.text = "With the drops of your compassion, wholly wash the filth of my soul and make to spring up for me ever-flowing springs of tears, Maiden, supressing the springs of my passions."
+
+meMA.Ode9H.ode = misc_en_US_andronache.Ode9
+meMA.Ode9H.mode = misc_en_US_andronache.Mode4
+meMA.Ode9H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode9H.text = he.h.m4_en_US_andronache.OTokosSouAfthoros.text
+
+meMA.MM.LaudsSunday.text = properties_en_US_andronache.media.key
+
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
+meLI.MM.CommunionHymn.text = properties_en_US_andronache.media.key
+
+meMegalynarion.text = ""
+
