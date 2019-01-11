@@ -1,0 +1,280 @@
+A_Resource_Whose_Name = me.m07.d23_en_US_andronache
+
+meDate.text = ""
+meCommemoration.text = "" //full title of day
+meShortCommemoration1.text = ""
+meInsert1 = "" //for use in petitions and dismissal
+meInsert2 = "" //for use in petitions and dismissal
+meNote.text = ""
+meLE.commemoration1 = ""
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
+
+meVE.Stichera01.mode = misc_en_US_andronache.Mode1
+meVE.Stichera01.melody = he.a.m1_en_US_andronache.TonOuranionTagmaton.notmetered
+meVE.Stichera01.text = ""
+
+meVE.Stichera02.mode = misc_en_US_andronache.Mode1
+meVE.Stichera02.melody = he.a.m1_en_US_andronache.TonOuranionTagmaton.notmetered
+meVE.Stichera02.text = ""
+
+meVE.Stichera03.mode = misc_en_US_andronache.Mode1
+meVE.Stichera03.melody = he.a.m1_en_US_andronache.TonOuranionTagmaton.notmetered
+meVE.Stichera03.text = ""
+
+meVE.SticGlory.mode = misc_en_US_andronache.Mode4
+meVE.SticGlory.melody = ""
+meVE.SticGlory.text = ""
+
+meVE.SticTheotokion.mode = misc_en_US_andronache.Mode4
+meVE.SticTheotokion.melody = ""
+meVE.SticTheotokion.text = //oc.m4.d2_en_US_andronache.ocMA.AposTheotokion.text
+
+meVE.SticStavrotheotokion.mode = misc_en_US_andronache.Mode4
+meVE.SticStavrotheotokion.melody = he.a.m4_en_US_andronache.OsGennaionEnMartysi.notmetered
+meVE.SticStavrotheotokion.text = ""
+
+meVE.GeneralApolytikion1.name = "" // name of saint for General Apolytikia when not in Menaion
+meVE.MM.GeneralApolytikion1.text = properties_en_US_andronache.media.key
+
+meVE.Apolytikion1.poet = //poets_en_US_andronache.Gerasimou
+meVE.Apolytikion1.mode = misc_en_US_andronache.Mode3
+meVE.Apolytikion1.melody = he.a.m3_en_US_andronache.TheiasPisteos.notmetered
+meVE.Apolytikion1.text = ""
+
+meVE.Apolytikion2.poet = //poets_en_US_andronache.Gerasimou
+meVE.Apolytikion2.mode = misc_en_US_andronache.Mode3
+meVE.Apolytikion2.melody = he.a.m3_en_US_andronache.TheiasPisteos.notmetered
+meVE.Apolytikion2.text = ""
+
+meVE.Apolytikion3.poet = //poets_en_US_andronache.Gerasimou
+meVE.Apolytikion3.mode = misc_en_US_andronache.Mode4
+meVE.Apolytikion3.melody = he.a.m4_en_US_andronache.TachyProkatalave.notmetered
+meVE.Apolytikion3.text = ""
+
+meMA.C1Acrostic.text = ""
+
+meMA.C1.title = //titles_en_US_andronache.TouIeromartyros
+meMA.C1.verse = //prayers_en_US_andronache.verse_SaintM.text
+
+meMA.Ode1C11.ode = misc_en_US_andronache.Ode1
+meMA.Ode1C11.mode = misc_en_US_andronache.Mode4
+meMA.Ode1C11.melody = he.h.m4_en_US_andronache.ThalassisToErythraion.notmetered
+meMA.Ode1C11.text = "The rays of the divine light illumined you, glorious one, with knowledge beyond nature from your mother's pains of childbirth.Therefore, Focas, you were shown to be a light to those in travails to the ends of the world."
+
+meMA.Ode1C12.ode = misc_en_US_andronache.Ode1
+meMA.Ode1C12.mode = misc_en_US_andronache.Mode4
+meMA.Ode1C12.melody = he.h.m4_en_US_andronache.ThalassisToErythraion.notmetered
+meMA.Ode1C12.text = "As a phoenix on high you soared aloft from infancy unto the height of the noetic virtues, glorious one, and you increased the fruits of your struggles, sweetening all by partaking in your wonders."
+
+meMA.Ode1C13.ode = misc_en_US_andronache.Ode1
+meMA.Ode1C13.mode = misc_en_US_andronache.Mode4
+meMA.Ode1C13.melody = he.h.m4_en_US_andronache.ThalassisToErythraion.notmetered
+meMA.Ode1C13.text = "You took down the foundation of the altars of godlessness by means of your words, wise one, and kept the Church unshaken, fortifying her with your teachings."
+
+meMA.Ode1C14.ode = misc_en_US_andronache.Ode1
+meMA.Ode1C14.mode = misc_en_US_andronache.Mode4
+meMA.Ode1C14.melody = he.h.m4_en_US_andronache.ThalassisToErythraion.notmetered
+meMA.Ode1C14.text = "From the heights of senselessness you threw the most-proud mind, overpowering it by the simple grace of your words; and won trophies over it in contests, Venerable one."
+
+meMA.Ode1C1T.ode = misc_en_US_andronache.Ode1
+meMA.Ode1C1T.mode = misc_en_US_andronache.Mode4
+meMA.Ode1C1T.melody = he.h.m4_en_US_andronache.ThalassisToErythraion.notmetered
+meMA.Ode1C1T.text = "The begetter of death to mortals became corruption in paradise. The Son of God the Father, who was born of you, all spotless one, destroyed that with a sound, having given immortality to our race."
+
+meMA.Ode3C11.ode = misc_en_US_andronache.Ode3
+meMA.Ode3C11.mode = misc_en_US_andronache.Mode4
+meMA.Ode3C11.melody = he.h.m4_en_US_andronache.EffrainetaiEpiSoi.notmetered
+meMA.Ode3C11.text = "You put together the choir of the faithful unto the praising of Christ and by your opposition you confounded the voices of godlessness, O martyr."
+
+meMA.Ode3C12.ode = misc_en_US_andronache.Ode3
+meMA.Ode3C12.mode = misc_en_US_andronache.Mode4
+meMA.Ode3C12.melody = he.h.m4_en_US_andronache.EffrainetaiEpiSoi.notmetered
+meMA.Ode3C12.text = "Your longing after God drew you from earth to heaven and counted you with the noetic orders while still contending in the flesh."
+
+meMA.Ode3C13.ode = misc_en_US_andronache.Ode3
+meMA.Ode3C13.mode = misc_en_US_andronache.Mode4
+meMA.Ode3C13.melody = he.h.m4_en_US_andronache.EffrainetaiEpiSoi.notmetered
+meMA.Ode3C13.text = "You illumined the faithful with the rays of your miracles and put out the fires of godlessness in the thunderstorms of your words, blessed one."
+
+meMA.Ode3C14.ode = misc_en_US_andronache.Ode3
+meMA.Ode3C14.mode = misc_en_US_andronache.Mode4
+meMA.Ode3C14.melody = he.h.m4_en_US_andronache.EffrainetaiEpiSoi.notmetered
+meMA.Ode3C14.text = "You dyed the robe of the priesthood as in radiant colors through the blood of your contests and you ministered to Christ the light."
+
+meMA.Ode3C1T.ode = misc_en_US_andronache.Ode3
+meMA.Ode3C1T.mode = misc_en_US_andronache.Mode4
+meMA.Ode3C1T.melody = he.h.m4_en_US_andronache.EffrainetaiEpiSoi.notmetered
+meMA.Ode3C1T.text = "The middle wall of enmity was smashed, pure Lady, by your birth-giving beyond understanding, and we have been joined to the divine nature."
+
+meMA.Ode3H.ode = misc_en_US_andronache.Ode3
+meMA.Ode3H.mode = misc_en_US_andronache.Mode4
+meMA.Ode3H.melody = misc_en_US_andronache.HeirmosNotMetered
+meMA.Ode3H.text = //he.h.m4_en_US_andronache.EffrainetaiEpiSoi.text
+
+meMA.Ode3Kathisma1.mode = misc_en_US_andronache.Mode4
+meMA.Ode3Kathisma1.melody = he.a.m4_en_US_andronache.TachyProkatalave.notmetered
+meMA.Ode3Kathisma1.text = "Focas, while offering to Christ a bloodless sacrifice you brought yourself as a sacrifice through your blood, God-inspired hierarch. Thus, being made to dwell in joy, Father, remember those who in faith celebrate the divine and conspicuous day of your struggle."
+
+meMA.Ode3KathismaT.mode = misc_en_US_andronache.Mode4
+meMA.Ode3KathismaT.melody = he.a.m4_en_US_andronache.TachyProkatalave.notmetered
+meMA.Ode3KathismaT.text = "The only one who bore in your womb the Creator of all, the only one who adorns humanity by your giving-birth, all pure one, deliver me from the snares of the deceitful Belial, establishing me upon the rock of Christ's will and forever entreating Him to whom you gave a body."
+
+meMA.Ode3KathismaSt.mode = misc_en_US_andronache.Mode4
+meMA.Ode3KathismaSt.melody = he.a.m4_en_US_andronache.TachyProkatalave.notmetered
+meMA.Ode3KathismaSt.text = ""
+
+meMA.Ode4C11.ode = misc_en_US_andronache.Ode4
+meMA.Ode4C11.mode = misc_en_US_andronache.Mode4
+meMA.Ode4C11.melody = he.h.m4_en_US_andronache.EparthentaSeIdousa.notmetered
+meMA.Ode4C11.text = "Focas, when the Church was tossed about on the sea of impiety, you drew her to the harbor of the piety of  Christ as she unceasingly cries: Glory to your power, O Lord."
+
+meMA.Ode4C12.ode = misc_en_US_andronache.Ode4
+meMA.Ode4C12.mode = misc_en_US_andronache.Mode4
+meMA.Ode4C12.melody = he.h.m4_en_US_andronache.EparthentaSeIdousa.notmetered
+meMA.Ode4C12.text = "You shook off the earthly man of the flesh and while living in the flesh, glorious one, you lived made the journey as though bodiless, Focas. Thus by grace you became an angel in the body."
+
+meMA.Ode4C13.ode = misc_en_US_andronache.Ode4
+meMA.Ode4C13.mode = misc_en_US_andronache.Mode4
+meMA.Ode4C13.melody = he.h.m4_en_US_andronache.EparthentaSeIdousa.notmetered
+meMA.Ode4C13.text = "The unemptied spring of the Paraclete filled you with spiritual and divine wonders, glorious hierarch, and has granted an ever-flowing river of graces for all."
+
+meMA.Ode4C1T.ode = misc_en_US_andronache.Ode4
+meMA.Ode4C1T.mode = misc_en_US_andronache.Mode4
+meMA.Ode4C1T.melody = he.h.m4_en_US_andronache.EparthentaSeIdousa.notmetered
+meMA.Ode4C1T.text = "How paradoxical and unutterable, O Theotokos, are the things of your new birth-giving; truly strange and paradoxical so that in them the reasoning and the mind are overcome, all spotless one."
+
+meMA.Ode5C11.ode = misc_en_US_andronache.Ode5
+meMA.Ode5C11.mode = misc_en_US_andronache.Mode4
+meMA.Ode5C11.melody = he.h.m4_en_US_andronache.SyKyrieMouFos.notmetered
+meMA.Ode5C11.text = "O Focas, you destroyed strongholds of the enemy by the power of the miracles, offering those rescued o the Lord as spoils of battle."
+
+meMA.Ode5C12.ode = misc_en_US_andronache.Ode5
+meMA.Ode5C12.mode = misc_en_US_andronache.Mode4
+meMA.Ode5C12.melody = he.h.m4_en_US_andronache.SyKyrieMouFos.notmetered
+meMA.Ode5C12.text = "O wise one, you turned the arrows of the fallen ones that were sent against you into the hearts of those who sent them, and you were saved as invulnerable."
+
+meMA.Ode5C13.ode = misc_en_US_andronache.Ode5
+meMA.Ode5C13.mode = misc_en_US_andronache.Mode4
+meMA.Ode5C13.melody = he.h.m4_en_US_andronache.SyKyrieMouFos.notmetered
+meMA.Ode5C13.text = "Focas, you crushed the head of the dragon, bravely trampling upon him by the divine power of your hard contest."
+
+meMA.Ode5C1T.ode = misc_en_US_andronache.Ode5
+meMA.Ode5C1T.mode = misc_en_US_andronache.Mode4
+meMA.Ode5C1T.melody = he.h.m4_en_US_andronache.SyKyrieMouFos.notmetered
+meMA.Ode5C1T.text = "Let heaven sprinkle joy and grace upon the earth, for now it sends gladness up to the heights: the only Mother of God."
+
+meMA.Ode6C11.ode = misc_en_US_andronache.Ode6
+meMA.Ode6C11.mode = misc_en_US_andronache.Mode4
+meMA.Ode6C11.melody = he.h.m4_en_US_andronache.ThysoSoiMetaFonis.notmetered
+meMA.Ode6C11.text = "You lifted up your flock from the slime and depth of godlessness, glorious one, and you cleansed it by the water of adoption and lifted it up to the light of grace."
+
+meMA.Ode6C12.ode = misc_en_US_andronache.Ode6
+meMA.Ode6C12.mode = misc_en_US_andronache.Mode4
+meMA.Ode6C12.melody = he.h.m4_en_US_andronache.ThysoSoiMetaFonis.notmetered
+meMA.Ode6C12.text = "The one who made the clouds his footstool glorified you, Focas, to walk on the ways of the air, to anticipate those seeking help while in danger and necessity at sea."
+
+meMA.Ode6C13.ode = misc_en_US_andronache.Ode6
+meMA.Ode6C13.mode = misc_en_US_andronache.Mode4
+meMA.Ode6C13.melody = he.h.m4_en_US_andronache.ThysoSoiMetaFonis.notmetered
+meMA.Ode6C13.text = "You loosed the twisted snares of falsehood and bound the vain-speaking tongues with the bonds of truth, godly-minded one, and you proclaimed to the world the word of faith."
+
+meMA.Ode6C1T.ode = misc_en_US_andronache.Ode6
+meMA.Ode6C1T.mode = misc_en_US_andronache.Mode4
+meMA.Ode6C1T.melody = he.h.m4_en_US_andronache.ThysoSoiMetaFonis.notmetered
+meMA.Ode6C1T.text = "You sprang up the fruit of undefiled union for the world, God-bearer, made known as the ambassador of eternal incorruption to those who honor you with faith and longing."
+
+meMA.Ode6H.ode = misc_en_US_andronache.Ode6
+meMA.Ode6H.mode = misc_en_US_andronache.Mode4
+meMA.Ode6H.melody = misc_en_US_andronache.HeirmosNotMetered
+meMA.Ode6H.text = //he.h.m4_en_US_andronache.ThysoSoiMetaFonis.text
+
+meMA.Ode7C11.ode = misc_en_US_andronache.Ode7
+meMA.Ode7C11.mode = misc_en_US_andronache.Mode4
+meMA.Ode7C11.melody = he.h.m4_en_US_andronache.EnTiKaminoAvramiaioi.notmetered
+meMA.Ode7C11.text = "Being nailed down by your yearning for Christ, wise martyr, the fullness of the frightful tortures and threats did not shake nor dragg you from the bravery of your union and standing with Him."
+
+meMA.Ode7C12.ode = misc_en_US_andronache.Ode7
+meMA.Ode7C12.mode = misc_en_US_andronache.Mode4
+meMA.Ode7C12.melody = he.h.m4_en_US_andronache.EnTiKaminoAvramiaioi.notmetered
+meMA.Ode7C12.text = "As He paid the ransom for us by his own blood, you offered your blood as a fitting offering in repayment and you chanted crying out \"Blessed are you, my God and Lord.\""
+
+meMA.Ode7C13.ode = misc_en_US_andronache.Ode7
+meMA.Ode7C13.mode = misc_en_US_andronache.Mode4
+meMA.Ode7C13.melody = he.h.m4_en_US_andronache.EnTiKaminoAvramiaioi.notmetered
+meMA.Ode7C13.text = "Having thrown off the earthly burden through the virtues, O athlete, the divine angels of Christ translated you through the air at His command, as Habakkuk before had been carried on wings."
+
+meMA.Ode7C1T.ode = misc_en_US_andronache.Ode7
+meMA.Ode7C1T.mode = misc_en_US_andronache.Mode4
+meMA.Ode7C1T.melody = he.h.m4_en_US_andronache.EnTiKaminoAvramiaioi.notmetered
+meMA.Ode7C1T.text = "At your child-bearing, Birth-giver of God, the angels saw strange things: corrupted nature of those on earth returning towards the undefiled and uncorrupted heavenly dwelling and glory."
+
+meMA.Ode8C11.ode = misc_en_US_andronache.Ode8
+meMA.Ode8C11.mode = misc_en_US_andronache.Mode4
+meMA.Ode8C11.melody = he.h.m4_en_US_andronache.CheirasEkpetasasDaniil.notmetered
+meMA.Ode8C11.text = "Having the unquenchable fire of the love of Christ in your soul, blessed Focas, you completed the unmanageable/difficult path towards Him through contest. Having obtained your desire through is, you cry with the bodiless: All the works of the Lord, bless the Lord."
+
+meMA.Ode8C12.ode = misc_en_US_andronache.Ode8
+meMA.Ode8C12.mode = misc_en_US_andronache.Mode4
+meMA.Ode8C12.melody = he.h.m4_en_US_andronache.CheirasEkpetasasDaniil.notmetered
+meMA.Ode8C12.text = "The unsound worship of deceit by the Greeks disappeared and all the treachery of vanity has been silence and its falsehood has been put to shame by the true knowledge, through the preaching of the athletes that Christ is the hypostatic wisdom of God."
+
+meMA.Ode8C13.ode = misc_en_US_andronache.Ode8
+meMA.Ode8C13.mode = misc_en_US_andronache.Mode4
+meMA.Ode8C13.melody = he.h.m4_en_US_andronache.CheirasEkpetasasDaniil.notmetered
+meMA.Ode8C13.text = "Focas, having girded yourself with the unassailable might of the Holy Spirit, you showed unconquerable opposition and immutable manliness, as a defender of your flock. Having gained victory, you hymn the God of all, together with the angels."
+
+meMA.Ode8C14.ode = misc_en_US_andronache.Ode8
+meMA.Ode8C14.mode = misc_en_US_andronache.Mode4
+meMA.Ode8C14.melody = he.h.m4_en_US_andronache.CheirasEkpetasasDaniil.notmetered
+meMA.Ode8C14.text = "Christ gave you plentiful divine grace, Focas famous in song; and it yields the gifts of fitting miracles to all who ask you and ceaselessly cry: All the works of the Lord, bless the Lord."
+
+meMA.Ode8C1T.ode = misc_en_US_andronache.Ode8
+meMA.Ode8C1T.mode = misc_en_US_andronache.Mode4
+meMA.Ode8C1T.melody = he.h.m4_en_US_andronache.CheirasEkpetasasDaniil.notmetered
+meMA.Ode8C1T.text = "The Son and Logos of God, by nature unapproachable to all, dwelt in you, Pure one, and put on our nature since He is merciful, immaculate one. He was seen approachable in the flesh and dwelt with us. Because of this, with much fervor, I hymn and honor and praise you."
+
+meMA.Ode8H.ode = misc_en_US_andronache.Ode8
+meMA.Ode8H.mode = misc_en_US_andronache.Mode4
+meMA.Ode8H.melody = misc_en_US_andronache.HeirmosNotMetered
+meMA.Ode8H.text = //he.h.m4_en_US_andronache.CheirasEkpetasasDaniil.text
+
+meMA.Ode9C11.ode = misc_en_US_andronache.Ode9
+meMA.Ode9C11.mode = misc_en_US_andronache.Mode4
+meMA.Ode9C11.melody = he.h.m4_en_US_andronache.LithosAcheirotmitos.notmetered
+meMA.Ode9C11.text = "Having your light-bearing virtues and the chariot-driving of your struggles as a fiery chariot, you flew up towards the heavenly places, Venerable one, and you only stopped when you reached them, dwelling with the bodiless ones."
+
+meMA.Ode9C12.ode = misc_en_US_andronache.Ode9
+meMA.Ode9C12.mode = misc_en_US_andronache.Mode4
+meMA.Ode9C12.melody = he.h.m4_en_US_andronache.LithosAcheirotmitos.notmetered
+meMA.Ode9C12.text = "By the outpouring of God-inspired wisdom and by the floods of your words you loosed the forest of falsehood and you watered the souls of the faithful and showed them fruit-bearers of God-inspired works through faith."
+
+meMA.Ode9C13.ode = misc_en_US_andronache.Ode9
+meMA.Ode9C13.mode = misc_en_US_andronache.Mode4
+meMA.Ode9C13.melody = he.h.m4_en_US_andronache.LithosAcheirotmitos.notmetered
+meMA.Ode9C13.text = "You saw the radiance above light in the battle of your struggles, the noetic vision of God, the longed-for judge Christ, and you strove to reach it, O Martyr, at the end of the contests."
+
+meMA.Ode9C14.ode = misc_en_US_andronache.Ode9
+meMA.Ode9C14.mode = misc_en_US_andronache.Mode4
+meMA.Ode9C14.melody = he.h.m4_en_US_andronache.LithosAcheirotmitos.notmetered
+meMA.Ode9C14.text = "Now the glory of the Creator is most clearly reflected for those who out of longing honor you, Focas; entreat Him to make us sharers of His greater glory and brightness."
+
+meMA.Ode9C1T.ode = misc_en_US_andronache.Ode9
+meMA.Ode9C1T.mode = misc_en_US_andronache.Mode4
+meMA.Ode9C1T.melody = he.h.m4_en_US_andronache.LithosAcheirotmitos.notmetered
+meMA.Ode9C1T.text = "I hymn your grace, Virgin, and I magnify your glory; for you are the illumination of my soul, being also the intercessor for all your servants to honor and raise up hymns to you."
+
+meMA.Ode9H.ode = misc_en_US_andronache.Ode9
+meMA.Ode9H.mode = misc_en_US_andronache.Mode4
+meMA.Ode9H.melody = misc_en_US_andronache.HeirmosNotMetered
+meMA.Ode9H.text = //he.h.m4_en_US_andronache.LithosAcheirotmitos.text
+
+meLI.Kontakion1.mode = ""
+meLI.Kontakion1.melody = ""
+meLI.Kontakion1.text = ""
+
+meMegalynarion.text = ""
