@@ -99,7 +99,7 @@ meMA.Ode3Kathisma1.text = "As great lights illuminating the world with the light
 
 meMA.Ode3KathismaT.mode = misc_en_US_andronache.Mode4
 meMA.Ode3KathismaT.melody = he.a.m4_en_US_andronache.EpefanisSimeron.notmetered
-meMA.Ode3KathismaT.text = "Spreading out your spotless hands, Virgin-mother, protect those who entreat you and cry out to Your Son: O Christ, grant your mercies to all."
+meMA.Ode3KathismaT.text = //me.m06.d14_en_US_andronache.meMA.Ode3KathismaT.text
 
 meMA.Ode3KathismaSt.mode = misc_en_US_andronache.Mode4
 meMA.Ode3KathismaSt.melody = he.a.m4_en_US_andronache.EpefanisSimeron.notmetered
