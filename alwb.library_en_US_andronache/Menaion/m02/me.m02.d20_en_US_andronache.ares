@@ -100,7 +100,7 @@ meMA.Ode3Kathisma1.text = "The great sun of your virtues, which shines forth, ro
 
 meMA.Ode3KathismaT.mode = misc_en_US_andronache.Mode3
 meMA.Ode3KathismaT.melody = he.a.m3_en_US_andronache.TheiasPisteos.notmetered
-meMA.Ode3KathismaT.text = "He was not separated from the divine nature when He put on flesh in your womb, but he remained God having become human - the only Lord kept you a virgin after child-birth as you were all-blameless before giving birth. Intercede fervently with Him that great mercy be granted unto us."
+meMA.Ode3KathismaT.text = //me.m01.d25_en_US_andronache.meMA.Kathisma1T.text
 
 meMA.Ode3KathismaSt.mode = misc_en_US_andronache.Mode3
 meMA.Ode3KathismaSt.melody = he.a.m3_en_US_andronache.TheiasPisteos.notmetered

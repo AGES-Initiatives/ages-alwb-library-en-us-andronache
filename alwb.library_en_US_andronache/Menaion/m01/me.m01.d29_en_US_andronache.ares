@@ -120,7 +120,7 @@ meMA.Ode3Kathisma1.text = "Illumined by the Divine Spirit, you put to shame the 
 
 meMA.Ode3KathismaT.mode = misc_en_US_andronache.Mode3
 meMA.Ode3KathismaT.melody = he.a.m3_en_US_andronache.TheiasPisteos.notmetered
-meMA.Ode3KathismaT.text = "He was not separated from the divine nature when He took flesh from your Womb, but having remained God, He became man. He is the only Lord, who kept you, His mother, an all-blameless virgin after birth as before. Beseech Him fervently that great mercy be granted to us."
+meMA.Ode3KathismaT.text = //me.m01.d25_en_US_andronache.meMA.Kathisma1T.text
 
 meMA.Ode3KathismaSt.mode = misc_en_US_andronache.Mode3
 meMA.Ode3KathismaSt.melody = he.a.m3_en_US_andronache.TheiasPisteos.notmetered
