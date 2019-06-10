@@ -34,7 +34,7 @@ meVE.SticTheotokion.text = //oc.m2.d1_en_US_andronache.ocSV.Aposticha1.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_andronache.Mode2
 meVE.SticStavrotheotokion.melody = he.a.m2_en_US_andronache.OteEkTouXylou.notmetered
-meVE.SticStavrotheotokion.text = ""
+meVE.SticStavrotheotokion.text = me.m01.d22_en_US_andronache.meVE.AposStavrotheotokion.text
 
 meVE.Apolytikion1.poet = //poets_en_US_andronache.Gerasimou
 meVE.Apolytikion1.mode = misc_en_US_andronache.Mode4

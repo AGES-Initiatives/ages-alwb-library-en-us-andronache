@@ -52,7 +52,7 @@ meVE.AposTheotokion.text = ""
 
 meVE.AposStavrotheotokion.mode = misc_en_US_andronache.Mode2
 meVE.AposStavrotheotokion.melody = he.a.m2_en_US_andronache.OteEkTouXylou.notmetered
-meVE.AposStavrotheotokion.text = ""
+meVE.AposStavrotheotokion.text = //oc.m2.d4_en_US_andronache.ocVE.SticTheotokion.text
 
 meVE.Apolytikion1.mode = misc_en_US_andronache.Mode4
 meVE.Apolytikion1.melody = he.a.m4_en_US_andronache.TachyProkatalave.notmetered
