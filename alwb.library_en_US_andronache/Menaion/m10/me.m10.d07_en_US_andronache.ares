@@ -318,7 +318,7 @@ meMA.LaudsTheotokion.text = //oc.m4.d2_en_US_andronache.ocVE.AposTheotokion.text
 
 meMA.LaudsStavrotheotokion.mode = misc_en_US_andronache.Mode4
 meMA.LaudsStavrotheotokion.melody = he.a.m4_en_US_andronache.OsGennaionEnMartysi.name
-meMA.LaudsStavrotheotokion.text = ""
+meMA.LaudsStavrotheotokion.text = //me.m01.d19_en_US_andronache.meMA.AposStavrotheotokion.text
 
 meMA.MM.Lauds1123as5678.text = properties_en_US_andronache.media.key
 
