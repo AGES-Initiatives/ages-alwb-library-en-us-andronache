@@ -62,7 +62,7 @@ meVE.AposTheotokion.text = //oc.m6.d1_en_US_andronache.ocSV.Aposticha2.text
 
 meVE.AposStavrotheotokion.mode = misc_en_US_andronache.Mode6
 meVE.AposStavrotheotokion.melody = he.a.m6_en_US_andronache.OlinApothemenoi.name
-meVE.AposStavrotheotokion.text = ""
+meVE.AposStavrotheotokion.text = //oc.m6.d4_en_US_andronache.ocVE.SticTheotokion.text
 
 meVE.GeneralApolytikion1.name = ""
 meVE.MM.GeneralApolytikion1.text = properties_en_US_andronache.media.key
