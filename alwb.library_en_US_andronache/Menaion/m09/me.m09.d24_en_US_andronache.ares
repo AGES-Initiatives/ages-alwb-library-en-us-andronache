@@ -139,7 +139,7 @@ meMA.Ode3Kathisma1.text = "The womanly nature was changed to manliness through y
 
 meMA.Ode3KathismaT.mode = misc_en_US_andronache.Mode8
 meMA.Ode3KathismaT.melody = he.a.m8_en_US_andronache.TinSofianKaiLogon.notmetered
-meMA.Ode3KathismaT.text = "We, the generations of humanity bless you as a Virgin who alone among women seedlessly bore God in the flesh, for the fire of divinity dwelt in you and you nursed the Creator and Lord as an infant. Therefore we, the race of humans and angels worthily glorify your all holy child and with one voice cry out to you: intercede with your Son and God that He grant remission of offenses to those who worthily hymn your glory, spotlesss one."
+meMA.Ode3KathismaT.text = //me.m01.d26_en_US_andronache.meMA.Ode3KathismaT.text //We, the generations of humanity bless you as a Virgin who alone among women seedlessly bore God in the flesh, for the fire of divinity dwelt in you and you nursed the Creator and Lord as an infant. Therefore we, the race of humans and angels worthily glorify your all holy child and with one voice cry out to you: intercede with your Son and God that He grant remission of offenses to those who worthily hymn your glory, spotlesss one."
 
 meMA.Ode3KathismaSt.mode = misc_en_US_andronache.Mode8
 meMA.Ode3KathismaSt.melody = he.a.m8_en_US_andronache.TinSofianKaiLogon.name
