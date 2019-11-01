@@ -123,7 +123,8 @@ meMA.Ode3Kathisma1.text = "Having spiritually emulated the virtue-filled life of
 
 meMA.Ode3KathismaT.mode = misc_en_US_andronache.Mode8
 meMA.Ode3KathismaT.melody = he.a.m8_en_US_andronache.TinSofianKaiLogon.name
-meMA.Ode3KathismaT.text = "Let us hymn the heavenly gate and ark, the all-holy mountain, the luminous cloud, the unburnt bush, the rational paradise, the redemption of Eve, the great treasure of the entire world, for in her salvation for the world was accomplished as well as remission of ancient accusations. Therefore we also cry out to her: Ever intercede with your Son and GOd that remission of offenses be granted to those who piously worship your all-holy birth-giving."
+meMA.Ode3KathismaT.text = "Let us hymn the heavenly gate and ark, the all-holy mountain, the luminous cloud, the unburnt bush, the rational paradise, the redemption of Eve, the great treasure of the entire world, for in her salvation for the world was accomplished as well as remission of ancient accusations. Therefore we also cry out to her: Ever intercede with your Son and GOd that remission of offenses be granted to those who piously worship your all-holy birth-giving." //me.m10.d06_en_US_andronache.meMA.Ode3KathismaT.text
+
 
 meMA.Ode3KathismaSt.mode = misc_en_US_andronache.Mode8
 meMA.Ode3KathismaSt.melody = he.a.m8_en_US_andronache.TinSofianKaiLogon.name
