@@ -1007,7 +1007,7 @@ alt2.meMA.PostGospelGlory.text = "" //ho.s03_en_US_andronache.hoMA.PostGospelMon
 
 alt2.meMA.PostGospelBoth.mode = misc_en_US_andronache.Mode2
 alt2.meMA.PostGospelBoth.melody = ""
-alt1.meMA.PostGospelBoth.text = "" //ho.s03_en_US_andronache.hoMA.PostGospelTheotokos.text
+alt2.meMA.PostGospelBoth.text = "" //ho.s03_en_US_andronache.hoMA.PostGospelTheotokos.text
 
 alt2.meMA.PostGospelIdiomelon.mode = misc_en_US_andronache.Mode6
 alt2.meMA.PostGospelIdiomelon.melody = ""
