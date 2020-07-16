@@ -43,19 +43,19 @@ meVE.Stichera06.text = ""
 meVE.SticGlory.poet = //poets_en_US_andronache.EfraimKarias
 meVE.SticGlory.mode = misc_en_US_andronache.Mode5
 meVE.SticGlory.melody = ""
-meVE.SticGlory.text = ""
+meVE.SticGlory.text = //me.m07.d25_en_US_andronache.meVE.LityGlory.text
 
 meVE.Aposticha1.mode = misc_en_US_andronache.Mode1
 meVE.Aposticha1.melody = he.a.m1_en_US_andronache.TonOuranionTagmaton.name
-meVE.Aposticha1.text = ""
+meVE.Aposticha1.text = me.m09.d08_en_US_andronache.meSV.Stichera1.text
 
 meVE.Aposticha2.mode = misc_en_US_andronache.Mode1
 meVE.Aposticha2.melody = he.a.m1_en_US_andronache.TonOuranionTagmaton.name
-meVE.Aposticha2.text = ""
+meVE.Aposticha2.text = me.m09.d08_en_US_andronache.meSV.Stichera3.text
 
 meVE.Aposticha3.mode = misc_en_US_andronache.Mode1
 meVE.Aposticha3.melody = he.a.m1_en_US_andronache.TonOuranionTagmaton.name
-meVE.Aposticha3.text = ""
+meVE.Aposticha3.text = me.m09.d08_en_US_andronache.meSV.Stichera4.text
 
 meVE.AposGlory.mode = misc_en_US_andronache.Mode8
 meVE.AposGlory.melody = ""
