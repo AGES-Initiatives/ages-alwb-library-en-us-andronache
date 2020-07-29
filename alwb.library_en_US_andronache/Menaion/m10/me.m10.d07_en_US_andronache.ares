@@ -46,7 +46,7 @@ meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_US_andronache.Mode8
 meVE.AposTheotokion.melody = he.a.m8_en_US_andronache.OTouParadoxou.name
-meVE.AposTheotokion.text = ""
+meVE.AposTheotokion.text = //me.m10.d02_en_US_andronache.meMA.AposTheotokion.text
 
 meVE.AposStavrotheotokion.mode = misc_en_US_andronache.Mode8
 meVE.AposStavrotheotokion.melody = he.a.m8_en_US_andronache.OTouParadoxou.name
@@ -333,7 +333,7 @@ meMA.AposTheotokion.text = ""
 
 meMA.AposStavrotheotokion.mode = misc_en_US_andronache.Mode2
 meMA.AposStavrotheotokion.melody = he.a.m2_en_US_andronache.OteEkTouXylou.name
-meMA.AposStavrotheotokion.text = ""
+meMA.AposStavrotheotokion.text = //me.m02.d25_en_US_andronache.meVE.SticStavrotheotokion.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
