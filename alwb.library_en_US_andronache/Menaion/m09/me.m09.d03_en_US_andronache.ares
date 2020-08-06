@@ -54,7 +54,7 @@ meVE.SticStavrotheotokion.text = //oc.m6.d6_en_US_andronache.ocVE.AposTheotokion
 
 meVE.AposGlory.mode = misc_en_US_andronache.Mode6
 meVE.AposGlory.melody = ""
-meVE.AposGlory.text = //me.m05.d08_en_US_andronache.meVE.Lity5.text
+meVE.AposGlory.text = me.m01.d15_en_US_andronache.meVE.AposGlory.text
 
 meVE.AposTheotokion.mode = misc_en_US_andronache.Mode6
 meVE.AposTheotokion.melody = he.a.m6_en_US_andronache.TriimerosAnestis.notmetered
