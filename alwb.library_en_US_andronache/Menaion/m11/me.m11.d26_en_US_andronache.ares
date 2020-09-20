@@ -440,8 +440,6 @@ meMA.LaudsStavrotheotokion.mode = misc_en_US_andronache.Mode6
 meMA.LaudsStavrotheotokion.melody = he.a.m6_en_US_andronache.TriimerosAnestis.notmetered
 meMA.LaudsStavrotheotokion.text = ""
 
-meMA.MM.LaudsSunday.text = properties_en_US_andronache.media.key
-
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text

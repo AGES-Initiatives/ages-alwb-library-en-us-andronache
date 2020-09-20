@@ -257,8 +257,6 @@ meMA.Exaposteilarion1.mode = misc_en_US_andronache.Mode2
 meMA.Exaposteilarion1.melody = he.a.m2_en_US_andronache.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion1.text = me.m06.d24_en_US_andronache.meMA.Exaposteilarion1.text
 
-meMA.MM.LaudsSunday.text = properties_en_US_andronache.media.key
-
 meMA.AposGlory.mode = misc_en_US_andronache.Mode8
 meMA.AposGlory.melody = misc_en_US_andronache.Idiomelon
 meMA.AposGlory.text = me.m06.d24_en_US_andronache.meSV.SticGlory.text

@@ -471,8 +471,6 @@ meMA.Exaposteilarion2.mode = misc_en_US_andronache.Mode2
 meMA.Exaposteilarion2.melody = he.a.m2_en_US_andronache.ToisMathitaisSynelthomen.notmetered
 meMA.Exaposteilarion2.text = ""
 
-meMA.MM.LaudsSunday.text = properties_en_US_andronache.media.key
-
 meMA.AposGlory.poet = //poets_en_US_andronache.Anatoliou
 meMA.AposGlory.mode = misc_en_US_andronache.Mode8
 meMA.AposGlory.melody = ""
