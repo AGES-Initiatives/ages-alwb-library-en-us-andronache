@@ -344,7 +344,7 @@ meMA.Ode6H.melody = misc_en_US_andronache.Heirmos
 meMA.Ode6H.text = he.h.m8_en_US_andronache.TinDeisinEkcheo.text
 
 meMA.Kontakion1.mode = misc_en_US_andronache.Mode4
-meMA.Kontakion1.melody = he.a.m4_en_US_andronache.EpefanisSimeron.mode
+meMA.Kontakion1.melody = he.a.m4_en_US_andronache.EpefanisSimeron.name
 meMA.Kontakion1.text = "Today, in the divine Transfiguration, all mortal nature shines forth in a divine manner, crying out in gladness: Christ is transfigured, saving everyone."
 
 meMA.Kontakion2.mode = misc_en_US_andronache.Mode8
