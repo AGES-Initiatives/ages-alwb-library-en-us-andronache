@@ -41,7 +41,7 @@ meVE.Apolytikion1.mode = misc_en_US_andronache.Mode3
 meVE.Apolytikion1.melody = he.a.m3_en_US_andronache.TheiasPisteos.notmetered
 meVE.Apolytikion1.text = ""
 
-meMA.C1Poet = //poets_en_US_andronache.Theofanous
+meMA.C1.poet = //poets_en_US_andronache.Theofanous
 
 meMA.C1.title = //titles_en_US_andronache.KanonTouAgiou
 meMA.C1.verse = //prayers_en_US_andronache.verse_SaintM.text

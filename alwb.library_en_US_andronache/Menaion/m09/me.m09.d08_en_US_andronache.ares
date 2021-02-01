@@ -157,9 +157,9 @@ meMA.PostGospelIdiomelon.mode = misc_en_US_andronache.Mode4
 meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = me.m09.d07_en_US_andronache.meVE.AposGlory.text
 
-meMA.C1Poet = //poets_en_US_andronache.KyriouIoannou
+meMA.C1.poet = //poets_en_US_andronache.KyriouIoannou
 
-meMA.C2Poet = //poets_en_US_andronache.KyriouAndreou
+meMA.C2.poet = //poets_en_US_andronache.KyriouAndreou
 
 meMA.Ode1C1H.ode = misc_en_US_andronache.Ode1
 meMA.Ode1C1H.mode = misc_en_US_andronache.Mode2

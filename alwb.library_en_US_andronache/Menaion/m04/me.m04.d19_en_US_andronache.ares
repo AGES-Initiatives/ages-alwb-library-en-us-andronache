@@ -99,12 +99,12 @@ meMA.Ode3Kathisma1.melody = he.a.m4_en_US_andronache.TachyProkatalave.notmetered
 meMA.Ode3Kathisma1.text = "You dyed your sacred robe in blood; you brought yourself as an acceptable sacrifice to God, glorious Paphnutios. You dashed the demons boldness, gladdening the angels by your steadfast resistance. Therefore, do not cease earnestly entreating that we be saved."
 
 meMA.Ode3KathismaT.mode = misc_en_US_andronache.Mode4
-meMA.Ode3KathismaT.melody = he.a.m4_en_US_andronache.TachyProkatalave.name
+meMA.Ode3KathismaT.melody = he.a.m4_en_US_andronache.TachyProkatalave.incipit
 meMA.Ode3KathismaT.text = //oc.m4.d5_en_US_andronache.ocMA.Kathisma23.text "Hear, O Lady, your servant crying out from an afflicted soul and grant remission of my many evils, for I call upon you night and day. Rescue me, O Theotokos from the fire of Gehenna and place me at the right hand of your Son and God."
 
 
 meMA.Ode3KathismaSt.mode = misc_en_US_andronache.Mode4
-meMA.Ode3KathismaSt.melody = he.a.m4_en_US_andronache.TachyProkatalave.name
+meMA.Ode3KathismaSt.melody = he.a.m4_en_US_andronache.TachyProkatalave.incipit
 meMA.Ode3KathismaSt.text = //oc.m4.d6_en_US_andronache.ocMA.Kathisma23.text
 
 meMA.Ode4C1H.ode = misc_en_US_andronache.Ode4

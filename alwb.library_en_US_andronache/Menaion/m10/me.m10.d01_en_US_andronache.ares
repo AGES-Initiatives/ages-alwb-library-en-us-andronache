@@ -87,8 +87,8 @@ meVE.Apolytikion3.melody = //he.ga_en_US_andronache.EnSoiPaterAkrivos.notmetered
 meVE.GeneralApolytikion3.notmetered = ""
 meVE.MM.GeneralApolytikion3.text = properties_en_US_andronache.media.key
 
-meMA.C1Poet = //poets_en_US_andronache.IoannouMonachou
-meMA.C1Acrostic.text = ""
+meMA.C1.poet = //poets_en_US_andronache.IoannouMonachou
+meMA.C1.acrostic = ""
 
 meMA.C1.title = //titles_en_US_andronache.KanonTouApostolou
 meMA.C1.verse = //prayers_en_US_andronache.verse_Apostle.text

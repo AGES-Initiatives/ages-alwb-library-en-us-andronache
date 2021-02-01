@@ -17,28 +17,28 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_andronache.Mode8
-meVE.Stichera01.melody = he.a.m8_en_US_andronache.OTouParadoxou.name
+meVE.Stichera01.melody = he.a.m8_en_US_andronache.OTouParadoxou.incipit
 meVE.Stichera01.text = ""
 
 meVE.Stichera02.mode = misc_en_US_andronache.Mode8
-meVE.Stichera02.melody = he.a.m8_en_US_andronache.OTouParadoxou.name
+meVE.Stichera02.melody = he.a.m8_en_US_andronache.OTouParadoxou.incipit
 meVE.Stichera02.text = ""
 
 meVE.Stichera03.mode = misc_en_US_andronache.Mode8
-meVE.Stichera03.melody = he.a.m8_en_US_andronache.OTouParadoxou.name
+meVE.Stichera03.melody = he.a.m8_en_US_andronache.OTouParadoxou.incipit
 meVE.Stichera03.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_andronache.Mode8
-meVE.SticTheotokion.melody = he.a.m8_en_US_andronache.OTouParadoxou.name
+meVE.SticTheotokion.melody = he.a.m8_en_US_andronache.OTouParadoxou.incipit
 meVE.SticTheotokion.text = //me.m02.d20_en_US_andronache.meVE.SticTheotokion.text
 
 meVE.SticStavrotheotokion.mode = misc_en_US_andronache.Mode8
-meVE.SticStavrotheotokion.melody = he.a.m8_en_US_andronache.OTouParadoxou.name
+meVE.SticStavrotheotokion.melody = he.a.m8_en_US_andronache.OTouParadoxou.incipit
 meVE.SticStavrotheotokion.text = //tr.d062_en_US_andronache.trVE.AposTheotokion.text
 
 meVE.Apolytikion1.poet = //poets_en_US_andronache.Gerasimou
 meVE.Apolytikion1.mode = misc_en_US_andronache.Mode1
-meVE.Apolytikion1.melody = he.a.m1_en_US_andronache.TisErimouPolitis.name
+meVE.Apolytikion1.melody = he.a.m1_en_US_andronache.TisErimouPolitis.incipit
 meVE.Apolytikion1.text = ""
 
 meMA.C1.title = //titles_en_US_andronache.KanonTonAgion
@@ -243,11 +243,11 @@ meMA.Ode9H.melody = misc_en_US_andronache.Heirmos
 meMA.Ode9H.text = he.h.m6_en_US_andronache.TheonAnthropois.text
 
 meMA.Exaposteilarion1.mode = misc_en_US_andronache.Mode3
-meMA.Exaposteilarion1.melody = he.a.m3_en_US_andronache.OOuranonToisAstrois.name
+meMA.Exaposteilarion1.melody = he.a.m3_en_US_andronache.OOuranonToisAstrois.incipit
 meMA.Exaposteilarion1.text = ""
 
 meMA.ExapTheotokion.mode = misc_en_US_andronache.Mode3
-meMA.ExapTheotokion.melody = he.a.m3_en_US_andronache.OOuranonToisAstrois.name
+meMA.ExapTheotokion.melody = he.a.m3_en_US_andronache.OOuranonToisAstrois.incipit
 meMA.ExapTheotokion.text = ""
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode

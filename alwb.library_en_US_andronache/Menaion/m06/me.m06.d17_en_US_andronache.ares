@@ -18,27 +18,27 @@ meHO.note2 = ""
 meDismissal = ""
 
 meVE.Stichera01.mode = misc_en_US_andronache.Mode4
-meVE.Stichera01.melody = he.a.m4_en_US_andronache.EdokasSimeiosin.name
+meVE.Stichera01.melody = he.a.m4_en_US_andronache.EdokasSimeiosin.incipit
 meVE.Stichera01.text = ""
 
 meVE.Stichera02.mode = misc_en_US_andronache.Mode4
-meVE.Stichera02.melody = he.a.m4_en_US_andronache.EdokasSimeiosin.name
+meVE.Stichera02.melody = he.a.m4_en_US_andronache.EdokasSimeiosin.incipit
 meVE.Stichera02.text = ""
 
 meVE.Stichera03.mode = misc_en_US_andronache.Mode4
-meVE.Stichera03.melody = he.a.m4_en_US_andronache.EdokasSimeiosin.name
+meVE.Stichera03.melody = he.a.m4_en_US_andronache.EdokasSimeiosin.incipit
 meVE.Stichera03.text = ""
 
 meVE.Stichera04.mode = misc_en_US_andronache.Mode4
-meVE.Stichera04.melody = he.a.m4_en_US_andronache.OsGennaionEnMartysi.name
+meVE.Stichera04.melody = he.a.m4_en_US_andronache.OsGennaionEnMartysi.incipit
 meVE.Stichera04.text = ""
 
 meVE.Stichera05.mode = misc_en_US_andronache.Mode4
-meVE.Stichera05.melody = he.a.m4_en_US_andronache.OsGennaionEnMartysi.name
+meVE.Stichera05.melody = he.a.m4_en_US_andronache.OsGennaionEnMartysi.incipit
 meVE.Stichera05.text = ""
 
 meVE.Stichera06.mode = misc_en_US_andronache.Mode4
-meVE.Stichera06.melody = he.a.m4_en_US_andronache.OsGennaionEnMartysi.name
+meVE.Stichera06.melody = he.a.m4_en_US_andronache.OsGennaionEnMartysi.incipit
 meVE.Stichera06.text = ""
 
 meVE.SticGlory.poet = //poets_en_US_andronache.Anatoliou
@@ -47,19 +47,19 @@ meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
 
 meVE.SticTheotokion.mode = misc_en_US_andronache.Mode8
-meVE.SticTheotokion.melody = he.a.m8_en_US_andronache.OTouParadoxou.name
+meVE.SticTheotokion.melody = he.a.m8_en_US_andronache.OTouParadoxou.incipit
 meVE.SticTheotokion.text = ""
 
 meVE.SticStavrotheotokion.mode = misc_en_US_andronache.Mode8
-meVE.SticStavrotheotokion.melody = he.a.m8_en_US_andronache.OTouParadoxou.name
+meVE.SticStavrotheotokion.melody = he.a.m8_en_US_andronache.OTouParadoxou.incipit
 meVE.SticStavrotheotokion.text = me.m01.d15_en_US_andronache.meMA.AposStavrotheotokion.text
 
 meVE.Apolytikion1.poet = //poets_en_US_andronache.Gerasimou
 meVE.Apolytikion1.mode = misc_en_US_andronache.Mode3
-meVE.Apolytikion1.melody = he.a.m3_en_US_andronache.TinOraiotita.name
+meVE.Apolytikion1.melody = he.a.m3_en_US_andronache.TinOraiotita.incipit
 meVE.Apolytikion1.text = ""
 
-meMA.C1Acrostic.text = ""
+meMA.C1.acrostic = ""
 
 meMA.C1.title = //titles_en_US_andronache.KanonTonAgion
 meMA.C1.verse = //prayers_en_US_andronache.verse_SaintsM.text
@@ -110,7 +110,7 @@ meMA.Ode3H.melody = misc_en_US_andronache.Heirmos
 meMA.Ode3H.text = he.h.m8_en_US_andronache.SyEiToStereoma.text
 
 meMA.Ode3Kathisma1.mode = misc_en_US_andronache.Mode3
-meMA.Ode3Kathisma1.melody = he.a.m3_en_US_andronache.TheiasPisteos.name
+meMA.Ode3Kathisma1.melody = he.a.m3_en_US_andronache.TheiasPisteos.incipit
 meMA.Ode3Kathisma1.text = "Having taken up a divine mindset, O champions of Dyrrachium and soldiers of Christ who were firm in spirit: you took down the insolence of Apollonios, and put to shame the worship of Tripontios; having manifestly received the trophies of victory from God, grant to the faithful healing from passions."
 
 meMA.Ode3KathismaT.mode = misc_en_US_andronache.Mode3
@@ -118,7 +118,7 @@ meMA.Ode3KathismaT.melody = he.a.m3_en_US_andronache.TheiasPisteos.notmetered
 meMA.Ode3KathismaT.text = "You became the divine dwelling of the Logos, only all-pure Virgin-mother, having risen above the angels in purity. Cleanse me, who have become bowed down and filthy more than all others by the trespasses of the flesh by the divine waters of your intercessions and grant me great mercy, august one." //oc.m3.d2_en_US_andronache.ocMA.Kathisma23.text
 
 meMA.Ode3KathismaSt.mode = misc_en_US_andronache.Mode3
-meMA.Ode3KathismaSt.melody = he.a.m3_en_US_andronache.TheiasPisteos.name
+meMA.Ode3KathismaSt.melody = he.a.m3_en_US_andronache.TheiasPisteos.incipit
 meMA.Ode3KathismaSt.text = ""
 
 meMA.Ode4C11.ode = misc_en_US_andronache.Ode4

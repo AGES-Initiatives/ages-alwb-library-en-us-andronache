@@ -179,11 +179,11 @@ meMA.PostGospelIdiomelon.mode = misc_en_US_andronache.Mode2
 meMA.PostGospelIdiomelon.melody = misc_en_US_andronache.Idiomelon
 meMA.PostGospelIdiomelon.text = ""
 
-meMA.C1Poet = ""//poets_en_US_andronache.IoannouTouDamaskinou
-meMA.C1Acrostic.text = ""
+meMA.C1.poet = ""//poets_en_US_andronache.IoannouTouDamaskinou
+meMA.C1.acrostic = ""
 
-meMA.C2Acrostic.poet = ""//poets_en_US_andronache.Georgiou
-meMA.C2Acrostic.text = ""
+meMA.C2.poet = ""//poets_en_US_andronache.Georgiou
+meMA.C2.acrostic = ""
 
 meMA.Ode1C1H.ode = misc_en_US_andronache.Ode1
 meMA.Ode1C1H.mode = misc_en_US_andronache.Mode4
