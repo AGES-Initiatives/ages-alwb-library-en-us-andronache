@@ -301,6 +301,7 @@ meMA.Ode6C2T.text = "Portraying the will of God, the entire choir of the prophet
 meMA.Ode6H.ode = misc_en_US_andronache.Ode6
 meMA.Ode6H.mode = misc_en_US_andronache.Mode1
 meMA.Ode6H.melody = misc_en_US_andronache.HeirmosNotMetered
+meMA.Ode6H.incipit = he.h.m1_en_US_andronache.SplanchnonIonan.incipit
 meMA.Ode6H.text = "" //he.h.m1_en_US_andronache.SplanchnonIonan.text
 
 meMA.Kontakion1.mode = misc_en_US_andronache.Mode1

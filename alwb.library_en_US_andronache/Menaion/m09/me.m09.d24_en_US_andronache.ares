@@ -931,8 +931,11 @@ alt1.meMA.Ode8C14.melody = he.h.m1_en_US_andronache.FlogaDrosizousanOsious.notme
 alt1.meMA.Ode8C14.incipit = "O Theotokos, the man who"
 alt1.meMA.Ode8C14.text = "O Theotokos, the man who had been weakened by the illness and could not move for three years, has become a clear proclaimer of the sign. When he became miraculously healthy in your temple, he was filled with divine joy and he glorifies your miracle; celebrating, we hymn the Creator and exalt Him beyond measure unto all the ages."
 
+alt1.meMA.Ode9C1M01.incipit = ""
 alt1.meMA.Ode9C1M01.text = ""
+alt1.meMA.Ode9C1M0Tr.incipit = ""
 alt1.meMA.Ode9C1M0Tr.text = ""
+alt1.meMA.Ode9C1M0Th.incipit = ""
 alt1.meMA.Ode9C1M0Th.text = ""
 
 alt1.meMA.Ode9C1H.ode = misc_en_US_andronache.Ode9
