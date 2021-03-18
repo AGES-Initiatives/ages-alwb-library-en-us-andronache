@@ -124,8 +124,8 @@ meMA.Ode3Kathisma1.text = "You stood on the divine watch, blessed one, and under
 
 meMA.Ode3KathismaT.mode = misc_en_US_andronache.Mode4
 meMA.Ode3KathismaT.melody = he.a.m4_en_US_andronache.OYpsotheisEnToStavro.notmetered
-meMA.Ode3KathismaT.incipit = "Being the refuge of those…"
-meMA.Ode3KathismaT.text = "Being the refuge of those in perils, the reconciliation with God of those who stumble, most holy Lady, ever guard us from all danger and evil of people and fearful chastisement and the passions of dishonor, as we ever call upon you with undoubting faith, all-hymned virgin."
+meMA.Ode3KathismaT.incipit = me.m11.d28_en_US_andronache.meMA.Ode3KathismaT.incipit
+meMA.Ode3KathismaT.text = me.m11.d28_en_US_andronache.meMA.Ode3KathismaT.text
 
 meMA.Ode3KathismaSt.mode = misc_en_US_andronache.Mode4
 meMA.Ode3KathismaSt.melody = he.a.m4_en_US_andronache.OYpsotheisEnToStavro.notmetered
