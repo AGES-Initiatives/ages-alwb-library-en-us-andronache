@@ -183,8 +183,8 @@ meMA.Ode3Kathisma2.text = "You imitated the sacred zeal of the Baptist, and you 
 
 meMA.Ode3KathismaT.mode = misc_en_US_andronache.Mode1
 meMA.Ode3KathismaT.melody = he.a.m1_en_US_andronache.TonTafonSouSotir.notmetered
-meMA.Ode3KathismaT.incipit = "Pure one, shelter my wretched…"
-meMA.Ode3KathismaT.text = "Pure one, shelter my wretched soul and be merciful to it, for from many transgressions it has slipped into the depth of perdition, all blameless one; and in the fearful hour of my death, free it from the frightful countenances of accusing demons."
+meMA.Ode3KathismaT.incipit = //oc.m1.d2_en_US_andronache.ocMA.Kathisma23.incipit
+meMA.Ode3KathismaT.text = //oc.m1.d2_en_US_andronache.ocMA.Kathisma23.text
 
 meMA.Ode3KathismaSt.mode = misc_en_US_andronache.Mode1
 meMA.Ode3KathismaSt.melody = he.a.m1_en_US_andronache.TonTafonSouSotir.notmetered

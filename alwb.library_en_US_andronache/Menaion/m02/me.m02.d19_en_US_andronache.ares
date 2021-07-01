@@ -119,8 +119,8 @@ meMA.Ode3Kathisma1.text = "Having become a student of Paul’s, god-bearer, you 
 
 meMA.Ode3KathismaT.mode = misc_en_US_andronache.Mode1
 meMA.Ode3KathismaT.melody = he.a.m1_en_US_andronache.TonTafonSouSotir.notmetered
-meMA.Ode3KathismaT.incipit = "As we are ever bending…"
-meMA.Ode3KathismaT.text = "As we are ever bending towards the false path of evils, provoking to anger the Lord who is beyond good, guide us on the path of repentance, unwedded, blessed Mary, refuge of people in despair and dwelling place of God."
+meMA.Ode3KathismaT.incipit = //oc.m1.m1_en_US_andronache.ocMO.Kathisma12.incipit
+meMA.Ode3KathismaT.text = //oc.m1.m1_en_US_andronache.ocMO.Kathisma12.text
 
 meMA.Ode3KathismaSt.mode = misc_en_US_andronache.Mode1
 meMA.Ode3KathismaSt.melody = he.a.m1_en_US_andronache.TonTafonSouSotir.notmetered

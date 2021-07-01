@@ -65,7 +65,7 @@ meSV.AposGlory.text = ""
 meVE.Stichera01.poet = //poets_en_US_andronache.Sergiou
 meVE.Stichera01.mode = misc_en_US_andronache.Mode6
 meVE.Stichera01.melody = //misc_en_US_andronache.Idiomelon
-meVE.Stichera01.incipit = "Today, God who rests upon…"
+meVE.Stichera01.incipit = "Today, God who rests…"
 meVE.Stichera01.text = "Today, God who rests upon the noetic thrones has prepared a holy throne for Himself upon the earth. He who established the heavens in wisdom has prepared an animate heaven, in His love for mankind; from a fruitless root, He raised for us a life-bearing plant, His Mother. God of wonders and the hope of the hopeless, Lord, glory to You."
 
 meVE.Stichera02.mode = misc_en_US_andronache.Mode6
@@ -127,7 +127,7 @@ meVE.Lity4.text = me.m09.d07_en_US_andronache.meMA.AposGlory.text
 meVE.LityGlory.poet = //poets_en_US_andronache.SergiouAgiopolitou
 meVE.LityGlory.mode = misc_en_US_andronache.Mode8
 meVE.LityGlory.melody = //misc_en_US_andronache.Idiomelon
-meVE.LityGlory.incipit = "On this solemn day of…"
+meVE.LityGlory.incipit = "On this solemn day…"
 meVE.LityGlory.text = "On this solemn day of our feast, let us proclaim, with a spiritual lyre, that from the seed of David, the mother of Life, who dispelled the darkness, is born today. She is the recreation of Adam and restoration of Eve, the spring of incorruption and the deliverance from corruption. Through her we have been deified and have been freed from death. Let us, the faithful, cry out to her with Gabriel: \"Rejoice, O Lady full of grace, the Lord is with you, and through you He grants us the great mercy.\""
 
 meVE.Aposticha1.poet = //poets_en_US_andronache.GermanouPatriarchou
