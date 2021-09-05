@@ -58,7 +58,7 @@ meMA.C1.acrostic = ""
 
 meMA.Ode1C1H.ode = misc_en_US_andronache.Ode1
 meMA.Ode1C1H.mode = misc_en_US_andronache.Mode4
-meMA.Ode1C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode1C1H.melody = he.h.m4_en_US_andronache.ThalassisToErythraion.melody
 meMA.Ode1C1H.incipit = he.h.m4_en_US_andronache.ThalassisToErythraion.incipit
 meMA.Ode1C1H.text = he.h.m4_en_US_andronache.ThalassisToErythraion.text
 
@@ -91,7 +91,7 @@ meMA.Ode1C1T.text = "Seedlessly, by the will of the Father, you conceived from t
 
 meMA.Ode3C1H.ode = misc_en_US_andronache.Ode3
 meMA.Ode3C1H.mode = misc_en_US_andronache.Mode4
-meMA.Ode3C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode3C1H.melody = he.h.m4_en_US_andronache.OukEnSofia.melody
 meMA.Ode3C1H.incipit = he.h.m4_en_US_andronache.OukEnSofia.incipit
 meMA.Ode3C1H.text = he.h.m4_en_US_andronache.OukEnSofia.text
 
@@ -136,7 +136,7 @@ meMA.Ode3KathismaSt.text = me.m01.d29_en_US_andronache.meMA.Ode3KathismaSt.text
 
 meMA.Ode4C1H.ode = misc_en_US_andronache.Ode4
 meMA.Ode4C1H.mode = misc_en_US_andronache.Mode4
-meMA.Ode4C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode4C1H.melody = he.h.m4_en_US_andronache.EparthentaSeIdousa.melody
 meMA.Ode4C1H.incipit = he.h.m4_en_US_andronache.EparthentaSeIdousa.incipit
 meMA.Ode4C1H.text = he.h.m4_en_US_andronache.EparthentaSeIdousa.text
 
@@ -172,7 +172,7 @@ meMA.Ode4C1T.text = "You conceived without a husband, O Virgin, and after birth 
 
 meMA.Ode5C1H.ode = misc_en_US_andronache.Ode5
 meMA.Ode5C1H.mode = misc_en_US_andronache.Mode4
-meMA.Ode5C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode5C1H.melody = he.h.m4_en_US_andronache.SyKyrieMouFos.melody
 meMA.Ode5C1H.incipit = he.h.m4_en_US_andronache.SyKyrieMouFos.incipit
 meMA.Ode5C1H.text = he.h.m4_en_US_andronache.SyKyrieMouFos.text
 
@@ -202,7 +202,7 @@ meMA.Ode5C1T.text = "Bride of God, we put you forward as an unbreakable weapon a
 
 meMA.Ode6C1H.ode = misc_en_US_andronache.Ode6
 meMA.Ode6C1H.mode = misc_en_US_andronache.Mode4
-meMA.Ode6C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode6C1H.melody = he.h.m4_en_US_andronache.ThysoSoiMetaFonis.melody
 meMA.Ode6C1H.incipit = he.h.m4_en_US_andronache.ThysoSoiMetaFonis.incipit
 meMA.Ode6C1H.text = he.h.m4_en_US_andronache.ThysoSoiMetaFonis.text
 
@@ -239,7 +239,7 @@ meMA.Oikos1.text = "Not having honored anything on earth, you followed, rejoicin
 
 meMA.Ode7C1H.ode = misc_en_US_andronache.Ode7
 meMA.Ode7C1H.mode = misc_en_US_andronache.Mode4
-meMA.Ode7C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode7C1H.melody = he.h.m4_en_US_andronache.EnTiKaminoAvramiaioi.melody
 meMA.Ode7C1H.incipit = he.h.m4_en_US_andronache.EnTiKaminoAvramiaioi.incipit
 meMA.Ode7C1H.text = he.h.m4_en_US_andronache.EnTiKaminoAvramiaioi.text
 
@@ -269,7 +269,7 @@ meMA.Ode7C1T.text = "Rejoice, sanctified divine dwelling place of the Most High,
 
 meMA.Ode8C1H.ode = misc_en_US_andronache.Ode8
 meMA.Ode8C1H.mode = misc_en_US_andronache.Mode4
-meMA.Ode8C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode8C1H.melody = he.h.m4_en_US_andronache.CheirasEkpetasasDaniil.melody
 meMA.Ode8C1H.incipit = he.h.m4_en_US_andronache.CheirasEkpetasasDaniil.incipit
 meMA.Ode8C1H.text = he.h.m4_en_US_andronache.CheirasEkpetasasDaniil.text
 
@@ -305,7 +305,7 @@ meMA.Ode8C1T.text = "In all generations, you alone, O pure Virgin, were shown to
 
 meMA.Ode9C1H.ode = misc_en_US_andronache.Ode9
 meMA.Ode9C1H.mode = misc_en_US_andronache.Mode4
-meMA.Ode9C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode9C1H.melody = he.h.m4_en_US_andronache.LithosAcheirotmitos.melody
 meMA.Ode9C1H.incipit = he.h.m4_en_US_andronache.LithosAcheirotmitos.incipit
 meMA.Ode9C1H.text = he.h.m4_en_US_andronache.LithosAcheirotmitos.text
 

@@ -193,7 +193,7 @@ meMA.Ode3C2T.text = "Clothing Himself in me as a garment from your divine blood,
 
 meMA.Ode3H.ode = misc_en_US_andronache.Ode3
 meMA.Ode3H.mode = misc_en_US_andronache.Mode4
-meMA.Ode3H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode3H.melody = he.h.m4_en_US_andronache.EffrainetaiEpiSoi.melody
 meMA.Ode3H.incipit = he.h.m4_en_US_andronache.EffrainetaiEpiSoi.incipit
 meMA.Ode3H.text = he.h.m4_en_US_andronache.EffrainetaiEpiSoi.text
 
@@ -363,7 +363,7 @@ meMA.Ode6C2T.text = "Mortify the mind of my flesh, Virgin, who gave birth to the
 
 meMA.Ode6H.ode = misc_en_US_andronache.Ode6
 meMA.Ode6H.mode = misc_en_US_andronache.Mode4
-meMA.Ode6H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode6H.melody = he.h.m4_en_US_andronache.ThysoSoiMetaFonis.melody
 meMA.Ode6H.incipit = he.h.m4_en_US_andronache.ThysoSoiMetaFonis.incipit
 meMA.Ode6H.text = he.h.m4_en_US_andronache.ThysoSoiMetaFonis.text
 
@@ -478,7 +478,7 @@ meMA.Ode8C2T.text = "Heal my ailing soul, O Virgin, making me clean from me the 
 
 meMA.Ode8H.ode = misc_en_US_andronache.Ode8
 meMA.Ode8H.mode = misc_en_US_andronache.Mode4
-meMA.Ode8H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode8H.melody = he.h.m4_en_US_andronache.CheirasEkpetasasDaniil.melody
 meMA.Ode8H.incipit = he.h.m4_en_US_andronache.CheirasEkpetasasDaniil.incipit
 meMA.Ode8H.text = he.h.m4_en_US_andronache.CheirasEkpetasasDaniil.text
 
@@ -538,7 +538,7 @@ meMA.Ode9C2T.text = "You hold in your embrace  Him who holds all things in His d
 
 meMA.Ode9H.ode = misc_en_US_andronache.Ode9
 meMA.Ode9H.mode = misc_en_US_andronache.Mode4
-meMA.Ode9H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode9H.melody = he.h.m4_en_US_andronache.LithosAcheirotmitos.melody
 meMA.Ode9H.incipit = he.h.m4_en_US_andronache.LithosAcheirotmitos.incipit
 meMA.Ode9H.text = he.h.m4_en_US_andronache.LithosAcheirotmitos.text
 

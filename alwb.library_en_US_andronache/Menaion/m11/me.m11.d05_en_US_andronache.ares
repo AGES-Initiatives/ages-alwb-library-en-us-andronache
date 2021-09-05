@@ -101,7 +101,7 @@ meMA.Ode3C1T.text = "There is no one who has run to your shelter, maiden, and di
 
 meMA.Ode3H.ode = misc_en_US_andronache.Ode3
 meMA.Ode3H.mode = misc_en_US_andronache.Mode6
-meMA.Ode3H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode3H.melody = he.h.m6_en_US_andronache.OukEstinAgios.melody
 meMA.Ode3H.incipit = he.h.m6_en_US_andronache.OukEstinAgios.incipit
 meMA.Ode3H.text = he.h.m6_en_US_andronache.OukEstinAgios.text
 
@@ -194,7 +194,7 @@ meMA.Ode6C1T.text = "Lady, make good my soul, which is made ill in many errors, 
 
 meMA.Ode6H.ode = misc_en_US_andronache.Ode6
 meMA.Ode6H.mode = misc_en_US_andronache.Mode6
-meMA.Ode6H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode6H.melody = he.h.m6_en_US_andronache.TouViouTinThalassan.melody
 meMA.Ode6H.incipit = he.h.m6_en_US_andronache.TouViouTinThalassan.incipit
 meMA.Ode6H.text = he.h.m6_en_US_andronache.TouViouTinThalassan.text
 
@@ -255,7 +255,7 @@ meMA.Ode8C1T.text = "As a fiery throne, all blameless one, you bear the one who 
 
 meMA.Ode8H.ode = misc_en_US_andronache.Ode8
 meMA.Ode8H.mode = misc_en_US_andronache.Mode6
-meMA.Ode8H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode8H.melody = he.h.m6_en_US_andronache.EkFlogosToisOsiois.melody
 meMA.Ode8H.incipit = he.h.m6_en_US_andronache.EkFlogosToisOsiois.incipit
 meMA.Ode8H.text = he.h.m6_en_US_andronache.EkFlogosToisOsiois.text
 
@@ -285,7 +285,7 @@ meMA.Ode9C1T.text = "With voices of thanksgiving we hymn you, for we have truly 
 
 meMA.Ode9H.ode = misc_en_US_andronache.Ode9
 meMA.Ode9H.mode = misc_en_US_andronache.Mode6
-meMA.Ode9H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode9H.melody = he.h.m6_en_US_andronache.TheonAnthropois.melody
 meMA.Ode9H.incipit = he.h.m6_en_US_andronache.TheonAnthropois.incipit
 meMA.Ode9H.text = he.h.m6_en_US_andronache.TheonAnthropois.text
 

@@ -52,7 +52,7 @@ meMA.C1.poet = //poets_en_US_andronache.Ignatiou
 
 meMA.Ode1C1H.ode = misc_en_US_andronache.Ode1
 meMA.Ode1C1H.mode = misc_en_US_andronache.Mode2
-meMA.Ode1C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode1C1H.melody = he.h.m2_en_US_andronache.DefteLaoi.melody
 meMA.Ode1C1H.incipit = he.h.m2_en_US_andronache.DefteLaoi.incipit
 meMA.Ode1C1H.text = he.h.m2_en_US_andronache.DefteLaoi.text
 
@@ -91,7 +91,7 @@ meMA.Ode1C1T.text = "By a word you conceived the Word of the Father and bore him
 
 meMA.Ode3C1H.ode = misc_en_US_andronache.Ode3
 meMA.Ode3C1H.mode = misc_en_US_andronache.Mode2
-meMA.Ode3C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode3C1H.melody = he.h.m2_en_US_andronache.StereosonImasEnSoiKyrie.melody
 meMA.Ode3C1H.incipit = he.h.m2_en_US_andronache.StereosonImasEnSoiKyrie.incipit
 meMA.Ode3C1H.text = he.h.m2_en_US_andronache.StereosonImasEnSoiKyrie.text
 
@@ -136,7 +136,7 @@ meMA.Ode3KathismaSt.text = "The undefiled ewe-lamb of the Logos, the pure virgin
 
 meMA.Ode4C1H.ode = misc_en_US_andronache.Ode4
 meMA.Ode4C1H.mode = misc_en_US_andronache.Mode2
-meMA.Ode4C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode4C1H.melody = he.h.m2_en_US_andronache.EisakikoaKyrieTinAkoin.melody
 meMA.Ode4C1H.incipit = he.h.m2_en_US_andronache.EisakikoaKyrieTinAkoin.incipit
 meMA.Ode4C1H.text = he.h.m2_en_US_andronache.EisakikoaKyrieTinAkoin.text
 
@@ -166,7 +166,7 @@ meMA.Ode4C1T.text = "We glorify you, noetic paradise who received in your womb t
 
 meMA.Ode5C1H.ode = misc_en_US_andronache.Ode5
 meMA.Ode5C1H.mode = misc_en_US_andronache.Mode2
-meMA.Ode5C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode5C1H.melody = he.h.m2_en_US_andronache.OTouFotosChorigos.melody
 meMA.Ode5C1H.incipit = he.h.m2_en_US_andronache.OTouFotosChorigos.incipit
 meMA.Ode5C1H.text = he.h.m2_en_US_andronache.OTouFotosChorigos.text
 
@@ -196,7 +196,7 @@ meMA.Ode5C1T.text = "Having been beautified, august one, by the coming of the ho
 
 meMA.Ode6C1H.ode = misc_en_US_andronache.Ode6
 meMA.Ode6C1H.mode = misc_en_US_andronache.Mode2
-meMA.Ode6C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode6C1H.melody = he.h.m2_en_US_andronache.EnAvyssoPtaismaton.melody
 meMA.Ode6C1H.incipit = he.h.m2_en_US_andronache.EnAvyssoPtaismaton.incipit
 meMA.Ode6C1H.text = he.h.m2_en_US_andronache.EnAvyssoPtaismaton.text
 
@@ -232,7 +232,7 @@ meMA.Kontakion1.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_andronache.Ode7
 meMA.Ode7C1H.mode = misc_en_US_andronache.Mode2
-meMA.Ode7C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode7C1H.melody = he.h.m2_en_US_andronache.EikonosChrysis.melody
 meMA.Ode7C1H.incipit = he.h.m2_en_US_andronache.EikonosChrysis.incipit
 meMA.Ode7C1H.text = he.h.m2_en_US_andronache.EikonosChrysis.text
 
@@ -262,7 +262,7 @@ meMA.Ode7C1T.text = "When Moses saw the bush on Sinai aflame but not unconsumed 
 
 meMA.Ode8C1H.ode = misc_en_US_andronache.Ode8
 meMA.Ode8C1H.mode = misc_en_US_andronache.Mode2
-meMA.Ode8C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode8C1H.melody = he.h.m2_en_US_andronache.TonEnKaminoTouPyros.melody
 meMA.Ode8C1H.incipit = he.h.m2_en_US_andronache.TonEnKaminoTouPyros.incipit
 meMA.Ode8C1H.text = he.h.m2_en_US_andronache.TonEnKaminoTouPyros.text
 
@@ -292,7 +292,7 @@ meMA.Ode8C1T.text = "By a word conceiving the Word seedlessly in your womb, why 
 
 meMA.Ode9C1H.ode = misc_en_US_andronache.Ode9
 meMA.Ode9C1H.mode = misc_en_US_andronache.Mode2
-meMA.Ode9C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode9C1H.melody = he.h.m2_en_US_andronache.TonEkTheouTheonLogon.melody
 meMA.Ode9C1H.incipit = he.h.m2_en_US_andronache.TonEkTheouTheonLogon.incipit
 meMA.Ode9C1H.text = he.h.m2_en_US_andronache.TonEkTheouTheonLogon.text
 

@@ -61,7 +61,7 @@ meMA.C1.acrostic = ""
 
 meMA.Ode1C1H.ode = misc_en_US_andronache.Ode1
 meMA.Ode1C1H.mode = misc_en_US_andronache.Mode4
-meMA.Ode1C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode1C1H.melody = he.h.m4_en_US_andronache.AnoixoToStomaMou.melody
 meMA.Ode1C1H.incipit = he.h.m4_en_US_andronache.AnoixoToStomaMou.incipit
 meMA.Ode1C1H.text = he.h.m4_en_US_andronache.AnoixoToStomaMou.text
 
@@ -100,7 +100,7 @@ meMA.Ode1C1T.text = "He who is by nature uncreated and co-eternal with the Fathe
 
 meMA.Ode3C1H.ode = misc_en_US_andronache.Ode3
 meMA.Ode3C1H.mode = misc_en_US_andronache.Mode4
-meMA.Ode3C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode3C1H.melody = he.h.m4_en_US_andronache.OukEnSofia.melody
 meMA.Ode3C1H.incipit = he.h.m4_en_US_andronache.OukEnSofia.incipit
 meMA.Ode3C1H.text = he.h.m4_en_US_andronache.OukEnSofia.text
 
@@ -151,7 +151,7 @@ meMA.Ode3KathismaSt.text = "When she beheld you hanging on the cross, your undef
 
 meMA.Ode4C1H.ode = misc_en_US_andronache.Ode4
 meMA.Ode4C1H.mode = misc_en_US_andronache.Mode4
-meMA.Ode4C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode4C1H.melody = he.h.m4_en_US_andronache.OKathimenosEnDoxi.melody
 meMA.Ode4C1H.incipit = he.h.m4_en_US_andronache.OKathimenosEnDoxi.incipit
 meMA.Ode4C1H.text = he.h.m4_en_US_andronache.OKathimenosEnDoxi.text
 
@@ -187,7 +187,7 @@ meMA.Ode4C1T.text = "You were beautified above all the comeliness of angels, as 
 
 meMA.Ode5C1H.ode = misc_en_US_andronache.Ode5
 meMA.Ode5C1H.mode = misc_en_US_andronache.Mode4
-meMA.Ode5C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode5C1H.melody = he.h.m4_en_US_andronache.AseveisOukOpsontai.melody
 meMA.Ode5C1H.incipit = he.h.m4_en_US_andronache.AseveisOukOpsontai.incipit
 meMA.Ode5C1H.text = he.h.m4_en_US_andronache.AseveisOukOpsontai.text
 
@@ -217,7 +217,7 @@ meMA.Ode5C1T.text = "Unwedded mother of God, you gave birth beyond understanding
 
 meMA.Ode6C1H.ode = misc_en_US_andronache.Ode6
 meMA.Ode6C1H.mode = misc_en_US_andronache.Mode4
-meMA.Ode6C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode6C1H.melody = he.h.m4_en_US_andronache.ThysoSoiMetaFonis.melody
 meMA.Ode6C1H.incipit = he.h.m4_en_US_andronache.ThysoSoiMetaFonis.incipit
 meMA.Ode6C1H.text = he.h.m4_en_US_andronache.ThysoSoiMetaFonis.text
 
@@ -253,7 +253,7 @@ meMA.Kontakion1.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_andronache.Ode7
 meMA.Ode7C1H.mode = misc_en_US_andronache.Mode4
-meMA.Ode7C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode7C1H.melody = he.h.m4_en_US_andronache.ODiasosasEnPyri.melody
 meMA.Ode7C1H.incipit = he.h.m4_en_US_andronache.ODiasosasEnPyri.incipit
 meMA.Ode7C1H.text = he.h.m4_en_US_andronache.ODiasosasEnPyri.text
 
@@ -283,7 +283,7 @@ meMA.Ode7C1T.text = "Having been sanctified in soul and purified beforehand in b
 
 meMA.Ode8C1H.ode = misc_en_US_andronache.Ode8
 meMA.Ode8C1H.mode = misc_en_US_andronache.Mode4
-meMA.Ode8C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode8C1H.melody = he.h.m4_en_US_andronache.PaidasEvageis.melody
 meMA.Ode8C1H.incipit = he.h.m4_en_US_andronache.PaidasEvageis.incipit
 meMA.Ode8C1H.text = he.h.m4_en_US_andronache.PaidasEvageis.text
 
@@ -319,7 +319,7 @@ meMA.Ode8C1T.text = "You were shown to be a sanctified temple of the Logos who s
 
 meMA.Ode9C1H.ode = misc_en_US_andronache.Ode9
 meMA.Ode9C1H.mode = misc_en_US_andronache.Mode4
-meMA.Ode9C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode9C1H.melody = he.h.m4_en_US_andronache.LithosAcheirotmitos.melody
 meMA.Ode9C1H.incipit = he.h.m4_en_US_andronache.LithosAcheirotmitos.incipit
 meMA.Ode9C1H.text = he.h.m4_en_US_andronache.LithosAcheirotmitos.text
 

@@ -52,7 +52,7 @@ meMA.C1.acrostic = ""
 
 meMA.Ode1C1H.ode = misc_en_US_andronache.Ode1
 meMA.Ode1C1H.mode = misc_en_US_andronache.Mode5
-meMA.Ode1C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode1C1H.melody = he.h.m5_en_US_andronache.IpponKaiAnavatin.melody
 meMA.Ode1C1H.incipit = he.h.m5_en_US_andronache.IpponKaiAnavatin.incipit
 meMA.Ode1C1H.text = he.h.m5_en_US_andronache.IpponKaiAnavatin.text
 
@@ -85,7 +85,7 @@ meMA.Ode1C1T.text = "Virgin, you bear in your hands Him who bears all things, an
 
 meMA.Ode3C1H.ode = misc_en_US_andronache.Ode3
 meMA.Ode3C1H.mode = misc_en_US_andronache.Mode5
-meMA.Ode3C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode3C1H.melody = he.h.m5_en_US_andronache.OPixasEpOudenos.melody
 meMA.Ode3C1H.incipit = he.h.m5_en_US_andronache.OPixasEpOudenos.incipit
 meMA.Ode3C1H.text = he.h.m5_en_US_andronache.OPixasEpOudenos.text
 
@@ -130,7 +130,7 @@ meMA.Ode3KathismaSt.text = "Seeing you, O Christ, dead when stretched upon the c
 
 meMA.Ode4C1H.ode = misc_en_US_andronache.Ode4
 meMA.Ode4C1H.mode = misc_en_US_andronache.Mode5
-meMA.Ode4C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode4C1H.melody = he.h.m5_en_US_andronache.TinTheianEnnoisas.melody
 meMA.Ode4C1H.incipit = he.h.m5_en_US_andronache.TinTheianEnnoisas.incipit
 meMA.Ode4C1H.text = he.h.m5_en_US_andronache.TinTheianEnnoisas.text
 
@@ -160,7 +160,7 @@ meMA.Ode4C1T.text = "The sun of righteousness, having arisen from you beyond und
 
 meMA.Ode5C1H.ode = misc_en_US_andronache.Ode5
 meMA.Ode5C1H.mode = misc_en_US_andronache.Mode5
-meMA.Ode5C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode5C1H.melody = he.h.m5_en_US_andronache.OAnavallomenos.melody
 meMA.Ode5C1H.incipit = he.h.m5_en_US_andronache.OAnavallomenos.incipit
 meMA.Ode5C1H.text = he.h.m5_en_US_andronache.OAnavallomenos.text
 
@@ -190,7 +190,7 @@ meMA.Ode5C1T.text = "Lady, may I, who faithfully glorify you, find you a deliver
 
 meMA.Ode6C1H.ode = misc_en_US_andronache.Ode6
 meMA.Ode6C1H.mode = misc_en_US_andronache.Mode5
-meMA.Ode6C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode6C1H.melody = he.h.m5_en_US_andronache.MainomeninKlydoni.melody
 meMA.Ode6C1H.incipit = he.h.m5_en_US_andronache.MainomeninKlydoni.incipit
 meMA.Ode6C1H.text = he.h.m5_en_US_andronache.MainomeninKlydoni.text
 
@@ -226,7 +226,7 @@ meMA.Kontakion1.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_andronache.Ode7
 meMA.Ode7C1H.mode = misc_en_US_andronache.Mode5
-meMA.Ode7C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode7C1H.melody = he.h.m5_en_US_andronache.OYperypsoumenos.melody
 meMA.Ode7C1H.incipit = he.h.m5_en_US_andronache.OYperypsoumenos.incipit
 meMA.Ode7C1H.text = he.h.m5_en_US_andronache.OYperypsoumenos.text
 
@@ -256,7 +256,7 @@ meMA.Ode7C1T.text = "All-blameless one, heal the passions of my heart, abate the
 
 meMA.Ode8C1H.ode = misc_en_US_andronache.Ode8
 meMA.Ode8C1H.mode = misc_en_US_andronache.Mode5
-meMA.Ode8C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode8C1H.melody = he.h.m5_en_US_andronache.SoiToPantourgo.melody
 meMA.Ode8C1H.incipit = he.h.m5_en_US_andronache.SoiToPantourgo.incipit
 meMA.Ode8C1H.text = he.h.m5_en_US_andronache.SoiToPantourgo.text
 
@@ -286,7 +286,7 @@ meMA.Ode8C1T.text = "That it may foretell your august childbearing all-pure one,
 
 meMA.Ode9C1H.ode = misc_en_US_andronache.Ode9
 meMA.Ode9C1H.mode = misc_en_US_andronache.Mode5
-meMA.Ode9C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode9C1H.melody = he.h.m5_en_US_andronache.IsaiaChoreve.melody
 meMA.Ode9C1H.incipit = he.h.m5_en_US_andronache.IsaiaChoreve.incipit
 meMA.Ode9C1H.text = he.h.m5_en_US_andronache.IsaiaChoreve.text
 

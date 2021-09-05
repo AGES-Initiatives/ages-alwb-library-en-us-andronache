@@ -54,7 +54,7 @@ meMA.C1.verse = //prayers_en_US_andronache.verse_Apostle.text
 
 meMA.Ode1C1H.ode = misc_en_US_andronache.Ode1
 meMA.Ode1C1H.mode = misc_en_US_andronache.Mode4
-meMA.Ode1C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode1C1H.melody = he.h.m4_en_US_andronache.ThalassisToErythraion.melody
 meMA.Ode1C1H.incipit = he.h.m4_en_US_andronache.ThalassisToErythraion.incipit
 meMA.Ode1C1H.text = he.h.m4_en_US_andronache.ThalassisToErythraion.text
 
@@ -84,7 +84,7 @@ meMA.Ode1C1T.text = "Having seen from afar with eyes of prophecy the god-inspire
 
 meMA.Ode3C1H.ode = misc_en_US_andronache.Ode3
 meMA.Ode3C1H.mode = misc_en_US_andronache.Mode4
-meMA.Ode3C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode3C1H.melody = he.h.m4_en_US_andronache.EffrainetaiEpiSoi.melody
 meMA.Ode3C1H.incipit = he.h.m4_en_US_andronache.EffrainetaiEpiSoi.incipit
 meMA.Ode3C1H.text = he.h.m4_en_US_andronache.EffrainetaiEpiSoi.text
 
@@ -129,7 +129,7 @@ meMA.Ode3KathismaSt.text = ""
 
 meMA.Ode4C1H.ode = misc_en_US_andronache.Ode4
 meMA.Ode4C1H.mode = misc_en_US_andronache.Mode4
-meMA.Ode4C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode4C1H.melody = he.h.m4_en_US_andronache.EparthentaSeIdousa.melody
 meMA.Ode4C1H.incipit = he.h.m4_en_US_andronache.EparthentaSeIdousa.incipit
 meMA.Ode4C1H.text = he.h.m4_en_US_andronache.EparthentaSeIdousa.text
 
@@ -159,7 +159,7 @@ meMA.Ode4C1T.text = "Habakkuk of old foresaw you as an overshadowed mountain, al
 
 meMA.Ode5C1H.ode = misc_en_US_andronache.Ode5
 meMA.Ode5C1H.mode = misc_en_US_andronache.Mode4
-meMA.Ode5C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode5C1H.melody = he.h.m4_en_US_andronache.SyKyrieMouFos.melody
 meMA.Ode5C1H.incipit = he.h.m4_en_US_andronache.SyKyrieMouFos.incipit
 meMA.Ode5C1H.text = he.h.m4_en_US_andronache.SyKyrieMouFos.text
 
@@ -189,7 +189,7 @@ meMA.Ode5C1T.text = "The Lord chose you alone from all generations, O Theotokos,
 
 meMA.Ode6C1H.ode = misc_en_US_andronache.Ode6
 meMA.Ode6C1H.mode = misc_en_US_andronache.Mode4
-meMA.Ode6C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode6C1H.melody = he.h.m4_en_US_andronache.ThysoSoiMetaFonis.melody
 meMA.Ode6C1H.incipit = he.h.m4_en_US_andronache.ThysoSoiMetaFonis.incipit
 meMA.Ode6C1H.text = he.h.m4_en_US_andronache.ThysoSoiMetaFonis.text
 
@@ -226,7 +226,7 @@ meMA.Oikos1.text = "Paul, the chief apostle, deifying you as a faithful servant 
 
 meMA.Ode7C1H.ode = misc_en_US_andronache.Ode7
 meMA.Ode7C1H.mode = misc_en_US_andronache.Mode4
-meMA.Ode7C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode7C1H.melody = he.h.m4_en_US_andronache.EnTiKaminoAvramiaioi.melody
 meMA.Ode7C1H.incipit = he.h.m4_en_US_andronache.EnTiKaminoAvramiaioi.incipit
 meMA.Ode7C1H.text = he.h.m4_en_US_andronache.EnTiKaminoAvramiaioi.text
 
@@ -256,7 +256,7 @@ meMA.Ode7C1T.text = "The Lord who surrounded the earth with mist and the sky wit
 
 meMA.Ode8C1H.ode = misc_en_US_andronache.Ode8
 meMA.Ode8C1H.mode = misc_en_US_andronache.Mode4
-meMA.Ode8C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode8C1H.melody = he.h.m4_en_US_andronache.CheirasEkpetasasDaniil.melody
 meMA.Ode8C1H.incipit = he.h.m4_en_US_andronache.CheirasEkpetasasDaniil.incipit
 meMA.Ode8C1H.text = he.h.m4_en_US_andronache.CheirasEkpetasasDaniil.text
 
@@ -286,7 +286,7 @@ meMA.Ode8C1T.text = "Adam became mortal through eating once of the tree of knowl
 
 meMA.Ode9C1H.ode = misc_en_US_andronache.Ode9
 meMA.Ode9C1H.mode = misc_en_US_andronache.Mode4
-meMA.Ode9C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode9C1H.melody = he.h.m4_en_US_andronache.LithosAcheirotmitos.melody
 meMA.Ode9C1H.incipit = he.h.m4_en_US_andronache.LithosAcheirotmitos.incipit
 meMA.Ode9C1H.text = he.h.m4_en_US_andronache.LithosAcheirotmitos.text
 

@@ -50,7 +50,7 @@ meVE.Apolytikion1.text = ""
 
 meMA.Ode1C1H.ode = misc_en_US_andronache.Ode1
 meMA.Ode1C1H.mode = misc_en_US_andronache.Mode8
-meMA.Ode1C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode1C1H.melody = he.h.m8_en_US_andronache.ArmatilatinFarao.melody
 meMA.Ode1C1H.incipit = he.h.m8_en_US_andronache.ArmatilatinFarao.incipit
 meMA.Ode1C1H.text = he.h.m8_en_US_andronache.ArmatilatinFarao.text
 
@@ -83,7 +83,7 @@ meMA.Ode1C1T.text = "Deliver me from visible and invisible enemies, Virgin-mothe
 
 meMA.Ode3C1H.ode = misc_en_US_andronache.Ode3
 meMA.Ode3C1H.mode = misc_en_US_andronache.Mode8
-meMA.Ode3C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode3C1H.melody = he.h.m8_en_US_andronache.OuraniasApsidos.melody
 meMA.Ode3C1H.incipit = he.h.m8_en_US_andronache.OuraniasApsidos.incipit
 meMA.Ode3C1H.text = he.h.m8_en_US_andronache.OuraniasApsidos.text
 
@@ -128,7 +128,7 @@ meMA.Ode3KathismaSt.text = ""
 
 meMA.Ode4C1H.ode = misc_en_US_andronache.Ode4
 meMA.Ode4C1H.mode = misc_en_US_andronache.Mode8
-meMA.Ode4C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode4C1H.melody = he.h.m8_en_US_andronache.SyMouIschys.melody
 meMA.Ode4C1H.incipit = he.h.m8_en_US_andronache.SyMouIschys.incipit
 meMA.Ode4C1H.text = he.h.m8_en_US_andronache.SyMouIschys.text
 
@@ -158,7 +158,7 @@ meMA.Ode4C1T.text = "Blessed, all-blameless Mother of God, the divine adornment 
 
 meMA.Ode5C1H.ode = misc_en_US_andronache.Ode5
 meMA.Ode5C1H.mode = misc_en_US_andronache.Mode8
-meMA.Ode5C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode5C1H.melody = he.h.m8_en_US_andronache.InaTiMeAposo.melody
 meMA.Ode5C1H.incipit = he.h.m8_en_US_andronache.InaTiMeAposo.incipit
 meMA.Ode5C1H.text = he.h.m8_en_US_andronache.InaTiMeAposo.text
 
@@ -188,7 +188,7 @@ meMA.Ode5C1T.text = "Higher than the powers on high, most-blessed by God, having
 
 meMA.Ode6C1H.ode = misc_en_US_andronache.Ode6
 meMA.Ode6C1H.mode = misc_en_US_andronache.Mode8
-meMA.Ode6C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode6C1H.melody = he.h.m8_en_US_andronache.IlasthitiMoiSotir.melody
 meMA.Ode6C1H.incipit = he.h.m8_en_US_andronache.IlasthitiMoiSotir.incipit
 meMA.Ode6C1H.text = he.h.m8_en_US_andronache.IlasthitiMoiSotir.text
 
@@ -225,7 +225,7 @@ meMA.Oikos1.text = "As roses amid thorns, your relics blooming with the scent of
 
 meMA.Ode7C1H.ode = misc_en_US_andronache.Ode7
 meMA.Ode7C1H.mode = misc_en_US_andronache.Mode8
-meMA.Ode7C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode7C1H.melody = he.h.m8_en_US_andronache.TheouSynkatavasin.melody
 meMA.Ode7C1H.incipit = he.h.m8_en_US_andronache.TheouSynkatavasin.incipit
 meMA.Ode7C1H.text = he.h.m8_en_US_andronache.TheouSynkatavasin.text
 
@@ -255,7 +255,7 @@ meMA.Ode7C1T.text = "The prophets foresaw the depth of your mystery, O Maiden; f
 
 meMA.Ode8C1H.ode = misc_en_US_andronache.Ode8
 meMA.Ode8C1H.mode = misc_en_US_andronache.Mode8
-meMA.Ode8C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode8C1H.melody = he.h.m8_en_US_andronache.EptaplasiosKaminon.melody
 meMA.Ode8C1H.incipit = he.h.m8_en_US_andronache.EptaplasiosKaminon.incipit
 meMA.Ode8C1H.text = he.h.m8_en_US_andronache.EptaplasiosKaminon.text
 
@@ -285,7 +285,7 @@ meMA.Ode8C1T.text = "Having been sanctified by the Spirit, all-blameless Theotok
 
 meMA.Ode9C1H.ode = misc_en_US_andronache.Ode9
 meMA.Ode9C1H.mode = misc_en_US_andronache.Mode8
-meMA.Ode9C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode9C1H.melody = he.h.m8_en_US_andronache.ExestiEpiTouto.melody
 meMA.Ode9C1H.incipit = he.h.m8_en_US_andronache.ExestiEpiTouto.incipit
 meMA.Ode9C1H.text = he.h.m8_en_US_andronache.ExestiEpiTouto.text
 

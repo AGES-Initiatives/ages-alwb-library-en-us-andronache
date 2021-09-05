@@ -52,7 +52,7 @@ meMA.C1.poet = //poets_en_US_andronache.Theofanous
 
 meMA.Ode1C1H.ode = misc_en_US_andronache.Ode1
 meMA.Ode1C1H.mode = misc_en_US_andronache.Mode8
-meMA.Ode1C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode1C1H.melody = he.h.m8_en_US_andronache.ArmatilatinFarao.melody
 meMA.Ode1C1H.incipit = he.h.m8_en_US_andronache.ArmatilatinFarao.incipit
 meMA.Ode1C1H.text = he.h.m8_en_US_andronache.ArmatilatinFarao.text
 
@@ -85,7 +85,7 @@ meMA.Ode1C1T.text = "The one who coexists and is co-eternal with the Father and 
 
 meMA.Ode3C1H.ode = misc_en_US_andronache.Ode3
 meMA.Ode3C1H.mode = misc_en_US_andronache.Mode8
-meMA.Ode3C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode3C1H.melody = he.h.m8_en_US_andronache.OStereosasKatArchas.melody
 meMA.Ode3C1H.incipit = he.h.m8_en_US_andronache.OStereosasKatArchas.incipit
 meMA.Ode3C1H.text = he.h.m8_en_US_andronache.OStereosasKatArchas.text
 
@@ -130,7 +130,7 @@ meMA.Ode3KathismaSt.text = "The spotless ewe-lamb, seeing the Lamb suspended and
 
 meMA.Ode4C1H.ode = misc_en_US_andronache.Ode4
 meMA.Ode4C1H.mode = misc_en_US_andronache.Mode8
-meMA.Ode4C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode4C1H.melody = he.h.m8_en_US_andronache.SyMouIschys.melody
 meMA.Ode4C1H.incipit = he.h.m8_en_US_andronache.SyMouIschys.incipit
 meMA.Ode4C1H.text = he.h.m8_en_US_andronache.SyMouIschys.text
 
@@ -160,7 +160,7 @@ meMA.Ode4C1T.text = "You alone truly became the foundation of salvation, mother 
 
 meMA.Ode5C1H.ode = misc_en_US_andronache.Ode5
 meMA.Ode5C1H.mode = misc_en_US_andronache.Mode8
-meMA.Ode5C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode5C1H.melody = he.h.m8_en_US_andronache.InaTiMeAposo.melody
 meMA.Ode5C1H.incipit = he.h.m8_en_US_andronache.InaTiMeAposo.incipit
 meMA.Ode5C1H.text = he.h.m8_en_US_andronache.InaTiMeAposo.text
 
@@ -190,7 +190,7 @@ meMA.Ode5C1T.text = "O Virgin, having been killed by the sting of transgression 
 
 meMA.Ode6C1H.ode = misc_en_US_andronache.Ode6
 meMA.Ode6C1H.mode = misc_en_US_andronache.Mode8
-meMA.Ode6C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode6C1H.melody = he.h.m8_en_US_andronache.IlasthitiMoiSotir.melody
 meMA.Ode6C1H.incipit = he.h.m8_en_US_andronache.IlasthitiMoiSotir.incipit
 meMA.Ode6C1H.text = he.h.m8_en_US_andronache.IlasthitiMoiSotir.text
 
@@ -226,7 +226,7 @@ meMA.Kontakion1.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_andronache.Ode7
 meMA.Ode7C1H.mode = misc_en_US_andronache.Mode8
-meMA.Ode7C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode7C1H.melody = he.h.m8_en_US_andronache.OiEkTisIoudaias.melody
 meMA.Ode7C1H.incipit = he.h.m8_en_US_andronache.OiEkTisIoudaias.incipit
 meMA.Ode7C1H.text = he.h.m8_en_US_andronache.OiEkTisIoudaias.text
 
@@ -256,7 +256,7 @@ meMA.Ode7C1T.text = "Mistress of the world, who bore God incarnate for us, save 
 
 meMA.Ode8C1H.ode = misc_en_US_andronache.Ode8
 meMA.Ode8C1H.mode = misc_en_US_andronache.Mode8
-meMA.Ode8C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode8C1H.melody = he.h.m8_en_US_andronache.EptaplasiosKaminon.melody
 meMA.Ode8C1H.incipit = he.h.m8_en_US_andronache.EptaplasiosKaminon.incipit
 meMA.Ode8C1H.text = he.h.m8_en_US_andronache.EptaplasiosKaminon.text
 
@@ -286,7 +286,7 @@ meMA.Ode8C1T.text = "Having been sanctified by the Spirit, all-blameless Theotok
 
 meMA.Ode9C1H.ode = misc_en_US_andronache.Ode9
 meMA.Ode9C1H.mode = misc_en_US_andronache.Mode8
-meMA.Ode9C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode9C1H.melody = he.h.m8_en_US_andronache.ExestiEpiTouto.melody
 meMA.Ode9C1H.incipit = he.h.m8_en_US_andronache.ExestiEpiTouto.incipit
 meMA.Ode9C1H.text = he.h.m8_en_US_andronache.ExestiEpiTouto.text
 

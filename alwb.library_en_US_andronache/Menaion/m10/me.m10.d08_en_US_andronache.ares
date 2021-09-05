@@ -132,7 +132,7 @@ meMA.Ode3C1T.text = "With your joy dripping as morning dew, pure one, you quench
 
 meMA.Ode3H.ode = misc_en_US_andronache.Ode3
 meMA.Ode3H.mode = misc_en_US_andronache.Mode4
-meMA.Ode3H.melody = misc_en_US_andronache.HeirmosNotMetered
+meMA.Ode3H.melody = he.h.m4_en_US_andronache.EffrainetaiEpiSoi.melody
 meMA.Ode3H.incipit = he.h.m4_en_US_andronache.EffrainetaiEpiSoi.incipit
 meMA.Ode3H.text = he.h.m4_en_US_andronache.EffrainetaiEpiSoi.text
 
@@ -225,7 +225,7 @@ meMA.Ode6C1T.text = "Seeing your unutterable glory, O Theotokos, the prophets of
 
 meMA.Ode6H.ode = misc_en_US_andronache.Ode6
 meMA.Ode6H.mode = misc_en_US_andronache.Mode4
-meMA.Ode6H.melody = misc_en_US_andronache.HeirmosNotMetered
+meMA.Ode6H.melody = he.h.m4_en_US_andronache.ThysoSoiMetaFonis.melody
 meMA.Ode6H.incipit = he.h.m4_en_US_andronache.ThysoSoiMetaFonis.incipit
 meMA.Ode6H.text = he.h.m4_en_US_andronache.ThysoSoiMetaFonis.text
 
@@ -286,7 +286,7 @@ meMA.Ode8C1T.text = "Pure one, all the armies of noetic hosts, the patriarchs an
 
 meMA.Ode8H.ode = misc_en_US_andronache.Ode8
 meMA.Ode8H.mode = misc_en_US_andronache.Mode4
-meMA.Ode8H.melody = misc_en_US_andronache.HeirmosNotMetered
+meMA.Ode8H.melody = he.h.m4_en_US_andronache.CheirasEkpetasasDaniil.melody
 meMA.Ode8H.incipit = he.h.m4_en_US_andronache.CheirasEkpetasasDaniil.incipit
 meMA.Ode8H.text = he.h.m4_en_US_andronache.CheirasEkpetasasDaniil.text
 
@@ -316,7 +316,7 @@ meMA.Ode9C1T.text = "I hymn your giving birth, Virgin, and magnify your grace fo
 
 meMA.Ode9H.ode = misc_en_US_andronache.Ode9
 meMA.Ode9H.mode = misc_en_US_andronache.Mode4
-meMA.Ode9H.melody = misc_en_US_andronache.HeirmosNotMetered
+meMA.Ode9H.melody = he.h.m4_en_US_andronache.LithosAcheirotmitos.melody
 meMA.Ode9H.incipit = he.h.m4_en_US_andronache.LithosAcheirotmitos.incipit
 meMA.Ode9H.text = he.h.m4_en_US_andronache.LithosAcheirotmitos.text
 

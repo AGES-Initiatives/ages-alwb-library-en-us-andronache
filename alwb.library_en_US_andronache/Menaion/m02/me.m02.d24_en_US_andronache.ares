@@ -121,7 +121,7 @@ meMA.PostGospelIdiomelon.text = meVE.AposGlory.text
 
 meMA.Ode1C1H.ode = misc_en_US_andronache.Ode1
 meMA.Ode1C1H.mode = misc_en_US_andronache.Mode6
-meMA.Ode1C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode1C1H.melody = he.h.m6_en_US_andronache.OsEnIpeiroPezefsas.melody
 meMA.Ode1C1H.incipit = he.h.m6_en_US_andronache.OsEnIpeiroPezefsas.incipit
 meMA.Ode1C1H.text = he.h.m6_en_US_andronache.OsEnIpeiroPezefsas.text
 
@@ -154,7 +154,7 @@ meMA.Ode1C1T.text = "Having received your Creator, as he willed, having taken fl
 
 meMA.Ode3C1H.ode = misc_en_US_andronache.Ode3
 meMA.Ode3C1H.mode = misc_en_US_andronache.Mode6
-meMA.Ode3C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode3C1H.melody = he.h.m6_en_US_andronache.OukEstinAgios.melody
 meMA.Ode3C1H.incipit = he.h.m6_en_US_andronache.OukEstinAgios.incipit
 meMA.Ode3C1H.text = he.h.m6_en_US_andronache.OukEstinAgios.text
 
@@ -199,7 +199,7 @@ meMA.Ode3KathismaT.text = he.a.m8_en_US_andronache.ToProstachthen.text
 
 meMA.Ode4C1H.ode = misc_en_US_andronache.Ode4
 meMA.Ode4C1H.mode = misc_en_US_andronache.Mode6
-meMA.Ode4C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode4C1H.melody = he.h.m6_en_US_andronache.ChristosMouDynamis.melody
 meMA.Ode4C1H.incipit = he.h.m6_en_US_andronache.ChristosMouDynamis.incipit
 meMA.Ode4C1H.text = he.h.m6_en_US_andronache.ChristosMouDynamis.text
 
@@ -229,7 +229,7 @@ meMA.Ode4C1T.text = "The tasting of the fruit showed me to be dead, but the tree
 
 meMA.Ode5C1H.ode = misc_en_US_andronache.Ode5
 meMA.Ode5C1H.mode = misc_en_US_andronache.Mode6
-meMA.Ode5C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode5C1H.melody = he.h.m6_en_US_andronache.ToTheioFengeiSou.melody
 meMA.Ode5C1H.incipit = he.h.m6_en_US_andronache.ToTheioFengeiSou.incipit
 meMA.Ode5C1H.text = he.h.m6_en_US_andronache.ToTheioFengeiSou.text
 
@@ -259,7 +259,7 @@ meMA.Ode5C1T.text = "Wearing the noetic beauty of your most beautiful soul, you 
 
 meMA.Ode6C1H.ode = misc_en_US_andronache.Ode6
 meMA.Ode6C1H.mode = misc_en_US_andronache.Mode6
-meMA.Ode6C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode6C1H.melody = he.h.m6_en_US_andronache.TouViouTinThalassan.melody
 meMA.Ode6C1H.incipit = he.h.m6_en_US_andronache.TouViouTinThalassan.incipit
 meMA.Ode6C1H.text = he.h.m6_en_US_andronache.TouViouTinThalassan.text
 
@@ -296,7 +296,7 @@ meMA.Oikos1.text = "Receiving witness from the Lord, O John, you became greater 
 
 meMA.Ode7C1H.ode = misc_en_US_andronache.Ode7
 meMA.Ode7C1H.mode = misc_en_US_andronache.Mode6
-meMA.Ode7C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode7C1H.melody = he.h.m6_en_US_andronache.DrosovolonMenTinKaminon.melody
 meMA.Ode7C1H.incipit = he.h.m6_en_US_andronache.DrosovolonMenTinKaminon.incipit
 meMA.Ode7C1H.text = he.h.m6_en_US_andronache.DrosovolonMenTinKaminon.text
 
@@ -326,7 +326,7 @@ meMA.Ode7C1T.text = "Through you, virgin mother, light arose illuminating all th
 
 meMA.Ode8C1H.ode = misc_en_US_andronache.Ode8
 meMA.Ode8C1H.mode = misc_en_US_andronache.Mode6
-meMA.Ode8C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode8C1H.melody = he.h.m6_en_US_andronache.EkFlogosToisOsiois.melody
 meMA.Ode8C1H.incipit = he.h.m6_en_US_andronache.EkFlogosToisOsiois.incipit
 meMA.Ode8C1H.text = he.h.m6_en_US_andronache.EkFlogosToisOsiois.text
 
@@ -356,7 +356,7 @@ meMA.Ode8C1T.text = "The golden lampstand prefigured you, receiving in an inexpr
 
 meMA.Ode9C1H.ode = misc_en_US_andronache.Ode9
 meMA.Ode9C1H.mode = misc_en_US_andronache.Mode6
-meMA.Ode9C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode9C1H.melody = he.h.m6_en_US_andronache.TheonAnthropois.melody
 meMA.Ode9C1H.incipit = he.h.m6_en_US_andronache.TheonAnthropois.incipit
 meMA.Ode9C1H.text = he.h.m6_en_US_andronache.TheonAnthropois.text
 

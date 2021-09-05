@@ -50,7 +50,7 @@ meVE.Apolytikion1.text = ""
 
 meMA.Ode1C1H.ode = misc_en_US_andronache.Ode1
 meMA.Ode1C1H.mode = misc_en_US_andronache.Mode4
-meMA.Ode1C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode1C1H.melody = he.h.m4_en_US_andronache.AsomaiSoiKyrie.melody
 meMA.Ode1C1H.incipit = he.h.m4_en_US_andronache.AsomaiSoiKyrie.incipit
 meMA.Ode1C1H.text = he.h.m4_en_US_andronache.AsomaiSoiKyrie.text
 
@@ -83,7 +83,7 @@ meMA.Ode1C1T.text = "Honoring you in songs as the unhewn mountain from which Chr
 
 meMA.Ode3C1H.ode = misc_en_US_andronache.Ode3
 meMA.Ode3C1H.mode = misc_en_US_andronache.Mode4
-meMA.Ode3C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode3C1H.melody = he.h.m4_en_US_andronache.ToxonDynatonIsthenise.melody
 meMA.Ode3C1H.incipit = he.h.m4_en_US_andronache.ToxonDynatonIsthenise.incipit
 meMA.Ode3C1H.text = he.h.m4_en_US_andronache.ToxonDynatonIsthenise.text
 
@@ -128,7 +128,7 @@ meMA.Ode3KathismaSt.text = //oc.m4.d6_en_US_andronache.ocMA.Kathisma23.text
 
 meMA.Ode4C1H.ode = misc_en_US_andronache.Ode4
 meMA.Ode4C1H.mode = misc_en_US_andronache.Mode4
-meMA.Ode4C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode4C1H.melody = he.h.m4_en_US_andronache.TousOuranousIAretiSou.melody
 meMA.Ode4C1H.incipit = he.h.m4_en_US_andronache.TousOuranousIAretiSou.incipit
 meMA.Ode4C1H.text = he.h.m4_en_US_andronache.TousOuranousIAretiSou.text
 
@@ -158,7 +158,7 @@ meMA.Ode4C1T.text = "Being greater than the ranks of Cherubim and having God in 
 
 meMA.Ode5C1H.ode = misc_en_US_andronache.Ode5
 meMA.Ode5C1H.mode = misc_en_US_andronache.Mode4
-meMA.Ode5C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode5C1H.melody = he.h.m4_en_US_andronache.OAnateilasToFos.melody
 meMA.Ode5C1H.incipit = he.h.m4_en_US_andronache.OAnateilasToFos.incipit
 meMA.Ode5C1H.text = he.h.m4_en_US_andronache.OAnateilasToFos.text
 
@@ -188,7 +188,7 @@ meMA.Ode5C1T.text = "Creation unceasingly offers you, O Virgin, the saying of th
 
 meMA.Ode6C1H.ode = misc_en_US_andronache.Ode6
 meMA.Ode6C1H.mode = misc_en_US_andronache.Mode4
-meMA.Ode6C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode6C1H.melody = he.h.m4_en_US_andronache.EvoiseProtypon.melody
 meMA.Ode6C1H.incipit = he.h.m4_en_US_andronache.EvoiseProtypon.incipit
 meMA.Ode6C1H.text = he.h.m4_en_US_andronache.EvoiseProtypon.text
 
@@ -224,7 +224,7 @@ meMA.Kontakion1.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_andronache.Ode7
 meMA.Ode7C1H.mode = misc_en_US_andronache.Mode4
-meMA.Ode7C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode7C1H.melody = he.h.m4_en_US_andronache.ODiasosasEnPyri.melody
 meMA.Ode7C1H.incipit = he.h.m4_en_US_andronache.ODiasosasEnPyri.incipit
 meMA.Ode7C1H.text = he.h.m4_en_US_andronache.ODiasosasEnPyri.text
 
@@ -254,7 +254,7 @@ meMA.Ode7C1T.text = "Let us, the faithful, venerate  as the blessed mother of th
 
 meMA.Ode8C1H.ode = misc_en_US_andronache.Ode8
 meMA.Ode8C1H.mode = misc_en_US_andronache.Mode4
-meMA.Ode8C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode8C1H.melody = he.h.m4_en_US_andronache.TonEnMorfiAngelou.melody
 meMA.Ode8C1H.incipit = he.h.m4_en_US_andronache.TonEnMorfiAngelou.incipit
 meMA.Ode8C1H.text = he.h.m4_en_US_andronache.TonEnMorfiAngelou.text
 
@@ -284,7 +284,7 @@ meMA.Ode8C1T.text = "Let us hymn unto the ages the only Theotokos, who without s
 
 meMA.Ode9C1H.ode = misc_en_US_andronache.Ode9
 meMA.Ode9C1H.mode = misc_en_US_andronache.Mode4
-meMA.Ode9C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode9C1H.melody = he.h.m4_en_US_andronache.EvaMenToTisParakois.melody
 meMA.Ode9C1H.incipit = he.h.m4_en_US_andronache.EvaMenToTisParakois.incipit
 meMA.Ode9C1H.text = he.h.m4_en_US_andronache.EvaMenToTisParakois.text
 

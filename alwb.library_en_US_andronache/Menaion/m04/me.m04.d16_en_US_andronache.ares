@@ -52,7 +52,7 @@ meMA.C1.acrostic = ""
 
 meMA.Ode1C1H.ode = misc_en_US_andronache.Ode1
 meMA.Ode1C1H.mode = misc_en_US_andronache.Mode8
-meMA.Ode1C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode1C1H.melody = he.h.m8_en_US_andronache.AsomenToKyrio.melody
 meMA.Ode1C1H.incipit = he.h.m8_en_US_andronache.AsomenToKyrio.incipit
 meMA.Ode1C1H.text = he.h.m8_en_US_andronache.AsomenToKyrio.text
 
@@ -91,7 +91,7 @@ meMA.Ode1C1T.text = "You inexplicably give birth to theo one whom the Father beg
 
 meMA.Ode3C1H.ode = misc_en_US_andronache.Ode3
 meMA.Ode3C1H.mode = misc_en_US_andronache.Mode8
-meMA.Ode3C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode3C1H.melody = he.h.m8_en_US_andronache.SyEiToStereoma.melody
 meMA.Ode3C1H.incipit = he.h.m8_en_US_andronache.SyEiToStereoma.incipit
 meMA.Ode3C1H.text = he.h.m8_en_US_andronache.SyEiToStereoma.text
 
@@ -135,7 +135,7 @@ meMA.Ode3KathismaSt.text = "The ewe-lamb, beholding the lamb and shepherd and re
 
 meMA.Ode4C1H.ode = misc_en_US_andronache.Ode4
 meMA.Ode4C1H.mode = misc_en_US_andronache.Mode8
-meMA.Ode4C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode4C1H.melody = he.h.m8_en_US_andronache.EisakikoaKyrie.melody
 meMA.Ode4C1H.incipit = he.h.m8_en_US_andronache.EisakikoaKyrie.incipit
 meMA.Ode4C1H.text = he.h.m8_en_US_andronache.EisakikoaKyrie.text
 
@@ -171,7 +171,7 @@ meMA.Ode4C1T.text = "Lady of all creation, you gave birth in a body to the Lord.
 
 meMA.Ode5C1H.ode = misc_en_US_andronache.Ode5
 meMA.Ode5C1H.mode = misc_en_US_andronache.Mode8
-meMA.Ode5C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode5C1H.melody = he.h.m8_en_US_andronache.FotisonImas.melody
 meMA.Ode5C1H.incipit = he.h.m8_en_US_andronache.FotisonImas.incipit
 meMA.Ode5C1H.text = he.h.m8_en_US_andronache.FotisonImas.text
 
@@ -207,7 +207,7 @@ meMA.Ode5C1T.text = "O maiden, ever intercede that I have a good end, that I may
 
 meMA.Ode6C1H.ode = misc_en_US_andronache.Ode6
 meMA.Ode6C1H.mode = misc_en_US_andronache.Mode8
-meMA.Ode6C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode6C1H.melody = he.h.m8_en_US_andronache.TinDeisinEkcheo.melody
 meMA.Ode6C1H.incipit = he.h.m8_en_US_andronache.TinDeisinEkcheo.incipit
 meMA.Ode6C1H.text = he.h.m8_en_US_andronache.TinDeisinEkcheo.text
 
@@ -243,7 +243,7 @@ meMA.Kontakion1.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_andronache.Ode7
 meMA.Ode7C1H.mode = misc_en_US_andronache.Mode8
-meMA.Ode7C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode7C1H.melody = he.h.m8_en_US_andronache.PaidesEvraion.melody
 meMA.Ode7C1H.incipit = he.h.m8_en_US_andronache.PaidesEvraion.incipit
 meMA.Ode7C1H.text = he.h.m8_en_US_andronache.PaidesEvraion.text
 
@@ -279,7 +279,7 @@ meMA.Ode7C1T.text = "Pure one, who conceived joy and put the serpent to death, p
 
 meMA.Ode8C1H.ode = misc_en_US_andronache.Ode8
 meMA.Ode8C1H.mode = misc_en_US_andronache.Mode8
-meMA.Ode8C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode8C1H.melody = he.h.m8_en_US_andronache.OiTheorrimonesPaides.melody
 meMA.Ode8C1H.incipit = he.h.m8_en_US_andronache.OiTheorrimonesPaides.incipit
 meMA.Ode8C1H.text = he.h.m8_en_US_andronache.OiTheorrimonesPaides.text
 
@@ -315,7 +315,7 @@ meMA.Ode8C1T.text = "Bearing of old a symbol of your childbirth, virgin mother, 
 
 meMA.Ode9C1H.ode = misc_en_US_andronache.Ode9
 meMA.Ode9C1H.mode = misc_en_US_andronache.Mode8
-meMA.Ode9C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode9C1H.melody = he.h.m8_en_US_andronache.KyriosTheotokon.melody
 meMA.Ode9C1H.incipit = he.h.m8_en_US_andronache.KyriosTheotokon.incipit
 meMA.Ode9C1H.text = he.h.m8_en_US_andronache.KyriosTheotokon.text
 

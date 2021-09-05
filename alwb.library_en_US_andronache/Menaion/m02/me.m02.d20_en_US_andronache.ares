@@ -52,7 +52,7 @@ meMA.C1.acrostic = ""
 
 meMA.Ode1C1H.ode = misc_en_US_andronache.Ode1
 meMA.Ode1C1H.mode = misc_en_US_andronache.Mode8
-meMA.Ode1C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode1C1H.melody = he.h.m8_en_US_andronache.YgranDiodefsas.melody
 meMA.Ode1C1H.incipit = he.h.m8_en_US_andronache.YgranDiodefsas.incipit
 meMA.Ode1C1H.text = he.h.m8_en_US_andronache.YgranDiodefsas.text
 
@@ -85,7 +85,7 @@ meMA.Ode1C1T.text = "Undefiled maiden, You became a temple of God who dwelt in y
 
 meMA.Ode3C1H.ode = misc_en_US_andronache.Ode3
 meMA.Ode3C1H.mode = misc_en_US_andronache.Mode8
-meMA.Ode3C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode3C1H.melody = he.h.m8_en_US_andronache.OuraniasApsidos.melody
 meMA.Ode3C1H.incipit = he.h.m8_en_US_andronache.OuraniasApsidos.incipit
 meMA.Ode3C1H.text = he.h.m8_en_US_andronache.OuraniasApsidos.text
 
@@ -130,7 +130,7 @@ meMA.Ode3KathismaSt.text = me.m01.d29_en_US_andronache.meMA.Ode3KathismaSt.text
 
 meMA.Ode4C1H.ode = misc_en_US_andronache.Ode4
 meMA.Ode4C1H.mode = misc_en_US_andronache.Mode8
-meMA.Ode4C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode4C1H.melody = he.h.m8_en_US_andronache.EisakikoaKyrie.melody
 meMA.Ode4C1H.incipit = he.h.m8_en_US_andronache.EisakikoaKyrie.incipit
 meMA.Ode4C1H.text = he.h.m8_en_US_andronache.EisakikoaKyrie.text
 
@@ -160,7 +160,7 @@ meMA.Ode4C1T.text = "The one uncontainable by anything is contained in your womb
 
 meMA.Ode5C1H.ode = misc_en_US_andronache.Ode5
 meMA.Ode5C1H.mode = misc_en_US_andronache.Mode8
-meMA.Ode5C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode5C1H.melody = he.h.m8_en_US_andronache.InaTiMeAposo.melody
 meMA.Ode5C1H.incipit = he.h.m8_en_US_andronache.InaTiMeAposo.incipit
 meMA.Ode5C1H.text = he.h.m8_en_US_andronache.InaTiMeAposo.text
 
@@ -190,7 +190,7 @@ meMA.Ode5C1T.text = "Having seen you, O one most filled with the grace of God, i
 
 meMA.Ode6C1H.ode = misc_en_US_andronache.Ode6
 meMA.Ode6C1H.mode = misc_en_US_andronache.Mode8
-meMA.Ode6C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode6C1H.melody = he.h.m8_en_US_andronache.TinDeisinEkcheo.melody
 meMA.Ode6C1H.incipit = he.h.m8_en_US_andronache.TinDeisinEkcheo.incipit
 meMA.Ode6C1H.text = he.h.m8_en_US_andronache.TinDeisinEkcheo.text
 
@@ -227,7 +227,7 @@ meMA.Oikos1.text = "Clear up my tongue, my Christ, and grant me a word, giver of
 
 meMA.Ode7C1H.ode = misc_en_US_andronache.Ode7
 meMA.Ode7C1H.mode = misc_en_US_andronache.Mode8
-meMA.Ode7C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode7C1H.melody = he.h.m8_en_US_andronache.PaidesEvraion.melody
 meMA.Ode7C1H.incipit = he.h.m8_en_US_andronache.PaidesEvraion.incipit
 meMA.Ode7C1H.text = he.h.m8_en_US_andronache.PaidesEvraion.text
 
@@ -257,7 +257,7 @@ meMA.Ode7C1T.text = "The fire of divinity did not burn your womb, virgin Mother;
 
 meMA.Ode8C1H.ode = misc_en_US_andronache.Ode8
 meMA.Ode8C1H.mode = misc_en_US_andronache.Mode8
-meMA.Ode8C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode8C1H.melody = he.h.m8_en_US_andronache.NikitaiTyrannou.melody
 meMA.Ode8C1H.incipit = he.h.m8_en_US_andronache.NikitaiTyrannou.incipit
 meMA.Ode8C1H.text = he.h.m8_en_US_andronache.NikitaiTyrannou.text
 
@@ -287,7 +287,7 @@ meMA.Ode8C1T.text = "He who by His will accomplishes everything, blessed all-bla
 
 meMA.Ode9C1H.ode = misc_en_US_andronache.Ode9
 meMA.Ode9C1H.mode = misc_en_US_andronache.Mode8
-meMA.Ode9C1H.melody = misc_en_US_andronache.Heirmos
+meMA.Ode9C1H.melody = he.h.m8_en_US_andronache.EfrixePasaAkoi.melody
 meMA.Ode9C1H.incipit = he.h.m8_en_US_andronache.EfrixePasaAkoi.incipit
 meMA.Ode9C1H.text = he.h.m8_en_US_andronache.EfrixePasaAkoi.text
 
