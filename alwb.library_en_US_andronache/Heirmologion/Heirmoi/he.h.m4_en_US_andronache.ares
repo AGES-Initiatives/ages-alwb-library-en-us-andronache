@@ -710,13 +710,13 @@ OtiEpoiiseMoiMegaleia.mode = misc_en_US_andronache.Mode4
 OtiEpoiiseMoiMegaleia.ode = misc_en_US_andronache.Ode9
 OtiEpoiiseMoiMegaleia.text = ""
 
-OtiSteiraEteken.notmetered = "N/M ()"
-OtiSteiraEteken.name = ""
-OtiSteiraEteken.incipit = "…"
+OtiSteiraEteken.notmetered = "N/M (Since the barren woman.)"
+OtiSteiraEteken.name = "Since the barren woman."
+OtiSteiraEteken.incipit = "Since the barren woman…"
 OtiSteiraEteken.melody = misc_en_US_andronache.Heirmos
 OtiSteiraEteken.mode = misc_en_US_andronache.Mode4
 OtiSteiraEteken.ode = misc_en_US_andronache.Ode3
-OtiSteiraEteken.text = ""
+OtiSteiraEteken.text = "Since the barren woman, yes, the Gentile Church, has borne many, * and she with many children, the Synagogue, is now forlorn, * we cry out to our God who is so marvelous, \"Holy are You, O Lord.\""
 
 OukElatrefsan.notmetered = "N/M (Godly-minded three.)"
 OukElatrefsan.name = "Godly-minded three."
@@ -969,12 +969,12 @@ TonEnToStavroSarki.ode = misc_en_US_andronache.Ode8
 TonEnToStavroSarki.text = ""
 
 TonFotismonSouKyrie.notmetered = "N/M ()"
-TonFotismonSouKyrie.name = ""
-TonFotismonSouKyrie.incipit = "…"
-TonFotismonSouKyrie.melody = misc_en_US_andronache.Heirmos
+TonFotismonSouKyrie.name = "N/M"
+TonFotismonSouKyrie.incipit = "Send us your illumination…"
+TonFotismonSouKyrie.melody = misc_en_US_andronache.HeirmosNotMetered
 TonFotismonSouKyrie.mode = misc_en_US_andronache.Mode4
 TonFotismonSouKyrie.ode = misc_en_US_andronache.Ode5
-TonFotismonSouKyrie.text = ""
+TonFotismonSouKyrie.text = "Send us your illumination, O Lord, and disperse the mist of our transgressions, O good one, granting us your heavenly peace."
 
 TonPtaismatonTiZali.notmetered = "N/M ()"
 TonPtaismatonTiZali.name = ""
@@ -1041,12 +1041,12 @@ ToxonDynatonIsthenise.ode = misc_en_US_andronache.Ode3
 ToxonDynatonIsthenise.text = ""
 
 TristatasKrataious.notmetered = "N/M ()"
-TristatasKrataious.name = ""
-TristatasKrataious.incipit = "…"
-TristatasKrataious.melody = misc_en_US_andronache.Heirmos
+TristatasKrataious.name = "N/M"
+TristatasKrataious.incipit = "I beseech you, who were born…"
+TristatasKrataious.melody = misc_en_US_andronache.HeirmosNotMetered
 TristatasKrataious.mode = misc_en_US_andronache.Mode4
 TristatasKrataious.ode = misc_en_US_andronache.Ode1
-TristatasKrataious.text = ""
+TristatasKrataious.text = "I beseech you, who were born of a Virgin, to toss into the depths of dispassion the strong captains, the tripartite soul, so that, by the mortification of the body I may sing to you, as on a drum, a hymn of victory."
 
 ZaliMeLogismon.notmetered = "N/M ()"
 ZaliMeLogismon.name = ""
