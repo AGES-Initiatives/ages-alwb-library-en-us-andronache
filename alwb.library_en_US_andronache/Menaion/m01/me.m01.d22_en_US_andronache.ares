@@ -92,6 +92,10 @@ meVE.Apolytikion2.mode = misc_en_US_andronache.Mode4
 meVE.Apolytikion2.melody = he.a.m4_en_US_andronache.TachyProkatalave.notmetered
 meVE.Apolytikion2.text = misc_en_US_andronache.NotMetered //he.ga_en_US_andronache.OMartysSouKyrie.text
 
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = ""
 
 meMA.C1.title = //titles_en_US_andronache.KanonTouApostolou
