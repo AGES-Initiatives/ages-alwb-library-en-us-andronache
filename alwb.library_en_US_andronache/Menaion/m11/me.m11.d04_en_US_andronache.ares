@@ -95,13 +95,12 @@ meVE.Apolytikion2.text = ""
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
-
-meMA.C2.poet = //poets_en_US_andronache.Iosif
-
 meMA.C1.title = //titles_en_US_andronache.KanonTouOsiou
 meMA.C1.verse = //prayers_en_US_andronache.verse_DevoutMan.text
+
+meMA.C2.poet = //poets_en_US_andronache.Iosif
+meMA.C2.title = //titles_en_US_andronache.KanonTonIeromartyron
+meMA.C2.verse = //prayers_en_US_andronache.verse_SaintsM.text
 
 meMA.Ode1C11.ode = misc_en_US_andronache.Ode1
 meMA.Ode1C11.mode = misc_en_US_andronache.Mode4
@@ -126,9 +125,6 @@ meMA.Ode1C1T.mode = misc_en_US_andronache.Mode4
 meMA.Ode1C1T.melody = he.h.m4_en_US_andronache.AnoixoToStomaMou.notmetered
 meMA.Ode1C1T.incipit = "You are the calling of…"
 meMA.Ode1C1T.text = "You are the calling of the fallen and the strengthening of those standing, all-blameless one. Therefore I beseech you straighten my mind which has fallen through sin, so that I may glorify you."
-
-meMA.C2.title = //titles_en_US_andronache.KanonTonIeromartyron
-meMA.C2.verse = //prayers_en_US_andronache.verse_SaintsM.text
 
 meMA.Ode1C21.ode = misc_en_US_andronache.Ode1
 meMA.Ode1C21.mode = misc_en_US_andronache.Mode4

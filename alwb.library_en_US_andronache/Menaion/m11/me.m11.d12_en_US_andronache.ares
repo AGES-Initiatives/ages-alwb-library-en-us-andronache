@@ -109,21 +109,18 @@ meVE.Apolytikion2.melody = he.a.m4_en_US_andronache.TachyProkatalave.name
 meVE.Apolytikion2.incipit = "…"
 meVE.Apolytikion2.text = ""
 
-meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.title = "Canon for the Hierarch."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
+meMA.C1.title = //titles_en_US_andronache.KanonTouIerarchou
+meMA.C1.verse = //prayers_en_US_andronache.verse_SaintM.text
 
-meMA.C2.poet = //poets_en_US_andronache.Theofanous
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = ""
-
-meMA.C1.title = // titles_en_US_andronache.KanonTouIerarchou
-meMA.C1.verse = //prayers_en_US_andronache.verse_SaintM.text
+meMA.C2.poet = //poets_en_US_andronache.Theofanous
+meMA.C2.title = //titles_en_US_andronache.KanonTouOsiou
+meMA.C2.verse = //prayers_en_US_andronache.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = misc_en_US_andronache.Ode1
 meMA.Ode1C11.mode = misc_en_US_andronache.Mode8
@@ -148,9 +145,6 @@ meMA.Ode1C1T.mode = misc_en_US_andronache.Mode8
 meMA.Ode1C1T.melody = he.h.m8_en_US_andronache.IKekommeni.notmetered
 meMA.Ode1C1T.incipit = "In order to join those…"
 meMA.Ode1C1T.text = "In order to join those below to those above, the only God of all emerged from an unwedded mother and was seen in a likeness of flesh, and having broken down the wall of enmity, He mediated peace and bestowed life and a divine ransom."
-
-meMA.C2.title = //titles_en_US_andronache.KanonTouOsiou
-meMA.C2.verse = //prayers_en_US_andronache.verse_DevoutMan.text
 
 meMA.Ode1C21.ode = misc_en_US_andronache.Ode1
 meMA.Ode1C21.mode = misc_en_US_andronache.Mode8
