@@ -73,14 +73,14 @@ meVE.Apolytikion3.melody = he.a.m3_en_US_andronache.TheiasPisteos.notmetered
 meVE.Apolytikion3.incipit = "…"
 meVE.Apolytikion3.text = ""
 
-meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.title = "Canon for St. Alypios,"
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
-
-meMA.C1.title = ""
+meMA.C1.title = "Canon for St. Alypios."
 meMA.C1.verse = //prayers_en_US_andronache.verse_DevoutMan.text
+
+meMA.C2.title = "Canon for St. Nikon."
+meMA.C2.verse = //prayers_en_US_andronache.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = misc_en_US_andronache.Ode1
 meMA.Ode1C11.mode = misc_en_US_andronache.Mode5
@@ -105,9 +105,6 @@ meMA.Ode1C1T.mode = misc_en_US_andronache.Mode5
 meMA.Ode1C1T.melody = he.h.m5_en_US_andronache.IpponKaiAnavatin.notmetered
 meMA.Ode1C1T.incipit = "The fulfillment of the saying…"
 meMA.Ode1C1T.text = "The fulfillment of the saying of the august prophet has come, for behold, the virgin bore God in the flesh, restoring mortals, previously crushed by the transgressions of sin."
-
-meMA.C2.title = ""
-meMA.C2.verse = //prayers_en_US_andronache.verse_DevoutMan.text
 
 meMA.Ode1C21.ode = misc_en_US_andronache.Ode1
 meMA.Ode1C21.mode = misc_en_US_andronache.Mode8

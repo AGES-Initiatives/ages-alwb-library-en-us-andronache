@@ -52,12 +52,10 @@ meVE.Apolytikion2.melody = he.a.m1_en_US_andronache.TisErimouPolitis.notmetered
 meVE.Apolytikion2.incipit = "…"
 meVE.Apolytikion2.text = ""
 
-meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.title = "Canon for the Prophet."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
-
+meMA.C1.poet = //poets_en_US_andronache.Theofanous
 meMA.C1.title = //titles_en_US_andronache.KanonTouProfitou
 meMA.C1.verse = //prayers_en_US_andronache.verse_Prophet.text
 
