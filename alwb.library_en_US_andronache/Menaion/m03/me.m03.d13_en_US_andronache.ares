@@ -49,15 +49,14 @@ meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
 meMA.C1.poet = //poets_en_US_andronache.Ignatiou
+meMA.C1.title = //titles_en_US_andronache.KanonTouAgiou
+meMA.C1.verse = //prayers_en_US_andronache.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_en_US_andronache.Ode1
 meMA.Ode1C1H.mode = misc_en_US_andronache.Mode2
 meMA.Ode1C1H.melody = he.h.m2_en_US_andronache.DefteLaoi.melody
 meMA.Ode1C1H.incipit = he.h.m2_en_US_andronache.DefteLaoi.incipit
 meMA.Ode1C1H.text = he.h.m2_en_US_andronache.DefteLaoi.text
-
-meMA.C1.title = ""
-meMA.C1.verse = ""
 
 meMA.Ode1C11.ode = misc_en_US_andronache.Ode1
 meMA.Ode1C11.mode = misc_en_US_andronache.Mode2

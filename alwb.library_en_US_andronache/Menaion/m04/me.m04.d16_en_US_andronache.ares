@@ -48,20 +48,17 @@ meVE.Apolytikion1.melody = he.a.m5_en_US_andronache.TonSynanarchonLogon.notmeter
 meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
-meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.title = "Canon for the Saints."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
+meMA.C1.title = //titles_en_US_andronache.KanonTonAgion
+meMA.C1.verse = //prayers_en_US_andronache.verse_SaintsM.text
 
 meMA.Ode1C1H.ode = misc_en_US_andronache.Ode1
 meMA.Ode1C1H.mode = misc_en_US_andronache.Mode8
 meMA.Ode1C1H.melody = he.h.m8_en_US_andronache.AsomenToKyrio.melody
 meMA.Ode1C1H.incipit = he.h.m8_en_US_andronache.AsomenToKyrio.incipit
 meMA.Ode1C1H.text = he.h.m8_en_US_andronache.AsomenToKyrio.text
-
-meMA.C1.title = ""
-meMA.C1.verse = ""
 
 meMA.Ode1C11.ode = misc_en_US_andronache.Ode1
 meMA.Ode1C11.mode = misc_en_US_andronache.Mode8
@@ -130,7 +127,7 @@ meMA.Ode3Kathisma1.text = "As wed to the Lord in a God-befitting manner, O prize
 
 meMA.Ode3KathismaT.mode = misc_en_US_andronache.Mode8
 meMA.Ode3KathismaT.melody = he.a.m8_en_US_andronache.TinSofianKaiLogon.notmetered
-meMA.Ode3KathismaT.text = "" //he.a.m8_gr_GR_cog.TinSofianKaiLogon.text
+meMA.Ode3KathismaT.text = "" //he.a.m8_en_US_andronache.TinSofianKaiLogon.text
 
 meMA.Ode3KathismaSt.mode = misc_en_US_andronache.Mode8
 meMA.Ode3KathismaSt.melody = he.a.m8_en_US_andronache.TinSofianKaiLogon.notmetered
