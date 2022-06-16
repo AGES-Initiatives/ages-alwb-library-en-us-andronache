@@ -93,26 +93,22 @@ meMA.Kathisma21.melody = he.a.m1_en_US_andronache.TonTafonSouSotir.name
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
 
-meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.title = "Canon of the Forefeast."
 meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
+meMA.C1.title = //titles_en_US_andronache.KanonProeortios
+meMA.C1.verse = //prayers_en_US_andronache.verse_God.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = ""
+meMA.C2.title = //titles_en_US_andronache.KanonTouAgiou
+meMA.C2.verse = //prayers_en_US_andronache.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_en_US_andronache.Ode1
 meMA.Ode1C1H.mode = misc_en_US_andronache.Mode4
 meMA.Ode1C1H.melody = he.h.m4_en_US_andronache.AnoixoToStomaMou.melody
 meMA.Ode1C1H.incipit = he.h.m4_en_US_andronache.AnoixoToStomaMou.incipit
 meMA.Ode1C1H.text = he.h.m4_en_US_andronache.AnoixoToStomaMou.text
-
-meMA.C1.title = //titles_en_US_andronache.KanonProeortios
-meMA.C1.verse = //prayers_en_US_andronache.verse_God.text
 
 meMA.Ode1C11.ode = misc_en_US_andronache.Ode1
 meMA.Ode1C11.mode = misc_en_US_andronache.Mode4
@@ -131,9 +127,6 @@ meMA.Ode1C13.mode = misc_en_US_andronache.Mode4
 meMA.Ode1C13.melody = he.h.m4_en_US_andronache.AnoixoToStomaMou.notmetered
 meMA.Ode1C13.incipit = "Christ comes forward clearly to…"
 meMA.Ode1C13.text = "Christ comes forward clearly to be revealed to Moses and to show indescribable glory face to face on mount Tabor, to the immediate company. Let us on earth celebrate the fore-feast today."
-
-meMA.C2.title = //titles_en_US_andronache.KanonTouAgiou
-meMA.C2.verse = //prayers_en_US_andronache.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_en_US_andronache.Ode1
 meMA.Ode1C21.mode = misc_en_US_andronache.Mode8

@@ -803,9 +803,10 @@ alt1.meMA.PostGospelIdiomelon.melody =
 alt1.meMA.PostGospelIdiomelon.incipit = "You disregarded the earthly kingdom…"
 alt1.meMA.PostGospelIdiomelon.text = "You disregarded the earthly kingdom and set off on ascetical struggles with an inspired soul, glorious Kassiane. You toiled well in Byzantium and Kassos for Christ the Lord of all and were well-pleasing to your beautiful heavenly Bridegroom. Now, having made your abode in the dwellings of the Heavenly Kingdom, do not cease interceding for those who hymn your memory."
 
+alt1.meMA.C1.acrostic.title = ""
+alt1.meMA.C1.acrostic.notice1 = ""
+alt1.meMA.C1.acrostic.text = ""
 alt1.meMA.C1.poet = ""
-alt1.meMA.C1.acrostic = ""
-
 alt1.meMA.C1.title = //titles_en_US_andronache.KanonBTisOsias
 alt1.meMA.C1.verse = //prayers_en_US_andronache.verse_DevoutWoman.text
 

@@ -68,13 +68,10 @@ meVE.Apolytikion3.melody = he.a.m4_en_US_andronache.TachyProkatalave.notmetered
 meVE.Apolytikion3.incipit = "…"
 meVE.Apolytikion3.text = ""
 
-meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.title = "Canon for the Saint."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
-
-meMA.C1.title = //titles_en_US_andronache.TouIeromartyros
+meMA.C1.title = //titles_en_US_andronache.KanonTouAgiou
 meMA.C1.verse = //prayers_en_US_andronache.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_andronache.Ode1
