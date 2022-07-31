@@ -5,7 +5,9 @@ meDA.commemoration.full = "" // full title of day
 meDA.commemoration.first = ""
 meDA.commemoration.first_short = ""
 meDA.commemoration.first_title = ""
+meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
+meDA.commemoration.second_name = ""
 meDA.insert1 = "" // for use in petitions and dismissal
 meDA.insert2 = "" // for use in petitions and dismissal
 meDA.note = ""
@@ -577,12 +579,15 @@ meLI.Kontakion1.text = meMA.Kontakion1.text
 meLI.MM.CommunionHymn.text = //properties_en_US_andronache.media.key
 
 meMegalynarion.text = ""
+meMegalynarion2.text = ""
 
 alt1.meDA.date = "September 7" // date
 alt1.meDA.commemoration.full = "Memory of our Devout Mother Kassiane the Hymnographer" //full title of day
 alt1.meDA.commemoration.first_short = "Devout St. Kassiane the Hymnographer"
 alt1.meDA.commemoration.first_title = ""
+alt1.meDA.commemoration.first_name = ""
 alt1.meDA.commemoration.second_title = ""
+alt1.meDA.commemoration.second_name = ""
 alt1.meDA.insert1 = "our devout mother Kassiane the hymnographer," //for use in petitions and dismissal
 alt1.meDA.insert2 = "whose memory we observe," //for use in petitions and dismissal
 alt1.meDA.note = ""
