@@ -98,10 +98,10 @@ meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
 meMA.C1.poet = //poets_en_US_andronache.Theofanous
-meMA.C1.title = //titles_en_US_andronache.KanonTouApostolou
+meMA.C1.title = //titles_en_US_andronache.ti.CanonApostle
 meMA.C1.verse = //prayers_en_US_andronache.verse_Apostle.text
 
-meMA.C2.title = //titles_en_US_andronache.KanonTouMartyros
+meMA.C2.title = //titles_en_US_andronache.ti.CanonMartyrM
 meMA.C2.verse = //prayers_en_US_andronache.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_andronache.Ode1

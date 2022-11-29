@@ -140,17 +140,17 @@ meMA.PostGospelIdiomelon.text = ""
 meMA.C1.acrostic.title = "Canon for the Theotokos."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-meMA.C1.title = //titles_en_US_andronache.KanonTisTheotokou
+meMA.C1.title = //titles_en_US_andronache.ti.CanonTheotokos
 meMA.C1.verse = //prayers_en_US_andronache.verse_Theotokos.text
 
 meMA.C2.poet = //poets_en_US_andronache.Theofanous
-meMA.C2.title = //titles_en_US_andronache.KanonATouAgiou
+meMA.C2.title = //titles_en_US_andronache.ti.Canon1SaintM
 meMA.C2.verse = //prayers_en_US_andronache.verse_SaintM.text
 
 meMA.C3.acrostic.title = "Another Canon for the Saint."
 meMA.C3.acrostic.notice1 = ""
 meMA.C3.acrostic.text = ""
-meMA.C3.title = //titles_en_US_andronache.KanonBTouAgiou
+meMA.C3.title = //titles_en_US_andronache.ti.Canon2SaintM
 meMA.C3.verse = //prayers_en_US_andronache.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_en_US_andronache.Ode1

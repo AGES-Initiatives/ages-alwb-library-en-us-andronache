@@ -123,7 +123,7 @@ meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.incipit = meVE.AposGlory.incipit
 meMA.PostGospelIdiomelon.text = meVE.AposGlory.text
 
-meMA.C1.title = //titles_en_US_andronache.KanonTouProdromou
+meMA.C1.title = //titles_en_US_andronache.ti.CanonForerunner
 meMA.C1.verse = //prayers_en_US_andronache.verse_Baptist.text
 
 meMA.Ode1C1H.ode = misc_en_US_andronache.Ode1

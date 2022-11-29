@@ -97,13 +97,13 @@ meMA.Kathisma21.text = ""
 
 meMA.C1.acrostic.title = "Canon of the Forefeast."
 meMA.C1.acrostic.notice1 = ""
-meMA.C1.title = //titles_en_US_andronache.KanonProeortios
+meMA.C1.title = //titles_en_US_andronache.ti.CanonForefeast
 meMA.C1.verse = //prayers_en_US_andronache.verse_God.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-meMA.C2.title = //titles_en_US_andronache.KanonTouAgiou
+meMA.C2.title = //titles_en_US_andronache.ti.CanonSaintM
 meMA.C2.verse = //prayers_en_US_andronache.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_en_US_andronache.Ode1

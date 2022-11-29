@@ -53,7 +53,7 @@ meVE.Apolytikion1.text = ""
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-meMA.C1.title = //titles_en_US_andronache.KanonTouAgiou
+meMA.C1.title = //titles_en_US_andronache.ti.CanonSaintM
 meMA.C1.verse = //prayers_en_US_andronache.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_en_US_andronache.Ode1
@@ -490,7 +490,7 @@ alt1.meMA.PostGospelIdiomelon.text = "Come, all lovers of the martyrs and those 
 alt1.meMA.C1.acrostic.title = ""
 alt1.meMA.C1.acrostic.notice1 = ""
 alt1.meMA.C1.acrostic.text = ""
-alt1.meMA.C1.title = //titles_en_US_andronache.KanonTisAgias
+alt1.meMA.C1.title = //titles_en_US_andronache.ti.CanonSaintW
 alt1.meMA.C1.verse = //prayers_en_US_andronache.verse_SaintW.text
 
 alt1.meMA.Ode1C11.ode = misc_en_US_andronache.Ode1
@@ -631,7 +631,7 @@ alt1.meMA.Kontakion1.text = ""
 alt1.meMA.Oikos1.text = ""
 
 alt1.meMA.Synaxarion.text = ""
-alt1.meMA.couplet1.title = //titles_en_US_andronache.Stichoi
+alt1.meMA.couplet1.title = //titles_en_US_andronache.ti.Verses
 alt1.meMA.couplet1.verse1 = ""
 alt1.meMA.couplet1.verse2 = ""
 alt1.meMA.couplet2.verse1 = ""

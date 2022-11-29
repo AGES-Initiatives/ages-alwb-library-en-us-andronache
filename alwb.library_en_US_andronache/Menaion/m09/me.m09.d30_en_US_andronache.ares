@@ -77,7 +77,7 @@ meVE.Apolytikion1.text = ""
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-meMA.C1.title = //titles_en_US_andronache.KanonTouIeromartyros
+meMA.C1.title = //titles_en_US_andronache.ti.CanonHieromartyr
 meMA.C1.verse = //prayers_en_US_andronache.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_andronache.Ode1
