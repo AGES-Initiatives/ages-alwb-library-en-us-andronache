@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = me.m09.d11_en_US_andronache
 
 meVE.AposGlory.poet = //poets_en_US_andronache.SergiouAgiopolitou
-meVE.AposGlory.mode = misc_en_US_andronache.Mode8
+meVE.AposGlory.mode = miscellanea_en_US_andronache.misc.Mode8
 meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = me.m09.d08_en_US_andronache.meVE.LityGlory.incipit
 meVE.AposGlory.text = me.m09.d08_en_US_andronache.meVE.LityGlory.text

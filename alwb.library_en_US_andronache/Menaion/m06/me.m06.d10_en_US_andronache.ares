@@ -20,27 +20,27 @@ meHO.note1 = ""
 meHO.note2 = ""
 meDA.dismissal = ""
 
-meVE.Stichera01.mode = misc_en_US_andronache.Mode1
+meVE.Stichera01.mode = miscellanea_en_US_andronache.misc.Mode1
 meVE.Stichera01.melody = he.a.m1_en_US_andronache.PaneffimoiMartyres.name
 meVE.Stichera01.incipit = "Made rich with the never-setting…"
 meVE.Stichera01.text = "Made rich with the never-setting light * of the Trinity you suffered many tortures with steadfastness;  for Christ your Lord and God, * divine Alexander, * Antonina at your side, * renowned pair of athletes who have contested greatly and are now * interceding that surpassing peace * and great mercy * be upon our souls bestowed."
 
-meVE.Stichera02.mode = misc_en_US_andronache.Mode1
+meVE.Stichera02.mode = miscellanea_en_US_andronache.misc.Mode1
 meVE.Stichera02.melody = he.a.m1_en_US_andronache.PaneffimoiMartyres.name
 meVE.Stichera02.incipit = "You clearly received a double…"
 meVE.Stichera02.text = "You clearly received a double crown, * Antonina all-august, of purity and contest, since you have conquered the enemy’s * devices for battle * both before your contest and again in time of trial and adversity; so now we ask that you * intercede that peace ineffable * and great mercy * be upon our souls bestowed."
 
-meVE.Stichera03.mode = misc_en_US_andronache.Mode1
+meVE.Stichera03.mode = miscellanea_en_US_andronache.misc.Mode1
 meVE.Stichera03.melody = he.a.m1_en_US_andronache.PaneffimoiMartyres.name
 meVE.Stichera03.incipit = "O wise ones, when you…"
 meVE.Stichera03.text = "O wise ones, when you were lifted up * on the wood, then you were burned with torches; soldiers cut off your hands and covered you with pitch; * then they threw you into * a deep pit all filled with fire, where you arrived at your blessed end, all-famous martyrs of the Lord. * And you never disavowed God * O praiseworthy, * admirable athletes of Christ."
 
-meVE.SticTheotokion.mode = misc_en_US_andronache.Mode1
+meVE.SticTheotokion.mode = miscellanea_en_US_andronache.misc.Mode1
 meVE.SticTheotokion.melody = he.a.m1_en_US_andronache.PaneffimoiMartyres.name
 meVE.SticTheotokion.incipit = "…"
 meVE.SticTheotokion.text = ""
 
-meVE.SticStavrotheotokion.mode = misc_en_US_andronache.Mode1
+meVE.SticStavrotheotokion.mode = miscellanea_en_US_andronache.misc.Mode1
 meVE.SticStavrotheotokion.melody = he.a.m1_en_US_andronache.PaneffimoiMartyres.name
 meVE.SticStavrotheotokion.incipit = "…"
 meVE.SticStavrotheotokion.text = //oc.m1.d4_en_US_andronache.ocVE.SticTheotokion.text
@@ -51,232 +51,232 @@ meMA.C1.acrostic.text = ""
 meMA.C1.title = //titles_en_US_andronache.ti.CanonSaints
 meMA.C1.verse = //prayers_en_US_andronache.pr.verse_SaintsM.text
 
-meMA.Ode1C11.ode = misc_en_US_andronache.Ode1
-meMA.Ode1C11.mode = misc_en_US_andronache.Mode1
+meMA.Ode1C11.ode = miscellanea_en_US_andronache.misc.Ode1
+meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode1C11.melody = he.h.m1_en_US_andronache.SouITropaiouchos.notmetered
 meMA.Ode1C11.incipit = "Grant light abundantly to me…"
 meMA.Ode1C11.text = "Grant light abundantly to me who ardently desire to praise your feast hymns, O Martyrs, dispersing the darkness of my ignorance, as you stand in the presence of the unwaning light."
 
-meMA.Ode1C12.ode = misc_en_US_andronache.Ode1
-meMA.Ode1C12.mode = misc_en_US_andronache.Mode1
+meMA.Ode1C12.ode = miscellanea_en_US_andronache.misc.Ode1
+meMA.Ode1C12.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode1C12.melody = he.h.m1_en_US_andronache.SouITropaiouchos.notmetered
 meMA.Ode1C12.incipit = "By faith having yearned only…"
 meMA.Ode1C12.text = "By faith having yearned only for the things which remain, by your most steadfast resolve you overlooked all things visible and manifestly went to punishment and scourging."
 
-meMA.Ode1C13.ode = misc_en_US_andronache.Ode1
-meMA.Ode1C13.mode = misc_en_US_andronache.Mode1
+meMA.Ode1C13.ode = miscellanea_en_US_andronache.misc.Ode1
+meMA.Ode1C13.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode1C13.melody = he.h.m1_en_US_andronache.SouITropaiouchos.notmetered
 meMA.Ode1C13.incipit = "August ones, to lawfully complete…"
 meMA.Ode1C13.text = "August ones, to lawfully complete the struggle of martyrdom, you had the Lord for a helper, lightening your pains and making you stand courageously against tyrants."
 
-meMA.Ode1C1T.ode = misc_en_US_andronache.Ode1
-meMA.Ode1C1T.mode = misc_en_US_andronache.Mode1
+meMA.Ode1C1T.ode = miscellanea_en_US_andronache.misc.Ode1
+meMA.Ode1C1T.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode1C1T.melody = he.h.m1_en_US_andronache.SouITropaiouchos.notmetered
 meMA.Ode1C1T.incipit = "He who, as God, created…"
 meMA.Ode1C1T.text = "He who, as God, created the unseen powers by His will had you as the source of our re-fashioning, O Virgin. Entreat Him to save the world, all-pure one."
 
-meMA.Ode3C11.ode = misc_en_US_andronache.Ode3
-meMA.Ode3C11.mode = misc_en_US_andronache.Mode1
+meMA.Ode3C11.ode = miscellanea_en_US_andronache.misc.Ode3
+meMA.Ode3C11.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode3C11.melody = he.h.m1_en_US_andronache.OMonosEidos.notmetered
 meMA.Ode3C11.incipit = "Beautiful virgin Antonina, yearning to…"
 meMA.Ode3C11.text = "Beautiful virgin Antonina, yearning to see Christ, you emulated his divine passion, for you endured being smitten as He was, smiting the dark faces of the fleshless demons, all-praiseworthy one."
 
-meMA.Ode3C12.ode = misc_en_US_andronache.Ode3
-meMA.Ode3C12.mode = misc_en_US_andronache.Mode1
+meMA.Ode3C12.ode = miscellanea_en_US_andronache.misc.Ode3
+meMA.Ode3C12.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode3C12.melody = he.h.m1_en_US_andronache.OMonosEidos.notmetered
 meMA.Ode3C12.incipit = "You firmly withstood the enemy…"
 meMA.Ode3C12.text = "You firmly withstood the enemy who, through crookedness, commanded that you be whipped, all-august one, and he sentenced you to dwell in prison, while being guarded from above by the commands of your Creator, who is beheld by the holy angels."
 
-meMA.Ode3C13.ode = misc_en_US_andronache.Ode3
-meMA.Ode3C13.mode = misc_en_US_andronache.Mode1
+meMA.Ode3C13.ode = miscellanea_en_US_andronache.misc.Ode3
+meMA.Ode3C13.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode3C13.melody = he.h.m1_en_US_andronache.OMonosEidos.notmetered
 meMA.Ode3C13.incipit = "By your prayers, thunder and…"
 meMA.Ode3C13.text = "By your prayers, thunder and lightning came down from above and a great light was seen, bride of God; and a divine voice magnificently came, giving courage to you, all august Antonina, and strengthening you with spiritual food."
 
-meMA.Ode3C1T.ode = misc_en_US_andronache.Ode3
-meMA.Ode3C1T.mode = misc_en_US_andronache.Mode1
+meMA.Ode3C1T.ode = miscellanea_en_US_andronache.misc.Ode3
+meMA.Ode3C1T.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode3C1T.melody = he.h.m1_en_US_andronache.OMonosEidos.notmetered
 meMA.Ode3C1T.incipit = "Having conceived God, you were…"
 meMA.Ode3C1T.text = "Having conceived God, you were seen as a virgin after birth and the choirs of virgins entreat your divine countenance, spotless one. With them request forgiveness and mercy for us and complete release from all misfortunes."
 
-meMA.Ode3H.ode = misc_en_US_andronache.Ode3
-meMA.Ode3H.mode = misc_en_US_andronache.Mode1
+meMA.Ode3H.ode = miscellanea_en_US_andronache.misc.Ode3
+meMA.Ode3H.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode3H.melody = he.h.m1_en_US_andronache.OMonosEidos.melody
 meMA.Ode3H.incipit = he.h.m1_en_US_andronache.OMonosEidos.incipit
 meMA.Ode3H.text = he.h.m1_en_US_andronache.OMonosEidos.text
 
-meMA.Ode3Kathisma1.mode = misc_en_US_andronache.Mode1
+meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode3Kathisma1.melody = he.a.m1_en_US_andronache.TonTafonSouSotir.notmetered
 meMA.Ode3Kathisma1.incipit = "The wondrous pair of august…"
 meMA.Ode3Kathisma1.text = "The wondrous pair of august prize-winners, who firmly endured the fire of torments, now stands in glory, interceding with the Trinity that grace, mercy, and forgiveness of sins be given to those who celebrate their glorious memory in spirit."
 
-meMA.Ode3KathismaT.mode = misc_en_US_andronache.Mode1
+meMA.Ode3KathismaT.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode3KathismaT.melody = he.a.m1_en_US_andronache.TonTafonSouSotir.notmetered
 meMA.Ode3KathismaT.incipit = "Hope of Christians, all-holy virgin…"
 meMA.Ode3KathismaT.text = "Hope of Christians, all-holy virgin, together with the powers above ceaselessly entreat the God whom you bore beyond mind and reason that remission of sins and guidance of life be given to us all who with faith and fervor ever glorify you."
 
-meMA.Ode3KathismaSt.mode = misc_en_US_andronache.Mode1
+meMA.Ode3KathismaSt.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode3KathismaSt.melody = he.a.m1_en_US_andronache.TonTafonSouSotir.name
 meMA.Ode3KathismaSt.incipit = "…"
 meMA.Ode3KathismaSt.text = ""
 
-meMA.Ode4C11.ode = misc_en_US_andronache.Ode4
-meMA.Ode4C11.mode = misc_en_US_andronache.Mode1
+meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
+meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode4C11.melody = he.h.m1_en_US_andronache.OrosSeTiChariti.notmetered
 meMA.Ode4C11.incipit = "Your contest and struggles are…"
 meMA.Ode4C11.text = "Your contest and struggles are told in all the world, Great Martyrs of Christ. Through them, you turned aside the bitter powers of the foe by grace, and were shown to be victors over him."
 
-meMA.Ode4C12.ode = misc_en_US_andronache.Ode4
-meMA.Ode4C12.mode = misc_en_US_andronache.Mode1
+meMA.Ode4C12.ode = miscellanea_en_US_andronache.misc.Ode4
+meMA.Ode4C12.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode4C12.melody = he.h.m1_en_US_andronache.OrosSeTiChariti.notmetered
 meMA.Ode4C12.incipit = "The all-evil one set traps…"
 meMA.Ode4C12.text = "The all-evil one set traps against you, but with manly thought and attire you destroyed his armies and wholly dashed him to the ground, august one, being protected by a divine hand, godly-wise one."
 
-meMA.Ode4C13.ode = misc_en_US_andronache.Ode4
-meMA.Ode4C13.mode = misc_en_US_andronache.Mode1
+meMA.Ode4C13.ode = miscellanea_en_US_andronache.misc.Ode4
+meMA.Ode4C13.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode4C13.melody = he.h.m1_en_US_andronache.OrosSeTiChariti.notmetered
 meMA.Ode4C13.incipit = "Christ grants you understanding and…"
 meMA.Ode4C13.text = "Christ grants you understanding and knowledge and guards you spotless and blameless from the hand of the impious, O Antonina, and sends you the holy Alexander like a divine archangel from on high to ransom you."
 
-meMA.Ode4C1T.ode = misc_en_US_andronache.Ode4
-meMA.Ode4C1T.mode = misc_en_US_andronache.Mode1
+meMA.Ode4C1T.ode = miscellanea_en_US_andronache.misc.Ode4
+meMA.Ode4C1T.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode4C1T.melody = he.h.m1_en_US_andronache.OrosSeTiChariti.notmetered
 meMA.Ode4C1T.incipit = "All-hymned one, having you as…"
 meMA.Ode4C1T.text = "All-hymned one, having you as power and support, Antonina endures the grievous and oppressive things and throws off the tyrant and treads over him with beautiful feet, by the grace of the Logos who shone forth from your womb."
 
-meMA.Ode5C11.ode = misc_en_US_andronache.Ode5
-meMA.Ode5C11.mode = misc_en_US_andronache.Mode1
+meMA.Ode5C11.ode = miscellanea_en_US_andronache.misc.Ode5
+meMA.Ode5C11.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode5C11.melody = he.h.m1_en_US_andronache.OFotisasTiEllampsei.notmetered
 meMA.Ode5C11.incipit = "Being stretched on wood and…"
 meMA.Ode5C11.text = "Being stretched on wood and cut in pieces, O Alexander, and surrounded by great suffering, you reach up towards God with the eye of your mind, all-famous one, since He is powerful to save."
 
-meMA.Ode5C12.ode = misc_en_US_andronache.Ode5
-meMA.Ode5C12.mode = misc_en_US_andronache.Mode1
+meMA.Ode5C12.ode = miscellanea_en_US_andronache.misc.Ode5
+meMA.Ode5C12.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode5C12.melody = he.h.m1_en_US_andronache.OFotisasTiEllampsei.notmetered
 meMA.Ode5C12.incipit = "Being put to death in…"
 meMA.Ode5C12.text = "Being put to death in the nakedness of their bodies, the martyrs received the robe of incorruption and inherited immortal glory for temporary dishonor and therefore they are ever blessed."
 
-meMA.Ode5C1T.ode = misc_en_US_andronache.Ode5
-meMA.Ode5C1T.mode = misc_en_US_andronache.Mode1
+meMA.Ode5C1T.ode = miscellanea_en_US_andronache.misc.Ode5
+meMA.Ode5C1T.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode5C1T.melody = he.h.m1_en_US_andronache.OFotisasTiEllampsei.notmetered
 meMA.Ode5C1T.incipit = "Throw down the demons who…"
 meMA.Ode5C1T.text = "Throw down the demons who ever war against me and make ineffective their counsel, all-pure one, keeping me unwounded from their expectation, Maiden, so that I may ever bless you."
 
-meMA.Ode6C11.ode = misc_en_US_andronache.Ode6
-meMA.Ode6C11.mode = misc_en_US_andronache.Mode1
+meMA.Ode6C11.ode = miscellanea_en_US_andronache.misc.Ode6
+meMA.Ode6C11.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode6C11.melody = he.h.m1_en_US_andronache.EkyklosenImas.notmetered
 meMA.Ode6C11.incipit = "Completing your course with valiant…"
 meMA.Ode6C11.text = "Completing your course with valiant and wonderful struggles, filled with God, you put to flight thousands of dark spirits, O Martyrs of the Lord, and you rejoice with the choirs of the bodiless."
 
-meMA.Ode6C12.ode = misc_en_US_andronache.Ode6
-meMA.Ode6C12.mode = misc_en_US_andronache.Mode1
+meMA.Ode6C12.ode = miscellanea_en_US_andronache.misc.Ode6
+meMA.Ode6C12.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode6C12.melody = he.h.m1_en_US_andronache.EkyklosenImas.notmetered
 meMA.Ode6C12.incipit = "O Martyrs, illumined by the…"
 meMA.Ode6C12.text = "O Martyrs, illumined by the divine light and the greatest beauty of purity, you were as immaterial liturgists, serving the giver of good and you were translated to Him as crown-bearers."
 
-meMA.Ode6C13.ode = misc_en_US_andronache.Ode6
-meMA.Ode6C13.mode = misc_en_US_andronache.Mode1
+meMA.Ode6C13.ode = miscellanea_en_US_andronache.misc.Ode6
+meMA.Ode6C13.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode6C13.melody = he.h.m1_en_US_andronache.EkyklosenImas.notmetered
 meMA.Ode6C13.incipit = "Together in prison, you were…"
 meMA.Ode6C13.text = "Together in prison, you were made glad, when light illuminated you, when you received a voice from God which placed courage in your souls, all-famous crown-bearing great-martyrs."
 
-meMA.Ode6C1T.ode = misc_en_US_andronache.Ode6
-meMA.Ode6C1T.mode = misc_en_US_andronache.Mode1
+meMA.Ode6C1T.ode = miscellanea_en_US_andronache.misc.Ode6
+meMA.Ode6C1T.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode6C1T.melody = he.h.m1_en_US_andronache.EkyklosenImas.notmetered
 meMA.Ode6C1T.incipit = "I have murdered the soul…"
 meMA.Ode6C1T.text = "I have murdered the soul through my transgressions. O Mother of God, watch over me and give me life, you who gave birth to Christ, the life, whom the famous great martyrs confessed as the God of all."
 
-meMA.Ode6H.ode = misc_en_US_andronache.Ode6
-meMA.Ode6H.mode = misc_en_US_andronache.Mode1
+meMA.Ode6H.ode = miscellanea_en_US_andronache.misc.Ode6
+meMA.Ode6H.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode6H.melody = he.h.m1_en_US_andronache.EkyklosenImas.melody
 meMA.Ode6H.incipit = he.h.m1_en_US_andronache.EkyklosenImas.incipit
 meMA.Ode6H.text = he.h.m1_en_US_andronache.EkyklosenImas.text
 
-meMA.Kontakion1.mode = misc_en_US_andronache.Mode4
+meMA.Kontakion1.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Kontakion1.melody = he.a.m4_en_US_andronache.EpefanisSimeron.notmetered
 meMA.Kontakion1.incipit = "The praiseworthy memory of the…"
 meMA.Kontakion1.text = "The praiseworthy memory of the martyrs has shone forth. Let us, the faithful, celebrate and hymn it with faith, crying out with knowledge: You, O Christ, are the strength of the martyrs."
 
-meMA.Ode7C11.ode = misc_en_US_andronache.Ode7
-meMA.Ode7C11.mode = misc_en_US_andronache.Mode1
+meMA.Ode7C11.ode = miscellanea_en_US_andronache.misc.Ode7
+meMA.Ode7C11.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode7C11.melody = he.h.m1_en_US_andronache.SeNoitin.notmetered
 meMA.Ode7C11.incipit = "Having had their hands severed…"
 meMA.Ode7C11.text = "Having had their hands severed, which they had lifted towards God, the Lord of all, the martyrs rejoiced in a strange manner, having received power from heaven and cried out: O God of the Fathers you are praised and supremely glorified."
 
-meMA.Ode7C12.ode = misc_en_US_andronache.Ode7
-meMA.Ode7C12.mode = misc_en_US_andronache.Mode1
+meMA.Ode7C12.ode = miscellanea_en_US_andronache.misc.Ode7
+meMA.Ode7C12.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode7C12.melody = he.h.m1_en_US_andronache.SeNoitin.notmetered
 meMA.Ode7C12.incipit = "Truly enduring insupportable sufferings, you…"
 meMA.Ode7C12.text = "Truly enduring insupportable sufferings, you were made bright as gold and were seen as a most beautiful ornament crying: O God of the Fathers you are praised and supremely glorified."
 
-meMA.Ode7C13.ode = misc_en_US_andronache.Ode7
-meMA.Ode7C13.mode = misc_en_US_andronache.Mode1
+meMA.Ode7C13.ode = miscellanea_en_US_andronache.misc.Ode7
+meMA.Ode7C13.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode7C13.melody = he.h.m1_en_US_andronache.SeNoitin.notmetered
 meMA.Ode7C13.incipit = "Youthfully enduring being lifted up…"
 meMA.Ode7C13.text = "Youthfully enduring being lifted up on wood and fearfully struck with swords, you truly did not feel the pains of the tortures, receiving aid from on high and crying: O God of the Fathers you are praised and supremely glorified."
 
-meMA.Ode7C1T.ode = misc_en_US_andronache.Ode7
-meMA.Ode7C1T.mode = misc_en_US_andronache.Mode1
+meMA.Ode7C1T.ode = miscellanea_en_US_andronache.misc.Ode7
+meMA.Ode7C1T.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode7C1T.melody = he.h.m1_en_US_andronache.SeNoitin.notmetered
 meMA.Ode7C1T.incipit = "As the Chaldean furnace did…"
 meMA.Ode7C1T.text = "As the Chaldean furnace did not burn the three youths, so, pure one, the fire of the divinity kept your womb unburned., I, however, cry to you: Burn the bitter substance of my passions, pure one, so that I may glorify you."
 
-meMA.Ode8C11.ode = misc_en_US_andronache.Ode8
-meMA.Ode8C11.mode = misc_en_US_andronache.Mode1
+meMA.Ode8C11.ode = miscellanea_en_US_andronache.misc.Ode8
+meMA.Ode8C11.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode8C11.melody = he.h.m1_en_US_andronache.EnKaminoPaides.notmetered
 meMA.Ode8C11.incipit = "The all-wise pair proclaims before…"
 meMA.Ode8C11.text = "The all-wise pair proclaims before the lawless ones the incarnation of the Logos who, beyond comprehension, was seen upon the earth for us, and having endured the trial of all the tortures, they are now counted with the company of the martyrs unto the ages."
 
-meMA.Ode8C12.ode = misc_en_US_andronache.Ode8
-meMA.Ode8C12.mode = misc_en_US_andronache.Mode1
+meMA.Ode8C12.ode = miscellanea_en_US_andronache.misc.Ode8
+meMA.Ode8C12.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode8C12.melody = he.h.m1_en_US_andronache.EnKaminoPaides.notmetered
 meMA.Ode8C12.incipit = "As a holy sacrifice you…"
 meMA.Ode8C12.text = "As a holy sacrifice you were burned by torches; you kept your eye towards the mighty God to save you, O Martyrs, chanting: All the works of the Lord hymn the Lord and exalt Him beyond measure unto all the ages."
 
-meMA.Ode8C13.ode = misc_en_US_andronache.Ode8
-meMA.Ode8C13.mode = misc_en_US_andronache.Mode1
+meMA.Ode8C13.ode = miscellanea_en_US_andronache.misc.Ode8
+meMA.Ode8C13.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode8C13.melody = he.h.m1_en_US_andronache.EnKaminoPaides.notmetered
 meMA.Ode8C13.incipit = "Wise martyrs you were subjected…"
 meMA.Ode8C13.text = "Wise martyrs you were subjected to being bound, smeared with pitch, and burned in the pit, but were crying out, being divinely inspired: All the works of the Lord bless, hymn, and exalt the Lord beyond measure unto all the ages."
 
-meMA.Ode8C1T.ode = misc_en_US_andronache.Ode8
-meMA.Ode8C1T.mode = misc_en_US_andronache.Mode1
+meMA.Ode8C1T.ode = miscellanea_en_US_andronache.misc.Ode8
+meMA.Ode8C1T.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode8C1T.melody = he.h.m1_en_US_andronache.EnKaminoPaides.notmetered
 meMA.Ode8C1T.incipit = "You gave birth to God…"
 meMA.Ode8C1T.text = "You gave birth to God in our likeness without the help of man, O Virgin. Ever entreat Him, most pure one, to save those who cry: All the works of the Lord bless, hymn, and exalt the Lord beyond measure unto all the ages."
 
-meMA.Ode8H.ode = misc_en_US_andronache.Ode8
-meMA.Ode8H.mode = misc_en_US_andronache.Mode1
+meMA.Ode8H.ode = miscellanea_en_US_andronache.misc.Ode8
+meMA.Ode8H.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode8H.melody = he.h.m1_en_US_andronache.EnKaminoPaides.melody
 meMA.Ode8H.incipit = he.h.m1_en_US_andronache.EnKaminoPaides.incipit
 meMA.Ode8H.text = he.h.m1_en_US_andronache.EnKaminoPaides.text
 
-meMA.Ode9C11.ode = misc_en_US_andronache.Ode9
-meMA.Ode9C11.mode = misc_en_US_andronache.Mode1
+meMA.Ode9C11.ode = miscellanea_en_US_andronache.misc.Ode9
+meMA.Ode9C11.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode9C11.melody = he.h.m1_en_US_andronache.TyponTisAgnis.notmetered
 meMA.Ode9C11.incipit = "In order to receive an…"
 meMA.Ode9C11.text = "In order to receive an unwithering crown and a luminous bridal chamber and unassailable happiness in heaven, you were thrown in fire and the pit and were blessedly perfected there, admirable ones."
 
-meMA.Ode9C12.ode = misc_en_US_andronache.Ode9
-meMA.Ode9C12.mode = misc_en_US_andronache.Mode1
+meMA.Ode9C12.ode = miscellanea_en_US_andronache.misc.Ode9
+meMA.Ode9C12.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode9C12.melody = he.h.m1_en_US_andronache.TyponTisAgnis.notmetered
 meMA.Ode9C12.incipit = "You were lifted up as…"
 meMA.Ode9C12.text = "You were lifted up as whole-burnt offerings to the King of all, O Martyrs of Christ, perfected through fire and were joined together to a bright company of the hosts on high; with them we ever honor you."
 
-meMA.Ode9C13.ode = misc_en_US_andronache.Ode9
-meMA.Ode9C13.mode = misc_en_US_andronache.Mode1
+meMA.Ode9C13.ode = miscellanea_en_US_andronache.misc.Ode9
+meMA.Ode9C13.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode9C13.melody = he.h.m1_en_US_andronache.TyponTisAgnis.notmetered
 meMA.Ode9C13.incipit = "You brought body and soul…"
 meMA.Ode9C13.text = "You brought body and soul truly as a living sacrifice, great martyrs, to Christ who was offered up for us as a sheep and you rejoice in the dwellings of the first-born, godly-minded Alexander and admirable Antonina."
 
-meMA.Ode9C1T.ode = misc_en_US_andronache.Ode9
-meMA.Ode9C1T.mode = misc_en_US_andronache.Mode1
+meMA.Ode9C1T.ode = miscellanea_en_US_andronache.misc.Ode9
+meMA.Ode9C1T.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode9C1T.melody = he.h.m1_en_US_andronache.TyponTisAgnis.notmetered
 meMA.Ode9C1T.incipit = "Send light to me, who…"
 meMA.Ode9C1T.text = "Send light to me, who am lying in the darkness of indifference, all pure one, dispersing the clouds that blind my thought and ever work a deep peace in my soul, all-blameless one, that I may glorify you."
 
-meMA.Ode9H.ode = misc_en_US_andronache.Ode9
-meMA.Ode9H.mode = misc_en_US_andronache.Mode1
+meMA.Ode9H.ode = miscellanea_en_US_andronache.misc.Ode9
+meMA.Ode9H.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode9H.melody = he.h.m1_en_US_andronache.TyponTisAgnis.melody
 meMA.Ode9H.incipit = he.h.m1_en_US_andronache.TyponTisAgnis.incipit
 meMA.Ode9H.text = he.h.m1_en_US_andronache.TyponTisAgnis.text
