@@ -229,7 +229,7 @@ meMA.PostGospelIdiomelon.incipit = "…"
 meMA.PostGospelIdiomelon.text = ""
 
 meMA.C1.title = //titles_en_US_andronache.ti.Canon1SaintM
-meMA.C1.verse = //prayers_en_US_andronache.verse_SaintM.text
+meMA.C1.verse = //prayers_en_US_andronache.pr.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_US_andronache.Ode1
 meMA.Ode1C11.mode = misc_en_US_andronache.Mode6
@@ -256,7 +256,7 @@ meMA.Ode1C1T.incipit = "The squalls of sins and…"
 meMA.Ode1C1T.text = "The squalls of sins and the opposing waves of evil thoughts, and the uprisings of passions have come upon me; save me by your mighty intercession."
 
 meMA.C2.title = //titles_en_US_andronache.ti.Canon2SaintM
-meMA.C2.verse = //prayers_en_US_andronache.verse_SaintM.text
+meMA.C2.verse = //prayers_en_US_andronache.pr.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_en_US_andronache.Ode1
 meMA.Ode1C21.mode = misc_en_US_andronache.Mode4

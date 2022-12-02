@@ -203,7 +203,7 @@ meMA.Ode1C1H.incipit = "…"
 meMA.Ode1C1H.text = //he.h.m2_en_US_andronache.DefteLaoi.text
 
 meMA.C1.title = //titles_en_US_andronache.ti.Canon1Feast
-meMA.C1.verse = //prayers_en_US_andronache.verse_Theotokos.text
+meMA.C1.verse = //prayers_en_US_andronache.pr.verse_Theotokos.text
 
 meMA.Ode1C11.ode = misc_en_US_andronache.Ode1
 meMA.Ode1C11.mode = misc_en_US_andronache.Mode2
@@ -230,7 +230,7 @@ meMA.Ode1C2H.incipit = "…"
 meMA.Ode1C2H.text = //he.h.m8_en_US_andronache.ToSyntripsantiPolemous.text
 
 meMA.C2.title = //titles_en_US_andronache.ti.Canon2Feast
-meMA.C2.verse = //prayers_en_US_andronache.verse_Theotokos.text
+meMA.C2.verse = //prayers_en_US_andronache.pr.verse_Theotokos.text
 
 meMA.Ode1C21.ode = misc_en_US_andronache.Ode1
 meMA.Ode1C21.mode = misc_en_US_andronache.Mode8
