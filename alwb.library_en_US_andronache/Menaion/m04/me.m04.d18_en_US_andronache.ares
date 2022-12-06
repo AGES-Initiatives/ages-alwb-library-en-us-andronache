@@ -219,11 +219,11 @@ meMA.Ode6C1T.melody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.notmetered
 meMA.Ode6C1T.incipit = "Let us piously hymn the…"
 meMA.Ode6C1T.text = "Let us piously hymn the immaculate Mary, the truly divine and all-august tabernacle of God, for having received Him, she contained the uncontainable and incomprehensible God."
 
-meMA.Kontakion1.poet = //poets_en_US_andronache.Gerasimou
-meMA.Kontakion1.mode = miscellanea_en_US_andronache.misc.Mode2
-meMA.Kontakion1.melody = he.a.m2_en_US_andronache.heAU.TousAsfaleis.notmetered
-meMA.Kontakion1.incipit = "…"
-meMA.Kontakion1.text = ""
+meMA.Kontakion1ger.poet = //poets_en_US_andronache.Gerasimou
+meMA.Kontakion1ger.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Kontakion1ger.melody = he.a.m2_en_US_andronache.heAU.TousAsfaleis.notmetered
+meMA.Kontakion1ger.incipit = "…"
+meMA.Kontakion1ger.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_andronache.misc.Mode8
@@ -315,10 +315,10 @@ meMA.Ode9C1T.melody = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.notmetered
 meMA.Ode9C1T.incipit = "When you became the mother…"
 meMA.Ode9C1T.text = "When you became the mother of the redeemer, all-pure one, you again called us who had been thrown out of the heavenly life and wretchedly fallen into death, and again made us worthy to return to the original fatherland. Therefore, we unceasingly magnify you, mother of God."
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = meMA.Kontakion1ger.mode
+meLI.Kontakion1.melody = meMA.Kontakion1ger.melody
+meLI.Kontakion1.incipit = meMA.Kontakion1ger.incipit
+meLI.Kontakion1.text = meMA.Kontakion1ger.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_andronache.media.key
 

@@ -44,11 +44,11 @@ meVE.SticStavrotheotokion.melody = he.a.m4_en_US_andronache.heAU.EdokasSimeiosin
 meVE.SticStavrotheotokion.incipit = "Seeing Christ, the lover of…"
 meVE.SticStavrotheotokion.text = "Seeing Christ, the lover of humanity, crucified and with His side gouged by a spear, the all-pure one hymns Him who came from her womb and she cried out amazed at His long-suffering: My most yearned-for child, do not forget your servant; do not prolong my heaviness of heart, O lover of humanity."
 
-meVE.Apolytikion1.poet = //poets_en_US_andronache.Gerasimou
-meVE.Apolytikion1.mode = miscellanea_en_US_andronache.misc.Mode4
-meVE.Apolytikion1.melody = he.a.m4_en_US_andronache.heAU.OYpsotheisEnToStavro.notmetered
-meVE.Apolytikion1.incipit = "…"
-meVE.Apolytikion1.text = ""
+meVE.Apolytikion1ger.poet = //poets_en_US_andronache.Gerasimou
+meVE.Apolytikion1ger.mode = miscellanea_en_US_andronache.misc.Mode4
+meVE.Apolytikion1ger.melody = he.a.m4_en_US_andronache.heAU.OYpsotheisEnToStavro.notmetered
+meVE.Apolytikion1ger.incipit = "…"
+meVE.Apolytikion1ger.text = ""
 
 meMA.C1.acrostic.title = "Canon for the Saint."
 meMA.C1.acrostic.notice1 = ""
@@ -221,11 +221,11 @@ meMA.Ode6C1T.melody = he.h.m5_en_US_andronache.heHE.MainomeninKlydoni.notmetered
 meMA.Ode6C1T.incipit = "All-holy one, the Maker of…"
 meMA.Ode6C1T.text = "All-holy one, the Maker of the world has risen from you and with rays of divine knowledge He has enlightened those in the night of ignorance."
 
-meMA.Kontakion1.poet = //poets_en_US_andronache.Gerasimou
-meMA.Kontakion1.mode = miscellanea_en_US_andronache.misc.Mode4
-meMA.Kontakion1.melody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.notmetered
-meMA.Kontakion1.incipit = "…"
-meMA.Kontakion1.text = ""
+meMA.Kontakion1ger.poet = //poets_en_US_andronache.Gerasimou
+meMA.Kontakion1ger.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Kontakion1ger.melody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.notmetered
+meMA.Kontakion1ger.incipit = "…"
+meMA.Kontakion1ger.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_andronache.misc.Mode5
@@ -317,10 +317,10 @@ meMA.Ode9C1T.melody = he.h.m5_en_US_andronache.heHE.IsaiaChoreve.notmetered
 meMA.Ode9C1T.incipit = "All-holy mother of God, illuminate…"
 meMA.Ode9C1T.text = "All-holy mother of God, illuminate my mind with most brilliant rays, for it is seized by the painful darkness of ignorance, that I, having gained divine enlightenment, may proclaim your mighty acts, ever-virgin."
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = meMA.Kontakion1ger.mode
+meLI.Kontakion1.melody = meMA.Kontakion1ger.melody
+meLI.Kontakion1.incipit = meMA.Kontakion1ger.incipit
+meLI.Kontakion1.text = meMA.Kontakion1ger.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_andronache.media.key
 
