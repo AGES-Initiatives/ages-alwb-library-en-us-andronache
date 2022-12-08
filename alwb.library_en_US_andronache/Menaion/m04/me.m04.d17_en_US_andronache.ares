@@ -20,6 +20,7 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = miscellanea_en_US_andronache.misc.Mode4
+meVE.Stichera01.greekmelody = he.a.m4_en_US_andronache.heAU.EdokasSimeiosin.greekname
 meVE.Stichera01.melody = he.a.m4_en_US_andronache.heAU.EdokasSimeiosin.notmetered
 meVE.Stichera01.incipit = "Your divine memory flashed like…"
 meVE.Stichera01.text = "Your divine memory flashed like the sun today, shining upon the faithful and illumining creation with divine rays, all-blessed Symeon, driving away the cloud of passions and the darkness of demons. Therefore we bless you and yearly honor you as a light for all the world and a most fervent intercessor."
