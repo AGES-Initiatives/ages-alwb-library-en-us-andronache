@@ -36,11 +36,13 @@ meVE.Stichera03.incipit = "With the arrow of your…"
 meVE.Stichera03.text = "With the arrow of your words you wounded the ranks of the unlawful ones. Therefore the clouds of heaven gave voice and the choirs of angels clapped their hands together at your the steadfastness of your struggles. Therefore, with joy, we all faithfully celebrate your holy dormition, glorifying the Savior."
 
 meVE.SticTheotokion.mode = miscellanea_en_US_andronache.misc.Mode4
+meVE.SticTheotokion.greekmelody = he.a.m4_en_US_andronache.heAU.EdokasSimeiosin.greekname
 meVE.SticTheotokion.melody = he.a.m4_en_US_andronache.heAU.EdokasSimeiosin.notmetered
 meVE.SticTheotokion.incipit = "I entreat you, much-hymned one…"
 meVE.SticTheotokion.text = "I entreat you, much-hymned one and the most pure palace of the King: cleanse mind, stained by every sin and make it a delightful dwelling-place of the beyond-divine Trinity that, being saved, I your unprofitable suppliant, may magnify your immeasurable mercy and mediation."
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_andronache.misc.Mode4
+meVE.SticStavrotheotokion.greekmelody = he.a.m4_en_US_andronache.heAU.EdokasSimeiosin.greekname
 meVE.SticStavrotheotokion.melody = he.a.m4_en_US_andronache.heAU.EdokasSimeiosin.notmetered
 meVE.SticStavrotheotokion.incipit = "Seeing Christ, the lover of…"
 meVE.SticStavrotheotokion.text = "Seeing Christ, the lover of humanity, crucified and with His side gouged by a spear, the all-pure one hymns Him who came from her womb and she cried out amazed at His long-suffering: My most yearned-for child, do not forget your servant; do not prolong my heaviness of heart, O lover of humanity."

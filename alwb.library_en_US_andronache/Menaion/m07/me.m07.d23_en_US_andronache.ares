@@ -46,6 +46,7 @@ meVE.SticTheotokion.incipit = "…"
 meVE.SticTheotokion.text = //oc.m4.d2_en_US_andronache.ocMA.AposTheotokion.text
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_andronache.misc.Mode4
+meVE.SticStavrotheotokion.greekmelody = he.a.m4_en_US_andronache.heAU.OsGennaionEnMartysi.greekname
 meVE.SticStavrotheotokion.melody = he.a.m4_en_US_andronache.heAU.OsGennaionEnMartysi.notmetered
 meVE.SticStavrotheotokion.incipit = "…"
 meVE.SticStavrotheotokion.text = ""

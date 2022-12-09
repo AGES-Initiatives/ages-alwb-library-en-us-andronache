@@ -37,11 +37,13 @@ meVE.Stichera03.incipit = "O wise ones, when you…"
 meVE.Stichera03.text = "O wise ones, when you were lifted up * on the wood, then you were burned with torches; soldiers cut off your hands and covered you with pitch; * then they threw you into * a deep pit all filled with fire, where you arrived at your blessed end, all-famous martyrs of the Lord. * And you never disavowed God * O praiseworthy, * admirable athletes of Christ."
 
 meVE.SticTheotokion.mode = miscellanea_en_US_andronache.misc.Mode1
+meVE.SticTheotokion.greekmelody = he.a.m1_en_US_andronache.heAU.PaneffimoiMartyres.greekname
 meVE.SticTheotokion.melody = he.a.m1_en_US_andronache.heAU.PaneffimoiMartyres.name
 meVE.SticTheotokion.incipit = "…"
 meVE.SticTheotokion.text = ""
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_andronache.misc.Mode1
+meVE.SticStavrotheotokion.greekmelody = he.a.m1_en_US_andronache.heAU.PaneffimoiMartyres.greekname
 meVE.SticStavrotheotokion.melody = he.a.m1_en_US_andronache.heAU.PaneffimoiMartyres.name
 meVE.SticStavrotheotokion.incipit = "…"
 meVE.SticStavrotheotokion.text = //oc.m1.d4_en_US_andronache.ocVE.SticTheotokion.text

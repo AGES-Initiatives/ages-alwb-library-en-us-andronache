@@ -36,11 +36,13 @@ meVE.Stichera03.incipit = "With noble spirit, as having…"
 meVE.Stichera03.text = "With noble spirit, as having embraced Christ, the noble-minded maidens trampled over the mighty one who, of old, had deceived Eve by treachery, and having mightily defeated him, they intercede with Christ that our souls be granted peace and great mercy."
 
 meVE.SticTheotokion.mode = miscellanea_en_US_andronache.misc.Mode1
+meVE.SticTheotokion.greekmelody = he.a.m1_en_US_andronache.heAU.PaneffimoiMartyres.greekname
 meVE.SticTheotokion.melody = he.a.m1_en_US_andronache.heAU.PaneffimoiMartyres.notmetered
 meVE.SticTheotokion.incipit = "All-hymned one, heal my soul…"
 meVE.SticTheotokion.text = "All-hymned one, heal my soul which is fearfully diseased with most evil passions; you who have conceived Christ the healer and savior, who heals every sickness, who wounds the devil’s malice and delivers us from death."
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_andronache.misc.Mode1
+meVE.SticStavrotheotokion.greekmelody = he.a.m1_en_US_andronache.heAU.PaneffimoiMartyres.greekname
 meVE.SticStavrotheotokion.melody = he.a.m1_en_US_andronache.heAU.PaneffimoiMartyres.notmetered
 meVE.SticStavrotheotokion.incipit = "Seeing your unjust slaughter, O…"
 meVE.SticStavrotheotokion.text = "Seeing your unjust slaughter, O Christ, the Virgin in grief cried out: Most sweet child, how do you die unrighteously? How are you, who have suspended all the earth upon the waters, suspended on the tree? I entreat you, do not leave me, your mother and slave, alone, most merciful benefactor." //oc.m1.d4_en_US_andronache.ocVE.SticTheotokion.text

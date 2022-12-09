@@ -36,11 +36,13 @@ meVE.Stichera03.incipit = "The case of your relics…"
 meVE.Stichera03.text = "The case of your relics pours out waters of healings like a river, O hieromartyr of Christ, and irrigates the hearts of the all the pious who daily come to it and sing the praises of your struggles, O Paphnutios."
 
 meVE.SticTheotokion.mode = miscellanea_en_US_andronache.misc.Mode1
+meVE.SticTheotokion.greekmelody = he.a.m1_en_US_andronache.heAU.TonOuranionTagmaton.greekname
 meVE.SticTheotokion.melody = miscellanea_en_US_andronache.misc.Automelon
 meVE.SticTheotokion.incipit = he.a.m1_en_US_andronache.heAU.TonOuranionTagmaton.incipit
 meVE.SticTheotokion.text = he.a.m1_en_US_andronache.heAU.TonOuranionTagmaton.text
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_andronache.misc.Mode1
+meVE.SticStavrotheotokion.greekmelody = he.a.m1_en_US_andronache.heAU.TonOuranionTagmaton.greekname
 meVE.SticStavrotheotokion.melody = he.a.m1_en_US_andronache.heAU.TonOuranionTagmaton.notmetered
 meVE.SticStavrotheotokion.incipit = "Beholding the Lord and Creator…"
 meVE.SticStavrotheotokion.text = "Beholding the Lord and Creator and Fashioner of humanity on the Cross, the unwedded blameless virgin bitterly cried out lamenting and sighing: What is this I see, sweetest child? I hymn your long-suffering."
