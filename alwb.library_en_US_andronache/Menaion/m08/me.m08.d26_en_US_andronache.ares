@@ -96,6 +96,7 @@ meMA.C1.verse = //prayers_en_US_andronache.pr.verse_SaintsM.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode1C11.greekmelody = he.h.m6_en_US_andronache.heHE.OsEnIpeiroPezefsas.greekname
 meMA.Ode1C11.melody = he.h.m6_en_US_andronache.heHE.OsEnIpeiroPezefsas.notmetered
 meMA.Ode1C11.incipit = "Being kept by a terrible…"
 meMA.Ode1C11.text = "Being kept by a terrible sleep In the night of life, O God raise me up to the light through works of repentance by the prayers of your martyrs, O Christ, so that I may glorify you."
@@ -120,6 +121,7 @@ meMA.Ode1C1T.text = "Having received her creator, as He desired, from your seedl
 
 meMA.Ode3C11.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode3C11.greekmelody = he.h.m6_en_US_andronache.heHE.OukEstinAgios.greekname
 meMA.Ode3C11.melody = he.h.m6_en_US_andronache.heHE.OukEstinAgios.notmetered
 meMA.Ode3C11.incipit = "Leaving the bonds of idol…"
 meMA.Ode3C11.text = "Leaving the bonds of idol vanity, O martyr, you tied yourself to the yearning of the love of Christ and you became a partaker of the bonds of His contestants."
@@ -144,6 +146,7 @@ meMA.Ode3C1T.text = "The wonder of your divine birth-giving, pure one, surpasses
 
 meMA.Ode3H.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode3H.greekmelody = he.h.m6_en_US_andronache.heHE.OukEstinAgios.greekname
 meMA.Ode3H.melody = he.h.m6_en_US_andronache.heHE.OukEstinAgios.melody
 meMA.Ode3H.incipit = he.h.m6_en_US_andronache.heHE.OukEstinAgios.incipit
 meMA.Ode3H.text = he.h.m6_en_US_andronache.heHE.OukEstinAgios.text
@@ -165,6 +168,7 @@ meMA.Ode3KathismaSt.text = //me.m11.d15_en_US_andronache.meMA.Ode3KathismaSt.tex
 
 meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode4C11.greekmelody = he.h.m6_en_US_andronache.heHE.ChristosMouDynamis.greekname
 meMA.Ode4C11.melody = he.h.m6_en_US_andronache.heHE.ChristosMouDynamis.notmetered
 meMA.Ode4C11.incipit = "The martyrs, having placed Christ…"
 meMA.Ode4C11.text = "The martyrs, having placed Christ as their strength, trampled down the powerless daring of the pursuers and gained the prizes of victory from heaven."
@@ -195,6 +199,7 @@ meMA.Ode4C1T.text = "As truly unspeakable and beyond understanding of both those
 
 meMA.Ode5C11.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode5C11.greekmelody = he.h.m6_en_US_andronache.heHE.ToTheioFengeiSou.greekname
 meMA.Ode5C11.melody = he.h.m6_en_US_andronache.heHE.ToTheioFengeiSou.notmetered
 meMA.Ode5C11.incipit = "The most noble company of…"
 meMA.Ode5C11.text = "The most noble company of twenty athletes with three others, being bound for Christ, loosed the bonds of impiety as powerless by the power of the Trinity."
@@ -219,6 +224,7 @@ meMA.Ode5C1T.text = "Deliver those who hymn you from their souls as Theotokos, g
 
 meMA.Ode6C11.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode6C11.greekmelody = he.h.m6_en_US_andronache.heHE.TouViouTinThalassan.greekname
 meMA.Ode6C11.melody = he.h.m6_en_US_andronache.heHE.TouViouTinThalassan.notmetered
 meMA.Ode6C11.incipit = "Being guided by the hand…"
 meMA.Ode6C11.text = "Being guided by the hand of Christ, you went through the see of godlessness and were brought to the calm harbor of the brightness on high, O athletes of the Lord."
@@ -243,6 +249,7 @@ meMA.Ode6C1T.text = "The all-pure Lady who gave birth for mortals to the guiding
 
 meMA.Ode6H.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode6H.greekmelody = he.h.m6_en_US_andronache.heHE.TouViouTinThalassan.greekname
 meMA.Ode6H.melody = he.h.m6_en_US_andronache.heHE.TouViouTinThalassan.melody
 meMA.Ode6H.incipit = he.h.m6_en_US_andronache.heHE.TouViouTinThalassan.incipit
 meMA.Ode6H.text = he.h.m6_en_US_andronache.heHE.TouViouTinThalassan.text
@@ -256,6 +263,7 @@ meMA.Oikos1.text = "The time was set for the faithful, the joyous day of the div
 
 meMA.Ode7C11.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode7C11.greekmelody = he.h.m6_en_US_andronache.heHE.DrosovolonMenTinKaminon.greekname
 meMA.Ode7C11.melody = he.h.m6_en_US_andronache.heHE.DrosovolonMenTinKaminon.notmetered
 meMA.Ode7C11.incipit = "You were shown to be…"
 meMA.Ode7C11.text = "You were shown to be immovable towers of the Zion on high, O martyrs, having beaten down all the city-destroying devices of the enemy with the bars of your contests. Therefore, we ever piously honor your memory."
@@ -280,6 +288,7 @@ meMA.Ode7C1T.text = "The furnace did not burn the three youths, prefiguring your
 
 meMA.Ode8C11.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode8C11.greekmelody = he.h.m6_en_US_andronache.heHE.EkFlogosToisOsiois.greekname
 meMA.Ode8C11.melody = he.h.m6_en_US_andronache.heHE.EkFlogosToisOsiois.notmetered
 meMA.Ode8C11.incipit = "Having been consumed by the…"
 meMA.Ode8C11.text = "Having been consumed by the fire of tortures, you extinguished all the fire of impiety by your blood, o athletes, crying: We exalt you beyond measure, O Christ, unto the ages."
@@ -304,12 +313,14 @@ meMA.Ode8C1T.text = "Out of light you conceived the Logos giver of light and hav
 
 meMA.Ode8H.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode8H.greekmelody = he.h.m6_en_US_andronache.heHE.EkFlogosToisOsiois.greekname
 meMA.Ode8H.melody = he.h.m6_en_US_andronache.heHE.EkFlogosToisOsiois.melody
 meMA.Ode8H.incipit = he.h.m6_en_US_andronache.heHE.EkFlogosToisOsiois.incipit
 meMA.Ode8H.text = he.h.m6_en_US_andronache.heHE.EkFlogosToisOsiois.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode9C11.greekmelody = he.h.m6_en_US_andronache.heHE.TheonAnthropois.greekname
 meMA.Ode9C11.melody = he.h.m6_en_US_andronache.heHE.TheonAnthropois.notmetered
 meMA.Ode9C11.incipit = "Neither the twisting of your…"
 meMA.Ode9C11.text = "Neither the twisting of your limbs nor their stretching, nor sword, fire, or the temporary death of the flesh were able to separate you at all from the love of Christ, glorious prize-winners; therefore you ever rejoice with him unto the ages."
@@ -346,6 +357,7 @@ meMA.Ode9C1T.text = "Resurrection has now been granted to the dead through your 
 
 meMA.Ode9H.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode9H.greekmelody = he.h.m6_en_US_andronache.heHE.TheonAnthropois.greekname
 meMA.Ode9H.melody = he.h.m6_en_US_andronache.heHE.TheonAnthropois.melody
 meMA.Ode9H.incipit = he.h.m6_en_US_andronache.heHE.TheonAnthropois.incipit
 meMA.Ode9H.text = he.h.m6_en_US_andronache.heHE.TheonAnthropois.text

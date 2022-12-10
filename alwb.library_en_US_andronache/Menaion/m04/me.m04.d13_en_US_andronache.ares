@@ -61,12 +61,14 @@ meMA.C1.verse = //prayers_en_US_andronache.pr.verse_SaintM.text
 
 meMA.Ode1C1H.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode1C1H.greekmelody = he.h.m8_en_US_andronache.heHE.IKekommeni.greekname
 meMA.Ode1C1H.melody = he.h.m8_en_US_andronache.heHE.IKekommeni.melody
 meMA.Ode1C1H.incipit = he.h.m8_en_US_andronache.heHE.IKekommeni.incipit
 meMA.Ode1C1H.text = he.h.m8_en_US_andronache.heHE.IKekommeni.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode1C11.greekmelody = he.h.m8_en_US_andronache.heHE.IKekommeni.greekname
 meMA.Ode1C11.melody = he.h.m8_en_US_andronache.heHE.IKekommeni.notmetered
 meMA.Ode1C11.incipit = "O Martin you endured…"
 meMA.Ode1C11.text = "O Martin you endured countless pains for Christ God and now, having contested well,  you have gone to the life without pain. Therefore make light the painful suffering of my soul, so that, illumined by your prayers, I may hymn you."
@@ -91,12 +93,14 @@ meMA.Ode1C1T.text = "He who is invisible in his divine nature was seen as a baby
 
 meMA.Ode3C1H.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3C1H.greekmelody = he.h.m8_en_US_andronache.heHE.TonFovonSouKyrie.greekname
 meMA.Ode3C1H.melody = he.h.m8_en_US_andronache.heHE.TonFovonSouKyrie.melody
 meMA.Ode3C1H.incipit = he.h.m8_en_US_andronache.heHE.TonFovonSouKyrie.incipit
 meMA.Ode3C1H.text = he.h.m8_en_US_andronache.heHE.TonFovonSouKyrie.text
 
 meMA.Ode3C11.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3C11.greekmelody = he.h.m8_en_US_andronache.heHE.TonFovonSouKyrie.greekname
 meMA.Ode3C11.melody = he.h.m8_en_US_andronache.heHE.TonFovonSouKyrie.notmetered
 meMA.Ode3C11.incipit = "Being full of divine zeal…"
 meMA.Ode3C11.text = "Being full of divine zeal, all-blessed Martin, you gathered a holy council and ratified the dogmas of the church. "
@@ -136,12 +140,14 @@ meMA.Ode3KathismaSt.text = "The ewe-lamb, seeing you, the Lamb, Shepherd and Red
 
 meMA.Ode4C1H.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode4C1H.greekmelody = he.h.m8_en_US_andronache.heHE.EpevisEfIppous.greekname
 meMA.Ode4C1H.melody = he.h.m8_en_US_andronache.heHE.EpevisEfIppous.melody
 meMA.Ode4C1H.incipit = he.h.m8_en_US_andronache.heHE.EpevisEfIppous.incipit
 meMA.Ode4C1H.text = he.h.m8_en_US_andronache.heHE.EpevisEfIppous.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode4C11.greekmelody = he.h.m8_en_US_andronache.heHE.EpevisEfIppous.greekname
 meMA.Ode4C11.melody = he.h.m8_en_US_andronache.heHE.EpevisEfIppous.notmetered
 meMA.Ode4C11.incipit = "Wise one…"
 meMA.Ode4C11.text = "Wise one, when you, the righteous one, were unjustly driven away from your throne by unjust men, you chose to suffer wrongs,  so that you could preserve unblemished the right dogma of the Church."
@@ -166,12 +172,14 @@ meMA.Ode4C1T.text = "You gave birth to one of the Trinity, known in two natures 
 
 meMA.Ode5C1H.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode5C1H.greekmelody = he.h.m8_en_US_andronache.heHE.TonEkNyktosAgnosias.greekname
 meMA.Ode5C1H.melody = he.h.m8_en_US_andronache.heHE.TonEkNyktosAgnosias.melody
 meMA.Ode5C1H.incipit = he.h.m8_en_US_andronache.heHE.TonEkNyktosAgnosias.incipit
 meMA.Ode5C1H.text = he.h.m8_en_US_andronache.heHE.TonEkNyktosAgnosias.text
 
 meMA.Ode5C11.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode5C11.greekmelody = he.h.m8_en_US_andronache.heHE.TonEkNyktosAgnosias.greekname
 meMA.Ode5C11.melody = he.h.m8_en_US_andronache.heHE.TonEkNyktosAgnosias.notmetered
 meMA.Ode5C11.incipit = "…"
 meMA.Ode5C11.text = "By your most holy word, Father, you manifestly strengthened the most sacred dogma and, enduring exiles, prisons, and trials, glorious one you put to flight the army of heresies."
@@ -196,12 +204,14 @@ meMA.Ode5C1T.text = "O Virgin, who conceived the uncircumscribed God in the fles
 
 meMA.Ode6C1H.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode6C1H.greekmelody = he.h.m8_en_US_andronache.heHE.AvyssosAmartion.greekname
 meMA.Ode6C1H.melody = he.h.m8_en_US_andronache.heHE.AvyssosAmartion.melody
 meMA.Ode6C1H.incipit = he.h.m8_en_US_andronache.heHE.AvyssosAmartion.incipit
 meMA.Ode6C1H.text = he.h.m8_en_US_andronache.heHE.AvyssosAmartion.text
 
 meMA.Ode6C11.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode6C11.greekmelody = he.h.m8_en_US_andronache.heHE.AvyssosAmartion.greekname
 meMA.Ode6C11.melody = he.h.m8_en_US_andronache.heHE.AvyssosAmartion.notmetered
 meMA.Ode6C11.incipit = "The evil one is shattered…"
 meMA.Ode6C11.text = "The evil one is shattered, God-bearer, before your sacred feet and the unguarded mouths of evil men are stopped by your word and the divine dogma is shown to shine brighter than the sun."
@@ -232,12 +242,14 @@ meMA.Kontakion1.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode7C1H.greekmelody = he.h.m8_en_US_andronache.heHE.OiEkTisIoudaias.greekname
 meMA.Ode7C1H.melody = he.h.m8_en_US_andronache.heHE.OiEkTisIoudaias.melody
 meMA.Ode7C1H.incipit = he.h.m8_en_US_andronache.heHE.OiEkTisIoudaias.incipit
 meMA.Ode7C1H.text = he.h.m8_en_US_andronache.heHE.OiEkTisIoudaias.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode7C11.greekmelody = he.h.m8_en_US_andronache.heHE.OiEkTisIoudaias.greekname
 meMA.Ode7C11.melody = he.h.m8_en_US_andronache.heHE.OiEkTisIoudaias.notmetered
 meMA.Ode7C11.incipit = "Those who deprived…"
 meMA.Ode7C11.text = "Those who deprived Christ of two energies and wills, Father, deprived you of your throne; giving you up to far-away exiles as you cried: O God of our Fathers, you are blessed. "
@@ -268,12 +280,14 @@ meMA.Ode7C1T.text = "The one inexplicably born of you with two wills and double 
 
 meMA.Ode8C1H.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode8C1H.greekmelody = he.h.m8_en_US_andronache.heHE.OiTheorrimonesPaides.greekname
 meMA.Ode8C1H.melody = he.h.m8_en_US_andronache.heHE.OiTheorrimonesPaides.melody
 meMA.Ode8C1H.incipit = he.h.m8_en_US_andronache.heHE.OiTheorrimonesPaides.incipit
 meMA.Ode8C1H.text = he.h.m8_en_US_andronache.heHE.OiTheorrimonesPaides.text
 
 meMA.Ode8C11.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode8C11.greekmelody = he.h.m8_en_US_andronache.heHE.OiTheorrimonesPaides.greekname
 meMA.Ode8C11.melody = he.h.m8_en_US_andronache.heHE.OiTheorrimonesPaides.notmetered
 meMA.Ode8C11.incipit = "Straitened by illnesses…"
 meMA.Ode8C11.text = "Straitened by illnesses, difficult exiles, and manifold torments, Father, you have received crowns of martyrdom as a Martyr."
@@ -304,12 +318,14 @@ meMA.Ode8C1T.text = "Being holier than the ranks on high and higher than the Che
 
 meMA.Ode9C1H.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode9C1H.greekmelody = he.h.m8_en_US_andronache.heHE.OrousParilthes.greekname
 meMA.Ode9C1H.melody = he.h.m8_en_US_andronache.heHE.OrousParilthes.melody
 meMA.Ode9C1H.incipit = he.h.m8_en_US_andronache.heHE.OrousParilthes.incipit
 meMA.Ode9C1H.text = he.h.m8_en_US_andronache.heHE.OrousParilthes.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode9C11.greekmelody = he.h.m8_en_US_andronache.heHE.OrousParilthes.greekname
 meMA.Ode9C11.melody = he.h.m8_en_US_andronache.heHE.OrousParilthes.notmetered
 meMA.Ode9C11.incipit = "Having become…"
 meMA.Ode9C11.text = "Having become a most sacred priest, confessor and martyr, you worthily rejoice with the choirs of patriarchs, most great Martin. Therefore we bless you with faith."

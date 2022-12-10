@@ -88,6 +88,7 @@ meMA.C1.verse = //prayers_en_US_andronache.pr.verse_SaintM.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode1C11.greekmelody = he.h.m4_en_US_andronache.heHE.ThalassisToErythraion.greekname
 meMA.Ode1C11.melody = he.h.m4_en_US_andronache.heHE.ThalassisToErythraion.notmetered
 meMA.Ode1C11.incipit = "You directed your life towards…"
 meMA.Ode1C11.text = "You directed your life towards the virtues; clear up with the light of the grace residing in you the confusion of the passions for those who seek your intercessions, O God-bearer Ignatios."
@@ -118,6 +119,7 @@ meMA.Ode1C1T.text = "Most pure one, you gave birth to one of the Trinity above d
 
 meMA.Ode3C11.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode3C11.greekmelody = he.h.m4_en_US_andronache.heHE.EffrainetaiEpiSoi.greekname
 meMA.Ode3C11.melody = he.h.m4_en_US_andronache.heHE.EffrainetaiEpiSoi.notmetered
 meMA.Ode3C11.incipit = "Heal my mind, aflame with…"
 meMA.Ode3C11.text = "Heal my mind, aflame with terrible passions of the flesh, O all-hymned Ignatios, martyr of Christ."
@@ -163,6 +165,7 @@ meMA.Ode3KathismaSt.text = "When the pure ewe-lamb of the Logos and pure Virgin-
 
 meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode4C11.greekmelody = he.h.m4_en_US_andronache.heHE.EparthentaSeIdousa.greekname
 meMA.Ode4C11.melody = he.h.m4_en_US_andronache.heHE.EparthentaSeIdousa.notmetered
 meMA.Ode4C11.incipit = "He is called by and…"
 meMA.Ode4C11.text = "He is called by and bears the name of God-bearer, since he is robed with Christ through his way of life. He resplendently trains all in the firmness of the martyrs to receive the crowns with yearning."
@@ -193,6 +196,7 @@ meMA.Ode4C1T.text = "He who created everything from nothing by His divine power 
 
 meMA.Ode5C11.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode5C11.greekmelody = he.h.m4_en_US_andronache.heHE.SyKyrieMouFos.greekname
 meMA.Ode5C11.melody = he.h.m4_en_US_andronache.heHE.SyKyrieMouFos.notmetered
 meMA.Ode5C11.incipit = "Now beholding Christ face to…"
 meMA.Ode5C11.text = "Now beholding Christ face to face, O Ignatios, they having been released of (freed from) mirrors by truth, you are united with your Beloved."
@@ -217,6 +221,7 @@ meMA.Ode5C1T.text = "The angel of the Lord cried joyously to you from on high, O
 
 meMA.Ode6C11.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode6C11.greekmelody = he.h.m4_en_US_andronache.heHE.ThysoSoiMetaFonis.greekname
 meMA.Ode6C11.melody = he.h.m4_en_US_andronache.heHE.ThysoSoiMetaFonis.notmetered
 meMA.Ode6C11.incipit = "You scattered the dogmas of…"
 meMA.Ode6C11.text = "You scattered the dogmas of Greek wisdom having the hypostatic wisdom of God, priestly mystic, and with your voice you destroyed the memory of deceit."
@@ -254,6 +259,7 @@ meMA.Oikos1.text = ""
 
 meMA.Ode7C11.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode7C11.greekmelody = he.h.m4_en_US_andronache.heHE.EnTiKaminoAvramiaioi.greekname
 meMA.Ode7C11.melody = he.h.m4_en_US_andronache.heHE.EnTiKaminoAvramiaioi.notmetered
 meMA.Ode7C11.incipit = "Being illumined by the divine…"
 meMA.Ode7C11.text = "Being illumined by the divine myrrh of the priesthood, Venerable one, and being adorned by the blood of the martyrs, you were eminent in both, as you cry out: Blessed are You, my God and Lord."
@@ -284,6 +290,7 @@ meMA.Ode7C1T.text = "Divine and hallowed habitation of the Most High God, rejoic
 
 meMA.Ode8C11.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode8C11.greekmelody = he.h.m4_en_US_andronache.heHE.CheirasEkpetasasDaniil.greekname
 meMA.Ode8C11.melody = he.h.m4_en_US_andronache.heHE.CheirasEkpetasasDaniil.notmetered
 meMA.Ode8C11.incipit = "Standing upon the judgment seat…"
 meMA.Ode8C11.text = "Standing upon the judgment seat, O wise one, you theologized about the uncreated Trinity; with a pure mind, holy one and an illumined understanding, you were not afraid of the cruelty of the tyrant's throne, but you cried out: All the works, hymn the Lord."
@@ -314,6 +321,7 @@ meMA.Ode8H.text = //he.h.m4_en_US_andronache.heHE.CheirasEkpetasasDaniil.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode9C11.greekmelody = he.h.m4_en_US_andronache.heHE.LithosAcheirotmitos.greekname
 meMA.Ode9C11.melody = he.h.m4_en_US_andronache.heHE.LithosAcheirotmitos.notmetered
 meMA.Ode9C11.incipit = "The most divine love holding…"
 meMA.Ode9C11.text = "The most divine love holding your soul, O blessed one, it completely burned the muddy cares of the world through immaterial fire and reaching the highest places, it set you there as a crown bearer."

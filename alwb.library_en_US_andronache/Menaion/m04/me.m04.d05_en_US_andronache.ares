@@ -61,12 +61,14 @@ meMA.C1.verse = //prayers_en_US_andronache.pr.verse_SaintsM.text
 
 meMA.Ode1C1H.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode1C1H.greekmelody = he.h.m4_en_US_andronache.heHE.ThalassisToErythraion.greekname
 meMA.Ode1C1H.melody = he.h.m4_en_US_andronache.heHE.ThalassisToErythraion.melody
 meMA.Ode1C1H.incipit = he.h.m4_en_US_andronache.heHE.ThalassisToErythraion.incipit
 meMA.Ode1C1H.text = he.h.m4_en_US_andronache.heHE.ThalassisToErythraion.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode1C11.greekmelody = he.h.m4_en_US_andronache.heHE.ThalassisToErythraion.greekname
 meMA.Ode1C11.melody = he.h.m4_en_US_andronache.heHE.ThalassisToErythraion.notmetered
 meMA.Ode1C11.incipit = "Having completed…"
 meMA.Ode1C11.text = "Having completed the sacred journey, holy martyrs, you stand by the throne of God wearing crowns with glory, shining upon the world with the illuminating rays of the Spirit."
@@ -91,12 +93,14 @@ meMA.Ode1C1T.text = "The Lord, who is outside of time, having received flesh fro
 
 meMA.Ode3C1H.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode3C1H.greekmelody = he.h.m4_en_US_andronache.heHE.EffrainetaiEpiSoi.greekname
 meMA.Ode3C1H.melody = he.h.m4_en_US_andronache.heHE.EffrainetaiEpiSoi.melody
 meMA.Ode3C1H.incipit = he.h.m4_en_US_andronache.heHE.EffrainetaiEpiSoi.incipit
 meMA.Ode3C1H.text = he.h.m4_en_US_andronache.heHE.EffrainetaiEpiSoi.text
 
 meMA.Ode3C11.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode3C11.greekmelody = he.h.m4_en_US_andronache.heHE.EffrainetaiEpiSoi.greekname
 meMA.Ode3C11.melody = he.h.m4_en_US_andronache.heHE.EffrainetaiEpiSoi.notmetered
 meMA.Ode3C11.incipit = "Having endured…"
 meMA.Ode3C11.text = "Having endured all kinds of tortures for the sake Christ, O saints, you were shone brighter than gold with the grace of the Holy Spirit."
@@ -136,12 +140,14 @@ meMA.Ode3KathismaSt.text = "O king of all, your mother, who bore you beyond natu
 
 meMA.Ode4C1H.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode4C1H.greekmelody = he.h.m4_en_US_andronache.heHE.EparthentaSeIdousa.greekname
 meMA.Ode4C1H.melody = he.h.m4_en_US_andronache.heHE.EparthentaSeIdousa.melody
 meMA.Ode4C1H.incipit = he.h.m4_en_US_andronache.heHE.EparthentaSeIdousa.incipit
 meMA.Ode4C1H.text = he.h.m4_en_US_andronache.heHE.EparthentaSeIdousa.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode4C11.greekmelody = he.h.m4_en_US_andronache.heHE.EparthentaSeIdousa.greekname
 meMA.Ode4C11.melody = he.h.m4_en_US_andronache.heHE.EparthentaSeIdousa.notmetered
 meMA.Ode4C11.incipit = "Godly-minded Victor…"
 meMA.Ode4C11.text = "Godly-minded Victor, by grace you turned away the arrows of the enemy’s evil when your tongue was removed and your side scraped and so you were celebrated as a martyr."
@@ -172,12 +178,14 @@ meMA.Ode4C1T.text = "August one, the prophet noetically foresaw you as an oversh
 
 meMA.Ode5C1H.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode5C1H.greekmelody = he.h.m4_en_US_andronache.heHE.SyKyrieMouFos.greekname
 meMA.Ode5C1H.melody = he.h.m4_en_US_andronache.heHE.SyKyrieMouFos.melody
 meMA.Ode5C1H.incipit = he.h.m4_en_US_andronache.heHE.SyKyrieMouFos.incipit
 meMA.Ode5C1H.text = he.h.m4_en_US_andronache.heHE.SyKyrieMouFos.text
 
 meMA.Ode5C11.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode5C11.greekmelody = he.h.m4_en_US_andronache.heHE.SyKyrieMouFos.greekname
 meMA.Ode5C11.melody = he.h.m4_en_US_andronache.heHE.SyKyrieMouFos.notmetered
 meMA.Ode5C11.incipit = "Having endured great torments…"
 meMA.Ode5C11.text = "Having endured great torments, Diodore, you readily bore the roasting on spits and burning on coals"
@@ -202,12 +210,14 @@ meMA.Ode5C1T.text = "O Lady, you set aright the fall of mortals by conceiving Go
 
 meMA.Ode6C1H.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode6C1H.greekmelody = he.h.m4_en_US_andronache.heHE.ThysoSoiMetaFonis.greekname
 meMA.Ode6C1H.melody = he.h.m4_en_US_andronache.heHE.ThysoSoiMetaFonis.melody
 meMA.Ode6C1H.incipit = he.h.m4_en_US_andronache.heHE.ThysoSoiMetaFonis.incipit
 meMA.Ode6C1H.text = he.h.m4_en_US_andronache.heHE.ThysoSoiMetaFonis.text
 
 meMA.Ode6C11.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode6C11.greekmelody = he.h.m4_en_US_andronache.heHE.ThysoSoiMetaFonis.greekname
 meMA.Ode6C11.melody = he.h.m4_en_US_andronache.heHE.ThysoSoiMetaFonis.notmetered
 meMA.Ode6C11.incipit = "Let Serapion…"
 meMA.Ode6C11.text = "Let Serapion and the divine Diodore, Victorinus, Pappius, Nikeforos, Claudius, and Victor be hymned for they have completely prevailed over the error of the deceiver."
@@ -238,12 +248,14 @@ meMA.Kontakion1.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode7C1H.greekmelody = he.h.m4_en_US_andronache.heHE.EnTiKaminoAvramiaioi.greekname
 meMA.Ode7C1H.melody = he.h.m4_en_US_andronache.heHE.EnTiKaminoAvramiaioi.melody
 meMA.Ode7C1H.incipit = he.h.m4_en_US_andronache.heHE.EnTiKaminoAvramiaioi.incipit
 meMA.Ode7C1H.text = he.h.m4_en_US_andronache.heHE.EnTiKaminoAvramiaioi.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode7C11.greekmelody = he.h.m4_en_US_andronache.heHE.EnTiKaminoAvramiaioi.greekname
 meMA.Ode7C11.melody = he.h.m4_en_US_andronache.heHE.EnTiKaminoAvramiaioi.notmetered
 meMA.Ode7C11.incipit = "Victor, you were stretched…"
 meMA.Ode7C11.text = "Victor, you were stretched and your sides were scraped, all-glorious one, you were crushed by a stone and your tongue was cut out, and you were perfected while chanting: Blessed are you in the temple of your glory, O Lord."
@@ -268,12 +280,14 @@ meMA.Ode7C1T.text = "As the most high throne of the most high, O Virgin, and the
 
 meMA.Ode8C1H.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode8C1H.greekmelody = he.h.m4_en_US_andronache.heHE.CheirasEkpetasasDaniil.greekname
 meMA.Ode8C1H.melody = he.h.m4_en_US_andronache.heHE.CheirasEkpetasasDaniil.melody
 meMA.Ode8C1H.incipit = he.h.m4_en_US_andronache.heHE.CheirasEkpetasasDaniil.incipit
 meMA.Ode8C1H.text = he.h.m4_en_US_andronache.heHE.CheirasEkpetasasDaniil.text
 
 meMA.Ode8C11.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode8C11.greekmelody = he.h.m4_en_US_andronache.heHE.CheirasEkpetasasDaniil.greekname
 meMA.Ode8C11.melody = he.h.m4_en_US_andronache.heHE.CheirasEkpetasasDaniil.notmetered
 meMA.Ode8C11.incipit = "Lifting up your hands…"
 meMA.Ode8C11.text = "Lifting up your hands towards God to is able to save, blessed ones of God, you bore the pains of many kinds of tortures, you endured and were taken up to him as victors crying out: All you works of the Lord, Bless the Lord."
@@ -304,12 +318,14 @@ meMA.Ode8C1T.text = "Your dread childbirth overwhelms the grasp of the mind, O G
 
 meMA.Ode9C1H.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode9C1H.greekmelody = he.h.m4_en_US_andronache.heHE.LithosAcheirotmitos.greekname
 meMA.Ode9C1H.melody = he.h.m4_en_US_andronache.heHE.LithosAcheirotmitos.melody
 meMA.Ode9C1H.incipit = he.h.m4_en_US_andronache.heHE.LithosAcheirotmitos.incipit
 meMA.Ode9C1H.text = he.h.m4_en_US_andronache.heHE.LithosAcheirotmitos.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode9C11.greekmelody = he.h.m4_en_US_andronache.heHE.LithosAcheirotmitos.greekname
 meMA.Ode9C11.melody = he.h.m4_en_US_andronache.heHE.LithosAcheirotmitos.notmetered
 meMA.Ode9C11.incipit = "Following in the steps…"
 meMA.Ode9C11.text = "Following in the steps of the august passion, prizewinners, you endured all torture attempts with a firm mind and, having died in a glorious manner, you are blessed unto the ages."

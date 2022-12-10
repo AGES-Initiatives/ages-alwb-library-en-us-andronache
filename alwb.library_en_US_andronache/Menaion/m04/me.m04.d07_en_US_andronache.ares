@@ -61,12 +61,14 @@ meMA.C1.verse = //prayers_en_US_andronache.pr.verse_SaintM.text
 
 meMA.Ode1C1H.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode1C1H.greekmelody = he.h.m8_en_US_andronache.heHE.YgranDiodefsas.greekname
 meMA.Ode1C1H.melody = he.h.m8_en_US_andronache.heHE.YgranDiodefsas.melody
 meMA.Ode1C1H.incipit = he.h.m8_en_US_andronache.heHE.YgranDiodefsas.incipit
 meMA.Ode1C1H.text = he.h.m8_en_US_andronache.heHE.YgranDiodefsas.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode1C11.greekmelody = he.h.m8_en_US_andronache.heHE.YgranDiodefsas.greekname
 meMA.Ode1C11.melody = he.h.m8_en_US_andronache.heHE.YgranDiodefsas.notmetered
 meMA.Ode1C11.incipit = "Having completed…"
 meMA.Ode1C11.text = "Having completed the struggle well, prize-winning martyr, and having kept the faith, you received the crowns of victory and now  joyously stand in the presence of God."
@@ -91,12 +93,14 @@ meMA.Ode1C1T.text = "The one who created all by his will receives a body from yo
 
 meMA.Ode3C1H.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3C1H.greekmelody = he.h.m8_en_US_andronache.heHE.OuraniasApsidos.greekname
 meMA.Ode3C1H.melody = he.h.m8_en_US_andronache.heHE.OuraniasApsidos.melody
 meMA.Ode3C1H.incipit = he.h.m8_en_US_andronache.heHE.OuraniasApsidos.incipit
 meMA.Ode3C1H.text = he.h.m8_en_US_andronache.heHE.OuraniasApsidos.text
 
 meMA.Ode3C11.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3C11.greekmelody = he.h.m8_en_US_andronache.heHE.OuraniasApsidos.greekname
 meMA.Ode3C11.melody = he.h.m8_en_US_andronache.heHE.OuraniasApsidos.notmetered
 meMA.Ode3C11.incipit = "You manfully endured…"
 meMA.Ode3C11.text = "You manfully endured varied struggles surpassing nature, O martyr, setting yourself against the persecutor. Therefore you have reached the peace of heaven, glorious one, having navigated well by the winds of the Spirit."
@@ -136,12 +140,14 @@ meMA.Ode3KathismaSt.text = "All-blameless Virgin, Mother of Christ God, a sword 
 
 meMA.Ode4C1H.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode4C1H.greekmelody = he.h.m8_en_US_andronache.heHE.EisakikoaKyrie.greekname
 meMA.Ode4C1H.melody = he.h.m8_en_US_andronache.heHE.EisakikoaKyrie.melody
 meMA.Ode4C1H.incipit = he.h.m8_en_US_andronache.heHE.EisakikoaKyrie.incipit
 meMA.Ode4C1H.text = he.h.m8_en_US_andronache.heHE.EisakikoaKyrie.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode4C11.greekmelody = he.h.m8_en_US_andronache.heHE.EisakikoaKyrie.greekname
 meMA.Ode4C11.melody = he.h.m8_en_US_andronache.heHE.EisakikoaKyrie.notmetered
 meMA.Ode4C11.incipit = "You were seen…"
 meMA.Ode4C11.text = "You were seen as a most brave athlete when you contended in the stadium, bringing down the stronghold of deceit, martyr Kalliopios."
@@ -166,12 +172,14 @@ meMA.Ode4C1T.text = "As a vine full of fruit, you cultivated the cluster of grap
 
 meMA.Ode5C1H.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode5C1H.greekmelody = he.h.m8_en_US_andronache.heHE.InaTiMeAposo.greekname
 meMA.Ode5C1H.melody = he.h.m8_en_US_andronache.heHE.InaTiMeAposo.melody
 meMA.Ode5C1H.incipit = he.h.m8_en_US_andronache.heHE.InaTiMeAposo.incipit
 meMA.Ode5C1H.text = he.h.m8_en_US_andronache.heHE.InaTiMeAposo.text
 
 meMA.Ode5C11.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode5C11.greekmelody = he.h.m8_en_US_andronache.heHE.InaTiMeAposo.greekname
 meMA.Ode5C11.melody = he.h.m8_en_US_andronache.heHE.InaTiMeAposo.notmetered
 meMA.Ode5C11.incipit = "Celebrating your suffering…"
 meMA.Ode5C11.text = "Celebrating your suffering, O martyr, you were put on the wheel, most brave one, and being burned with fiery torches, you received heavenly dew from God through angelic visitations, wise prizewinner Kalliopios."
@@ -196,12 +204,14 @@ meMA.Ode5C1T.text = "O Virgin, having been delivered through you from the ancest
 
 meMA.Ode6C1H.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode6C1H.greekmelody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.greekname
 meMA.Ode6C1H.melody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.melody
 meMA.Ode6C1H.incipit = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.incipit
 meMA.Ode6C1H.text = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.text
 
 meMA.Ode6C11.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode6C11.greekmelody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.greekname
 meMA.Ode6C11.melody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.notmetered
 meMA.Ode6C11.incipit = "Seeing you made beautiful…"
 meMA.Ode6C11.text = "Seeing you made beautiful by your beautiful wounds, the one who gave birth to you, wise one, being filled with joy was magnifying God as she embraced and kissed you with honor."
@@ -232,12 +242,14 @@ meMA.Kontakion1.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode7C1H.greekmelody = he.h.m8_en_US_andronache.heHE.OiEkTisIoudaias.greekname
 meMA.Ode7C1H.melody = he.h.m8_en_US_andronache.heHE.OiEkTisIoudaias.melody
 meMA.Ode7C1H.incipit = he.h.m8_en_US_andronache.heHE.OiEkTisIoudaias.incipit
 meMA.Ode7C1H.text = he.h.m8_en_US_andronache.heHE.OiEkTisIoudaias.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode7C11.greekmelody = he.h.m8_en_US_andronache.heHE.OiEkTisIoudaias.greekname
 meMA.Ode7C11.melody = he.h.m8_en_US_andronache.heHE.OiEkTisIoudaias.notmetered
 meMA.Ode7C11.incipit = "Since you in no way…"
 meMA.Ode7C11.text = "Since you in no way gave most irrational honor to statues, glorious one, you manfully endured the fire of punishment, O Kalliopios, while crying out: O God of our fathers, you are blessed."
@@ -262,12 +274,14 @@ meMA.Ode7C1T.text = "The fruit of your august womb, O Theotokos, has make us ali
 
 meMA.Ode8C1H.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode8C1H.greekmelody = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.greekname
 meMA.Ode8C1H.melody = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.melody
 meMA.Ode8C1H.incipit = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.incipit
 meMA.Ode8C1H.text = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.text
 
 meMA.Ode8C11.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode8C11.greekmelody = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.greekname
 meMA.Ode8C11.melody = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.notmetered
 meMA.Ode8C11.incipit = "When you were slaughtered…"
 meMA.Ode8C11.text = "When you were slaughtered for the law of God, athlete Kalliopios, you escaped all the evil of the lawless ones, and at the time of your honorable passion, Christ glorified you as you were willingly crucified upside down, O Martyr. Being thus called to the divine places of rest, He placed you with the divine bodiless hosts, godly-minded one."
@@ -292,12 +306,14 @@ meMA.Ode8C1T.text = "You bore Jesus, the Lord, in the body and held him in your 
 
 meMA.Ode9C1H.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode9C1H.greekmelody = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.greekname
 meMA.Ode9C1H.melody = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.melody
 meMA.Ode9C1H.incipit = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.incipit
 meMA.Ode9C1H.text = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode9C11.greekmelody = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.greekname
 meMA.Ode9C11.melody = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.notmetered
 meMA.Ode9C11.incipit = "Having been given wings…"
 meMA.Ode9C11.text = "Having been given wings by the sail of the Holy Spirit, you soul, all-blessed one, crossed the harsh sea of tortures and reached the harbor of heavenly things with jubilation, having sunk the treacherous ranks of the deceiver in the divine flows of your blood."

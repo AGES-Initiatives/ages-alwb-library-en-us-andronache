@@ -64,12 +64,14 @@ meMA.C1.verse = //prayers_en_US_andronache.pr.verse_SaintM.text
 
 meMA.Ode1C1H.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode1C1H.greekmelody = he.h.m2_en_US_andronache.heHE.DefteLaoi.greekname
 meMA.Ode1C1H.melody = he.h.m2_en_US_andronache.heHE.DefteLaoi.melody
 meMA.Ode1C1H.incipit = he.h.m2_en_US_andronache.heHE.DefteLaoi.incipit
 meMA.Ode1C1H.text = he.h.m2_en_US_andronache.heHE.DefteLaoi.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode1C11.greekmelody = he.h.m2_en_US_andronache.heHE.DefteLaoi.greekname
 meMA.Ode1C11.melody = he.h.m2_en_US_andronache.heHE.DefteLaoi.notmetered
 meMA.Ode1C11.incipit = "Illumined by Christ’s shining light…"
 meMA.Ode1C11.text = "Illumined by Christ’s shining light and filed by his brightness, Father, wholly illumine my darkened soul, godly-minded one, by your entreaties."
@@ -94,12 +96,14 @@ meMA.Ode1C1T.text = "Knowing that God who was before creation and before all age
 
 meMA.Ode3C1H.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode3C1H.greekmelody = he.h.m2_en_US_andronache.heHE.StereosonImasEnSoiKyrie.greekname
 meMA.Ode3C1H.melody = he.h.m2_en_US_andronache.heHE.StereosonImasEnSoiKyrie.melody
 meMA.Ode3C1H.incipit = he.h.m2_en_US_andronache.heHE.StereosonImasEnSoiKyrie.incipit
 meMA.Ode3C1H.text = he.h.m2_en_US_andronache.heHE.StereosonImasEnSoiKyrie.text
 
 meMA.Ode3C11.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode3C11.greekmelody = he.h.m2_en_US_andronache.heHE.StereosonImasEnSoiKyrie.greekname
 meMA.Ode3C11.melody = he.h.m2_en_US_andronache.heHE.StereosonImasEnSoiKyrie.notmetered
 meMA.Ode3C11.incipit = "God-seeing Polycarp, you became the…"
 meMA.Ode3C11.text = "God-seeing Polycarp, you became the fruitful olive in the house of your Lord, as the Psalm says, bringing joy by your preaching."
@@ -139,12 +143,14 @@ meMA.Ode3KathismaSt.text = ""
 
 meMA.Ode4C1H.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode4C1H.greekmelody = he.h.m2_en_US_andronache.heHE.EisakikoaKyrieTinAkoin.greekname
 meMA.Ode4C1H.melody = he.h.m2_en_US_andronache.heHE.EisakikoaKyrieTinAkoin.melody
 meMA.Ode4C1H.incipit = he.h.m2_en_US_andronache.heHE.EisakikoaKyrieTinAkoin.incipit
 meMA.Ode4C1H.text = he.h.m2_en_US_andronache.heHE.EisakikoaKyrieTinAkoin.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode4C11.greekmelody = he.h.m2_en_US_andronache.heHE.EisakikoaKyrieTinAkoin.greekname
 meMA.Ode4C11.melody = he.h.m2_en_US_andronache.heHE.EisakikoaKyrieTinAkoin.notmetered
 meMA.Ode4C11.incipit = "You were seen to have…"
 meMA.Ode4C11.text = "You were seen to have brought the many-fruited, bountiful harvest of the virtues to the Master, Father Polycarp."
@@ -175,12 +181,14 @@ meMA.Ode4C1T.text = "Pure one who gave birth to the hypostatic light, wholly ill
 
 meMA.Ode5C1H.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode5C1H.greekmelody = he.h.m2_en_US_andronache.heHE.OTouFotosChorigos.greekname
 meMA.Ode5C1H.melody = he.h.m2_en_US_andronache.heHE.OTouFotosChorigos.melody
 meMA.Ode5C1H.incipit = he.h.m2_en_US_andronache.heHE.OTouFotosChorigos.incipit
 meMA.Ode5C1H.text = he.h.m2_en_US_andronache.heHE.OTouFotosChorigos.text
 
 meMA.Ode5C11.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode5C11.greekmelody = he.h.m2_en_US_andronache.heHE.OTouFotosChorigos.greekname
 meMA.Ode5C11.melody = he.h.m2_en_US_andronache.heHE.OTouFotosChorigos.notmetered
 meMA.Ode5C11.incipit = "Wholly illumined in mind by…"
 meMA.Ode5C11.text = "Wholly illumined in mind by the ray of the Spirit, Venerable one, and through the symbol of a flaming fire you clearly were instructed about your perfection through fire, godly-minded one."
@@ -205,12 +213,14 @@ meMA.Ode5C1T.text = "The ancient of days, as rain on fleece, all pure one, came 
 
 meMA.Ode6C1H.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode6C1H.greekmelody = he.h.m2_en_US_andronache.heHE.EnAvyssoPtaismaton.greekname
 meMA.Ode6C1H.melody = he.h.m2_en_US_andronache.heHE.EnAvyssoPtaismaton.melody
 meMA.Ode6C1H.incipit = he.h.m2_en_US_andronache.heHE.EnAvyssoPtaismaton.incipit
 meMA.Ode6C1H.text = he.h.m2_en_US_andronache.heHE.EnAvyssoPtaismaton.text
 
 meMA.Ode6C11.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode6C11.greekmelody = he.h.m2_en_US_andronache.heHE.EnAvyssoPtaismaton.greekname
 meMA.Ode6C11.melody = he.h.m2_en_US_andronache.heHE.EnAvyssoPtaismaton.notmetered
 meMA.Ode6C11.incipit = "God-seer, you were dead to…"
 meMA.Ode6C11.text = "God-seer, you were dead to the entire world, living only to Christ and conversing with Him, you were translated to Christ, bearing the fruit of living incorruption."
@@ -242,12 +252,14 @@ meMA.Oikos1.text = "Having been drawn to the goodness of wisdom, you filled your
 
 meMA.Ode7C1H.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode7C1H.greekmelody = he.h.m2_en_US_andronache.heHE.EikonosChrysis.greekname
 meMA.Ode7C1H.melody = he.h.m2_en_US_andronache.heHE.EikonosChrysis.melody
 meMA.Ode7C1H.incipit = he.h.m2_en_US_andronache.heHE.EikonosChrysis.incipit
 meMA.Ode7C1H.text = he.h.m2_en_US_andronache.heHE.EikonosChrysis.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode7C11.greekmelody = he.h.m2_en_US_andronache.heHE.EikonosChrysis.greekname
 meMA.Ode7C11.melody = he.h.m2_en_US_andronache.heHE.EikonosChrysis.notmetered
 meMA.Ode7C11.incipit = "With firm thought you went…"
 meMA.Ode7C11.text = "With firm thought you went upon the kindling of the flame, glorious one, like the three youths who sprinkled dew with immaterial fire in the furnace, crying out in the middle of the fire and remaining unburnt: Blessed are you, the God of our Fathers."
@@ -272,12 +284,14 @@ meMA.Ode7C1T.text = "You alone were shown to be the unwedded mother of the God w
 
 meMA.Ode8C1H.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode8C1H.greekmelody = he.h.m2_en_US_andronache.heHE.TonEnKaminoTouPyros.greekname
 meMA.Ode8C1H.melody = he.h.m2_en_US_andronache.heHE.TonEnKaminoTouPyros.melody
 meMA.Ode8C1H.incipit = he.h.m2_en_US_andronache.heHE.TonEnKaminoTouPyros.incipit
 meMA.Ode8C1H.text = he.h.m2_en_US_andronache.heHE.TonEnKaminoTouPyros.text
 
 meMA.Ode8C11.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode8C11.greekmelody = he.h.m2_en_US_andronache.heHE.TonEnKaminoTouPyros.greekname
 meMA.Ode8C11.melody = he.h.m2_en_US_andronache.heHE.TonEnKaminoTouPyros.notmetered
 meMA.Ode8C11.incipit = "Having served piously as a…"
 meMA.Ode8C11.text = "Having served piously as a priest the mystical sacrifice of Christ, a rational sacrifice, you brought yourself to God as an acceptable and pleasing sacrifice full of fruit, thrice-blessed Polycarp."
@@ -308,12 +322,14 @@ meMA.Ode8C1T.text = "A light-emitting pillar of flame and a luminous cloud leadi
 
 meMA.Ode9C1H.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode9C1H.greekmelody = he.h.m2_en_US_andronache.heHE.TonEkTheouTheonLogon.greekname
 meMA.Ode9C1H.melody = he.h.m2_en_US_andronache.heHE.TonEkTheouTheonLogon.melody
 meMA.Ode9C1H.incipit = he.h.m2_en_US_andronache.heHE.TonEkTheouTheonLogon.incipit
 meMA.Ode9C1H.text = he.h.m2_en_US_andronache.heHE.TonEkTheouTheonLogon.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode9C11.greekmelody = he.h.m2_en_US_andronache.heHE.TonEkTheouTheonLogon.greekname
 meMA.Ode9C11.melody = he.h.m2_en_US_andronache.heHE.TonEkTheouTheonLogon.notmetered
 meMA.Ode9C11.incipit = "Your light-bearing memory has risen…"
 meMA.Ode9C11.text = "Your light-bearing memory has risen, Father, and it illumines the souls of those who piously keep it, divinely-sweet one, and it makes all partakers of the divine illumination. We worthily magnify it in hymns, godly-minded one."

@@ -107,6 +107,7 @@ meMA.C2.verse = //prayers_en_US_andronache.pr.verse_SaintM.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode1C11.greekmelody = he.h.m8_en_US_andronache.heHE.AsomenToKyrio.greekname
 meMA.Ode1C11.melody = he.h.m8_en_US_andronache.heHE.AsomenToKyrio.notmetered
 meMA.Ode1C11.incipit = "Let us, the faithful, gathering…"
 meMA.Ode1C11.text = "Let us, the faithful, gathering together, honor in hymns, as is meet, Paul the God-bearer as the adornment of monastics."
@@ -131,6 +132,7 @@ meMA.Ode1C1T.text = "We hymn you, most pure Theotokos, who gave birth in the fle
 
 meMA.Ode1C21.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode1C21.greekmelody = he.h.m2_en_US_andronache.heHE.EnVythoKatestrose.greekname
 meMA.Ode1C21.melody = he.h.m2_en_US_andronache.heHE.EnVythoKatestrose.notmetered
 meMA.Ode1C21.incipit = "Having been enriched by divine…"
 meMA.Ode1C21.text = "Having been enriched by divine virtues, you despised the earthly wealth, and you gained the heavenly. Therefore, enrich me, the beggar, with the gift of divine knowledge, as I hymn you, Father, fellow citizen with the angels."
@@ -155,6 +157,7 @@ meMA.Ode1C2T.text = "Distressed by the painful assaults of the passions, Maiden,
 
 meMA.Ode3C11.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3C11.greekmelody = he.h.m8_en_US_andronache.heHE.OStereosasLogo.greekname
 meMA.Ode3C11.melody = he.h.m8_en_US_andronache.heHE.OStereosasLogo.notmetered
 meMA.Ode3C11.incipit = "O Father, as you directed…"
 meMA.Ode3C11.text = "O Father, as you directed the gaze of your soul's eye towards God, you loved him and you hated the things of the earth and you attained the angelic life."
@@ -179,6 +182,7 @@ meMA.Ode3C1T.text = "The Creator and King of glory, mystically dyed red His own 
 
 meMA.Ode3C21.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C21.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode3C21.greekmelody = he.h.m2_en_US_andronache.heHE.ExinthisenIErimos.greekname
 meMA.Ode3C21.melody = he.h.m2_en_US_andronache.heHE.ExinthisenIErimos.notmetered
 meMA.Ode3C21.incipit = "Venerable one, you directed the…"
 meMA.Ode3C21.text = "Venerable one, you directed the sweet-smelling incense of your prayers to the All-seeing one. He smelled and accepted it, appointing you to assembly of ascetics."
@@ -229,6 +233,7 @@ meMA.Ode3KathismaSt.text = "When your pure, unwedded Mother saw you hanging dead
 
 meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode4C11.greekmelody = he.h.m8_en_US_andronache.heHE.MystikosOProfitis.greekname
 meMA.Ode4C11.melody = he.h.m8_en_US_andronache.heHE.MystikosOProfitis.notmetered
 meMA.Ode4C11.incipit = "Planted in the house of…"
 meMA.Ode4C11.text = "Planted in the house of God, you sprouted forth the good fruit of the virtues and withered the rebellions of the flesh by your ascetical work."
@@ -253,6 +258,7 @@ meMA.Ode4C1T.text = "The mystical purple robe was weaved for the God of all from
 
 meMA.Ode4C21.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode4C21.greekmelody = he.h.m2_en_US_andronache.heHE.ElilythasEkParthenou.greekname
 meMA.Ode4C21.melody = he.h.m2_en_US_andronache.heHE.ElilythasEkParthenou.notmetered
 meMA.Ode4C21.incipit = "You were seen in poor…"
 meMA.Ode4C21.text = "You were seen in poor rags, O God-inspired one, as a treasure well-hidden; for you loved the divine robe and being vested in it you entered the bridal chamber on high."
@@ -277,6 +283,7 @@ meMA.Ode4C2T.text = "Guide the movements of my heart, All-pure one, to the divin
 
 meMA.Ode5C11.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode5C11.greekmelody = he.h.m8_en_US_andronache.heHE.OrthrizontesVoomenSoi.greekname
 meMA.Ode5C11.melody = he.h.m8_en_US_andronache.heHE.OrthrizontesVoomenSoi.notmetered
 meMA.Ode5C11.incipit = "Blessed one, you were eminent…"
 meMA.Ode5C11.text = "Blessed one, you were eminent in hymns and fasting, prayers and vigils, Venerable one, and you pitched your tent towards God."
@@ -301,6 +308,7 @@ meMA.Ode5C1T.text = "We hymn you as a virgin after giving birth, O Theotokos, fo
 
 meMA.Ode5C21.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C21.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode5C21.greekmelody = he.h.m2_en_US_andronache.heHE.OFotismos.greekname
 meMA.Ode5C21.melody = he.h.m2_en_US_andronache.heHE.OFotismos.notmetered
 meMA.Ode5C21.incipit = "You became a stranger to…"
 meMA.Ode5C21.text = "You became a stranger to worldly concepts, stranger to your household, stranger to the knowledge of your parents; by self control you cleansed yourself, you were made a member of the household of the Almighty, Father John, and you became poor in spirit."
@@ -325,6 +333,7 @@ meMA.Ode5C2T.text = "You bore Emmanuel, the Master of all, without corruption, r
 
 meMA.Ode6C11.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode6C11.greekmelody = he.h.m8_en_US_andronache.heHE.ChitonaMoiParaschou.greekname
 meMA.Ode6C11.melody = he.h.m8_en_US_andronache.heHE.ChitonaMoiParaschou.notmetered
 meMA.Ode6C11.incipit = "You stretched your hands towards…"
 meMA.Ode6C11.text = "You stretched your hands towards God; you have set Your soul before Him, Venerable one; you were well-pleasing to Him day and night."
@@ -349,6 +358,7 @@ meMA.Ode6C1T.text = "The only one who bore the Word by word in the flesh, rescue
 
 meMA.Ode6C21.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C21.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode6C21.greekmelody = he.h.m2_en_US_andronache.heHE.EnAvyssoPtaismaton.greekname
 meMA.Ode6C21.melody = he.h.m2_en_US_andronache.heHE.EnAvyssoPtaismaton.notmetered
 meMA.Ode6C21.incipit = "You overthrew the insolent serpent…"
 meMA.Ode6C21.text = "You overthrew the insolent serpent by the weapons of humility, Blessed one, and having been lifted in spirit, you dwelt in the dwellings of those who live forever."
@@ -386,6 +396,7 @@ meMA.Oikos1.text = ""
 
 meMA.Ode7C11.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode7C11.greekmelody = he.h.m8_en_US_andronache.heHE.OEnArchiTinGin.greekname
 meMA.Ode7C11.melody = he.h.m8_en_US_andronache.heHE.OEnArchiTinGin.notmetered
 meMA.Ode7C11.incipit = "Having subdued the impulses of…"
 meMA.Ode7C11.text = "Having subdued the impulses of the flesh to the spirit, the Venerable One cried aloud: Blessed are you unto the ages, O Lord, the God of our Fathers."
@@ -410,6 +421,7 @@ meMA.Ode7C1T.text = "You who made the Virgin to be a heaven and shone forth from
 
 meMA.Ode7C21.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C21.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode7C21.greekmelody = he.h.m2_en_US_andronache.heHE.AntitheonProstagma.greekname
 meMA.Ode7C21.melody = he.h.m2_en_US_andronache.heHE.AntitheonProstagma.notmetered
 meMA.Ode7C21.incipit = "You preferred the narrow path…"
 meMA.Ode7C21.text = "You preferred the narrow path to the wide road, Honorable one, and were steadfast in joys, while bearing reproaches by the gates of your parents, and wearing yourself out through many illnesses, God-blessed one."
@@ -434,6 +446,7 @@ meMA.Ode7C2T.text = "We hymn your son, O blessed one, through whom we were freed
 
 meMA.Ode8C11.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode8C11.greekmelody = he.h.m8_en_US_andronache.heHE.TonAnarchonVasilea.greekname
 meMA.Ode8C11.melody = he.h.m8_en_US_andronache.heHE.TonAnarchonVasilea.notmetered
 meMA.Ode8C11.incipit = "You emulated John the Forerunner…"
 meMA.Ode8C11.text = "You emulated John the Forerunner, O godly-minded one, striving ascetically in the desert. With him you were made worthy to attain the life of everlasting existence."
@@ -458,6 +471,7 @@ meMA.Ode8C1T.text = "As one who has boldness towards God, most-hymned Mary, Moth
 
 meMA.Ode8C21.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode8C21.greekmelody = he.h.m2_en_US_andronache.heHE.TonEnKaminoTouPyros.greekname
 meMA.Ode8C21.melody = he.h.m2_en_US_andronache.heHE.TonEnKaminoTouPyros.notmetered
 meMA.Ode8C21.incipit = "John, you wove a garment…"
 meMA.Ode8C21.text = "John, you wove a garment which does not grow old for yourself, being adorned by your virtues, while wearing a poor covering; appearing in the form of a poor man and persevering by the gates of your parents."
@@ -494,6 +508,7 @@ meMA.Ode8H.text = //he.h.m2_en_US_andronache.heHE.TonEnKaminoTouPyros.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode9C11.greekmelody = he.h.m8_en_US_andronache.heHE.TonAoratonMorfi.greekname
 meMA.Ode9C11.melody = he.h.m8_en_US_andronache.heHE.TonAoratonMorfi.notmetered
 meMA.Ode9C11.incipit = "God revealed you to Anthony…"
 meMA.Ode9C11.text = "God revealed you to Anthony as a noetic, hidden treasure and to us unto honor and gladness."
@@ -518,6 +533,7 @@ meMA.Ode9C1T.text = "You who conceived Christ, who with the Father and the Holy 
 
 meMA.Ode9C21.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C21.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode9C21.greekmelody = he.h.m2_en_US_andronache.heHE.AnarchouGennitoros.greekname
 meMA.Ode9C21.melody = he.h.m2_en_US_andronache.heHE.AnarchouGennitoros.notmetered
 meMA.Ode9C21.incipit = "You cried aloud: The Lord…"
 meMA.Ode9C21.text = "You cried aloud: The Lord is my strength and praise; in Him I put to flight the leader of darkness; I drive away utterly the deceitful fantasies which come from him, contemplating only divine and unapproachable beauty."

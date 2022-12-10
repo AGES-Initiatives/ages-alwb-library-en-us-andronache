@@ -67,12 +67,14 @@ meMA.C1.verse = //prayers_en_US_andronache.pr.verse_SaintM.text
 
 meMA.Ode1C1H.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode1C1H.greekmelody = he.h.m4_en_US_andronache.heHE.ThalassisToErythraion.greekname
 meMA.Ode1C1H.melody = he.h.m4_en_US_andronache.heHE.ThalassisToErythraion.melody
 meMA.Ode1C1H.incipit = he.h.m4_en_US_andronache.heHE.ThalassisToErythraion.incipit
 meMA.Ode1C1H.text = he.h.m4_en_US_andronache.heHE.ThalassisToErythraion.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode1C11.greekmelody = he.h.m4_en_US_andronache.heHE.ThalassisToErythraion.greekname
 meMA.Ode1C11.melody = he.h.m4_en_US_andronache.heHE.ThalassisToErythraion.notmetered
 meMA.Ode1C11.incipit = "Let us, the faithful, joyously…"
 meMA.Ode1C11.text = "Let us, the faithful, joyously clap our hands for the memorial of the athlete and martyr, who sacredly struggled and put to flight the prince of darkness by divine grace."
@@ -97,12 +99,14 @@ meMA.Ode1C1T.text = "In His exceeding goodness, the Lord takes flesh from you, a
 
 meMA.Ode3C1H.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode3C1H.greekmelody = he.h.m4_en_US_andronache.heHE.EffrainetaiEpiSoi.greekname
 meMA.Ode3C1H.melody = he.h.m4_en_US_andronache.heHE.EffrainetaiEpiSoi.melody
 meMA.Ode3C1H.incipit = he.h.m4_en_US_andronache.heHE.EffrainetaiEpiSoi.incipit
 meMA.Ode3C1H.text = he.h.m4_en_US_andronache.heHE.EffrainetaiEpiSoi.text
 
 meMA.Ode3C11.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode3C11.greekmelody = he.h.m4_en_US_andronache.heHE.EffrainetaiEpiSoi.greekname
 meMA.Ode3C11.melody = he.h.m4_en_US_andronache.heHE.EffrainetaiEpiSoi.notmetered
 meMA.Ode3C11.incipit = "Having been hung up, you…"
 meMA.Ode3C11.text = "Having been hung up, you endured scrapings with strength of mind, clearly putting off the weight of corruption, glorious one."
@@ -142,12 +146,14 @@ meMA.Ode3KathismaSt.text = "Your Mother, who bore you beyond nature as son and G
 
 meMA.Ode4C1H.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode4C1H.greekmelody = he.h.m4_en_US_andronache.heHE.EparthentaSeIdousa.greekname
 meMA.Ode4C1H.melody = he.h.m4_en_US_andronache.heHE.EparthentaSeIdousa.melody
 meMA.Ode4C1H.incipit = he.h.m4_en_US_andronache.heHE.EparthentaSeIdousa.incipit
 meMA.Ode4C1H.text = he.h.m4_en_US_andronache.heHE.EparthentaSeIdousa.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode4C11.greekmelody = he.h.m4_en_US_andronache.heHE.EparthentaSeIdousa.greekname
 meMA.Ode4C11.melody = he.h.m4_en_US_andronache.heHE.EparthentaSeIdousa.notmetered
 meMA.Ode4C11.incipit = "Lifted up on wood, you…"
 meMA.Ode4C11.text = "Lifted up on wood, you bore pains with a noble mind, prise-winning martyr, for you portrayed the divine and pure passion, through which you found dispassion."
@@ -166,12 +172,14 @@ meMA.Ode4C1T.text = "The one who conceived beyond nature the Lord of all created
 
 meMA.Ode5C1H.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode5C1H.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode5C1H.greekmelody = he.h.m4_en_US_andronache.heHE.SyKyrieMouFos.greekname
 meMA.Ode5C1H.melody = he.h.m4_en_US_andronache.heHE.SyKyrieMouFos.melody
 meMA.Ode5C1H.incipit = he.h.m4_en_US_andronache.heHE.SyKyrieMouFos.incipit
 meMA.Ode5C1H.text = he.h.m4_en_US_andronache.heHE.SyKyrieMouFos.text
 
 meMA.Ode5C11.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode5C11.greekmelody = he.h.m4_en_US_andronache.heHE.SyKyrieMouFos.greekname
 meMA.Ode5C11.melody = he.h.m4_en_US_andronache.heHE.SyKyrieMouFos.notmetered
 meMA.Ode5C11.incipit = "Having been filled with the…"
 meMA.Ode5C11.text = "Having been filled with the living waters of the Spirit, you dried up the rivers of evil, God-inspired martyr."
@@ -196,12 +204,14 @@ meMA.Ode5C1T.text = "We hymn you, through whom we have been redeemed from corrup
 
 meMA.Ode6C1H.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode6C1H.greekmelody = he.h.m4_en_US_andronache.heHE.ThysoSoiMetaFonis.greekname
 meMA.Ode6C1H.melody = he.h.m4_en_US_andronache.heHE.ThysoSoiMetaFonis.melody
 meMA.Ode6C1H.incipit = he.h.m4_en_US_andronache.heHE.ThysoSoiMetaFonis.incipit
 meMA.Ode6C1H.text = he.h.m4_en_US_andronache.heHE.ThysoSoiMetaFonis.text
 
 meMA.Ode6C11.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode6C11.greekmelody = he.h.m4_en_US_andronache.heHE.ThysoSoiMetaFonis.greekname
 meMA.Ode6C11.melody = he.h.m4_en_US_andronache.heHE.ThysoSoiMetaFonis.notmetered
 meMA.Ode6C11.incipit = "Your Master was glorified in…"
 meMA.Ode6C11.text = "Your Master was glorified in your members, God-inspired martyr Crescens; for this cause He now glorifies you in return with signs and many miracles and wonders."
@@ -238,12 +248,14 @@ meMA.Kontakion2.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode7C1H.greekmelody = he.h.m4_en_US_andronache.heHE.EnTiKaminoAvramiaioi.greekname
 meMA.Ode7C1H.melody = he.h.m4_en_US_andronache.heHE.EnTiKaminoAvramiaioi.melody
 meMA.Ode7C1H.incipit = he.h.m4_en_US_andronache.heHE.EnTiKaminoAvramiaioi.incipit
 meMA.Ode7C1H.text = he.h.m4_en_US_andronache.heHE.EnTiKaminoAvramiaioi.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode7C11.greekmelody = he.h.m4_en_US_andronache.heHE.EnTiKaminoAvramiaioi.greekname
 meMA.Ode7C11.melody = he.h.m4_en_US_andronache.heHE.EnTiKaminoAvramiaioi.notmetered
 meMA.Ode7C11.incipit = "Being an image of the…"
 meMA.Ode7C11.text = "Being an image of the three young servants, glorious martyr, you were thrown in the midst of fire for the sake of Christ and there received your blessed end, while hymning God, all-blessed one."
@@ -268,12 +280,14 @@ meMA.Ode7C1T.text = "You were seen to be holier than the Cherubim, all-blameless
 
 meMA.Ode8C1H.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode8C1H.greekmelody = he.h.m4_en_US_andronache.heHE.CheirasEkpetasasDaniil.greekname
 meMA.Ode8C1H.melody = he.h.m4_en_US_andronache.heHE.CheirasEkpetasasDaniil.melody
 meMA.Ode8C1H.incipit = he.h.m4_en_US_andronache.heHE.CheirasEkpetasasDaniil.incipit
 meMA.Ode8C1H.text = he.h.m4_en_US_andronache.heHE.CheirasEkpetasasDaniil.text
 
 meMA.Ode8C11.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode8C11.greekmelody = he.h.m4_en_US_andronache.heHE.CheirasEkpetasasDaniil.greekname
 meMA.Ode8C11.melody = he.h.m4_en_US_andronache.heHE.CheirasEkpetasasDaniil.notmetered
 meMA.Ode8C11.incipit = "Desiring to behold Christ, you…"
 meMA.Ode8C11.text = "Desiring to behold Christ, you made yourself bright with garments of virtues woven for you from above and you stand rejoicing beside the immortal King, truly happy one, crying out: Bless the Lord, all you works of the Lord."
@@ -304,12 +318,14 @@ meMA.Ode8C1T.text = "O wonder! How did you, who are graced by God, bear God beco
 
 meMA.Ode9C1H.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode9C1H.greekmelody = he.h.m4_en_US_andronache.heHE.LithosAcheirotmitos.greekname
 meMA.Ode9C1H.melody = he.h.m4_en_US_andronache.heHE.LithosAcheirotmitos.melody
 meMA.Ode9C1H.incipit = he.h.m4_en_US_andronache.heHE.LithosAcheirotmitos.incipit
 meMA.Ode9C1H.text = he.h.m4_en_US_andronache.heHE.LithosAcheirotmitos.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode9C11.greekmelody = he.h.m4_en_US_andronache.heHE.LithosAcheirotmitos.greekname
 meMA.Ode9C11.melody = he.h.m4_en_US_andronache.heHE.LithosAcheirotmitos.notmetered
 meMA.Ode9C11.incipit = "Martyr of Christ, we honor…"
 meMA.Ode9C11.text = "Martyr of Christ, we honor you with sacred and divine hymns, for having exceedingly pleased the King of the ages and most bravely destroyed the carved images of perdition."

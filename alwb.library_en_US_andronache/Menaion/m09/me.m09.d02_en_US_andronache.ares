@@ -105,6 +105,7 @@ meMA.C2.verse = //prayers_en_US_andronache.pr.verse_SaintM.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode1C11.greekmelody = he.h.m8_en_US_andronache.heHE.ArmatilatinFarao.greekname
 meMA.Ode1C11.melody = he.h.m8_en_US_andronache.heHE.ArmatilatinFarao.notmetered
 meMA.Ode1C11.incipit = "Wandering about heaven as being…"
 meMA.Ode1C11.text = "Wandering about heaven as being most noble, having become a martyr and being filled with the thrice-shining rays, glorious one, make worthy of divine illumination those who honor the august and light-bearing day of your perfection."
@@ -129,6 +130,7 @@ meMA.Ode1C1T.text = "Glorious things have been said about you from generation to
 
 meMA.Ode1C21.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode1C21.greekmelody = he.h.m8_en_US_andronache.heHE.ToEktinaxanti.greekname
 meMA.Ode1C21.melody = he.h.m8_en_US_andronache.heHE.ToEktinaxanti.name
 meMA.Ode1C21.incipit = "…"
 meMA.Ode1C21.text = ""
@@ -153,6 +155,7 @@ meMA.Ode1C2T.text = ""
 
 meMA.Ode3C11.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3C11.greekmelody = he.h.m8_en_US_andronache.heHE.OuraniasApsidos.greekname
 meMA.Ode3C11.melody = he.h.m8_en_US_andronache.heHE.OuraniasApsidos.notmetered
 meMA.Ode3C11.incipit = "As a luminous star Christ…"
 meMA.Ode3C11.text = "As a luminous star Christ has placed Mammas the athlete in the height of his Church, illumining everything under the sun with the light of his contests and paradoxal miracles."
@@ -177,6 +180,7 @@ meMA.Ode3C1T.text = "He who stretched out the heavens and holds fast the entire 
 
 meMA.Ode3C21.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C21.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3C21.greekmelody = he.h.m8_en_US_andronache.heHE.OStereosasLogo.greekname
 meMA.Ode3C21.melody = he.h.m8_en_US_andronache.heHE.OStereosasLogo.name
 meMA.Ode3C21.incipit = "…"
 meMA.Ode3C21.text = ""
@@ -201,6 +205,7 @@ meMA.Ode3C2T.text = ""
 
 meMA.Ode3H.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3H.greekmelody = he.h.m8_en_US_andronache.heHE.OStereosasLogo.greekname
 meMA.Ode3H.melody = he.h.m8_en_US_andronache.heHE.OStereosasLogo.melody
 meMA.Ode3H.incipit = he.h.m8_en_US_andronache.heHE.OStereosasLogo.incipit
 meMA.Ode3H.text = he.h.m8_en_US_andronache.heHE.OStereosasLogo.text
@@ -227,6 +232,7 @@ meMA.Ode3KathismaSt.text = me.m01.d29_en_US_andronache.meMA.Ode3KathismaSt.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode4C11.greekmelody = he.h.m8_en_US_andronache.heHE.SyMouIschys.greekname
 meMA.Ode4C11.melody = he.h.m8_en_US_andronache.heHE.SyMouIschys.notmetered
 meMA.Ode4C11.incipit = "Of your own will you…"
 meMA.Ode4C11.text = "Of your own will you went towards the contests with a courageous mindset, glorious one, for you had Christ working together with you, and by divine power He strengthened your weakness and showed you a martyr of his passion and a partaker of the brightness on high."
@@ -251,6 +257,7 @@ meMA.Ode4C1T.text = "By the delivery of your childbearing beyond nature, the con
 
 meMA.Ode4C21.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode4C21.greekmelody = he.h.m8_en_US_andronache.heHE.MystikosOProfitis.greekname
 meMA.Ode4C21.melody = he.h.m8_en_US_andronache.heHE.MystikosOProfitis.name
 meMA.Ode4C21.incipit = "…"
 meMA.Ode4C21.text = ""
@@ -275,6 +282,7 @@ meMA.Ode4C2T.text = ""
 
 meMA.Ode5C11.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode5C11.greekmelody = he.h.m8_en_US_andronache.heHE.InaTiMeAposo.greekname
 meMA.Ode5C11.melody = he.h.m8_en_US_andronache.heHE.InaTiMeAposo.notmetered
 meMA.Ode5C11.incipit = "As his body was being…"
 meMA.Ode5C11.text = "As his body was being scraped, the glorious Mamas was not at all concerned; as he was being torn to pieces, he cast off the mass of its corruption; he took off the garments of flesh, as he received the vestment of incorruptibility."
@@ -299,6 +307,7 @@ meMA.Ode5C1T.text = "By the divine incarnation you became the cause of the unutt
 
 meMA.Ode5C21.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C21.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode5C21.greekmelody = he.h.m8_en_US_andronache.heHE.OEkNyktosAgnoias.greekname
 meMA.Ode5C21.melody = he.h.m8_en_US_andronache.heHE.OEkNyktosAgnoias.name
 meMA.Ode5C21.incipit = "…"
 meMA.Ode5C21.text = ""
@@ -323,6 +332,7 @@ meMA.Ode5C2T.text = ""
 
 meMA.Ode6C11.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode6C11.greekmelody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.greekname
 meMA.Ode6C11.melody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.notmetered
 meMA.Ode6C11.incipit = "Burning with zeal for God…"
 meMA.Ode6C11.text = "Burning with zeal for God, most-holy one, you did not at all fear the fire that was being lit, being sprinkled with divine rain from heaven, most courageous athlete."
@@ -347,6 +357,7 @@ meMA.Ode6C1T.text = "We who praise you have become communicants of the divine na
 
 meMA.Ode6C21.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C21.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode6C21.greekmelody = he.h.m8_en_US_andronache.heHE.OsTonProfitinErryso.greekname
 meMA.Ode6C21.melody = he.h.m8_en_US_andronache.heHE.OsTonProfitinErryso.name
 meMA.Ode6C21.incipit = "…"
 meMA.Ode6C21.text = ""
@@ -371,6 +382,7 @@ meMA.Ode6C2T.text = ""
 
 meMA.Ode6H.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode6H.greekmelody = he.h.m8_en_US_andronache.heHE.OsTonProfitinErryso.greekname
 meMA.Ode6H.melody = he.h.m8_en_US_andronache.heHE.OsTonProfitinErryso.melody
 meMA.Ode6H.incipit = he.h.m8_en_US_andronache.heHE.OsTonProfitinErryso.incipit
 meMA.Ode6H.text = he.h.m8_en_US_andronache.heHE.OsTonProfitinErryso.text
@@ -384,6 +396,7 @@ meMA.Oikos1.text = "Let us hymn the martyr Mamas, acclaimed in all the earth and
 
 meMA.Ode7C11.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode7C11.greekmelody = he.h.m8_en_US_andronache.heHE.TheouSynkatavasin.greekname
 meMA.Ode7C11.melody = he.h.m8_en_US_andronache.heHE.TheouSynkatavasin.notmetered
 meMA.Ode7C11.incipit = "The furnace was made in…"
 meMA.Ode7C11.text = "The furnace was made in the form of a bridal chamber as needed for being closed therein form many days, blessed one, you were not burnt, crying out to the maker: Blessed is the God of our Fathers."
@@ -408,6 +421,7 @@ meMA.Ode7C1T.text = "Behold now is fulfilled that which had been foretold by the
 
 meMA.Ode7C21.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C21.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode7C21.greekmelody = he.h.m8_en_US_andronache.heHE.OEnArchiTinGin.greekname
 meMA.Ode7C21.melody = he.h.m8_en_US_andronache.heHE.OEnArchiTinGin.name
 meMA.Ode7C21.incipit = "…"
 meMA.Ode7C21.text = ""
@@ -432,6 +446,7 @@ meMA.Ode7C2T.text = ""
 
 meMA.Ode8C11.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode8C11.greekmelody = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.greekname
 meMA.Ode8C11.melody = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.notmetered
 meMA.Ode8C11.incipit = "By a divine invocation of…"
 meMA.Ode8C11.text = "By a divine invocation of the Master, glorious one, like Daniel you shut the gaping mouths of the beasts, killed the snake, and put to shame the impious, and as one victorious, you dwell in the heavens with joy, raising up a song: You, priests, bless Him and you, people, exalt Him beyond measure unto all the ages."
@@ -456,6 +471,7 @@ meMA.Ode8C1T.text = "You conceived beyond nature the one who was without mother 
 
 meMA.Ode8C21.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode8C21.greekmelody = he.h.m8_en_US_andronache.heHE.TonEnOreiAgio.greekname
 meMA.Ode8C21.melody = he.h.m8_en_US_andronache.heHE.TonEnOreiAgio.name
 meMA.Ode8C21.incipit = "…"
 meMA.Ode8C21.text = ""
@@ -480,12 +496,14 @@ meMA.Ode8C2T.text = ""
 
 meMA.Ode8H.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode8H.greekmelody = he.h.m8_en_US_andronache.heHE.TonEnOreiAgio.greekname
 meMA.Ode8H.melody = he.h.m8_en_US_andronache.heHE.TonEnOreiAgio.melody
 meMA.Ode8H.incipit = he.h.m8_en_US_andronache.heHE.TonEnOreiAgio.incipit
 meMA.Ode8H.text = he.h.m8_en_US_andronache.heHE.TonEnOreiAgio.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode9C11.greekmelody = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.greekname
 meMA.Ode9C11.melody = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.notmetered
 meMA.Ode9C11.incipit = "You offered your soul to…"
 meMA.Ode9C11.text = "You offered your soul to the Redeemer and you went to Him with fervor and manifestly illumined with the beauties of your holy contests and of the wondrous struggles, all-famous soldier, light of the world and adornment of the Church."
@@ -510,6 +528,7 @@ meMA.Ode9C1T.text = "Who of those of earth ever heard of a mother without a man 
 
 meMA.Ode9C21.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C21.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode9C21.greekmelody = he.h.m8_en_US_andronache.heHE.TonProdilothenta.greekname
 meMA.Ode9C21.melody = he.h.m8_en_US_andronache.heHE.TonProdilothenta.name
 meMA.Ode9C21.incipit = "…"
 meMA.Ode9C21.text = ""
@@ -534,6 +553,7 @@ meMA.Ode9C2T.text = ""
 
 meMA.Ode9H.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode9H.greekmelody = he.h.m8_en_US_andronache.heHE.TonProdilothenta.greekname
 meMA.Ode9H.melody = he.h.m8_en_US_andronache.heHE.TonProdilothenta.melody
 meMA.Ode9H.incipit = he.h.m8_en_US_andronache.heHE.TonProdilothenta.incipit
 meMA.Ode9H.text = he.h.m8_en_US_andronache.heHE.TonProdilothenta.text

@@ -59,12 +59,14 @@ meMA.C1.verse = //prayers_en_US_andronache.pr.verse_SaintsM.text
 
 meMA.Ode1C1H.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode1C1H.greekmelody = he.h.m4_en_US_andronache.heHE.TristatasKrataious.greekname
 meMA.Ode1C1H.melody = he.h.m4_en_US_andronache.heHE.TristatasKrataious.melody
 meMA.Ode1C1H.incipit = he.h.m4_en_US_andronache.heHE.TristatasKrataious.incipit
 meMA.Ode1C1H.text = he.h.m4_en_US_andronache.heHE.TristatasKrataious.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode1C11.greekmelody = he.h.m4_en_US_andronache.heHE.TristatasKrataious.greekname
 meMA.Ode1C11.melody = he.h.m4_en_US_andronache.heHE.TristatasKrataious.notmetered
 meMA.Ode1C11.incipit = "The sacred and wondrous…"
 meMA.Ode1C11.text = "The sacred and wondrous feast of the sacred martyrs who contested sacredly has arrived, illumining everyone by the brightness of the Spirit. As we gather together, lovers of feasts, let us bless them as is proper."
@@ -89,12 +91,14 @@ meMA.Ode1C1T.text = "From the slime of the passions and the surging waves of sin
 
 meMA.Ode3C1H.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode3C1H.greekmelody = he.h.m4_en_US_andronache.heHE.OtiSteiraEteken.greekname
 meMA.Ode3C1H.melody = he.h.m4_en_US_andronache.heHE.OtiSteiraEteken.melody
 meMA.Ode3C1H.incipit = he.h.m4_en_US_andronache.heHE.OtiSteiraEteken.incipit
 meMA.Ode3C1H.text = he.h.m4_en_US_andronache.heHE.OtiSteiraEteken.text
 
 meMA.Ode3C11.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode3C11.greekmelody = he.h.m4_en_US_andronache.heHE.OtiSteiraEteken.greekname
 meMA.Ode3C11.melody = he.h.m4_en_US_andronache.heHE.OtiSteiraEteken.notmetered
 meMA.Ode3C11.incipit = "When they were beaten"
 meMA.Ode3C11.text = "When they were beaten with the sword and patiently endured many kinds of torture, the steadfast, unconquerable ones cried out to our wondrous God: Holy are you, O Lord."
@@ -134,12 +138,14 @@ meMA.Ode3KathismaSt.text = "O Christ who were born of the beginningless Father, 
 
 meMA.Ode4C1H.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode4C1H.greekmelody = he.h.m4_en_US_andronache.heHE.OKathimenosEnDoxi.greekname
 meMA.Ode4C1H.melody = he.h.m4_en_US_andronache.heHE.OKathimenosEnDoxi.melody
 meMA.Ode4C1H.incipit = he.h.m4_en_US_andronache.heHE.OKathimenosEnDoxi.incipit
 meMA.Ode4C1H.text = he.h.m4_en_US_andronache.heHE.OKathimenosEnDoxi.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode4C11.greekmelody = he.h.m4_en_US_andronache.heHE.OKathimenosEnDoxi.greekname
 meMA.Ode4C11.melody = he.h.m4_en_US_andronache.heHE.OKathimenosEnDoxi.notmetered
 meMA.Ode4C11.incipit = "By the word of your wisdom…"
 meMA.Ode4C11.text = "By the word of your wisdom you put to shame the unwise and through the exhortations of your divinely persuasive teachings, you captured the divine Anektos, O martyr Quadratus, and you bring him to your Master as a steadfast martyr."
@@ -164,12 +170,14 @@ meMA.Ode4C1T.text = "The holy Theotokos, in whom the consubstantial Word of the 
 
 meMA.Ode5C1H.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode5C1H.greekmelody = he.h.m4_en_US_andronache.heHE.TonFotismonSouKyrie.greekname
 meMA.Ode5C1H.melody = he.h.m4_en_US_andronache.heHE.TonFotismonSouKyrie.melody
 meMA.Ode5C1H.incipit = he.h.m4_en_US_andronache.heHE.TonFotismonSouKyrie.incipit
 meMA.Ode5C1H.text = he.h.m4_en_US_andronache.heHE.TonFotismonSouKyrie.text
 
 meMA.Ode5C11.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode5C11.greekmelody = he.h.m4_en_US_andronache.heHE.TonFotismonSouKyrie.greekname
 meMA.Ode5C11.melody = he.h.m4_en_US_andronache.heHE.TonFotismonSouKyrie.notmetered
 meMA.Ode5C11.incipit = "By the light of knowledge…"
 meMA.Ode5C11.text = "By the light of knowledge driving away the darkness of ignorance, you offer to the Lord a company of athletes, wise Quadratus, being crowned with them."
@@ -194,12 +202,14 @@ meMA.Ode5C1T.text = "O spotless one, the one who fashioned Eve out of Adam’s s
 
 meMA.Ode6C1H.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode6C1H.greekmelody = he.h.m4_en_US_andronache.heHE.EvoiseProtypon.greekname
 meMA.Ode6C1H.melody = he.h.m4_en_US_andronache.heHE.EvoiseProtypon.melody
 meMA.Ode6C1H.incipit = he.h.m4_en_US_andronache.heHE.EvoiseProtypon.incipit
 meMA.Ode6C1H.text = he.h.m4_en_US_andronache.heHE.EvoiseProtypon.text
 
 meMA.Ode6C11.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode6C11.greekmelody = he.h.m4_en_US_andronache.heHE.EvoiseProtypon.greekname
 meMA.Ode6C11.melody = he.h.m4_en_US_andronache.heHE.EvoiseProtypon.notmetered
 meMA.Ode6C11.incipit = "Six in number…"
 meMA.Ode6C11.text = "Six in number, the choir of prizewinners has shone for us like stars of the Church’s august firmament, illumining the faithful and scattering the moonless night of deceit."
@@ -230,12 +240,14 @@ meMA.Kontakion1.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode7C1H.greekmelody = he.h.m4_en_US_andronache.heHE.ODiasosasEnPyri.greekname
 meMA.Ode7C1H.melody = he.h.m4_en_US_andronache.heHE.ODiasosasEnPyri.melody
 meMA.Ode7C1H.incipit = he.h.m4_en_US_andronache.heHE.ODiasosasEnPyri.incipit
 meMA.Ode7C1H.text = he.h.m4_en_US_andronache.heHE.ODiasosasEnPyri.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode7C11.greekmelody = he.h.m4_en_US_andronache.heHE.ODiasosasEnPyri.greekname
 meMA.Ode7C11.melody = he.h.m4_en_US_andronache.heHE.ODiasosasEnPyri.notmetered
 meMA.Ode7C11.incipit = "In the fire of tortures…"
 meMA.Ode7C11.text = "In the fire of tortures receiving from above the dew of patience, the brave martyrs cried out with the children: most hymned Lord, the God of our Fathers, you are blessed."
@@ -260,12 +272,14 @@ meMA.Ode7C1T.text = "Blessed is the fruit of your blessed womb, whom the heavenl
 
 meMA.Ode8C1H.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode8C1H.greekmelody = he.h.m4_en_US_andronache.heHE.LytrotaTouPantos.greekname
 meMA.Ode8C1H.melody = he.h.m4_en_US_andronache.heHE.LytrotaTouPantos.melody
 meMA.Ode8C1H.incipit = he.h.m4_en_US_andronache.heHE.LytrotaTouPantos.incipit
 meMA.Ode8C1H.text = he.h.m4_en_US_andronache.heHE.LytrotaTouPantos.text
 
 meMA.Ode8C11.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode8C11.greekmelody = he.h.m4_en_US_andronache.heHE.LytrotaTouPantos.greekname
 meMA.Ode8C11.melody = he.h.m4_en_US_andronache.heHE.LytrotaTouPantos.notmetered
 meMA.Ode8C11.incipit = "Shining with the brilliance…"
 meMA.Ode8C11.text = "Shining with the brilliance of the contests, you stand before the Lord bearing a crown with your fellow athletes, glorious one, lifting up a melody, O Quadratus: All the works, bless and hymn the Lord."
@@ -290,12 +304,14 @@ meMA.Ode8C1T.text = "Having been redeemed from the curse of the Fore-mother thro
 
 meMA.Ode9C1H.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode9C1H.greekmelody = he.h.m4_en_US_andronache.heHE.EvaMenToTisParakois.greekname
 meMA.Ode9C1H.melody = he.h.m4_en_US_andronache.heHE.EvaMenToTisParakois.melody
 meMA.Ode9C1H.incipit = he.h.m4_en_US_andronache.heHE.EvaMenToTisParakois.incipit
 meMA.Ode9C1H.text = he.h.m4_en_US_andronache.heHE.EvaMenToTisParakois.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode9C11.greekmelody = he.h.m4_en_US_andronache.heHE.EvaMenToTisParakois.greekname
 meMA.Ode9C11.melody = he.h.m4_en_US_andronache.heHE.EvaMenToTisParakois.notmetered
 meMA.Ode9C11.incipit = "The serum of the martyrs…"
 meMA.Ode9C11.text = "The serum of the martyrs sends us a fragrance full of grace; their blood pours out springs of healings by the Holy Spirit, and heals the passions of the souls. Let us bless them as is proper."

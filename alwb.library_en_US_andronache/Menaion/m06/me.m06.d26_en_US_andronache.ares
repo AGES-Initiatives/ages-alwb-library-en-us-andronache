@@ -62,6 +62,7 @@ meMA.C1.verse = //prayers_en_US_andronache.pr.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode5
+meMA.Ode1C11.greekmelody = he.h.m5_en_US_andronache.heHE.IpponKaiAnavatin.greekname
 meMA.Ode1C11.melody = he.h.m5_en_US_andronache.heHE.IpponKaiAnavatin.notmetered
 meMA.Ode1C11.incipit = "…"
 meMA.Ode1C11.text = "Coming together we honor with hymns your divine memory, most blessed David, having known you as an inheritor of light and of day through the Holy Spirit, Venerable one."
@@ -86,6 +87,7 @@ meMA.Ode1C1T.text = "You were seen adorned by the beauty of the virtues, O Virgi
 
 meMA.Ode3C11.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_andronache.misc.Mode5
+meMA.Ode3C11.greekmelody = he.h.m5_en_US_andronache.heHE.OPixasEpOudenos.greekname
 meMA.Ode3C11.melody = he.h.m5_en_US_andronache.heHE.OPixasEpOudenos.notmetered
 meMA.Ode3C11.incipit = "Quelching the pleasure…"
 meMA.Ode3C11.text = "Quelching the pleasure of the body through self-control, you received the rays of the Divine Spirit and you shine brightly having flashed like lightning with both the rays of dispassion and the gifts of healings, Father of the same name as the prophet."
@@ -110,6 +112,7 @@ meMA.Ode3C1T.text = "You were beheld more honorable than the angels, giving birt
 
 meMA.Ode3H.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_US_andronache.misc.Mode5
+meMA.Ode3H.greekmelody = he.h.m5_en_US_andronache.heHE.OPixasEpOudenos.greekname
 meMA.Ode3H.melody = he.h.m5_en_US_andronache.heHE.OPixasEpOudenos.melody
 meMA.Ode3H.incipit = he.h.m5_en_US_andronache.heHE.OPixasEpOudenos.incipit
 meMA.Ode3H.text = he.h.m5_en_US_andronache.heHE.OPixasEpOudenos.text
@@ -131,6 +134,7 @@ meMA.Ode3KathismaSt.text = "The ewe-lamb, beholding the lamb, shepherd, and rede
 
 meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode5
+meMA.Ode4C11.greekmelody = he.h.m5_en_US_andronache.heHE.TinTheianEnnoisas.greekname
 meMA.Ode4C11.melody = he.h.m5_en_US_andronache.heHE.TinTheianEnnoisas.notmetered
 meMA.Ode4C11.incipit = "Listening to the life-giving words…"
 meMA.Ode4C11.text = "Listening to the life-giving words of the Spirit, you left the briny sea of life and by the springs of your tears you dried up the flows of the passions."
@@ -155,6 +159,7 @@ meMA.Ode4C1T.text = "We hymn you all-hymned Lady; who gave birth in an inexplica
 
 meMA.Ode5C11.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_andronache.misc.Mode5
+meMA.Ode5C11.greekmelody = he.h.m5_en_US_andronache.heHE.OAnavallomenos.greekname
 meMA.Ode5C11.melody = he.h.m5_en_US_andronache.heHE.OAnavallomenos.notmetered
 meMA.Ode5C11.incipit = "Stretching your eyes…"
 meMA.Ode5C11.text = "Stretching your eyes and your thoughts towards the one suspended on the wood, you endured in the tree, burning, and snow-falls freezing, O Father."
@@ -185,6 +190,7 @@ meMA.Ode5C1T.text = "Guide my life and the movements of my mind, pure Virgin, to
 
 meMA.Ode6C11.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_andronache.misc.Mode5
+meMA.Ode6C11.greekmelody = he.h.m5_en_US_andronache.heHE.MainomeninKlydoni.greekname
 meMA.Ode6C11.melody = he.h.m5_en_US_andronache.heHE.MainomeninKlydoni.notmetered
 meMA.Ode6C11.incipit = "You were known…"
 meMA.Ode6C11.text = "You were known as a house of the divine Spirit, Venerable David, shut up in a small dwelling and taking the narrow path over the wide one."
@@ -209,12 +215,14 @@ meMA.Ode6C1T.text = "From your pure blood, flesh was woven beyond nature for the
 
 meMA.Ode6H.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_US_andronache.misc.Mode5
+meMA.Ode6H.greekmelody = he.h.m5_en_US_andronache.heHE.MainomeninKlydoni.greekname
 meMA.Ode6H.melody = he.h.m5_en_US_andronache.heHE.MainomeninKlydoni.melody
 meMA.Ode6H.incipit = he.h.m5_en_US_andronache.heHE.MainomeninKlydoni.incipit
 meMA.Ode6H.text = he.h.m5_en_US_andronache.heHE.MainomeninKlydoni.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_andronache.misc.Mode5
+meMA.Ode7C11.greekmelody = he.h.m5_en_US_andronache.heHE.OYperypsoumenos.greekname
 meMA.Ode7C11.melody = he.h.m5_en_US_andronache.heHE.OYperypsoumenos.notmetered
 meMA.Ode7C11.incipit = "You stood unmoved…"
 meMA.Ode7C11.text = "You stood unmoved by the motions of the tree, Venerable one; being watered much by the flowing of your tears and singing without ceasing: “O God, you are blessed.”"
@@ -245,6 +253,7 @@ meMA.Ode7C1T.text = "Humanity was loosed from the curse by your birth-giving, on
 
 meMA.Ode8C11.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_andronache.misc.Mode5
+meMA.Ode8C11.greekmelody = he.h.m5_en_US_andronache.heHE.SoiToPantourgo.greekname
 meMA.Ode8C11.melody = he.h.m5_en_US_andronache.heHE.SoiToPantourgo.notmetered
 meMA.Ode8C11.incipit = "You were seen to be…"
 meMA.Ode8C11.text = "You were seen to be a radiant dawn for those in the darkness of life, blessed one, illumining with the light of knowledge all who with yearning hymn you and exalt Christ beyond measure unto the ages."
@@ -275,12 +284,14 @@ meMA.Ode8C1T.text = "You, O Virgin, are the beauty of Jacob which God loved and 
 
 meMA.Ode8H.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_US_andronache.misc.Mode5
+meMA.Ode8H.greekmelody = he.h.m5_en_US_andronache.heHE.SoiToPantourgo.greekname
 meMA.Ode8H.melody = he.h.m5_en_US_andronache.heHE.SoiToPantourgo.melody
 meMA.Ode8H.incipit = he.h.m5_en_US_andronache.heHE.SoiToPantourgo.incipit
 meMA.Ode8H.text = he.h.m5_en_US_andronache.heHE.SoiToPantourgo.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_andronache.misc.Mode5
+meMA.Ode9C11.greekmelody = he.h.m5_en_US_andronache.heHE.IsaiaChoreve.greekname
 meMA.Ode9C11.melody = he.h.m5_en_US_andronache.heHE.IsaiaChoreve.notmetered
 meMA.Ode9C11.incipit = "Coming together faithfully…"
 meMA.Ode9C11.text = "Coming together faithfully today let us all celebrate the sacred festival of the sacred Father, who shone through asceticism and wholly dedicated himself to God through the perfection of his way of life."
@@ -311,6 +322,7 @@ meMA.Ode9C1T.text = "Ezekiel foresaw you as a light-bearing gate, through which 
 
 meMA.Ode9H.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_US_andronache.misc.Mode5
+meMA.Ode9H.greekmelody = he.h.m5_en_US_andronache.heHE.IsaiaChoreve.greekname
 meMA.Ode9H.melody = he.h.m5_en_US_andronache.heHE.IsaiaChoreve.melody
 meMA.Ode9H.incipit = he.h.m5_en_US_andronache.heHE.IsaiaChoreve.incipit
 meMA.Ode9H.text = he.h.m5_en_US_andronache.heHE.IsaiaChoreve.text

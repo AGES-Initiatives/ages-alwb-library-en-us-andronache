@@ -139,6 +139,7 @@ meMA.C1.verse = //prayers_en_US_andronache.pr.verse_SaintsM.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode1C11.greekmelody = he.h.m6_en_US_andronache.heHE.OsEnIpeiroPezefsas.greekname
 meMA.Ode1C11.melody = he.h.m6_en_US_andronache.heHE.OsEnIpeiroPezefsas.notmetered
 meMA.Ode1C11.incipit = "As you flash like lightning…"
 meMA.Ode1C11.text = "As you flash like lightning with divine glory, bright unmercenaries, illumine our souls, scattering the clouds of the passions that we may honor you with faith."
@@ -163,6 +164,7 @@ meMA.Ode1C1T.text = "Pure one you gave birth beyond the law of nature to the giv
 
 meMA.Ode3C11.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode3C11.greekmelody = he.h.m6_en_US_andronache.heHE.OukEstinAgios.greekname
 meMA.Ode3C11.melody = he.h.m6_en_US_andronache.heHE.OukEstinAgios.notmetered
 meMA.Ode3C11.incipit = "The world praises your many…"
 meMA.Ode3C11.text = "The world praises your many benefactions and fullness of wonders, every day, O Saints, wonder-working healers who stand together with the angels."
@@ -197,6 +199,7 @@ meMA.Ode3KathismaT.text = "Having fallen because of tangled temptations, from fo
 
 meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode4C11.greekmelody = he.h.m6_en_US_andronache.heHE.ChristosMouDynamis.greekname
 meMA.Ode4C11.melody = he.h.m6_en_US_andronache.heHE.ChristosMouDynamis.notmetered
 meMA.Ode4C11.incipit = "Let us honor in gladness…"
 meMA.Ode4C11.text = "Let us honor in gladness the wise unmercenaries, the divine twigs of the divine vine, truly bearing good fruit and dripping the mystical wine."
@@ -221,6 +224,7 @@ meMA.Ode4C1T.text = "The Lord, having dwelt within you, pure one, the holy taber
 
 meMA.Ode5C11.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode5C11.greekmelody = he.h.m6_en_US_andronache.heHE.ToTheioFengeiSou.greekname
 meMA.Ode5C11.melody = he.h.m6_en_US_andronache.heHE.ToTheioFengeiSou.notmetered
 meMA.Ode5C11.incipit = "The glorified ones drew to…"
 meMA.Ode5C11.text = "The glorified ones drew to themselves the divine light, having yearned whole-heartedly for the source of radiance, and they guide each of us with the lit torches of miracles."
@@ -245,6 +249,7 @@ meMA.Ode5C1T.text = "Deliver me, good Lady, from the trials of the foe, the fire
 
 meMA.Ode6C11.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode6C11.greekmelody = he.h.m6_en_US_andronache.heHE.TouViouTinThalassan.greekname
 meMA.Ode6C11.melody = he.h.m6_en_US_andronache.heHE.TouViouTinThalassan.notmetered
 meMA.Ode6C11.incipit = "Dwelling in joy in the…"
 meMA.Ode6C11.text = "Dwelling in joy in the heavens, unmercenaries, hasten to be at hand in your holy temple and drive out the illnesses of our bodies and the passions of our hearts."
@@ -276,6 +281,7 @@ meMA.Oikos1.text = "The account of the wise physicians is above all understandin
 
 meMA.Ode7C11.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode7C11.greekmelody = he.h.m6_en_US_andronache.heHE.DrosovolonMenTinKaminon.greekname
 meMA.Ode7C11.melody = he.h.m6_en_US_andronache.heHE.DrosovolonMenTinKaminon.notmetered
 meMA.Ode7C11.incipit = "You lifted up your minds…"
 meMA.Ode7C11.text = "You lifted up your minds on wings towards heavenly things by giving yourselves to good things and became communicants of divine gifts; being winged eagles you pass through all the earth ever working miracles."
@@ -306,6 +312,7 @@ meMA.Ode7C1T.text = "Do not cease to intercede with our God who loves humanity, 
 
 meMA.Ode8C11.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode8C11.greekmelody = he.h.m6_en_US_andronache.heHE.EkFlogosToisOsiois.greekname
 meMA.Ode8C11.melody = he.h.m6_en_US_andronache.heHE.EkFlogosToisOsiois.notmetered
 meMA.Ode8C11.incipit = "Being warriors against all manner…"
 meMA.Ode8C11.text = "Being warriors against all manner of disease through the power of the Divine Spirit, O saints, hold back the diseases of our souls and lighten the pains of our bodies."
@@ -342,6 +349,7 @@ meMA.Ode8C1Tr.text = "With the holy angels let us hymn the Father, Son, and Holy
 
 meMA.Ode9C11.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode9C11.greekmelody = he.h.m6_en_US_andronache.heHE.TheonAnthropois.greekname
 meMA.Ode9C11.melody = he.h.m6_en_US_andronache.heHE.TheonAnthropois.notmetered
 meMA.Ode9C11.incipit = "Behold your house, is most…"
 meMA.Ode9C11.text = "Behold your house, is most beautifully illumined with miracles as shining stars and joyously with one voice it always blesses you and piously celebrates your holy memory, sacred unmercenaries."

@@ -115,6 +115,7 @@ meMA.C2.verse = //prayers_en_US_andronache.pr.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode1C11.greekmelody = he.h.m4_en_US_andronache.heHE.TristatasKrataious.greekname
 meMA.Ode1C11.melody = he.h.m4_en_US_andronache.heHE.TristatasKrataious.notmetered
 meMA.Ode1C11.incipit = "You bloomed in a holy…"
 meMA.Ode1C11.text = "You bloomed in a holy manner like a lily in a meadow of the martyrs bloom, and you make the souls of those who faithfully honor you fragrant by the sweet fragrance of your contests, much-suffering Hierarch and Martyr."
@@ -139,6 +140,7 @@ meMA.Ode1C1T.text = "You made to appear as He knows, the Lord who illumined the 
 
 meMA.Ode1C21.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode1C21.greekmelody = he.h.m8_en_US_andronache.heHE.IKekommeni.greekname
 meMA.Ode1C21.melody = he.h.m8_en_US_andronache.heHE.IKekommeni.notmetered
 meMA.Ode1C21.incipit = "Pierced by the longing for…"
 meMA.Ode1C21.text = "Pierced by the longing for dispassion, you quenched the impulses of the flesh, wise Father Theoktistos, having received help from God; now entreat earnestly that we be filled with noetic light as we chant to the Lord, For His is gloriously glorified."
@@ -163,6 +165,7 @@ meMA.Ode1C2T.text = "Having acquired you as hope of salvation, pure virgin mothe
 
 meMA.Ode3C11.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode3C11.greekmelody = he.h.m4_en_US_andronache.heHE.OtiSteiraEteken.greekname
 meMA.Ode3C11.melody = he.h.m4_en_US_andronache.heHE.OtiSteiraEteken.notmetered
 meMA.Ode3C11.incipit = "You gave yourself, like Christ…"
 meMA.Ode3C11.text = "You gave yourself, like Christ, to those who sought you and were sent to slaughter like a ram, sanctifying by your blood all who honor you, O Anthimos."
@@ -187,6 +190,7 @@ meMA.Ode3C1T.text = "You were beautified, for you gave birth most pure one, to t
 
 meMA.Ode3C21.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C21.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3C21.greekmelody = he.h.m8_en_US_andronache.heHE.SyEiToStereoma.greekname
 meMA.Ode3C21.melody = he.h.m8_en_US_andronache.heHE.SyEiToStereoma.notmetered
 meMA.Ode3C21.incipit = "You mortified the flesh through…"
 meMA.Ode3C21.text = "You mortified the flesh through your self-control, Righteous one, and illumined your soul with the gifts of divine graces."
@@ -205,6 +209,7 @@ meMA.Ode3C2T.text = "Raising up hymns to you for having given birth to God, Lady
 
 meMA.Ode3H.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3H.greekmelody = he.h.m8_en_US_andronache.heHE.SyEiToStereoma.greekname
 meMA.Ode3H.melody = he.h.m8_en_US_andronache.heHE.SyEiToStereoma.melody
 meMA.Ode3H.incipit = he.h.m8_en_US_andronache.heHE.SyEiToStereoma.incipit
 meMA.Ode3H.text = he.h.m8_en_US_andronache.heHE.SyEiToStereoma.text
@@ -231,6 +236,7 @@ meMA.Ode3KathismaSt.text = ""
 
 meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode4C11.greekmelody = he.h.m4_en_US_andronache.heHE.DiAgapisinOiktirmon.greekname
 meMA.Ode4C11.melody = he.h.m4_en_US_andronache.heHE.DiAgapisinOiktirmon.notmetered
 meMA.Ode4C11.incipit = "The rock of faith having…"
 meMA.Ode4C11.text = "The rock of faith having supported your heart, you were struck with stones, O Martyr, imitating Stephen. Therefore, rejoicing, we crown you with hymns."
@@ -255,6 +261,7 @@ meMA.Ode4C1T.text = "Not leaving the fatherly bosom, the Logos reclined in your 
 
 meMA.Ode4C21.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode4C21.greekmelody = he.h.m8_en_US_andronache.heHE.EpevisEfIppous.greekname
 meMA.Ode4C21.melody = he.h.m8_en_US_andronache.heHE.EpevisEfIppous.notmetered
 meMA.Ode4C21.incipit = "You were beheld as a…"
 meMA.Ode4C21.text = "You were beheld as a lover of the first Wisdom, all wise one, for you irreproachably completed your life having cleansed your most excellent soul and body and crying out harmoniously: glory to your power, O Lord."
@@ -279,6 +286,7 @@ meMA.Ode4C2T.text = "As you were seen in the world as a man from the Virgin, you
 
 meMA.Ode5C11.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode5C11.greekmelody = he.h.m4_en_US_andronache.heHE.TonFotismonSouKyrie.greekname
 meMA.Ode5C11.melody = he.h.m4_en_US_andronache.heHE.TonFotismonSouKyrie.notmetered
 meMA.Ode5C11.incipit = "In having your feet burned…"
 meMA.Ode5C11.text = "In having your feet burned in a terrible manner, O Athlete, you crushed the head of the fleshless adversaries and you go toward heaven adorned by sacred contests."
@@ -303,6 +311,7 @@ meMA.Ode5C1T.text = "The shadows of the law made visible the light which arose f
 
 meMA.Ode5C21.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C21.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode5C21.greekmelody = he.h.m8_en_US_andronache.heHE.FotisonImas.greekname
 meMA.Ode5C21.melody = he.h.m8_en_US_andronache.heHE.FotisonImas.notmetered
 meMA.Ode5C21.incipit = "Mortify the thoughts and rebellions…"
 meMA.Ode5C21.text = "Mortify the thoughts and rebellions of the flesh, loving one, by the acceptable entreaties of your saint."
@@ -321,6 +330,7 @@ meMA.Ode5C2T.text = "The most excellent co-dwelling pair called by God, proclaim
 
 meMA.Ode6C11.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode6C11.greekmelody = he.h.m4_en_US_andronache.heHE.EvoiseProtypon.greekname
 meMA.Ode6C11.melody = he.h.m4_en_US_andronache.heHE.EvoiseProtypon.notmetered
 meMA.Ode6C11.incipit = "Being oppressively surrounded and bound…"
 meMA.Ode6C11.text = "Being oppressively surrounded and bound to the wheel, and vigorously burned with torches from every side, you were seen as unswerving, much struggling hierarch Anthimos."
@@ -345,6 +355,7 @@ meMA.Ode6C1T.text = "Withering the plants of evil by your blossom, unwedded one,
 
 meMA.Ode6C21.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C21.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode6C21.greekmelody = he.h.m8_en_US_andronache.heHE.TinDeisinEkcheo.greekname
 meMA.Ode6C21.melody = he.h.m8_en_US_andronache.heHE.TinDeisinEkcheo.notmetered
 meMA.Ode6C21.incipit = "Like a sun you arose…"
 meMA.Ode6C21.text = "Like a sun you arose for those on earth, illumining them by the fire of piety and scattering the light of virtues, and teaching the goodness of chastity; O Theoktistos, also now, by your prayers, grant peace to the world."
@@ -363,6 +374,7 @@ meMA.Ode6C2T.text = "You were beguiled by love for the comely and divine beauty 
 
 meMA.Ode6H.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode6H.greekmelody = he.h.m8_en_US_andronache.heHE.TinDeisinEkcheo.greekname
 meMA.Ode6H.melody = he.h.m8_en_US_andronache.heHE.TinDeisinEkcheo.melody
 meMA.Ode6H.incipit = he.h.m8_en_US_andronache.heHE.TinDeisinEkcheo.incipit
 meMA.Ode6H.text = he.h.m8_en_US_andronache.heHE.TinDeisinEkcheo.text
@@ -376,6 +388,7 @@ meMA.Oikos1.text = ""
 
 meMA.Ode7C11.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode7C11.greekmelody = he.h.m4_en_US_andronache.heHE.AvramiaioiPote.greekname
 meMA.Ode7C11.melody = he.h.m4_en_US_andronache.heHE.AvramiaioiPote.notmetered
 meMA.Ode7C11.incipit = "The flames that have been…"
 meMA.Ode7C11.text = "The flames that have been applied to your pure flesh, did not harm you at all, but were turned on those who hated you by the care of the holy angels."
@@ -400,6 +413,7 @@ meMA.Ode7C1T.text = "The exceedingly great love for mankind was seen, O Virgin, 
 
 meMA.Ode7C21.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C21.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode7C21.greekmelody = he.h.m8_en_US_andronache.heHE.PaidesEvraion.greekname
 meMA.Ode7C21.melody = he.h.m8_en_US_andronache.heHE.PaidesEvraion.notmetered
 meMA.Ode7C21.incipit = "By all your fervor united…"
 meMA.Ode7C21.text = "By all your fervor united with your Master through harsh asceticism; now you live in His light, crying: Blessed are you, O Lord God, unto the ages."
@@ -424,6 +438,7 @@ meMA.Ode7C2T.text = "Behold, a Virgin gave birth to a divine child, to whom the 
 
 meMA.Ode8C11.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode8C11.greekmelody = he.h.m4_en_US_andronache.heHE.LytrotaTouPantos.greekname
 meMA.Ode8C11.melody = he.h.m4_en_US_andronache.heHE.LytrotaTouPantos.notmetered
 meMA.Ode8C11.incipit = "You preach the incarnation of…"
 meMA.Ode8C11.text = "You preach the incarnation of the Lord before unlawful tyrants, while being exposed to chastisement and bitter punishments and pains, much struggling hierarch Anthimos"
@@ -448,6 +463,7 @@ meMA.Ode8C1T.text = "Let us bless with holy voices the undefiled dwelling place 
 
 meMA.Ode8C21.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode8C21.greekmelody = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.greekname
 meMA.Ode8C21.melody = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.notmetered
 meMA.Ode8C21.incipit = "God-bearer, your memory is kept…"
 meMA.Ode8C21.text = "God-bearer, your memory is kept with praises for you were shown to be the nursling of righteousness, of manly judgment and wisdom, wise Father; crying out: all you servants bless the Maker and Redeemer and you priests sing His praises, and people all exalt Him unto all the ages."
@@ -472,12 +488,14 @@ meMA.Ode8C2T.text = "The godly-minded ascetics loved to pursue knowledge because
 
 meMA.Ode8H.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode8H.greekmelody = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.greekname
 meMA.Ode8H.melody = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.melody
 meMA.Ode8H.incipit = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.incipit
 meMA.Ode8H.text = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode9C11.greekmelody = he.h.m4_en_US_andronache.heHE.EvaMenToTisParakois.greekname
 meMA.Ode9C11.melody = he.h.m4_en_US_andronache.heHE.EvaMenToTisParakois.notmetered
 meMA.Ode9C11.incipit = "You bloomed as a rose…"
 meMA.Ode9C11.text = "You bloomed as a rose of mystical fragrance in the house of our God. Therefore you bring a beautiful fragrance to us, having become the fragrance of God and you chase away the foul smell of our souls' passions, blessed one."
@@ -502,6 +520,7 @@ meMA.Ode9C1T.text = "The fiery sword which was previously barring the entrance t
 
 meMA.Ode9C21.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C21.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode9C21.greekmelody = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.greekname
 meMA.Ode9C21.melody = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.notmetered
 meMA.Ode9C21.incipit = "Having been cleansed by the…"
 meMA.Ode9C21.text = "Having been cleansed by the river of your tears, you now enjoy the tri-radiant light, O Theoktistos, manifestly standing beside it and having been adorned by the brightest rays from it, look from on high upon us who keep your memory, all blessed one."
@@ -526,6 +545,7 @@ meMA.Ode9C2T.text = "O divine and godly-minded and holy pair of Fathers most bri
 
 meMA.Ode9H.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode9H.greekmelody = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.greekname
 meMA.Ode9H.melody = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.melody
 meMA.Ode9H.incipit = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.incipit
 meMA.Ode9H.text = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.text

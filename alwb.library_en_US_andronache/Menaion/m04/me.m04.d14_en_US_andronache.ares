@@ -61,12 +61,14 @@ meMA.C1.verse = //prayers_en_US_andronache.pr.verse_Apostles.text
 
 meMA.Ode1C1H.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode1C1H.greekmelody = he.h.m6_en_US_andronache.heHE.OsEnIpeiroPezefsas.greekname
 meMA.Ode1C1H.melody = he.h.m6_en_US_andronache.heHE.OsEnIpeiroPezefsas.melody
 meMA.Ode1C1H.incipit = he.h.m6_en_US_andronache.heHE.OsEnIpeiroPezefsas.incipit
 meMA.Ode1C1H.text = he.h.m6_en_US_andronache.heHE.OsEnIpeiroPezefsas.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode1C11.greekmelody = he.h.m6_en_US_andronache.heHE.OsEnIpeiroPezefsas.greekname
 meMA.Ode1C11.melody = he.h.m6_en_US_andronache.heHE.OsEnIpeiroPezefsas.notmetered
 meMA.Ode1C11.incipit = "Standing by the throne…"
 meMA.Ode1C11.text = "Standing by the throne of God, as his liturgists and servants and as noetical luminaries, ask for illumination for us who honor your memory, O apostles."
@@ -97,12 +99,14 @@ meMA.Ode1C1T.text = "Pure one, so that, in his surpassing compassion, He may now
 
 meMA.Ode3C1H.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode3C1H.greekmelody = he.h.m6_en_US_andronache.heHE.OukEstinAgios.greekname
 meMA.Ode3C1H.melody = he.h.m6_en_US_andronache.heHE.OukEstinAgios.melody
 meMA.Ode3C1H.incipit = he.h.m6_en_US_andronache.heHE.OukEstinAgios.incipit
 meMA.Ode3C1H.text = he.h.m6_en_US_andronache.heHE.OukEstinAgios.text
 
 meMA.Ode3C11.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode3C11.greekmelody = he.h.m6_en_US_andronache.heHE.OukEstinAgios.greekname
 meMA.Ode3C11.melody = he.h.m6_en_US_andronache.heHE.OukEstinAgios.notmetered
 meMA.Ode3C11.incipit = "Accompanying the renowned Paul…"
 meMA.Ode3C11.text = "Accompanying the renowned Paul, you went about the whole world with him as stars around the sun, driving away the darkness of ignorance with the light of your sacred preaching."
@@ -142,12 +146,14 @@ meMA.Ode3KathismaSt.text = "Seeing the lamb nailed upon the wood, the blameless 
 
 meMA.Ode4C1H.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode4C1H.greekmelody = he.h.m6_en_US_andronache.heHE.ChristosMouDynamis.greekname
 meMA.Ode4C1H.melody = he.h.m6_en_US_andronache.heHE.ChristosMouDynamis.melody
 meMA.Ode4C1H.incipit = he.h.m6_en_US_andronache.heHE.ChristosMouDynamis.incipit
 meMA.Ode4C1H.text = he.h.m6_en_US_andronache.heHE.ChristosMouDynamis.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode4C11.greekmelody = he.h.m6_en_US_andronache.heHE.ChristosMouDynamis.greekname
 meMA.Ode4C11.melody = he.h.m6_en_US_andronache.heHE.ChristosMouDynamis.notmetered
 meMA.Ode4C11.incipit = "The Trinity beyond nature…"
 meMA.Ode4C11.text = "The Trinity beyond nature lit up as a three-lighted lamp the sacred Pudens and Trophimos and Aristarchos, making the world bright through their divine words."
@@ -172,12 +178,14 @@ meMA.Ode4C1T.text = "Spotless one, since you are my strength and refuge and impa
 
 meMA.Ode5C1H.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode5C1H.greekmelody = he.h.m6_en_US_andronache.heHE.ToTheioFengeiSou.greekname
 meMA.Ode5C1H.melody = he.h.m6_en_US_andronache.heHE.ToTheioFengeiSou.melody
 meMA.Ode5C1H.incipit = he.h.m6_en_US_andronache.heHE.ToTheioFengeiSou.incipit
 meMA.Ode5C1H.text = he.h.m6_en_US_andronache.heHE.ToTheioFengeiSou.text
 
 meMA.Ode5C11.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode5C11.greekmelody = he.h.m6_en_US_andronache.heHE.ToTheioFengeiSou.greekname
 meMA.Ode5C11.melody = he.h.m6_en_US_andronache.heHE.ToTheioFengeiSou.notmetered
 meMA.Ode5C11.incipit = "The famous preachers…"
 meMA.Ode5C11.text = "The famous preachers of God broke pIllars and temples of idols, building up by grace the hearts of men which were as a tabernacle fallen through transgressions."
@@ -202,12 +210,14 @@ meMA.Ode5C1T.text = "The sacred Isaiah, of old most sacredly illumined by the di
 
 meMA.Ode6C1H.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode6C1H.greekmelody = he.h.m6_en_US_andronache.heHE.TouViouTinThalassan.greekname
 meMA.Ode6C1H.melody = he.h.m6_en_US_andronache.heHE.TouViouTinThalassan.melody
 meMA.Ode6C1H.incipit = he.h.m6_en_US_andronache.heHE.TouViouTinThalassan.incipit
 meMA.Ode6C1H.text = he.h.m6_en_US_andronache.heHE.TouViouTinThalassan.text
 
 meMA.Ode6C11.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode6C11.greekmelody = he.h.m6_en_US_andronache.heHE.TouViouTinThalassan.greekname
 meMA.Ode6C11.melody = he.h.m6_en_US_andronache.heHE.TouViouTinThalassan.notmetered
 meMA.Ode6C11.incipit = "Let all-wise Trophimos…"
 meMA.Ode6C11.text = "Let all-wise Trophimos, Aristarchos, and the wondrous Pudens be praised with sacred melodies as disciples of the Word and sacred companions of Paul."
@@ -238,12 +248,14 @@ meMA.Kontakion1.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode7C1H.greekmelody = he.h.m6_en_US_andronache.heHE.DrosovolonMenTinKaminon.greekname
 meMA.Ode7C1H.melody = he.h.m6_en_US_andronache.heHE.DrosovolonMenTinKaminon.melody
 meMA.Ode7C1H.incipit = he.h.m6_en_US_andronache.heHE.DrosovolonMenTinKaminon.incipit
 meMA.Ode7C1H.text = he.h.m6_en_US_andronache.heHE.DrosovolonMenTinKaminon.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode7C11.greekmelody = he.h.m6_en_US_andronache.heHE.DrosovolonMenTinKaminon.greekname
 meMA.Ode7C11.melody = he.h.m6_en_US_andronache.heHE.DrosovolonMenTinKaminon.notmetered
 meMA.Ode7C11.incipit = "You extinguished the flame…"
 meMA.Ode7C11.text = "You extinguished the flame of impiety with the rains of your sacred preaching as apostles; and as divine athletes, by the streams of your blood, you burned the substance of idolatry, wise ones. Therefore you are glorified."
@@ -268,12 +280,14 @@ meMA.Ode7C1T.text = "You were blessed by the Holy Spirit, august one, giving a b
 
 meMA.Ode8C1H.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode8C1H.greekmelody = he.h.m6_en_US_andronache.heHE.EkFlogosToisOsiois.greekname
 meMA.Ode8C1H.melody = he.h.m6_en_US_andronache.heHE.EkFlogosToisOsiois.melody
 meMA.Ode8C1H.incipit = he.h.m6_en_US_andronache.heHE.EkFlogosToisOsiois.incipit
 meMA.Ode8C1H.text = he.h.m6_en_US_andronache.heHE.EkFlogosToisOsiois.text
 
 meMA.Ode8C11.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode8C11.greekmelody = he.h.m6_en_US_andronache.heHE.EkFlogosToisOsiois.greekname
 meMA.Ode8C11.melody = he.h.m6_en_US_andronache.heHE.EkFlogosToisOsiois.notmetered
 meMA.Ode8C11.incipit = "Cutting down the roots…"
 meMA.Ode8C11.text = "Cutting down the roots of godlessness with the divine sickle, you planted true faith and perfect knowledge in the hearts of the pious, O God proclaimers."
@@ -298,12 +312,14 @@ meMA.Ode8C1T.text = "O Virgin, you renewed all of humanity, which has been broke
 
 meMA.Ode9C1H.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode9C1H.greekmelody = he.h.m6_en_US_andronache.heHE.TheonAnthropois.greekname
 meMA.Ode9C1H.melody = he.h.m6_en_US_andronache.heHE.TheonAnthropois.melody
 meMA.Ode9C1H.incipit = he.h.m6_en_US_andronache.heHE.TheonAnthropois.incipit
 meMA.Ode9C1H.text = he.h.m6_en_US_andronache.heHE.TheonAnthropois.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode9C11.greekmelody = he.h.m6_en_US_andronache.heHE.TheonAnthropois.greekname
 meMA.Ode9C11.melody = he.h.m6_en_US_andronache.heHE.TheonAnthropois.notmetered
 meMA.Ode9C11.incipit = "The power of the avenging…"
 meMA.Ode9C11.text = "The power of the avenging spirit is taken away and his uplifted insolence has fallen; for the saints, in the weakness of the flesh, having bound him, put him to flight, destroyed him, and delivered the faithful from his tyranny."

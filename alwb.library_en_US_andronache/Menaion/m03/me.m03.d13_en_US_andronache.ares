@@ -59,12 +59,14 @@ meMA.C1.verse = //prayers_en_US_andronache.pr.verse_SaintM.text
 
 meMA.Ode1C1H.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode1C1H.greekmelody = he.h.m2_en_US_andronache.heHE.DefteLaoi.greekname
 meMA.Ode1C1H.melody = he.h.m2_en_US_andronache.heHE.DefteLaoi.melody
 meMA.Ode1C1H.incipit = he.h.m2_en_US_andronache.heHE.DefteLaoi.incipit
 meMA.Ode1C1H.text = he.h.m2_en_US_andronache.heHE.DefteLaoi.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode1C11.greekmelody = he.h.m2_en_US_andronache.heHE.DefteLaoi.greekname
 meMA.Ode1C11.melody = he.h.m2_en_US_andronache.heHE.DefteLaoi.notmetered
 meMA.Ode1C11.incipit = "Being held in the terrible…"
 meMA.Ode1C11.text = "Being held in the terrible grave of sins, raise me up by your immortal disposition and your compassionate hand, and make me live as compassionate and very merciful."
@@ -95,12 +97,14 @@ meMA.Ode1C1T.text = "By a word you conceived the Word of the Father and bore him
 
 meMA.Ode3C1H.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode3C1H.greekmelody = he.h.m2_en_US_andronache.heHE.StereosonImasEnSoiKyrie.greekname
 meMA.Ode3C1H.melody = he.h.m2_en_US_andronache.heHE.StereosonImasEnSoiKyrie.melody
 meMA.Ode3C1H.incipit = he.h.m2_en_US_andronache.heHE.StereosonImasEnSoiKyrie.incipit
 meMA.Ode3C1H.text = he.h.m2_en_US_andronache.heHE.StereosonImasEnSoiKyrie.text
 
 meMA.Ode3C11.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode3C11.greekmelody = he.h.m2_en_US_andronache.heHE.StereosonImasEnSoiKyrie.greekname
 meMA.Ode3C11.melody = he.h.m2_en_US_andronache.heHE.StereosonImasEnSoiKyrie.notmetered
 meMA.Ode3C11.incipit = "Having the weapon of the…"
 meMA.Ode3C11.text = "Having the weapon of the Cross as a breastplate, and outlining the divine imprint of the Savior, you piously venerated it, following the patristic teachings."
@@ -140,12 +144,14 @@ meMA.Ode3KathismaSt.text = "The undefiled ewe-lamb of the Logos, the pure virgin
 
 meMA.Ode4C1H.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode4C1H.greekmelody = he.h.m2_en_US_andronache.heHE.EisakikoaKyrieTinAkoin.greekname
 meMA.Ode4C1H.melody = he.h.m2_en_US_andronache.heHE.EisakikoaKyrieTinAkoin.melody
 meMA.Ode4C1H.incipit = he.h.m2_en_US_andronache.heHE.EisakikoaKyrieTinAkoin.incipit
 meMA.Ode4C1H.text = he.h.m2_en_US_andronache.heHE.EisakikoaKyrieTinAkoin.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode4C11.greekmelody = he.h.m2_en_US_andronache.heHE.EisakikoaKyrieTinAkoin.greekname
 meMA.Ode4C11.melody = he.h.m2_en_US_andronache.heHE.EisakikoaKyrieTinAkoin.notmetered
 meMA.Ode4C11.incipit = "For those who honor you…"
 meMA.Ode4C11.text = "For those who honor you, your bier becomes an ark of sanctification from which we draw a spring of healings."
@@ -170,12 +176,14 @@ meMA.Ode4C1T.text = "We glorify you, noetic paradise who received in your womb t
 
 meMA.Ode5C1H.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode5C1H.greekmelody = he.h.m2_en_US_andronache.heHE.OTouFotosChorigos.greekname
 meMA.Ode5C1H.melody = he.h.m2_en_US_andronache.heHE.OTouFotosChorigos.melody
 meMA.Ode5C1H.incipit = he.h.m2_en_US_andronache.heHE.OTouFotosChorigos.incipit
 meMA.Ode5C1H.text = he.h.m2_en_US_andronache.heHE.OTouFotosChorigos.text
 
 meMA.Ode5C11.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode5C11.greekmelody = he.h.m2_en_US_andronache.heHE.OTouFotosChorigos.greekname
 meMA.Ode5C11.melody = he.h.m2_en_US_andronache.heHE.OTouFotosChorigos.notmetered
 meMA.Ode5C11.incipit = "Enemies are ashamed now and…"
 meMA.Ode5C11.text = "Enemies are ashamed now and the leaders of heresies are raging seeing your bier being faithfully honored by the king and your entire flock, godly-minded one."
@@ -200,12 +208,14 @@ meMA.Ode5C1T.text = "Having been beautified, august one, by the coming of the ho
 
 meMA.Ode6C1H.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode6C1H.greekmelody = he.h.m2_en_US_andronache.heHE.EnAvyssoPtaismaton.greekname
 meMA.Ode6C1H.melody = he.h.m2_en_US_andronache.heHE.EnAvyssoPtaismaton.melody
 meMA.Ode6C1H.incipit = he.h.m2_en_US_andronache.heHE.EnAvyssoPtaismaton.incipit
 meMA.Ode6C1H.text = he.h.m2_en_US_andronache.heHE.EnAvyssoPtaismaton.text
 
 meMA.Ode6C11.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode6C11.greekmelody = he.h.m2_en_US_andronache.heHE.EnAvyssoPtaismaton.greekname
 meMA.Ode6C11.melody = he.h.m2_en_US_andronache.heHE.EnAvyssoPtaismaton.notmetered
 meMA.Ode6C11.incipit = "You suffered passions for the…"
 meMA.Ode6C11.text = "You suffered passions for the faith, for the holy tradition of the Fathers you endured exiles, through which you gained most honorable glory."
@@ -236,12 +246,14 @@ meMA.Kontakion1ger.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode7C1H.greekmelody = he.h.m2_en_US_andronache.heHE.EikonosChrysis.greekname
 meMA.Ode7C1H.melody = he.h.m2_en_US_andronache.heHE.EikonosChrysis.melody
 meMA.Ode7C1H.incipit = he.h.m2_en_US_andronache.heHE.EikonosChrysis.incipit
 meMA.Ode7C1H.text = he.h.m2_en_US_andronache.heHE.EikonosChrysis.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode7C11.greekmelody = he.h.m2_en_US_andronache.heHE.EikonosChrysis.greekname
 meMA.Ode7C11.melody = he.h.m2_en_US_andronache.heHE.EikonosChrysis.notmetered
 meMA.Ode7C11.incipit = "By divine power your burial…"
 meMA.Ode7C11.text = "By divine power your burial vestments are kept incorrupt and your bones, by divine command, not having lost their union, scatter all evil thought of unclean spirits. Blessed are you, the God of our Fathers."
@@ -266,12 +278,14 @@ meMA.Ode7C1T.text = "When Moses saw the bush on Sinai aflame but not unconsumed 
 
 meMA.Ode8C1H.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode8C1H.greekmelody = he.h.m2_en_US_andronache.heHE.TonEnKaminoTouPyros.greekname
 meMA.Ode8C1H.melody = he.h.m2_en_US_andronache.heHE.TonEnKaminoTouPyros.melody
 meMA.Ode8C1H.incipit = he.h.m2_en_US_andronache.heHE.TonEnKaminoTouPyros.incipit
 meMA.Ode8C1H.text = he.h.m2_en_US_andronache.heHE.TonEnKaminoTouPyros.text
 
 meMA.Ode8C11.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode8C11.greekmelody = he.h.m2_en_US_andronache.heHE.TonEnKaminoTouPyros.greekname
 meMA.Ode8C11.melody = he.h.m2_en_US_andronache.heHE.TonEnKaminoTouPyros.notmetered
 meMA.Ode8C11.incipit = "By the breeze of the…"
 meMA.Ode8C11.text = "By the breeze of the Spirit, you reached the harbor of life away from many swells, Father, and preserved the goodness of your load with unwetted feet and now you enjoy the peace that is there."
@@ -296,12 +310,14 @@ meMA.Ode8C1T.text = "By a word conceiving the Word seedlessly in your womb, why 
 
 meMA.Ode9C1H.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode9C1H.greekmelody = he.h.m2_en_US_andronache.heHE.TonEkTheouTheonLogon.greekname
 meMA.Ode9C1H.melody = he.h.m2_en_US_andronache.heHE.TonEkTheouTheonLogon.melody
 meMA.Ode9C1H.incipit = he.h.m2_en_US_andronache.heHE.TonEkTheouTheonLogon.incipit
 meMA.Ode9C1H.text = he.h.m2_en_US_andronache.heHE.TonEkTheouTheonLogon.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode9C11.greekmelody = he.h.m2_en_US_andronache.heHE.TonEkTheouTheonLogon.greekname
 meMA.Ode9C11.melody = he.h.m2_en_US_andronache.heHE.TonEkTheouTheonLogon.notmetered
 meMA.Ode9C11.incipit = "The multitude of angels dances…"
 meMA.Ode9C11.text = "The multitude of angels dances together at your festal assembly and your praises, Father; glorifying the most holy Lord with thanksgiving and peace from above is gained for us who with faith honor your relic."

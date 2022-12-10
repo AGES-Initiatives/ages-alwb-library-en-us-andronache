@@ -90,6 +90,7 @@ meMA.C2.verse = //prayers_en_US_andronache.pr.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode5
+meMA.Ode1C11.greekmelody = he.h.m5_en_US_andronache.heHE.IpponKaiAnavatin.greekname
 meMA.Ode1C11.melody = he.h.m5_en_US_andronache.heHE.IpponKaiAnavatin.notmetered
 meMA.Ode1C11.incipit = "Having been filled with grace…"
 meMA.Ode1C11.text = "Having been filled with grace, fill my soul with joy to praise your life and conduct, O Alypios, through which you have gladdened all, having become equal to the angels in contests."
@@ -114,6 +115,7 @@ meMA.Ode1C1T.text = "The fulfillment of the saying of the august prophet has com
 
 meMA.Ode1C21.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode1C21.greekmelody = he.h.m8_en_US_andronache.heHE.ArmatilatinFarao.greekname
 meMA.Ode1C21.melody = he.h.m8_en_US_andronache.heHE.ArmatilatinFarao.notmetered
 meMA.Ode1C21.incipit = "…"
 meMA.Ode1C21.text = ""
@@ -132,6 +134,7 @@ meMA.Ode1C2T.text = ""
 
 meMA.Ode3C11.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_andronache.misc.Mode5
+meMA.Ode3C11.greekmelody = he.h.m5_en_US_andronache.heHE.OPixasEpOudenos.greekname
 meMA.Ode3C11.melody = he.h.m5_en_US_andronache.heHE.OPixasEpOudenos.notmetered
 meMA.Ode3C11.incipit = "As a lamp of great…"
 meMA.Ode3C11.text = "As a lamp of great standing, upon a lampstand, you illumined with your light-bearing virtues every soul that came to you with faith and piety of mind, releasing them from the darkness of sin."
@@ -156,6 +159,7 @@ meMA.Ode3C1T.text = "Virgin, the pure palace of the Logos, show my soul to be a 
 
 meMA.Ode3C21.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C21.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3C21.greekmelody = he.h.m8_en_US_andronache.heHE.OuraniasApsidos.greekname
 meMA.Ode3C21.melody = he.h.m8_en_US_andronache.heHE.OuraniasApsidos.notmetered
 meMA.Ode3C21.incipit = "…"
 meMA.Ode3C21.text = ""
@@ -174,6 +178,7 @@ meMA.Ode3C2T.text = ""
 
 meMA.Ode3H.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3H.greekmelody = he.h.m8_en_US_andronache.heHE.OuraniasApsidos.greekname
 meMA.Ode3H.melody = he.h.m8_en_US_andronache.heHE.OuraniasApsidos.melody
 meMA.Ode3H.incipit = he.h.m8_en_US_andronache.heHE.OuraniasApsidos.incipit
 meMA.Ode3H.text = he.h.m8_en_US_andronache.heHE.OuraniasApsidos.text
@@ -200,6 +205,7 @@ meMA.Ode3KathismaSt.text = ""
 
 meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode5
+meMA.Ode4C11.greekmelody = he.h.m5_en_US_andronache.heHE.TinTheianEnnoisas.greekname
 meMA.Ode4C11.melody = he.h.m5_en_US_andronache.heHE.TinTheianEnnoisas.notmetered
 meMA.Ode4C11.incipit = "Father, having taken up true…"
 meMA.Ode4C11.text = "Father, having taken up true love and sympathy, faith, unshakeable hope, and a pure way of life, you became a companion of Christ."
@@ -224,6 +230,7 @@ meMA.Ode4C1T.text = "Heal the passions of my soul and illumine my mind and heart
 
 meMA.Ode4C21.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode4C21.greekmelody = he.h.m8_en_US_andronache.heHE.EisakikoaKyrie.greekname
 meMA.Ode4C21.melody = he.h.m8_en_US_andronache.heHE.EisakikoaKyrie.notmetered
 meMA.Ode4C21.incipit = "…"
 meMA.Ode4C21.text = ""
@@ -242,6 +249,7 @@ meMA.Ode4C2T.text = ""
 
 meMA.Ode5C11.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_andronache.misc.Mode5
+meMA.Ode5C11.greekmelody = he.h.m5_en_US_andronache.heHE.OAnavallomenos.greekname
 meMA.Ode5C11.melody = he.h.m5_en_US_andronache.heHE.OAnavallomenos.notmetered
 meMA.Ode5C11.incipit = "All aflame for the Almighty…"
 meMA.Ode5C11.text = "All aflame for the Almighty, with eagerness staying for years in the open air in snowstorms and heat, Father, you were steadfast in zealously struggling."
@@ -266,6 +274,7 @@ meMA.Ode5C1T.text = "Holy maiden, you gave birth to the holy God who became mort
 
 meMA.Ode5C21.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C21.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode5C21.greekmelody = he.h.m8_en_US_andronache.heHE.OrthrizontesVoomenSoi.greekname
 meMA.Ode5C21.melody = he.h.m8_en_US_andronache.heHE.OrthrizontesVoomenSoi.notmetered
 meMA.Ode5C21.incipit = "…"
 meMA.Ode5C21.text = ""
@@ -284,6 +293,7 @@ meMA.Ode5C2T.text = ""
 
 meMA.Ode6C11.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_andronache.misc.Mode5
+meMA.Ode6C11.greekmelody = he.h.m5_en_US_andronache.heHE.MainomeninKlydoni.greekname
 meMA.Ode6C11.melody = he.h.m5_en_US_andronache.heHE.MainomeninKlydoni.notmetered
 meMA.Ode6C11.incipit = "Despite the spirits of evil…"
 meMA.Ode6C11.text = "Despite the spirits of evil openly threw rocks at you, having made your stand upon the pillar, they did not shake you from the unbreakable rock in the least."
@@ -308,6 +318,7 @@ meMA.Ode6C1T.text = "We who are in necessity have a you as a mighty intercessor 
 
 meMA.Ode6C21.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C21.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode6C21.greekmelody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.greekname
 meMA.Ode6C21.melody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.notmetered
 meMA.Ode6C21.incipit = "…"
 meMA.Ode6C21.text = ""
@@ -326,6 +337,7 @@ meMA.Ode6C2T.text = ""
 
 meMA.Ode6H.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode6H.greekmelody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.greekname
 meMA.Ode6H.melody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.melody
 meMA.Ode6H.incipit = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.incipit
 meMA.Ode6H.text = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.text
@@ -342,6 +354,7 @@ meMA.Kontakion2.text = "Imitating the angelic life, you thought the pleasures of
 
 meMA.Ode7C11.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_andronache.misc.Mode5
+meMA.Ode7C11.greekmelody = he.h.m5_en_US_andronache.heHE.OYperypsoumenos.greekname
 meMA.Ode7C11.melody = he.h.m5_en_US_andronache.heHE.OYperypsoumenos.notmetered
 meMA.Ode7C11.incipit = "The most strong and firm…"
 meMA.Ode7C11.text = "The most strong and firm Alypios, weighed down by cold for many years was paradoxically warmed up by the warmth of the Spirit."
@@ -366,6 +379,7 @@ meMA.Ode7C1T.text = "The infinite one took flesh endowed with mind and soul from
 
 meMA.Ode7C21.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C21.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode7C21.greekmelody = he.h.m8_en_US_andronache.heHE.OiEkTisIoudaias.greekname
 meMA.Ode7C21.melody = he.h.m8_en_US_andronache.heHE.OiEkTisIoudaias.notmetered
 meMA.Ode7C21.incipit = "…"
 meMA.Ode7C21.text = ""
@@ -384,6 +398,7 @@ meMA.Ode7C2T.text = ""
 
 meMA.Ode8C11.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_andronache.misc.Mode5
+meMA.Ode8C11.greekmelody = he.h.m5_en_US_andronache.heHE.SoiToPantourgo.greekname
 meMA.Ode8C11.melody = he.h.m5_en_US_andronache.heHE.SoiToPantourgo.notmetered
 meMA.Ode8C11.incipit = "You were seen to be…"
 meMA.Ode8C11.text = "You were seen to be like a new Samuel, seeing the future, with a most pure mind, Alypios, as a divine prophet,  foretelling to all those things told to you by the Lord."
@@ -408,6 +423,7 @@ meMA.Ode8C1T.text = "Your childbirth, annulled the damage brought by the malice 
 
 meMA.Ode8C21.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode8C21.greekmelody = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.greekname
 meMA.Ode8C21.melody = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.notmetered
 meMA.Ode8C21.incipit = "…"
 meMA.Ode8C21.text = ""
@@ -432,12 +448,14 @@ meMA.Ode8C2T.text = ""
 
 meMA.Ode8H.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode8H.greekmelody = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.greekname
 meMA.Ode8H.melody = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.melody
 meMA.Ode8H.incipit = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.incipit
 meMA.Ode8H.text = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_andronache.misc.Mode5
+meMA.Ode9C11.greekmelody = he.h.m5_en_US_andronache.heHE.IsaiaChoreve.greekname
 meMA.Ode9C11.melody = he.h.m5_en_US_andronache.heHE.IsaiaChoreve.notmetered
 meMA.Ode9C11.incipit = "You sacred life, illumined by…"
 meMA.Ode9C11.text = "You sacred life, illumined by the light of the virtues, was dedicated to God from swaddling clothes, blessed one, and your death was precious before Christ, Father Alypios, the firstfruits of monastics."
@@ -468,6 +486,7 @@ meMA.Ode9C1T.text = "Give light to me, who am in the darkness of the passions an
 
 meMA.Ode9C21.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C21.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode9C21.greekmelody = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.greekname
 meMA.Ode9C21.melody = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.notmetered
 meMA.Ode9C21.incipit = "…"
 meMA.Ode9C21.text = ""
@@ -486,6 +505,7 @@ meMA.Ode9C2T.text = ""
 
 meMA.Ode9H.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode9H.greekmelody = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.greekname
 meMA.Ode9H.melody = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.melody
 meMA.Ode9H.incipit = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.incipit
 meMA.Ode9H.text = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.text

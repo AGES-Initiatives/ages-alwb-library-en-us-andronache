@@ -135,6 +135,7 @@ meMA.C3.verse = //prayers_en_US_andronache.pr.verse_SaintW.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode1C11.greekmelody = he.h.m4_en_US_andronache.heHE.ThalassisToErythraion.greekname
 meMA.Ode1C11.melody = he.h.m4_en_US_andronache.heHE.ThalassisToErythraion.name
 meMA.Ode1C11.incipit = "…"
 meMA.Ode1C11.text = ""
@@ -159,6 +160,7 @@ meMA.Ode1C1T.text = ""
 
 meMA.Ode1C21.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode1C21.greekmelody = he.h.m1_en_US_andronache.heHE.OdinEpinikion.greekname
 meMA.Ode1C21.melody = he.h.m1_en_US_andronache.heHE.OdinEpinikion.notmetered
 meMA.Ode1C21.incipit = "We celebrate today your conception…"
 meMA.Ode1C21.text = "We celebrate today your conception, godly-minded Anna, for you conceived her who contained the one whom nothing contained, being freed from the bonds of sterility."
@@ -183,6 +185,7 @@ meMA.Ode1C2T.text = "You, pure virgin, are the holy mountain which the prophet f
 
 meMA.Ode1C31.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C31.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode1C31.greekmelody = he.h.m2_en_US_andronache.heHE.EnVythoKatestrose.greekname
 meMA.Ode1C31.melody = he.h.m2_en_US_andronache.heHE.EnVythoKatestrose.name
 meMA.Ode1C31.incipit = "…"
 meMA.Ode1C31.text = ""
@@ -207,6 +210,7 @@ meMA.Ode1C3T.text = ""
 
 meMA.Ode3C11.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode3C11.greekmelody = he.h.m4_en_US_andronache.heHE.EffrainetaiEpiSoi.greekname
 meMA.Ode3C11.melody = he.h.m4_en_US_andronache.heHE.EffrainetaiEpiSoi.name
 meMA.Ode3C11.incipit = "…"
 meMA.Ode3C11.text = ""
@@ -231,6 +235,7 @@ meMA.Ode3C1T.text = ""
 
 meMA.Ode3C21.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C21.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode3C21.greekmelody = he.h.m1_en_US_andronache.heHE.StereothitoIKardiaMou.greekname
 meMA.Ode3C21.melody = he.h.m1_en_US_andronache.heHE.StereothitoIKardiaMou.notmetered
 meMA.Ode3C21.incipit = "Should you grant me a…"
 meMA.Ode3C21.text = "Should you grant me a fruit of the womb, cried Anna to the Lord, I will be magnified and I will offer it to you. Therefore she conceives it, the pure mother of God."
@@ -255,6 +260,7 @@ meMA.Ode3C2T.text = "Drive away all the fruitlessness of my barren mind and show
 
 meMA.Ode3C31.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C31.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode3C31.greekmelody = he.h.m2_en_US_andronache.heHE.ExinthisenIErimos.greekname
 meMA.Ode3C31.melody = he.h.m2_en_US_andronache.heHE.ExinthisenIErimos.name
 meMA.Ode3C31.incipit = "…"
 meMA.Ode3C31.text = ""
@@ -301,6 +307,7 @@ meMA.Ode3Kathisma3.text = "Holy Joachim and Anna having brought gifts to the pri
 
 meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode4C11.greekmelody = he.h.m4_en_US_andronache.heHE.EparthentaSeIdousa.greekname
 meMA.Ode4C11.melody = he.h.m4_en_US_andronache.heHE.EparthentaSeIdousa.name
 meMA.Ode4C11.incipit = "…"
 meMA.Ode4C11.text = ""
@@ -325,6 +332,7 @@ meMA.Ode4C1T.text = ""
 
 meMA.Ode4C21.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode4C21.greekmelody = he.h.m1_en_US_andronache.heHE.EnPnevmatiProvlepon.greekname
 meMA.Ode4C21.melody = he.h.m1_en_US_andronache.heHE.EnPnevmatiProvlepon.notmetered
 meMA.Ode4C21.incipit = "\"O divine message! O strange…"
 meMA.Ode4C21.text = "\"O divine message! O strange utterance! that I also would conceive\" Anna cried out with a loud voice, amazed at the angel who had been sent to her, \"Glory to my God who does wonderful things.\""
@@ -349,6 +357,7 @@ meMA.Ode4C2T.text = "Virgin Theotokos, unstained tent, cleanse me now, who am st
 
 meMA.Ode4C31.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C31.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode4C31.greekmelody = he.h.m2_en_US_andronache.heHE.ElilythasEkParthenou.greekname
 meMA.Ode4C31.melody = he.h.m2_en_US_andronache.heHE.ElilythasEkParthenou.name
 meMA.Ode4C31.incipit = "…"
 meMA.Ode4C31.text = ""
@@ -373,6 +382,7 @@ meMA.Ode4C3T.text = ""
 
 meMA.Ode5C11.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode5C11.greekmelody = he.h.m4_en_US_andronache.heHE.SyKyrieMouFos.greekname
 meMA.Ode5C11.melody = he.h.m4_en_US_andronache.heHE.SyKyrieMouFos.name
 meMA.Ode5C11.incipit = "…"
 meMA.Ode5C11.text = ""
@@ -397,6 +407,7 @@ meMA.Ode5C1T.text = ""
 
 meMA.Ode5C21.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C21.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode5C21.greekmelody = he.h.m1_en_US_andronache.heHE.TinSinEirinin.greekname
 meMA.Ode5C21.melody = he.h.m1_en_US_andronache.heHE.TinSinEirinin.notmetered
 meMA.Ode5C21.incipit = "The one who came forth…"
 meMA.Ode5C21.text = "The one who came forth from the root of David and Jesse, Anna now begins to bring forth the divine rod who brings forth the mystical flower: Christ, the creator of all."
@@ -415,6 +426,7 @@ meMA.Ode5C23.text = "With joy Anna cried out to those around her: The young woma
 
 meMA.Ode5C31.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C31.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode5C31.greekmelody = he.h.m2_en_US_andronache.heHE.MesitisTheou.greekname
 meMA.Ode5C31.melody = he.h.m2_en_US_andronache.heHE.MesitisTheou.name
 meMA.Ode5C31.incipit = "…"
 meMA.Ode5C31.text = ""
@@ -439,6 +451,7 @@ meMA.Ode5C3T.text = ""
 
 meMA.Ode6C11.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode6C11.greekmelody = he.h.m4_en_US_andronache.heHE.ThysoSoiMetaFonis.greekname
 meMA.Ode6C11.melody = he.h.m4_en_US_andronache.heHE.ThysoSoiMetaFonis.name
 meMA.Ode6C11.incipit = "…"
 meMA.Ode6C11.text = ""
@@ -463,6 +476,7 @@ meMA.Ode6C1T.text = ""
 
 meMA.Ode6C21.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C21.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode6C21.greekmelody = he.h.m1_en_US_andronache.heHE.TonProfitinIonan.greekname
 meMA.Ode6C21.melody = he.h.m1_en_US_andronache.heHE.TonProfitinIonan.notmetered
 meMA.Ode6C21.incipit = "How is she contained in…"
 meMA.Ode6C21.text = "How is she contained in a womb who herself contained God? How is she born who bore Christ in the flesh? And how does she suckle who fed milk to the Creator."
@@ -487,6 +501,7 @@ meMA.Ode6C2T.text = "O Lady help me, for waves of tempting thoughts and attacks 
 
 meMA.Ode6C31.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C31.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode6C31.greekmelody = he.h.m2_en_US_andronache.heHE.EnAvyssoPtaismaton.greekname
 meMA.Ode6C31.melody = he.h.m2_en_US_andronache.heHE.EnAvyssoPtaismaton.name
 meMA.Ode6C31.incipit = "…"
 meMA.Ode6C31.text = ""
@@ -518,6 +533,7 @@ meMA.Oikos2.text = "You, who once gave Sarah, in her deepest old age, by your ca
 
 meMA.Ode7C11.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode7C11.greekmelody = he.h.m4_en_US_andronache.heHE.EnTiKaminoAvramiaioi.greekname
 meMA.Ode7C11.melody = he.h.m4_en_US_andronache.heHE.EnTiKaminoAvramiaioi.name
 meMA.Ode7C11.incipit = "…"
 meMA.Ode7C11.text = ""
@@ -542,6 +558,7 @@ meMA.Ode7C1T.text = ""
 
 meMA.Ode7C21.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C21.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode7C21.greekmelody = he.h.m1_en_US_andronache.heHE.TousEnKaminoPaidas.greekname
 meMA.Ode7C21.melody = he.h.m1_en_US_andronache.heHE.TousEnKaminoPaidas.notmetered
 meMA.Ode7C21.incipit = "Anna entreated the Master of…"
 meMA.Ode7C21.text = "Anna entreated the Master of all to escape the reproach of childlessness and the merciful one, hearing her voice, granted her a fruit which she bore as he resolved."
@@ -566,6 +583,7 @@ meMA.Ode7C2T.text = "We glorify you, O Christ, as one of the Trinity, for you we
 
 meMA.Ode7C31.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C31.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode7C31.greekmelody = he.h.m2_en_US_andronache.heHE.AntitheonProstagma.greekname
 meMA.Ode7C31.melody = he.h.m2_en_US_andronache.heHE.AntitheonProstagma.name
 meMA.Ode7C31.incipit = "…"
 meMA.Ode7C31.text = ""
@@ -590,6 +608,7 @@ meMA.Ode7C3T.text = ""
 
 meMA.Ode8C11.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode8C11.greekmelody = he.h.m4_en_US_andronache.heHE.CheirasEkpetasasDaniil.greekname
 meMA.Ode8C11.melody = he.h.m4_en_US_andronache.heHE.CheirasEkpetasasDaniil.name
 meMA.Ode8C11.incipit = "…"
 meMA.Ode8C11.text = ""
@@ -614,6 +633,7 @@ meMA.Ode8C1T.text = ""
 
 meMA.Ode8C21.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode8C21.greekmelody = he.h.m1_en_US_andronache.heHE.OnFrittousinAngeloi.greekname
 meMA.Ode8C21.melody = he.h.m1_en_US_andronache.heHE.OnFrittousinAngeloi.notmetered
 meMA.Ode8C21.incipit = "Behold, I receive in my…"
 meMA.Ode8C21.text = "Behold, I receive in my womb the queen whom David foretold, cried Anna, and I will give birth to the protection of all the faithful, the one who will bear Christ the king."
@@ -638,6 +658,7 @@ meMA.Ode8C2T.text = "Raise me up, who am lying in the depth of evils, defeat the
 
 meMA.Ode8C31.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C31.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode8C31.greekmelody = he.h.m2_en_US_andronache.heHE.KaminosPote.greekname
 meMA.Ode8C31.melody = he.h.m2_en_US_andronache.heHE.KaminosPote.name
 meMA.Ode8C31.incipit = "…"
 meMA.Ode8C31.text = ""
@@ -662,6 +683,7 @@ meMA.Ode8C3T.text = ""
 
 meMA.Ode9C11.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode9C11.greekmelody = he.h.m4_en_US_andronache.heHE.LithosAcheirotmitos.greekname
 meMA.Ode9C11.melody = he.h.m4_en_US_andronache.heHE.LithosAcheirotmitos.name
 meMA.Ode9C11.incipit = "…"
 meMA.Ode9C11.text = ""
@@ -686,6 +708,7 @@ meMA.Ode9C1T.text = ""
 
 meMA.Ode9C21.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C21.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode9C21.greekmelody = he.h.m1_en_US_andronache.heHE.TinZoodochonPigin.greekname
 meMA.Ode9C21.melody = he.h.m1_en_US_andronache.heHE.TinZoodochonPigin.notmetered
 meMA.Ode9C21.incipit = "Let us honor, Joachim and…"
 meMA.Ode9C21.text = "Let us honor, Joachim and Anna, the august and ever-memorable pair, the ancestors of the Son who was before the ages, the strict guardians of the law, who have become the beginning of grace."
@@ -710,6 +733,7 @@ meMA.Ode9C2T.text = "Let the great Prophets applaud today, for behold their prop
 
 meMA.Ode9C31.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C31.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode9C31.greekmelody = he.h.m2_en_US_andronache.heHE.AnarchouGennitoros.greekname
 meMA.Ode9C31.melody = he.h.m2_en_US_andronache.heHE.AnarchouGennitoros.name
 meMA.Ode9C31.incipit = "…"
 meMA.Ode9C31.text = ""

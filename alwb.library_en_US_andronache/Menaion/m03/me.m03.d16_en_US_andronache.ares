@@ -67,12 +67,14 @@ meMA.C1.verse = //prayers_en_US_andronache.pr.verse_SaintM.text
 
 meMA.Ode1C1H.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode1C1H.greekmelody = he.h.m8_en_US_andronache.heHE.YgranDiodefsas.greekname
 meMA.Ode1C1H.melody = he.h.m8_en_US_andronache.heHE.YgranDiodefsas.melody
 meMA.Ode1C1H.incipit = he.h.m8_en_US_andronache.heHE.YgranDiodefsas.incipit
 meMA.Ode1C1H.text = he.h.m8_en_US_andronache.heHE.YgranDiodefsas.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode1C11.greekmelody = he.h.m8_en_US_andronache.heHE.YgranDiodefsas.greekname
 meMA.Ode1C11.melody = he.h.m8_en_US_andronache.heHE.YgranDiodefsas.notmetered
 meMA.Ode1C11.incipit = "Cleansing the eye…"
 meMA.Ode1C11.text = "Cleansing the eye of the soul by the labors of self-control and streams of tears, we will behold noetically the arisen sun of glory."
@@ -97,12 +99,14 @@ meMA.Ode1C1T.text = "All-pure one, he who was born from you beyond describing, b
 
 meMA.Ode3C1H.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3C1H.greekmelody = he.h.m8_en_US_andronache.heHE.SyEiToStereoma.greekname
 meMA.Ode3C1H.melody = he.h.m8_en_US_andronache.heHE.SyEiToStereoma.melody
 meMA.Ode3C1H.incipit = he.h.m8_en_US_andronache.heHE.SyEiToStereoma.incipit
 meMA.Ode3C1H.text = he.h.m8_en_US_andronache.heHE.SyEiToStereoma.text
 
 meMA.Ode3C11.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3C11.greekmelody = he.h.m8_en_US_andronache.heHE.SyEiToStereoma.greekname
 meMA.Ode3C11.melody = he.h.m8_en_US_andronache.heHE.SyEiToStereoma.notmetered
 meMA.Ode3C11.incipit = "Strengthen us through fasting…"
 meMA.Ode3C11.text = "Strengthen us through fasting, O Lord, that we may be well-pleasing to you and eagerly fulfill your august will."
@@ -142,12 +146,14 @@ meMA.Ode3KathismaSt.text = //oc.m3.d4_en_US_andronache.ocMA.Kathisma13.text
 
 meMA.Ode4C1H.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode4C1H.greekmelody = he.h.m8_en_US_andronache.heHE.EisakikoaKyrie.greekname
 meMA.Ode4C1H.melody = he.h.m8_en_US_andronache.heHE.EisakikoaKyrie.melody
 meMA.Ode4C1H.incipit = he.h.m8_en_US_andronache.heHE.EisakikoaKyrie.incipit
 meMA.Ode4C1H.text = he.h.m8_en_US_andronache.heHE.EisakikoaKyrie.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode4C11.greekmelody = he.h.m8_en_US_andronache.heHE.EisakikoaKyrie.greekname
 meMA.Ode4C11.melody = he.h.m8_en_US_andronache.heHE.EisakikoaKyrie.notmetered
 meMA.Ode4C11.incipit = "Subduing the impulses…"
 meMA.Ode4C11.text = "Subduing the impulses of the flesh by fasting and labors, with dispassion and purity we will see the saving passion of Christ."
@@ -172,12 +178,14 @@ meMA.Ode4C1T.text = "Having received your protection as an anchor, only all-hymn
 
 meMA.Ode5C1H.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode5C1H.greekmelody = he.h.m8_en_US_andronache.heHE.FotisonImas.greekname
 meMA.Ode5C1H.melody = he.h.m8_en_US_andronache.heHE.FotisonImas.melody
 meMA.Ode5C1H.incipit = he.h.m8_en_US_andronache.heHE.FotisonImas.incipit
 meMA.Ode5C1H.text = he.h.m8_en_US_andronache.heHE.FotisonImas.text
 
 meMA.Ode5C11.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode5C11.greekmelody = he.h.m8_en_US_andronache.heHE.FotisonImas.greekname
 meMA.Ode5C11.melody = he.h.m8_en_US_andronache.heHE.FotisonImas.notmetered
 meMA.Ode5C11.incipit = "Make us bright…"
 meMA.Ode5C11.text = "Make us bright with the shining rays of the fast and make us worthy to behold you, the Sun of glory and righteousness, in purity."
@@ -202,12 +210,14 @@ meMA.Ode5C1T.text = "Clothe our infirmity with strength in the time of self-cont
 
 meMA.Ode6C1H.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode6C1H.greekmelody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.greekname
 meMA.Ode6C1H.melody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.melody
 meMA.Ode6C1H.incipit = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.incipit
 meMA.Ode6C1H.text = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.text
 
 meMA.Ode6C11.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode6C11.greekmelody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.greekname
 meMA.Ode6C11.melody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.notmetered
 meMA.Ode6C11.incipit = "The fast provides enjoyment…"
 meMA.Ode6C11.text = "The fast provides enjoyment of good things and a portion of pure delight to those who partake of it and with a pure heart glorify Christ, the only one who provides salvation."
@@ -238,12 +248,14 @@ meMA.Kontakion1.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode7C1H.greekmelody = he.h.m8_en_US_andronache.heHE.OiEkTisIoudaias.greekname
 meMA.Ode7C1H.melody = he.h.m8_en_US_andronache.heHE.OiEkTisIoudaias.melody
 meMA.Ode7C1H.incipit = he.h.m8_en_US_andronache.heHE.OiEkTisIoudaias.incipit
 meMA.Ode7C1H.text = he.h.m8_en_US_andronache.heHE.OiEkTisIoudaias.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode7C11.greekmelody = he.h.m8_en_US_andronache.heHE.OiEkTisIoudaias.greekname
 meMA.Ode7C11.melody = he.h.m8_en_US_andronache.heHE.OiEkTisIoudaias.notmetered
 meMA.Ode7C11.incipit = "Putting away the gloom…"
 meMA.Ode7C11.text = "Putting away the gloom of the eyes of our soul through the fast, let us receive the divine light through faith, crying out in fear and purity: O God of our Fathers, you are blessed."
@@ -268,12 +280,14 @@ meMA.Ode7C1T.text = "O Theotokos, being cleansed through fasting, make us worthy
 
 meMA.Ode8C1H.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode8C1H.greekmelody = he.h.m8_en_US_andronache.heHE.TonVasileaTonOuranon.greekname
 meMA.Ode8C1H.melody = he.h.m8_en_US_andronache.heHE.TonVasileaTonOuranon.melody
 meMA.Ode8C1H.incipit = he.h.m8_en_US_andronache.heHE.TonVasileaTonOuranon.incipit
 meMA.Ode8C1H.text = he.h.m8_en_US_andronache.heHE.TonVasileaTonOuranon.text
 
 meMA.Ode8C11.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode8C11.greekmelody = he.h.m8_en_US_andronache.heHE.TonVasileaTonOuranon.greekname
 meMA.Ode8C11.melody = he.h.m8_en_US_andronache.heHE.TonVasileaTonOuranon.notmetered
 meMA.Ode8C11.incipit = "Having adorned our souls…"
 meMA.Ode8C11.text = "Having adorned our souls by fasting and supplication, let us divinely receive, with undoubting faith, the King of heaven."
@@ -298,12 +312,14 @@ meMA.Ode8C1T.text = "O Theotokos, by your supplications may we who boast in you 
 
 meMA.Ode9C1H.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode9C1H.greekmelody = he.h.m8_en_US_andronache.heHE.KyriosTheotokon.greekname
 meMA.Ode9C1H.melody = he.h.m8_en_US_andronache.heHE.KyriosTheotokon.melody
 meMA.Ode9C1H.incipit = he.h.m8_en_US_andronache.heHE.KyriosTheotokon.incipit
 meMA.Ode9C1H.text = he.h.m8_en_US_andronache.heHE.KyriosTheotokon.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode9C11.greekmelody = he.h.m8_en_US_andronache.heHE.KyriosTheotokon.greekname
 meMA.Ode9C11.melody = he.h.m8_en_US_andronache.heHE.KyriosTheotokon.notmetered
 meMA.Ode9C11.incipit = "Bridling the passions…"
 meMA.Ode9C11.text = "Bridling the passions through self-control, let us bring them into subjection to a pure mind so that we may reign together with the master of all."

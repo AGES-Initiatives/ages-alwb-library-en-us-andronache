@@ -82,6 +82,7 @@ meMA.C1.verse = //prayers_en_US_andronache.pr.verse_SaintM.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode1C11.greekmelody = he.h.m8_en_US_andronache.heHE.ArmatilatinFarao.greekname
 meMA.Ode1C11.melody = he.h.m8_en_US_andronache.heHE.ArmatilatinFarao.notmetered
 meMA.Ode1C11.incipit = "Dancing in chorus on the…"
 meMA.Ode1C11.text = "Dancing in chorus on the most pure plain of the eternal kingdom, save from every affliction and straits of temptations those who hymn you, as they travel without turning back the way that leads to heaven."
@@ -106,6 +107,7 @@ meMA.Ode1C1T.text = "You gave birth in the flesh, beyond understanding, to the o
 
 meMA.Ode3C11.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3C11.greekmelody = he.h.m8_en_US_andronache.heHE.OStereosasKatArchas.greekname
 meMA.Ode3C11.melody = he.h.m8_en_US_andronache.heHE.OStereosasKatArchas.notmetered
 meMA.Ode3C11.incipit = "You endured the strongest and…"
 meMA.Ode3C11.text = "You endured the strongest and most piercing flame of the fire as though without pain, being manifestly aflame with the zeal of piety and kindles by the divine fire of faith."
@@ -130,6 +132,7 @@ meMA.Ode3C1T.text = "Theotokos you are the gate of light, illumined by light-bea
 
 meMA.Ode3H.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3H.greekmelody = he.h.m8_en_US_andronache.heHE.OStereosasKatArchas.greekname
 meMA.Ode3H.melody = he.h.m8_en_US_andronache.heHE.OStereosasKatArchas.melody
 meMA.Ode3H.incipit = he.h.m8_en_US_andronache.heHE.OStereosasKatArchas.incipit
 meMA.Ode3H.text = he.h.m8_en_US_andronache.heHE.OStereosasKatArchas.text
@@ -156,6 +159,7 @@ meMA.Ode3KathismaSt.text = ""
 
 meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode4C11.greekmelody = he.h.m8_en_US_andronache.heHE.SyMouIschys.greekname
 meMA.Ode4C11.melody = he.h.m8_en_US_andronache.heHE.SyMouIschys.notmetered
 meMA.Ode4C11.incipit = "Having been entirely permeated by…"
 meMA.Ode4C11.text = "Having been entirely permeated by the love of the creator, you did not feel the pains of the body having put off the impassioned and mortal flesh and the garments of skin, and were robed in the garment of prudence and salvation."
@@ -180,6 +184,7 @@ meMA.Ode4C1T.text = "As being from the royal tribe, you bore for us the Logos of
 
 meMA.Ode5C11.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode5C11.greekmelody = he.h.m8_en_US_andronache.heHE.InaTiMeAposo.greekname
 meMA.Ode5C11.melody = he.h.m8_en_US_andronache.heHE.InaTiMeAposo.notmetered
 meMA.Ode5C11.incipit = "O Martyr, you did not…"
 meMA.Ode5C11.text = "O Martyr, you did not give rest to your eyelids nor sleep to your eyes until you slept the blessed sleep that was bound to come to the beloved ones who yearn for God, O Plato, having had your head cut off with the sword."
@@ -204,6 +209,7 @@ meMA.Ode5C1T.text = "All-hymned virgin Theotokos, grant your servants loosing fr
 
 meMA.Ode6C11.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode6C11.greekmelody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.greekname
 meMA.Ode6C11.melody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.notmetered
 meMA.Ode6C11.incipit = "Having become higher than the…"
 meMA.Ode6C11.text = "Having become higher than the passions and the tortures you suffered the cutting of your flesh, glorious one, for you had Christ as a support and co-worker strengthening you in battles."
@@ -222,6 +228,7 @@ meMA.Ode6C1T.text = "As a spiritual ark you held within yourself the giver of th
 
 meMA.Ode6H.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode6H.greekmelody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.greekname
 meMA.Ode6H.melody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.melody
 meMA.Ode6H.incipit = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.incipit
 meMA.Ode6H.text = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.text
@@ -240,6 +247,7 @@ meMA.Oikos2.text = "Forsaking the vanity of the Greeks, the godly-minded Plato g
 
 meMA.Ode7C11.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode7C11.greekmelody = he.h.m8_en_US_andronache.heHE.TheouSynkatavasin.greekname
 meMA.Ode7C11.melody = he.h.m8_en_US_andronache.heHE.TheouSynkatavasin.notmetered
 meMA.Ode7C11.incipit = "Having contested lawfully and trampled…"
 meMA.Ode7C11.text = "Having contested lawfully and trampled upon your enemies, the judge of the contest crowned you with the crown of victory, as you cried out and said with a loud voice: Blessed is the God of our Fathers."
@@ -264,6 +272,7 @@ meMA.Ode7C1T.text = "All-blameless one, as we have been loosed from the bonds of
 
 meMA.Ode8C11.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode8C11.greekmelody = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.greekname
 meMA.Ode8C11.melody = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.notmetered
 meMA.Ode8C11.incipit = "You struggled in illustrious contests…"
 meMA.Ode8C11.text = "You struggled in illustrious contests, all-praiseworthy one, but Christ has greatly bestowed on you more illustrious glory which remains unto the ages and you dwelt in the heavenly dwellings eagerly singing: You, priests, bless and you, people, greatly exalt Christ unto the ages."
@@ -288,12 +297,14 @@ meMA.Ode8C1T.text = "You gave birth in a god-befitting manner to the beginningle
 
 meMA.Ode8H.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode8H.greekmelody = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.greekname
 meMA.Ode8H.melody = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.melody
 meMA.Ode8H.incipit = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.incipit
 meMA.Ode8H.text = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode9C11.greekmelody = he.h.m8_en_US_andronache.heHE.EfrixePasaAkoi.greekname
 meMA.Ode9C11.melody = he.h.m8_en_US_andronache.heHE.EfrixePasaAkoi.notmetered
 meMA.Ode9C11.incipit = "Come, lovers of the martyrs…"
 meMA.Ode9C11.text = "Come, lovers of the martyrs, let us hymn the God-crowned martyr, who has unfolded the vines of his piety, having become a shoot of the vine of life, offers a fruit to us, springing up the wine of compunction."
@@ -318,6 +329,7 @@ meMA.Ode9C1T.text = "Save me, Mother of God, who gave birth to Christ my Savior,
 
 meMA.Ode9H.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode9H.greekmelody = he.h.m8_en_US_andronache.heHE.EfrixePasaAkoi.greekname
 meMA.Ode9H.melody = he.h.m8_en_US_andronache.heHE.EfrixePasaAkoi.melody
 meMA.Ode9H.incipit = he.h.m8_en_US_andronache.heHE.EfrixePasaAkoi.incipit
 meMA.Ode9H.text = he.h.m8_en_US_andronache.heHE.EfrixePasaAkoi.text

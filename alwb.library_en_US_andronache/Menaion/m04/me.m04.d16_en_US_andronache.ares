@@ -61,12 +61,14 @@ meMA.C1.verse = //prayers_en_US_andronache.pr.verse_SaintsM.text
 
 meMA.Ode1C1H.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode1C1H.greekmelody = he.h.m8_en_US_andronache.heHE.AsomenToKyrio.greekname
 meMA.Ode1C1H.melody = he.h.m8_en_US_andronache.heHE.AsomenToKyrio.melody
 meMA.Ode1C1H.incipit = he.h.m8_en_US_andronache.heHE.AsomenToKyrio.incipit
 meMA.Ode1C1H.text = he.h.m8_en_US_andronache.heHE.AsomenToKyrio.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode1C11.greekmelody = he.h.m8_en_US_andronache.heHE.AsomenToKyrio.greekname
 meMA.Ode1C11.melody = he.h.m8_en_US_andronache.heHE.AsomenToKyrio.notmetered
 meMA.Ode1C11.incipit = "O Martyrs of the Lord…"
 meMA.Ode1C11.text = "O Martyrs of the Lord, ask that grace from heaven be given now to me, who honors your light-bearing festival upon the earth."
@@ -97,12 +99,14 @@ meMA.Ode1C1T.text = "You inexplicably give birth to theo one whom the Father beg
 
 meMA.Ode3C1H.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3C1H.greekmelody = he.h.m8_en_US_andronache.heHE.SyEiToStereoma.greekname
 meMA.Ode3C1H.melody = he.h.m8_en_US_andronache.heHE.SyEiToStereoma.melody
 meMA.Ode3C1H.incipit = he.h.m8_en_US_andronache.heHE.SyEiToStereoma.incipit
 meMA.Ode3C1H.text = he.h.m8_en_US_andronache.heHE.SyEiToStereoma.text
 
 meMA.Ode3C11.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3C11.greekmelody = he.h.m8_en_US_andronache.heHE.SyEiToStereoma.greekname
 meMA.Ode3C11.melody = he.h.m8_en_US_andronache.heHE.SyEiToStereoma.notmetered
 meMA.Ode3C11.incipit = "Watered with rains of the…"
 meMA.Ode3C11.text = "Watered with rains of the divine Spirit, the virgins bloomed with sheaves of martyrdom by divine tillage."
@@ -141,12 +145,14 @@ meMA.Ode3KathismaSt.text = "The ewe-lamb, beholding the lamb and shepherd and re
 
 meMA.Ode4C1H.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode4C1H.greekmelody = he.h.m8_en_US_andronache.heHE.EisakikoaKyrie.greekname
 meMA.Ode4C1H.melody = he.h.m8_en_US_andronache.heHE.EisakikoaKyrie.melody
 meMA.Ode4C1H.incipit = he.h.m8_en_US_andronache.heHE.EisakikoaKyrie.incipit
 meMA.Ode4C1H.text = he.h.m8_en_US_andronache.heHE.EisakikoaKyrie.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode4C11.greekmelody = he.h.m8_en_US_andronache.heHE.EisakikoaKyrie.greekname
 meMA.Ode4C11.melody = he.h.m8_en_US_andronache.heHE.EisakikoaKyrie.notmetered
 meMA.Ode4C11.incipit = "Love of the body, withdrawing…"
 meMA.Ode4C11.text = "Love of the body, withdrawing because of divine love, perfected the virgins of Christ as dwellings of the Spirit."
@@ -177,12 +183,14 @@ meMA.Ode4C1T.text = "Lady of all creation, you gave birth in a body to the Lord.
 
 meMA.Ode5C1H.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode5C1H.greekmelody = he.h.m8_en_US_andronache.heHE.FotisonImas.greekname
 meMA.Ode5C1H.melody = he.h.m8_en_US_andronache.heHE.FotisonImas.melody
 meMA.Ode5C1H.incipit = he.h.m8_en_US_andronache.heHE.FotisonImas.incipit
 meMA.Ode5C1H.text = he.h.m8_en_US_andronache.heHE.FotisonImas.text
 
 meMA.Ode5C11.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode5C11.greekmelody = he.h.m8_en_US_andronache.heHE.FotisonImas.greekname
 meMA.Ode5C11.melody = he.h.m8_en_US_andronache.heHE.FotisonImas.notmetered
 meMA.Ode5C11.incipit = "The godly-minded virgins rose together…"
 meMA.Ode5C11.text = "The godly-minded virgins rose together to Christ the never-setting light and were made to shine beyond the brightness of the sun."
@@ -213,12 +221,14 @@ meMA.Ode5C1T.text = "O maiden, ever intercede that I have a good end, that I may
 
 meMA.Ode6C1H.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode6C1H.greekmelody = he.h.m8_en_US_andronache.heHE.TinDeisinEkcheo.greekname
 meMA.Ode6C1H.melody = he.h.m8_en_US_andronache.heHE.TinDeisinEkcheo.melody
 meMA.Ode6C1H.incipit = he.h.m8_en_US_andronache.heHE.TinDeisinEkcheo.incipit
 meMA.Ode6C1H.text = he.h.m8_en_US_andronache.heHE.TinDeisinEkcheo.text
 
 meMA.Ode6C11.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode6C11.greekmelody = he.h.m8_en_US_andronache.heHE.TinDeisinEkcheo.greekname
 meMA.Ode6C11.melody = he.h.m8_en_US_andronache.heHE.TinDeisinEkcheo.notmetered
 meMA.Ode6C11.incipit = "Christ’s prizewinners and brides, Chionia…"
 meMA.Ode6C11.text = "Christ’s prizewinners and brides, Chionia, Agape, and Irene, bravely endured the pains of the flesh and punishments by fire and received a comely crown and unutterable glory."
@@ -249,12 +259,14 @@ meMA.Kontakion1ger.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode7C1H.greekmelody = he.h.m8_en_US_andronache.heHE.PaidesEvraion.greekname
 meMA.Ode7C1H.melody = he.h.m8_en_US_andronache.heHE.PaidesEvraion.melody
 meMA.Ode7C1H.incipit = he.h.m8_en_US_andronache.heHE.PaidesEvraion.incipit
 meMA.Ode7C1H.text = he.h.m8_en_US_andronache.heHE.PaidesEvraion.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode7C11.greekmelody = he.h.m8_en_US_andronache.heHE.PaidesEvraion.greekname
 meMA.Ode7C11.melody = he.h.m8_en_US_andronache.heHE.PaidesEvraion.notmetered
 meMA.Ode7C11.incipit = "The young maidens of Christ…"
 meMA.Ode7C11.text = "The young maidens of Christ sensibly did not fear the wild beasts set upon them, nor the blustering assault of the insufferable fire, nor the cutting off of their limbs, nor pains of many kinds."
@@ -285,12 +297,14 @@ meMA.Ode7C1T.text = "Pure one, who conceived joy and put the serpent to death, p
 
 meMA.Ode8C1H.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode8C1H.greekmelody = he.h.m8_en_US_andronache.heHE.OiTheorrimonesPaides.greekname
 meMA.Ode8C1H.melody = he.h.m8_en_US_andronache.heHE.OiTheorrimonesPaides.melody
 meMA.Ode8C1H.incipit = he.h.m8_en_US_andronache.heHE.OiTheorrimonesPaides.incipit
 meMA.Ode8C1H.text = he.h.m8_en_US_andronache.heHE.OiTheorrimonesPaides.text
 
 meMA.Ode8C11.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode8C11.greekmelody = he.h.m8_en_US_andronache.heHE.OiTheorrimonesPaides.greekname
 meMA.Ode8C11.melody = he.h.m8_en_US_andronache.heHE.OiTheorrimonesPaides.notmetered
 meMA.Ode8C11.incipit = "Having been paradoxically initiated into…"
 meMA.Ode8C11.text = "Having been paradoxically initiated into divine things, at the time of contest the ewe-lambs of Christ took up a manful disposition and firmly bore the struggles."
@@ -321,12 +335,14 @@ meMA.Ode8C1T.text = "Bearing of old a symbol of your childbirth, virgin mother, 
 
 meMA.Ode9C1H.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode9C1H.greekmelody = he.h.m8_en_US_andronache.heHE.KyriosTheotokon.greekname
 meMA.Ode9C1H.melody = he.h.m8_en_US_andronache.heHE.KyriosTheotokon.melody
 meMA.Ode9C1H.incipit = he.h.m8_en_US_andronache.heHE.KyriosTheotokon.incipit
 meMA.Ode9C1H.text = he.h.m8_en_US_andronache.heHE.KyriosTheotokon.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode9C11.greekmelody = he.h.m8_en_US_andronache.heHE.KyriosTheotokon.greekname
 meMA.Ode9C11.melody = he.h.m8_en_US_andronache.heHE.KyriosTheotokon.notmetered
 meMA.Ode9C11.incipit = "O virgins, you were guided…"
 meMA.Ode9C11.text = "O virgins, you were guided to divine harbors by the piloting of Christ our God, as you passed through the furious waves of temptations."

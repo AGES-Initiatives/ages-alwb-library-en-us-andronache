@@ -93,6 +93,7 @@ meMA.C1.verse = //prayers_en_US_andronache.pr.verse_DevoutWoman.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode1C11.greekmelody = he.h.m4_en_US_andronache.heHE.ThalassisToErythraion.greekname
 meMA.Ode1C11.melody = he.h.m4_en_US_andronache.heHE.ThalassisToErythraion.notmetered
 meMA.Ode1C11.incipit = "Having mystically set out her…"
 meMA.Ode1C11.text = "Having mystically set out her divine memory as a banquet today for the entire world, Pelagia persuades all to feast on the food of her contests."
@@ -117,6 +118,7 @@ meMA.Ode1C1T.text = "Undefiled one you are tranquility, immovable and firm ancho
 
 meMA.Ode3C11.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode3C11.greekmelody = he.h.m4_en_US_andronache.heHE.EffrainetaiEpiSoi.greekname
 meMA.Ode3C11.melody = he.h.m4_en_US_andronache.heHE.EffrainetaiEpiSoi.notmetered
 meMA.Ode3C11.incipit = "You, the dove of Christ…"
 meMA.Ode3C11.text = "You, the dove of Christ, flew up into the heavens with the wings of your self-control, being lifted up by you many pains."
@@ -141,6 +143,7 @@ meMA.Ode3C1T.text = "With your joy dripping as morning dew, pure one, you quench
 
 meMA.Ode3H.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode3H.greekmelody = he.h.m4_en_US_andronache.heHE.EffrainetaiEpiSoi.greekname
 meMA.Ode3H.melody = he.h.m4_en_US_andronache.heHE.EffrainetaiEpiSoi.melody
 meMA.Ode3H.incipit = he.h.m4_en_US_andronache.heHE.EffrainetaiEpiSoi.incipit
 meMA.Ode3H.text = he.h.m4_en_US_andronache.heHE.EffrainetaiEpiSoi.text
@@ -162,6 +165,7 @@ meMA.Ode3KathismaSt.text = ""
 
 meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode4C11.greekmelody = he.h.m4_en_US_andronache.heHE.EparthentaSeIdousa.greekname
 meMA.Ode4C11.melody = he.h.m4_en_US_andronache.heHE.EparthentaSeIdousa.notmetered
 meMA.Ode4C11.incipit = "As most precious incense, Pelagia…"
 meMA.Ode4C11.text = "As most precious incense, Pelagia, being consumed by the flames of self-control, you became a sweet smell unto Christ our God, running to the fragrance of His myrrh."
@@ -186,6 +190,7 @@ meMA.Ode4C1T.text = "O Theotokos, you are the rod from which the noetic flower s
 
 meMA.Ode5C11.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode5C11.greekmelody = he.h.m4_en_US_andronache.heHE.SyKyrieMouFos.greekname
 meMA.Ode5C11.melody = he.h.m4_en_US_andronache.heHE.SyKyrieMouFos.notmetered
 meMA.Ode5C11.incipit = "Having been enriched by the…"
 meMA.Ode5C11.text = "Having been enriched by the mystical waters of the Spirit, you bloomed in the faith with an abundance of virtues and the toil of asceticism."
@@ -210,6 +215,7 @@ meMA.Ode5C1T.text = "Truly your joy is well known to all, all pure one, as you d
 
 meMA.Ode6C11.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode6C11.greekmelody = he.h.m4_en_US_andronache.heHE.ThysoSoiMetaFonis.greekname
 meMA.Ode6C11.melody = he.h.m4_en_US_andronache.heHE.ThysoSoiMetaFonis.notmetered
 meMA.Ode6C11.incipit = "You displayed the unsetting light…"
 meMA.Ode6C11.text = "You displayed the unsetting light of Christ God in your soul, Pelagia, so the chief of darkness was driven out and the grace and faith of the Spirit settled in."
@@ -234,6 +240,7 @@ meMA.Ode6C1T.text = "Seeing your unutterable glory, O Theotokos, the prophets of
 
 meMA.Ode6H.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode6H.greekmelody = he.h.m4_en_US_andronache.heHE.ThysoSoiMetaFonis.greekname
 meMA.Ode6H.melody = he.h.m4_en_US_andronache.heHE.ThysoSoiMetaFonis.melody
 meMA.Ode6H.incipit = he.h.m4_en_US_andronache.heHE.ThysoSoiMetaFonis.incipit
 meMA.Ode6H.text = he.h.m4_en_US_andronache.heHE.ThysoSoiMetaFonis.text
@@ -247,6 +254,7 @@ meMA.Oikos1.text = "As many as are stained by sins in life, such as I, the wretc
 
 meMA.Ode7C11.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode7C11.greekmelody = he.h.m4_en_US_andronache.heHE.EnTiKaminoAvramiaioi.greekname
 meMA.Ode7C11.melody = he.h.m4_en_US_andronache.heHE.EnTiKaminoAvramiaioi.notmetered
 meMA.Ode7C11.incipit = "You were seen to be…"
 meMA.Ode7C11.text = "You were seen to be a sea of divine virtues, as truly you drowned the strength of the enemy entirely in it and therefore you sing: Blessed are you, O Lord, in the temple of your glory."
@@ -271,6 +279,7 @@ meMA.Ode7C1T.text = "He who sits on the throne of the Father, the Logos of God, 
 
 meMA.Ode8C11.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode8C11.greekmelody = he.h.m4_en_US_andronache.heHE.CheirasEkpetasasDaniil.greekname
 meMA.Ode8C11.melody = he.h.m4_en_US_andronache.heHE.CheirasEkpetasasDaniil.notmetered
 meMA.Ode8C11.incipit = "Radiant rays of your miracles…"
 meMA.Ode8C11.text = "Radiant rays of your miracles shine like the sun and they illumine most brightly all the brilliance of your life and they shout to the entire world about the bright light of the divine faith shining in you, august Pelagia."
@@ -295,12 +304,14 @@ meMA.Ode8C1T.text = "Pure one, all the armies of noetic hosts, the patriarchs an
 
 meMA.Ode8H.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode8H.greekmelody = he.h.m4_en_US_andronache.heHE.CheirasEkpetasasDaniil.greekname
 meMA.Ode8H.melody = he.h.m4_en_US_andronache.heHE.CheirasEkpetasasDaniil.melody
 meMA.Ode8H.incipit = he.h.m4_en_US_andronache.heHE.CheirasEkpetasasDaniil.incipit
 meMA.Ode8H.text = he.h.m4_en_US_andronache.heHE.CheirasEkpetasasDaniil.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode9C11.greekmelody = he.h.m4_en_US_andronache.heHE.LithosAcheirotmitos.greekname
 meMA.Ode9C11.melody = he.h.m4_en_US_andronache.heHE.LithosAcheirotmitos.notmetered
 meMA.Ode9C11.incipit = "You set your heart to…"
 meMA.Ode9C11.text = "You set your heart to truly see the beauty of your beloved Christ, for whom you were crucified to the world and you quenched the beautiful flower of the body and you loathed the desire for this life, Venerable one."
@@ -325,6 +336,7 @@ meMA.Ode9C1T.text = "I hymn your giving birth, Virgin, and magnify your grace fo
 
 meMA.Ode9H.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode9H.greekmelody = he.h.m4_en_US_andronache.heHE.LithosAcheirotmitos.greekname
 meMA.Ode9H.melody = he.h.m4_en_US_andronache.heHE.LithosAcheirotmitos.melody
 meMA.Ode9H.incipit = he.h.m4_en_US_andronache.heHE.LithosAcheirotmitos.incipit
 meMA.Ode9H.text = he.h.m4_en_US_andronache.heHE.LithosAcheirotmitos.text

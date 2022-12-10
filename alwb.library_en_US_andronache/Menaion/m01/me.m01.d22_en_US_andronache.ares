@@ -112,6 +112,7 @@ meMA.C2.verse = //prayers_en_US_andronache.pr.verse_SaintM.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode1C11.greekmelody = he.h.m1_en_US_andronache.heHE.SouITropaiouchos.greekname
 meMA.Ode1C11.melody = he.h.m1_en_US_andronache.heHE.SouITropaiouchos.notmetered
 meMA.Ode1C11.incipit = "Blessed one, through your intercessions…"
 meMA.Ode1C11.text = "Blessed one, through your intercessions disperse the rebellions of the passions and the gloom of ignorance by the luminous grace of dispassion, so that I may now worthily hymn you as a revealer of God."
@@ -130,6 +131,7 @@ meMA.Ode1C13.text = "We know one sovereignty beyond essence which provides for a
 
 meMA.Ode1C21.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode1C21.greekmelody = he.h.m1_en_US_andronache.heHE.SouITropaiouchos.greekname
 meMA.Ode1C21.melody = he.h.m1_en_US_andronache.heHE.SouITropaiouchos.notmetered
 meMA.Ode1C21.incipit = "O Christ, illumined all around…"
 meMA.Ode1C21.text = "O Christ, illumined all around by the most brilliant dawn of your resurrection, bearing its name and having been sent out of the East as the sun, the martyr now illumines the church all around with miracles."
@@ -148,6 +150,7 @@ meMA.Ode1C2T.text = "O Mother of God, entreat the Word whom you bore and who res
 
 meMA.Ode3C11.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode3C11.greekmelody = he.h.m1_en_US_andronache.heHE.OMonosEidos.greekname
 meMA.Ode3C11.melody = he.h.m1_en_US_andronache.heHE.OMonosEidos.notmetered
 meMA.Ode3C11.incipit = "Grace was poured out plentifully…"
 meMA.Ode3C11.text = "Grace was poured out plentifully on your lips, all blessed one, and it gushed forth rivers of dogmas watering the Church of Christ and bringing to many tilled soils the fruit, O Timothy preacher of Christ and godly-minded apostle."
@@ -166,6 +169,7 @@ meMA.Ode3C13.text = "Blessed Timothy, mortifying the members of your flesh, you 
 
 meMA.Ode3C21.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C21.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode3C21.greekmelody = he.h.m1_en_US_andronache.heHE.OMonosEidos.greekname
 meMA.Ode3C21.melody = he.h.m1_en_US_andronache.heHE.OMonosEidos.notmetered
 meMA.Ode3C21.incipit = "You travelled the narrow path…"
 meMA.Ode3C21.text = "You travelled the narrow path in the beginning through asceticism. Then you went forth to the glory of martyrdom having found luxury through trials; gaining possession of the divine delight through pains, glorious martyr Anastasios."
@@ -209,6 +213,7 @@ meMA.Ode3KathismaSt.text = "All-blameless Virgin, Mother of Christ God, a sword 
 
 meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode4C11.greekmelody = he.h.m1_en_US_andronache.heHE.OrosSeTiChariti.greekname
 meMA.Ode4C11.melody = he.h.m1_en_US_andronache.heHE.OrosSeTiChariti.notmetered
 meMA.Ode4C11.incipit = "You struggled lawfully through complete…"
 meMA.Ode4C11.text = "You struggled lawfully through complete self-control; Blessed One, and subjected all the waves of the passions to your mind, attaining the greatness of the virtues, great preacher and godly-minded Timothy."
@@ -227,6 +232,7 @@ meMA.Ode4C13.text = "You fervently yearned for the greatest of things desired an
 
 meMA.Ode4C21.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode4C21.greekmelody = he.h.m1_en_US_andronache.heHE.OrosSeTiChariti.greekname
 meMA.Ode4C21.melody = he.h.m1_en_US_andronache.heHE.OrosSeTiChariti.notmetered
 meMA.Ode4C21.incipit = "Nothing separated you from the…"
 meMA.Ode4C21.text = "Nothing separated you from the love of Christ; not the cutting of your members, nor the threat of trials, nor the sword, nor death, not even fire, nor famine, O Anastasios, co-dweller with the heavenly choir."
@@ -245,6 +251,7 @@ meMA.Ode4C2T.text = "Coming from heaven, the chief commander brought good news o
 
 meMA.Ode5C11.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode5C11.greekmelody = he.h.m1_en_US_andronache.heHE.TheosOnEirinis.greekname
 meMA.Ode5C11.melody = he.h.m1_en_US_andronache.heHE.TheosOnEirinis.notmetered
 meMA.Ode5C11.incipit = "Being set aflame by the…"
 meMA.Ode5C11.text = "Being set aflame by the immaterial lights of the first Light and cause of all, you enlightened the world by your pure preaching, O light of piety. You were clearly shown forth holding fast to the word of life, holy mystic most blessed."
@@ -263,6 +270,7 @@ meMA.Ode5C13.text = "Paul, having been made a second light ministering to the fi
 
 meMA.Ode5C21.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C21.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode5C21.greekmelody = he.h.m1_en_US_andronache.heHE.TheosOnEirinis.greekname
 meMA.Ode5C21.melody = he.h.m1_en_US_andronache.heHE.TheosOnEirinis.notmetered
 meMA.Ode5C21.incipit = "The enemy of God who…"
 meMA.Ode5C21.text = "The enemy of God who once boasted about great and measureless things, who threatened the earth and who insolently said in vain that he would obliterate the sea, is trampled down, O wise one, by your manly virtue."
@@ -281,6 +289,7 @@ meMA.Ode5C2T.text = "By your birth, o Virgin, you abolished the curse on Eve, th
 
 meMA.Ode6C11.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode6C11.greekmelody = he.h.m1_en_US_andronache.heHE.SplanchnonIonan.greekname
 meMA.Ode6C11.melody = he.h.m1_en_US_andronache.heHE.SplanchnonIonan.notmetered
 meMA.Ode6C11.incipit = "You were shown to be…"
 meMA.Ode6C11.text = "You were shown to be a chariot of God, O Timothy, bearing his divine name before the godless tyrants, O God-inspired one, not being afraid of their cruelty, for you were vested with the Savior's invincible might."
@@ -299,6 +308,7 @@ meMA.Ode6C13.text = "All honored Timothy, catching the scent of the spiritual my
 
 meMA.Ode6C21.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C21.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode6C21.greekmelody = he.h.m1_en_US_andronache.heHE.SplanchnonIonan.greekname
 meMA.Ode6C21.melody = he.h.m1_en_US_andronache.heHE.SplanchnonIonan.notmetered
 meMA.Ode6C21.incipit = "Being wisely illumined by the…"
 meMA.Ode6C21.text = "Being wisely illumined by the light of the Cross, you escaped the murkiness of error and were victorious when you struggled with the tyrant, all glorious one. Rejoicing you gained your trophies, wise martyr of Christ Anastasios, dancing together with the armies of martyrs."
@@ -311,6 +321,7 @@ meMA.Ode6C2T.text = "Portraying the will of God, the entire choir of the prophet
 
 meMA.Ode6H.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode6H.greekmelody = he.h.m1_en_US_andronache.heHE.SplanchnonIonan.greekname
 meMA.Ode6H.melody = he.h.m1_en_US_andronache.heHE.SplanchnonIonan.melody
 meMA.Ode6H.incipit = he.h.m1_en_US_andronache.heHE.SplanchnonIonan.incipit
 meMA.Ode6H.text = "" //he.h.m1_en_US_andronache.heHE.SplanchnonIonan.text
@@ -324,6 +335,7 @@ meMA.Oikos1.text = ""
 
 meMA.Ode7C11.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode7C11.greekmelody = he.h.m1_en_US_andronache.heHE.SeNoitin.greekname
 meMA.Ode7C11.melody = he.h.m1_en_US_andronache.heHE.SeNoitin.notmetered
 meMA.Ode7C11.incipit = "You worthily became a companion…"
 meMA.Ode7C11.text = "You worthily became a companion in the dance of the heavenly orders, being filled with a light-giving light, blessed priestly-mystic Timothy, so that you rejoice together in harmony, proclaiming the praiseworthy and supremely glorified God."
@@ -342,6 +354,7 @@ meMA.Ode7C13.text = "The vigor of your soul strengthened the weakness of the fle
 
 meMA.Ode7C21.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C21.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode7C21.greekmelody = he.h.m1_en_US_andronache.heHE.SeNoitin.greekname
 meMA.Ode7C21.melody = he.h.m1_en_US_andronache.heHE.SeNoitin.notmetered
 meMA.Ode7C21.incipit = "By showing his brave deeds…"
 meMA.Ode7C21.text = "By showing his brave deeds as a clear sign, the athlete urges the faithful now to imitate the divine, voluntary passion, which the praiseworthy and supremely glorified God of the Fathers endured for us."
@@ -360,6 +373,7 @@ meMA.Ode7C2T.text = "Rejoice, pure one, Adam's fleece. From you came forth the m
 
 meMA.Ode8C11.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode8C11.greekmelody = he.h.m1_en_US_andronache.heHE.ThavmatosYperfyous.greekname
 meMA.Ode8C11.melody = he.h.m1_en_US_andronache.heHE.ThavmatosYperfyous.notmetered
 meMA.Ode8C11.incipit = "Blessed Timothy, you were shown…"
 meMA.Ode8C11.text = "Blessed Timothy, you were shown having been made worthy of the angelic ranks. Thus being initiated into the mysteries of the heavenly orders, you imitated their brightness, o wise one. Rejoicing, you send up a melody with them: Let all creation bless the Lord and exalt Him beyond measure unto all the ages."
@@ -378,6 +392,7 @@ meMA.Ode8C13.text = "Most blessed one, you manifestly rose to the greatest good 
 
 meMA.Ode8C21.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode8C21.greekmelody = he.h.m1_en_US_andronache.heHE.ThavmatosYperfyous.greekname
 meMA.Ode8C21.melody = he.h.m1_en_US_andronache.heHE.ThavmatosYperfyous.notmetered
 meMA.Ode8C21.incipit = "From earth towards heaven you…"
 meMA.Ode8C21.text = "From earth towards heaven you flew up wearing a crown, martyr Anastasios, having fled all the treachery of the demons and trampled the worship of the idols. Therefore you now cry towards the earth: Let all creation bless the Lord and exalt Him beyond measure unto all the ages."
@@ -401,6 +416,7 @@ meMA.Ode8H.text = "" //he.h.m1_en_US_andronache.heHE.ThavmatosYperfyous.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode9C11.greekmelody = he.h.m1_en_US_andronache.heHE.TyponTisAgnis.greekname
 meMA.Ode9C11.melody = he.h.m1_en_US_andronache.heHE.TyponTisAgnis.notmetered
 meMA.Ode9C11.incipit = "The saying of David is…"
 meMA.Ode9C11.text = "The saying of David is fulfilled; for you appeared to the world as lightning by your preaching illuminating the ends of the world, all-hymned and blessed Timothy. Therefore, God-revealer, we unceasingly magnify you."
@@ -419,6 +435,7 @@ meMA.Ode9C13.text = "We glorify You, only-begotten one, with right understanding
 
 meMA.Ode9C21.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C21.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode9C21.greekmelody = he.h.m1_en_US_andronache.heHE.TyponTisAgnis.greekname
 meMA.Ode9C21.melody = he.h.m1_en_US_andronache.heHE.TyponTisAgnis.notmetered
 meMA.Ode9C21.incipit = "By the rivers of your…"
 meMA.Ode9C21.text = "By the rivers of your blood, glorious one, you put out the deception of the idols; thus you illumined the fullness of the Church, for which do not cease interceding, O most excellent one, so that we all may bless you."

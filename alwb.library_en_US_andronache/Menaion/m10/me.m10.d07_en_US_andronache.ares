@@ -90,6 +90,7 @@ meMA.C1.verse = //prayers_en_US_andronache.pr.verse_SaintsM.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode1C11.greekmelody = he.h.m1_en_US_andronache.heHE.SouITropaiouchos.greekname
 meMA.Ode1C11.melody = he.h.m1_en_US_andronache.heHE.SouITropaiouchos.notmetered
 meMA.Ode1C11.incipit = "Sergius, soldier of Christ, taking…"
 meMA.Ode1C11.text = "Sergius, soldier of Christ, taking ever-memorable Bacchus as a co-intercessor and helper, you completed the contests with him in a godly-minded manner; grant me a word of wisdom that I may hymn you."
@@ -120,6 +121,7 @@ meMA.Ode1C1T.text = "Mother of God, entreat the Logos whom you bore and who came
 
 meMA.Ode3C11.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode3C11.greekmelody = he.h.m1_en_US_andronache.heHE.OMonosEidos.greekname
 meMA.Ode3C11.melody = he.h.m1_en_US_andronache.heHE.OMonosEidos.notmetered
 meMA.Ode3C11.incipit = "The only one who knows…"
 meMA.Ode3C11.text = "The only one who knows, as God, all things before they happen, seeing our offering to him, filled you, blessed ones with wisdom of words, divine knowledge, and firm mind, as his soldiers."
@@ -144,6 +146,7 @@ meMA.Ode3C1T.text = "Adam, who had been held by death is now freed by your givin
 
 meMA.Ode3H.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode3H.greekmelody = he.h.m1_en_US_andronache.heHE.OMonosEidos.greekname
 meMA.Ode3H.melody = he.h.m1_en_US_andronache.heHE.OMonosEidos.melody
 meMA.Ode3H.incipit = he.h.m1_en_US_andronache.heHE.OMonosEidos.incipit
 meMA.Ode3H.text = he.h.m1_en_US_andronache.heHE.OMonosEidos.text
@@ -165,6 +168,7 @@ meMA.Ode3KathismaSt.text = ""
 
 meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode4C11.greekmelody = he.h.m1_en_US_andronache.heHE.OrosSeTiChariti.greekname
 meMA.Ode4C11.melody = he.h.m1_en_US_andronache.heHE.OrosSeTiChariti.notmetered
 meMA.Ode4C11.incipit = "Double lanterns rose up from…"
 meMA.Ode4C11.text = "Double lanterns rose up from the West making their motion in opposition to the impious one then holding the earth and pressing forward to your light-bearing and saving East, O Christ."
@@ -195,6 +199,7 @@ meMA.Ode4C1T.text = "The sword which guards the gates of Eden moves aside now fo
 
 meMA.Ode5C11.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode5C11.greekmelody = he.h.m1_en_US_andronache.heHE.OFotisasTiEllampsei.greekname
 meMA.Ode5C11.melody = he.h.m1_en_US_andronache.heHE.OFotisasTiEllampsei.notmetered
 meMA.Ode5C11.incipit = "You who drove away deceit…"
 meMA.Ode5C11.text = "You who drove away deceit with the weapon of truth and staunchly endured hardship from tyrants, became winners having been crowned from Christ and now you worthily rejoice."
@@ -219,6 +224,7 @@ meMA.Ode5C1T.text = "You gave rise, mother of God, as a morning, to the unsettin
 
 meMA.Ode6C11.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode6C11.greekmelody = he.h.m1_en_US_andronache.heHE.EkyklosenImas.greekname
 meMA.Ode6C11.melody = he.h.m1_en_US_andronache.heHE.EkyklosenImas.notmetered
 meMA.Ode6C11.incipit = "The relics of the martyrs…"
 meMA.Ode6C11.text = "The relics of the martyrs richly spring forth streams of healings. Thus, O faithful, let us eagerly draw from them and let us bless the prize-winners, the famous Sergius and ever-memorable Bacchus."
@@ -243,6 +249,7 @@ meMA.Ode6C1T.text = "Truly with understanding we proclaim you, all-pure one, mot
 
 meMA.Ode6H.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode6H.greekmelody = he.h.m1_en_US_andronache.heHE.EkyklosenImas.greekname
 meMA.Ode6H.melody = he.h.m1_en_US_andronache.heHE.EkyklosenImas.melody
 meMA.Ode6H.incipit = he.h.m1_en_US_andronache.heHE.EkyklosenImas.incipit
 meMA.Ode6H.text = he.h.m1_en_US_andronache.heHE.EkyklosenImas.text
@@ -256,6 +263,7 @@ meMA.Oikos1.text = "O Christ, Sergius and Bacchus, dwelling in heaven and being 
 
 meMA.Ode7C11.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode7C11.greekmelody = he.h.m1_en_US_andronache.heHE.SeNoitin.greekname
 meMA.Ode7C11.melody = he.h.m1_en_US_andronache.heHE.SeNoitin.notmetered
 meMA.Ode7C11.incipit = "Rejoice glorious pair of prize-winners…"
 meMA.Ode7C11.text = "Rejoice glorious pair of prize-winners, rejoice for you brightly conquered the threats of the tyrants, rejoice for you finished the blessed journey, rejoice for you remain forever in delight, rejoice, God-blessed ones, for you manifestly stand with God."
@@ -280,6 +288,7 @@ meMA.Ode7C1T.text = "Pure, all-holy one, you became a temple and ark, having rec
 
 meMA.Ode8C11.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode8C11.greekmelody = he.h.m1_en_US_andronache.heHE.EnKaminoPaides.greekname
 meMA.Ode8C11.melody = he.h.m1_en_US_andronache.heHE.EnKaminoPaides.notmetered
 meMA.Ode8C11.incipit = "The one who cooled the…"
 meMA.Ode8C11.text = "The one who cooled the flame for the youths with dew gave strength to His martyrs as they were in contests as they chanted: All the works of the Lord bless, praise, and exalt him beyond measure unto all the ages."
@@ -310,12 +319,14 @@ meMA.Ode8C1T.text = "I bless you, the true mother of our God, offering you, pure
 
 meMA.Ode8H.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode8H.greekmelody = he.h.m1_en_US_andronache.heHE.EnKaminoPaides.greekname
 meMA.Ode8H.melody = he.h.m1_en_US_andronache.heHE.EnKaminoPaides.melody
 meMA.Ode8H.incipit = he.h.m1_en_US_andronache.heHE.EnKaminoPaides.incipit
 meMA.Ode8H.text = he.h.m1_en_US_andronache.heHE.EnKaminoPaides.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode9C11.greekmelody = he.h.m1_en_US_andronache.heHE.TyponTisAgnis.greekname
 meMA.Ode9C11.melody = he.h.m1_en_US_andronache.heHE.TyponTisAgnis.notmetered
 meMA.Ode9C11.incipit = "You acquired the whole Christ…"
 meMA.Ode9C11.text = "You acquired the whole Christ, because for him you forsook the whole world. And now, O martyrs, entering the heavens you perceive the choirs of the powers on high and the brightness of blessed men."
@@ -346,6 +357,7 @@ meMA.Ode9C1T.text = "O, your wonders beyond understanding! You alone bore the Lo
 
 meMA.Ode9H.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode9H.greekmelody = he.h.m1_en_US_andronache.heHE.TyponTisAgnis.greekname
 meMA.Ode9H.melody = he.h.m1_en_US_andronache.heHE.TyponTisAgnis.melody
 meMA.Ode9H.incipit = he.h.m1_en_US_andronache.heHE.TyponTisAgnis.incipit
 meMA.Ode9H.text = he.h.m1_en_US_andronache.heHE.TyponTisAgnis.text

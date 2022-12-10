@@ -86,6 +86,7 @@ meMA.C1.verse = //prayers_en_US_andronache.pr.verse_SaintM.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode1C11.greekmelody = he.h.m4_en_US_andronache.heHE.TristatasKrataious.greekname
 meMA.Ode1C11.melody = he.h.m4_en_US_andronache.heHE.TristatasKrataious.notmetered
 meMA.Ode1C11.incipit = "As a watchful shepherd and…"
 meMA.Ode1C11.text = "As a watchful shepherd and a holy martyr standing before the august Trinity wearing a crown, by your holy intercessions put to sleep the dark form of my passions, that I may praise you, Martyr Gregory."
@@ -110,6 +111,7 @@ meMA.Ode1C1T.text = "Women, being strengthened by the cross of the one incarnate
 
 meMA.Ode3C11.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode3C11.greekmelody = he.h.m4_en_US_andronache.heHE.OtiSteiraEteken.greekname
 meMA.Ode3C11.melody = he.h.m4_en_US_andronache.heHE.OtiSteiraEteken.notmetered
 meMA.Ode3C11.incipit = "By the blows of your…"
 meMA.Ode3C11.text = "By the blows of your cheeks you crushed the teeth of lions and by the streams of your blood you diminished the defilement of demons and you trampled from their foundations on the monuments of idols, admirable one."
@@ -134,6 +136,7 @@ meMA.Ode3C1T.text = "The martyr Ripsimia, knowing you only maiden virgin mother,
 
 meMA.Ode3H.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode3H.greekmelody = he.h.m4_en_US_andronache.heHE.OtiSteiraEteken.greekname
 meMA.Ode3H.melody = he.h.m4_en_US_andronache.heHE.OtiSteiraEteken.melody
 meMA.Ode3H.incipit = he.h.m4_en_US_andronache.heHE.OtiSteiraEteken.incipit
 meMA.Ode3H.text = he.h.m4_en_US_andronache.heHE.OtiSteiraEteken.text
@@ -155,6 +158,7 @@ meMA.Ode3KathismaSt.text = me.m01.d29_en_US_andronache.meMA.Ode3KathismaSt.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode4C11.greekmelody = he.h.m4_en_US_andronache.heHE.OKathimenosEnDoxi.greekname
 meMA.Ode4C11.melody = he.h.m4_en_US_andronache.heHE.OKathimenosEnDoxi.notmetered
 meMA.Ode4C11.incipit = "The Lord most high lifted…"
 meMA.Ode4C11.text = "The Lord most high lifted you up to the admired height of martyrdom, glorious one, whose passion you emulated rejoicing, O hieromartyr, crying out: Glory to your power."
@@ -179,6 +183,7 @@ meMA.Ode4C1T.text = "As beautiful, as a chosen one and as graceful the young mai
 
 meMA.Ode5C11.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode5C11.greekmelody = he.h.m4_en_US_andronache.heHE.TonFotismonSouKyrie.greekname
 meMA.Ode5C11.melody = he.h.m4_en_US_andronache.heHE.TonFotismonSouKyrie.notmetered
 meMA.Ode5C11.incipit = "You manifestly saw a sign…"
 meMA.Ode5C11.text = "You manifestly saw a sign in the form of a cross, shining with light and dispelling the night of idols and making the faithful ones children of light."
@@ -203,6 +208,7 @@ meMA.Ode5C1T.text = "The women who sensed the fragrance of myrrh of the Logos wh
 
 meMA.Ode6C11.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode6C11.greekmelody = he.h.m4_en_US_andronache.heHE.EvoiseProtypon.greekname
 meMA.Ode6C11.melody = he.h.m4_en_US_andronache.heHE.EvoiseProtypon.notmetered
 meMA.Ode6C11.incipit = "By the power of your…"
 meMA.Ode6C11.text = "By the power of your words temples were brought down and the demons’ unstable statues were overthrown and the hearts of the faithful were sustained by divine love."
@@ -227,6 +233,7 @@ meMA.Ode6C1T.text = "Ripsimia recognized the one incarnate of you, O Theotokos, 
 
 meMA.Ode6H.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode6H.greekmelody = he.h.m4_en_US_andronache.heHE.EvoiseProtypon.greekname
 meMA.Ode6H.melody = he.h.m4_en_US_andronache.heHE.EvoiseProtypon.melody
 meMA.Ode6H.incipit = he.h.m4_en_US_andronache.heHE.EvoiseProtypon.incipit
 meMA.Ode6H.text = he.h.m4_en_US_andronache.heHE.EvoiseProtypon.text
@@ -240,6 +247,7 @@ meMA.Oikos1.text = "Let us, the faithful, honor in divine hymns and songs the di
 
 meMA.Ode7C11.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode7C11.greekmelody = he.h.m4_en_US_andronache.heHE.AvramiaioiPote.greekname
 meMA.Ode7C11.melody = he.h.m4_en_US_andronache.heHE.AvramiaioiPote.notmetered
 meMA.Ode7C11.incipit = "You suffered varied tortured, Martyr…"
 meMA.Ode7C11.text = "You suffered varied tortured, Martyr and you freed many from the tortures of the future life, crying out: O God of the fathers you are blessed."
@@ -264,6 +272,7 @@ meMA.Ode7C1T.text = "Maidens adorned with martyric crowns were brought to the Go
 
 meMA.Ode8C11.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode8C11.greekmelody = he.h.m4_en_US_andronache.heHE.LytrotaTouPantos.greekname
 meMA.Ode8C11.melody = he.h.m4_en_US_andronache.heHE.LytrotaTouPantos.notmetered
 meMA.Ode8C11.incipit = "Having struggled lawfully, you most…"
 meMA.Ode8C11.text = "Having struggled lawfully, you most mightily put to shame the unlawful enemies, priest Gregory, and you brought to Christ the people singing: Bless and hymn the Lord."
@@ -288,12 +297,14 @@ meMA.Ode8C1T.text = "Not having feared the fulness of tortures nor bowed to the 
 
 meMA.Ode8H.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode8H.greekmelody = he.h.m4_en_US_andronache.heHE.LytrotaTouPantos.greekname
 meMA.Ode8H.melody = he.h.m4_en_US_andronache.heHE.LytrotaTouPantos.melody
 meMA.Ode8H.incipit = he.h.m4_en_US_andronache.heHE.LytrotaTouPantos.incipit
 meMA.Ode8H.text = he.h.m4_en_US_andronache.heHE.LytrotaTouPantos.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode9C11.greekmelody = he.h.m4_en_US_andronache.heHE.EvaMenToTisParakois.greekname
 meMA.Ode9C11.melody = he.h.m4_en_US_andronache.heHE.EvaMenToTisParakois.notmetered
 meMA.Ode9C11.incipit = "Being strengthened with the power…"
 meMA.Ode9C11.text = "Being strengthened with the power of Christ, you suffered the pain of the tortures, breaking the pillars of the demons and tearing down the temples of the idols, and you illumined the people that were in ignorance, all-venerable hieromartyr."
@@ -324,6 +335,7 @@ meMA.Ode9C1T.text = "Having been set aflame with unquenchable yearning by the li
 
 meMA.Ode9H.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode9H.greekmelody = he.h.m4_en_US_andronache.heHE.EvaMenToTisParakois.greekname
 meMA.Ode9H.melody = he.h.m4_en_US_andronache.heHE.EvaMenToTisParakois.melody
 meMA.Ode9H.incipit = he.h.m4_en_US_andronache.heHE.EvaMenToTisParakois.incipit
 meMA.Ode9H.text = he.h.m4_en_US_andronache.heHE.EvaMenToTisParakois.text

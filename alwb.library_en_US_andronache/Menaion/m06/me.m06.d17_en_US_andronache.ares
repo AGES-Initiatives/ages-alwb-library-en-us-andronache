@@ -85,6 +85,7 @@ meMA.C1.verse = //prayers_en_US_andronache.pr.verse_SaintsM.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode1C11.greekmelody = he.h.m8_en_US_andronache.heHE.YgranDiodefsas.greekname
 meMA.Ode1C11.melody = he.h.m8_en_US_andronache.heHE.YgranDiodefsas.notmetered
 meMA.Ode1C11.incipit = "O Martyr, make the gracious…"
 meMA.Ode1C11.text = "O Martyr, make the gracious God and Savior merciful towards me, and save me from fearful assaults, as I run with faith to your protection."
@@ -109,6 +110,7 @@ meMA.Ode1C1T.text = "Belial, having found me without the garment of the virtues,
 
 meMA.Ode3C11.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3C11.greekmelody = he.h.m8_en_US_andronache.heHE.SyEiToStereoma.greekname
 meMA.Ode3C11.melody = he.h.m8_en_US_andronache.heHE.SyEiToStereoma.notmetered
 meMA.Ode3C11.incipit = "Grant your help from above…"
 meMA.Ode3C11.text = "Grant your help from above to your servants, saving us from all abuse, danger, and affliction."
@@ -133,6 +135,7 @@ meMA.Ode3C1T.text = "My Creator is united with me beyond nature in you, O Lady, 
 
 meMA.Ode3H.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3H.greekmelody = he.h.m8_en_US_andronache.heHE.SyEiToStereoma.greekname
 meMA.Ode3H.melody = he.h.m8_en_US_andronache.heHE.SyEiToStereoma.melody
 meMA.Ode3H.incipit = he.h.m8_en_US_andronache.heHE.SyEiToStereoma.incipit
 meMA.Ode3H.text = he.h.m8_en_US_andronache.heHE.SyEiToStereoma.text
@@ -154,6 +157,7 @@ meMA.Ode3KathismaSt.text = ""
 
 meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode4C11.greekmelody = he.h.m8_en_US_andronache.heHE.EisakikoaKyrie.greekname
 meMA.Ode4C11.melody = he.h.m8_en_US_andronache.heHE.EisakikoaKyrie.notmetered
 meMA.Ode4C11.incipit = "Having been exalted in my…"
 meMA.Ode4C11.text = "Having been exalted in my senselessness, I slipped down and am brought down by passions; Godly-minded one, raise me up who am lying in the depth of despair."
@@ -178,6 +182,7 @@ meMA.Ode4C1T.text = "Unshamable shelter of those on earth, stand by me and, O Vi
 
 meMA.Ode5C11.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode5C11.greekmelody = he.h.m8_en_US_andronache.heHE.InaTiMeAposo.greekname
 meMA.Ode5C11.melody = he.h.m8_en_US_andronache.heHE.InaTiMeAposo.notmetered
 meMA.Ode5C11.incipit = "You were seen to be…"
 meMA.Ode5C11.text = "You were seen to be a son of the day, having in your heart the bright unwaning light, through which the darkness of deceit is diminished and knowledge of the divine light is given to all. Therefore we cry to you: illumine me who am blinded in will"
@@ -202,6 +207,7 @@ meMA.Ode5C1T.text = "My creator and God takes my entire form from you, unwedded 
 
 meMA.Ode6C11.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode6C11.greekmelody = he.h.m8_en_US_andronache.heHE.TinDeisinEkcheo.greekname
 meMA.Ode6C11.melody = he.h.m8_en_US_andronache.heHE.TinDeisinEkcheo.notmetered
 meMA.Ode6C11.incipit = "Heal the digressions of my…"
 meMA.Ode6C11.text = "Heal the digressions of my mind and the passions of my heart, godly-minded one. Deliver me from bodily pains and every assault and tribulation and show me by your entreaties to be victorious over the snares of the enemy."
@@ -226,12 +232,14 @@ meMA.Ode6C1T.text = "Quenching the flame of my passions by the sprinkling of you
 
 meMA.Ode6H.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode6H.greekmelody = he.h.m8_en_US_andronache.heHE.TinDeisinEkcheo.greekname
 meMA.Ode6H.melody = he.h.m8_en_US_andronache.heHE.TinDeisinEkcheo.melody
 meMA.Ode6H.incipit = he.h.m8_en_US_andronache.heHE.TinDeisinEkcheo.incipit
 meMA.Ode6H.text = he.h.m8_en_US_andronache.heHE.TinDeisinEkcheo.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode7C11.greekmelody = he.h.m8_en_US_andronache.heHE.TheouSynkatavasin.greekname
 meMA.Ode7C11.melody = he.h.m8_en_US_andronache.heHE.TheouSynkatavasin.notmetered
 meMA.Ode7C11.incipit = "Being made resplendent with the…"
 meMA.Ode7C11.text = "Being made resplendent with the light of the triple sun, glorious Isauros, divine Innocent, Felix, Hermias and wise Peregrinos with Basil by the light of miracles illumine us who honor you."
@@ -256,6 +264,7 @@ meMA.Ode7C1T.text = "Christ the Lord who arose from you through His goodness, vi
 
 meMA.Ode8C11.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode8C11.greekmelody = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.greekname
 meMA.Ode8C11.melody = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.notmetered
 meMA.Ode8C11.incipit = "Made bright with the beauty…"
 meMA.Ode8C11.text = "Made bright with the beauty of martyrdom, God-inspired one, and adorned with the marks of your contests, clothed with the purple of the blood of your slaughter and made beautiful with the glory of the priesthood, you stood in the presence of the Lord; ever entreat Him to adorn us with the garment of salvation."
@@ -280,12 +289,14 @@ meMA.Ode8C1T.text = "The God of splendor having adorned heaven with beauty, show
 
 meMA.Ode8H.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode8H.greekmelody = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.greekname
 meMA.Ode8H.melody = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.melody
 meMA.Ode8H.incipit = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.incipit
 meMA.Ode8H.text = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode9C11.greekmelody = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.greekname
 meMA.Ode9C11.melody = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.notmetered
 meMA.Ode9C11.incipit = "You were made worthy of…"
 meMA.Ode9C11.text = "You were made worthy of great gifts from God, all-famous Isauros; you scared away demons and illnesses, temptations, and death of every kind granting to all their request. Therefore, grant also to me peace and health and release from trespasses."
@@ -310,6 +321,7 @@ meMA.Ode9C1T.text = "Most-luminous cloud, Mother of God, by your mighty and all-
 
 meMA.Ode9H.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode9H.greekmelody = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.greekname
 meMA.Ode9H.melody = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.melody
 meMA.Ode9H.incipit = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.incipit
 meMA.Ode9H.text = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.text

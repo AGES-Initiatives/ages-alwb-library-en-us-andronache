@@ -119,6 +119,7 @@ meMA.C2.verse = //prayers_en_US_andronache.pr.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode1C11.greekmelody = he.h.m8_en_US_andronache.heHE.YgranDiodefsas.greekname
 meMA.Ode1C11.melody = he.h.m8_en_US_andronache.heHE.YgranDiodefsas.notmetered
 meMA.Ode1C11.incipit = "Let all of us faithful…"
 meMA.Ode1C11.text = "Let all of us faithful open our mouths in praise and sing with clear language the memory of the chief-shepherd Ananias and with him let us sing to our God."
@@ -143,6 +144,7 @@ meMA.Ode1C1T.text = "The orders of angels and mortals unceasingly honor you, unw
 
 meMA.Ode1C21.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode1C21.greekmelody = he.h.m6_en_US_andronache.heHE.OsEnIpeiroPezefsas.greekname
 meMA.Ode1C21.melody = he.h.m6_en_US_andronache.heHE.OsEnIpeiroPezefsas.notmetered
 meMA.Ode1C21.incipit = "Send us a brilliance blazing…"
 meMA.Ode1C21.text = "Send us a brilliance blazing with light by your prayers, wise and divinely-inspired Romanos, so that we may honor your holy memory in hymns."
@@ -167,6 +169,7 @@ meMA.Ode1C2T.text = "The Logos of God, who is co-beginningless, came forth from 
 
 meMA.Ode3C11.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3C11.greekmelody = he.h.m8_en_US_andronache.heHE.SyEiToStereoma.greekname
 meMA.Ode3C11.melody = he.h.m8_en_US_andronache.heHE.SyEiToStereoma.notmetered
 meMA.Ode3C11.incipit = "Apostle, following the direction of…"
 meMA.Ode3C11.text = "Apostle, following the direction of your Teacher you became a high-priest and a sacrifice in contests."
@@ -191,6 +194,7 @@ meMA.Ode3C1T.text = "All of us Christians have you as a refuge and a wall; we gl
 
 meMA.Ode3C21.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C21.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode3C21.greekmelody = he.h.m6_en_US_andronache.heHE.OukEstinAgios.greekname
 meMA.Ode3C21.melody = he.h.m6_en_US_andronache.heHE.OukEstinAgios.notmetered
 meMA.Ode3C21.incipit = "Your nous became the dwelling…"
 meMA.Ode3C21.text = "Your nous became the dwelling of the Holy Trinity, wise Romanos, having piously received the true knowledge and pouring out divinely-inspired teachings."
@@ -215,6 +219,7 @@ meMA.Ode3C2T.text = "You are higher than all the armies, O Virgin, for you held 
 
 meMA.Ode3H.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode3H.greekmelody = he.h.m6_en_US_andronache.heHE.OukEstinAgios.greekname
 meMA.Ode3H.melody = he.h.m6_en_US_andronache.heHE.OukEstinAgios.melody
 meMA.Ode3H.incipit = he.h.m6_en_US_andronache.heHE.OukEstinAgios.incipit
 meMA.Ode3H.text = he.h.m6_en_US_andronache.heHE.OukEstinAgios.text
@@ -241,6 +246,7 @@ meMA.Ode3KathismaSt.text = ""
 
 meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode4C11.greekmelody = he.h.m8_en_US_andronache.heHE.EisakikoaKyrie.greekname
 meMA.Ode4C11.melody = he.h.m8_en_US_andronache.heHE.EisakikoaKyrie.notmetered
 meMA.Ode4C11.incipit = "Being taught by you, the…"
 meMA.Ode4C11.text = "Being taught by you, the famous Ananias triumphs over death in contest, carrying off prizes from you."
@@ -265,6 +271,7 @@ meMA.Ode4C1T.text = "O Virgin, supplicate the God whom you bore that all those w
 
 meMA.Ode4C21.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode4C21.greekmelody = he.h.m6_en_US_andronache.heHE.ChristosMouDynamis.greekname
 meMA.Ode4C21.melody = he.h.m6_en_US_andronache.heHE.ChristosMouDynamis.notmetered
 meMA.Ode4C21.incipit = "You became a vessel of…"
 meMA.Ode4C21.text = "You became a vessel of the Holy Spirit sending up divine melodies with your fire-breathing mouth and enchanting the souls of those who hymn you, O Romanos."
@@ -289,6 +296,7 @@ meMA.Ode4C2T.text = "The serpent poured out poison into the hearing of the first
 
 meMA.Ode5C11.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode5C11.greekmelody = he.h.m8_en_US_andronache.heHE.InaTiMeAposo.greekname
 meMA.Ode5C11.melody = he.h.m8_en_US_andronache.heHE.InaTiMeAposo.notmetered
 meMA.Ode5C11.incipit = "The ever-flowing spring showed you…"
 meMA.Ode5C11.text = "The ever-flowing spring showed you to be a divine harbor to those tossed about, and the unapproachable light perfected you to be a light to those in darkness, having graciously rested in you, blessed Ananias, as a worthy disciple."
@@ -313,6 +321,7 @@ meMA.Ode5C1T.text = "Since you have conceived the God and Creator of all and Lor
 
 meMA.Ode5C21.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C21.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode5C21.greekmelody = he.h.m6_en_US_andronache.heHE.ToTheioFengeiSou.greekname
 meMA.Ode5C21.melody = he.h.m6_en_US_andronache.heHE.ToTheioFengeiSou.notmetered
 meMA.Ode5C21.incipit = "The grace of the Paraclete…"
 meMA.Ode5C21.text = "The grace of the Paraclete found you, Romanos, a most beautiful sanctuary and more pure vessel, made you a temple filled with light and dwelt in you."
@@ -337,6 +346,7 @@ meMA.Ode5C2T.text = "You who gave birth to the light, the everlasting Logos of t
 
 meMA.Ode6C11.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode6C11.greekmelody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.greekname
 meMA.Ode6C11.melody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.notmetered
 meMA.Ode6C11.incipit = "Taught to worship the living…"
 meMA.Ode6C11.text = "Taught to worship the living God as a disciple, most sacred one, you both loosed the many-branched ill-mindedness of the senseless ones and taught to honor the one divinity in three hypostases, O Ananias."
@@ -361,6 +371,7 @@ meMA.Ode6C1T.text = "As a living vessel you contained the giver of the law and a
 
 meMA.Ode6C21.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C21.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode6C21.greekmelody = he.h.m6_en_US_andronache.heHE.TouViouTinThalassan.greekname
 meMA.Ode6C21.melody = he.h.m6_en_US_andronache.heHE.TouViouTinThalassan.notmetered
 meMA.Ode6C21.incipit = "Being filled with illumination and…"
 meMA.Ode6C21.text = "Being filled with illumination and going up to the height of the virtues, you looked down upon all earthly things and became a heavenly pillar and a light of piety."
@@ -385,6 +396,7 @@ meMA.Ode6C2T.text = "All the prophets conspicuously saw what would later come to
 
 meMA.Ode6H.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode6H.greekmelody = he.h.m6_en_US_andronache.heHE.TouViouTinThalassan.greekname
 meMA.Ode6H.melody = he.h.m6_en_US_andronache.heHE.TouViouTinThalassan.melody
 meMA.Ode6H.incipit = he.h.m6_en_US_andronache.heHE.TouViouTinThalassan.incipit
 meMA.Ode6H.text = he.h.m6_en_US_andronache.heHE.TouViouTinThalassan.text
@@ -398,6 +410,7 @@ meMA.Oikos1.text = "By the light of your illumination, my Savior, cleanse the cl
 
 meMA.Ode7C11.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode7C11.greekmelody = he.h.m8_en_US_andronache.heHE.OiEkTisIoudaias.greekname
 meMA.Ode7C11.melody = he.h.m8_en_US_andronache.heHE.OiEkTisIoudaias.notmetered
 meMA.Ode7C11.incipit = "Let the flock mindfully sound…"
 meMA.Ode7C11.text = "Let the flock mindfully sound the trumpet and make a beautiful trumpet sound for the contests of Ananias the shepherd, crying to its chief-shepherd Christ: O God of our fathers, you are blessed."
@@ -422,6 +435,7 @@ meMA.Ode7C1T.text = "You have appeared incarnate from a virginal womb for our sa
 
 meMA.Ode7C21.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C21.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode7C21.greekmelody = he.h.m6_en_US_andronache.heHE.OiPaidesEnVavyloni.greekname
 meMA.Ode7C21.melody = he.h.m6_en_US_andronache.heHE.OiPaidesEnVavyloni.notmetered
 meMA.Ode7C21.incipit = "You have Mary the Theotokos…"
 meMA.Ode7C21.text = "You have Mary the Theotokos for a teacher, godly-minded one, making you understand, strengthening you, and urging you to sing: O God of our fathers, you are blessed."
@@ -446,6 +460,7 @@ meMA.Ode7C2T.text = "Now all the generations of human beings bless you, pure The
 
 meMA.Ode8C11.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode8C11.greekmelody = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.greekname
 meMA.Ode8C11.melody = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.notmetered
 meMA.Ode8C11.incipit = "The glorious Ananias thought that…"
 meMA.Ode8C11.text = "The glorious Ananias thought that he heard wrong, Master, about the change beyond understanding of the one who sought to destroy your flock with great power, into a shepherd. Therefore, leaping for joy he cried: All you servants bless Him, all you priests sing His praises, and people all exalt Christ beyond measure to the ages."
@@ -470,6 +485,7 @@ meMA.Ode8C1T.text = "You who save in need and fervently protect all in afflictio
 
 meMA.Ode8C21.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode8C21.greekmelody = he.h.m6_en_US_andronache.heHE.NomonPatroon.greekname
 meMA.Ode8C21.melody = he.h.m6_en_US_andronache.heHE.NomonPatroon.notmetered
 meMA.Ode8C21.incipit = "Having shaken off all the…"
 meMA.Ode8C21.text = "Having shaken off all the pleasure, luxury, and glory of the world, you gave wings to your soul and went up towards the dwellings on high and their glories and brightness, wise one, to the unspeakable beauty, and the things which abide there, to the light of the godhead, crying: We exalt you beyond measure, O Christ, unto the ages."
@@ -494,12 +510,14 @@ meMA.Ode8C2T.text = "When the most crooked serpent, the slayer of mortals, caugh
 
 meMA.Ode8H.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode8H.greekmelody = he.h.m6_en_US_andronache.heHE.NomonPatroon.greekname
 meMA.Ode8H.melody = he.h.m6_en_US_andronache.heHE.NomonPatroon.melody
 meMA.Ode8H.incipit = he.h.m6_en_US_andronache.heHE.NomonPatroon.incipit
 meMA.Ode8H.text = he.h.m6_en_US_andronache.heHE.NomonPatroon.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode9C11.greekmelody = he.h.m8_en_US_andronache.heHE.SeTinApeirogamon.greekname
 meMA.Ode9C11.melody = he.h.m8_en_US_andronache.heHE.SeTinApeirogamon.notmetered
 meMA.Ode9C11.incipit = "All-famous one, you dispelled the…"
 meMA.Ode9C11.text = "All-famous one, you dispelled the darkness of ignorance and truly shone brilliantly with tri-hypostatic light in Damascus. Therefore as a father who loves his children and a loving chief-shepherd guard it in the right faith."
@@ -524,6 +542,7 @@ meMA.Ode9C1T.text = "Pure, spotless, the vessel of sweet fragrance, ask Christ w
 
 meMA.Ode9C21.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C21.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode9C21.greekmelody = he.h.m2_en_US_andronache.heHE.AporeiPasaGlossa.greekname
 meMA.Ode9C21.melody = he.h.m2_en_US_andronache.heHE.AporeiPasaGlossa.notmetered
 meMA.Ode9C21.incipit = "You were joined to the…"
 meMA.Ode9C21.text = "You were joined to the choirs of the bodiless on high, glorified one, where there is uninterrupted joy and continuous enjoyment, where there is the light and joy of the godhead and where there is unspeakable glory, most blessed one."
@@ -554,6 +573,7 @@ meMA.Ode9C2T.text = "The human race became prisoner because of the fall of the f
 
 meMA.Ode9H.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Ode9H.greekmelody = he.h.m2_en_US_andronache.heHE.AporeiPasaGlossa.greekname
 meMA.Ode9H.melody = he.h.m2_en_US_andronache.heHE.AporeiPasaGlossa.melody
 meMA.Ode9H.incipit = he.h.m2_en_US_andronache.heHE.AporeiPasaGlossa.incipit
 meMA.Ode9H.text = he.h.m2_en_US_andronache.heHE.AporeiPasaGlossa.text

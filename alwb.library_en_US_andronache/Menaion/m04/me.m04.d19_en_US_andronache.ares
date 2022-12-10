@@ -58,12 +58,14 @@ meMA.C1.verse = //prayers_en_US_andronache.pr.verse_SaintM.text
 
 meMA.Ode1C1H.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode1C1H.greekmelody = he.h.m4_en_US_andronache.heHE.AsomaiSoiKyrie.greekname
 meMA.Ode1C1H.melody = he.h.m4_en_US_andronache.heHE.AsomaiSoiKyrie.melody
 meMA.Ode1C1H.incipit = he.h.m4_en_US_andronache.heHE.AsomaiSoiKyrie.incipit
 meMA.Ode1C1H.text = he.h.m4_en_US_andronache.heHE.AsomaiSoiKyrie.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode1C11.greekmelody = he.h.m4_en_US_andronache.heHE.AsomaiSoiKyrie.greekname
 meMA.Ode1C11.melody = he.h.m4_en_US_andronache.heHE.AsomaiSoiKyrie.notmetered
 meMA.Ode1C11.incipit = "Come, let us keep the…"
 meMA.Ode1C11.text = "Come, let us keep the yearly feast of the prize-winner, and honoring him with bright songs, let us glorify the one who crowned him."
@@ -88,12 +90,14 @@ meMA.Ode1C1T.text = "Honoring you in songs as the unhewn mountain from which Chr
 
 meMA.Ode3C1H.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode3C1H.greekmelody = he.h.m4_en_US_andronache.heHE.ToxonDynatonIsthenise.greekname
 meMA.Ode3C1H.melody = he.h.m4_en_US_andronache.heHE.ToxonDynatonIsthenise.melody
 meMA.Ode3C1H.incipit = he.h.m4_en_US_andronache.heHE.ToxonDynatonIsthenise.incipit
 meMA.Ode3C1H.text = he.h.m4_en_US_andronache.heHE.ToxonDynatonIsthenise.text
 
 meMA.Ode3C11.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode3C11.greekmelody = he.h.m4_en_US_andronache.heHE.ToxonDynatonIsthenise.greekname
 meMA.Ode3C11.melody = he.h.m4_en_US_andronache.heHE.ToxonDynatonIsthenise.notmetered
 meMA.Ode3C11.incipit = "Honoring the all-illustrious and sacred…"
 meMA.Ode3C11.text = "Honoring the all-illustrious and sacred memory of the prize-winner Paphnutios today with sacred hymns, we celebrate it with gladness."
@@ -133,12 +137,14 @@ meMA.Ode3KathismaSt.text = //oc.m4.d6_en_US_andronache.ocMA.Kathisma23.text
 
 meMA.Ode4C1H.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode4C1H.greekmelody = he.h.m4_en_US_andronache.heHE.TousOuranousIAretiSou.greekname
 meMA.Ode4C1H.melody = he.h.m4_en_US_andronache.heHE.TousOuranousIAretiSou.melody
 meMA.Ode4C1H.incipit = he.h.m4_en_US_andronache.heHE.TousOuranousIAretiSou.incipit
 meMA.Ode4C1H.text = he.h.m4_en_US_andronache.heHE.TousOuranousIAretiSou.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode4C11.greekmelody = he.h.m4_en_US_andronache.heHE.TousOuranousIAretiSou.greekname
 meMA.Ode4C11.melody = he.h.m4_en_US_andronache.heHE.TousOuranousIAretiSou.notmetered
 meMA.Ode4C11.incipit = "We all now celebrate with…"
 meMA.Ode4C11.text = "We all now celebrate with gladness, dancing together with angels and archangels, observing your illustrious memory, prize-winner Paphnutios."
@@ -163,12 +169,14 @@ meMA.Ode4C1T.text = "Being greater than the ranks of Cherubim and having God in 
 
 meMA.Ode5C1H.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode5C1H.greekmelody = he.h.m4_en_US_andronache.heHE.OAnateilasToFos.greekname
 meMA.Ode5C1H.melody = he.h.m4_en_US_andronache.heHE.OAnateilasToFos.melody
 meMA.Ode5C1H.incipit = he.h.m4_en_US_andronache.heHE.OAnateilasToFos.incipit
 meMA.Ode5C1H.text = he.h.m4_en_US_andronache.heHE.OAnateilasToFos.text
 
 meMA.Ode5C11.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode5C11.greekmelody = he.h.m4_en_US_andronache.heHE.OAnateilasToFos.greekname
 meMA.Ode5C11.melody = he.h.m4_en_US_andronache.heHE.OAnateilasToFos.notmetered
 meMA.Ode5C11.incipit = "You who have shown us…"
 meMA.Ode5C11.text = "You who have shown us the memory of the brave one brighter than the sun: glory to you. Glory to you, Jesus, Son of God."
@@ -193,12 +201,14 @@ meMA.Ode5C1T.text = "Creation unceasingly offers you, O Virgin, the saying of th
 
 meMA.Ode6C1H.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode6C1H.greekmelody = he.h.m4_en_US_andronache.heHE.EvoiseProtypon.greekname
 meMA.Ode6C1H.melody = he.h.m4_en_US_andronache.heHE.EvoiseProtypon.melody
 meMA.Ode6C1H.incipit = he.h.m4_en_US_andronache.heHE.EvoiseProtypon.incipit
 meMA.Ode6C1H.text = he.h.m4_en_US_andronache.heHE.EvoiseProtypon.text
 
 meMA.Ode6C11.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode6C11.greekmelody = he.h.m4_en_US_andronache.heHE.EvoiseProtypon.greekname
 meMA.Ode6C11.melody = he.h.m4_en_US_andronache.heHE.EvoiseProtypon.notmetered
 meMA.Ode6C11.incipit = "The grace which has been…"
 meMA.Ode6C11.text = "The grace which has been given to you, all-glorious prize-winner, has been poured out to the ends of the world. Therefore, we all magnify Christ, the giver, with faith."
@@ -229,12 +239,14 @@ meMA.Kontakion1.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode7C1H.greekmelody = he.h.m4_en_US_andronache.heHE.ODiasosasEnPyri.greekname
 meMA.Ode7C1H.melody = he.h.m4_en_US_andronache.heHE.ODiasosasEnPyri.melody
 meMA.Ode7C1H.incipit = he.h.m4_en_US_andronache.heHE.ODiasosasEnPyri.incipit
 meMA.Ode7C1H.text = he.h.m4_en_US_andronache.heHE.ODiasosasEnPyri.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode7C11.greekmelody = he.h.m4_en_US_andronache.heHE.ODiasosasEnPyri.greekname
 meMA.Ode7C11.melody = he.h.m4_en_US_andronache.heHE.ODiasosasEnPyri.notmetered
 meMA.Ode7C11.incipit = "The case of your relics…"
 meMA.Ode7C11.text = "The case of your relics was given to the faithful as a rod of power against the demons, dispensing plentiful healing to all who cry out, O Paphnutios: O God of our Fathers, you are blessed."
@@ -259,12 +271,14 @@ meMA.Ode7C1T.text = "Let us, the faithful, venerate  as the blessed mother of th
 
 meMA.Ode8C1H.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode8C1H.greekmelody = he.h.m4_en_US_andronache.heHE.TonEnMorfiAngelou.greekname
 meMA.Ode8C1H.melody = he.h.m4_en_US_andronache.heHE.TonEnMorfiAngelou.melody
 meMA.Ode8C1H.incipit = he.h.m4_en_US_andronache.heHE.TonEnMorfiAngelou.incipit
 meMA.Ode8C1H.text = he.h.m4_en_US_andronache.heHE.TonEnMorfiAngelou.text
 
 meMA.Ode8C11.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode8C11.greekmelody = he.h.m4_en_US_andronache.heHE.TonEnMorfiAngelou.greekname
 meMA.Ode8C11.melody = he.h.m4_en_US_andronache.heHE.TonEnMorfiAngelou.notmetered
 meMA.Ode8C11.incipit = "Now the bright day of…"
 meMA.Ode8C11.text = "Now the bright day of the prize-winner’s memory flashes light-bearing and most bright. Celebrating it with yearning, we cry out: O people greatly exalt Christ unto the ages."
@@ -289,12 +303,14 @@ meMA.Ode8C1T.text = "Let us hymn unto the ages the only Theotokos, who without s
 
 meMA.Ode9C1H.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode9C1H.greekmelody = he.h.m4_en_US_andronache.heHE.EvaMenToTisParakois.greekname
 meMA.Ode9C1H.melody = he.h.m4_en_US_andronache.heHE.EvaMenToTisParakois.melody
 meMA.Ode9C1H.incipit = he.h.m4_en_US_andronache.heHE.EvaMenToTisParakois.incipit
 meMA.Ode9C1H.text = he.h.m4_en_US_andronache.heHE.EvaMenToTisParakois.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode9C11.greekmelody = he.h.m4_en_US_andronache.heHE.EvaMenToTisParakois.greekname
 meMA.Ode9C11.melody = he.h.m4_en_US_andronache.heHE.EvaMenToTisParakois.notmetered
 meMA.Ode9C11.incipit = "Invincible, all-praised prize-winner, you bestow…"
 meMA.Ode9C11.text = "Invincible, all-praised prize-winner, you bestow abundant grace to all who faithfully come to your divine temple and sing hymns to the Savior and Lord, and celebrate your memory."

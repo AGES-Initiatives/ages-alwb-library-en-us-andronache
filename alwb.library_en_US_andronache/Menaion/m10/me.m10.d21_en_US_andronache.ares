@@ -94,6 +94,7 @@ meMA.C1.verse = //prayers_en_US_andronache.pr.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode1C11.greekmelody = he.h.m2_en_US_andronache.heHE.EnVythoKatestrose.greekname
 meMA.Ode1C11.melody = he.h.m2_en_US_andronache.heHE.EnVythoKatestrose.notmetered
 meMA.Ode1C11.incipit = "Desiring with gladness to praise…"
 meMA.Ode1C11.text = "Desiring with gladness to praise your light-bearing and luminous life, ever intercede that I be illumined with the joy of your brightness and take away the dejection of sins, Father."
@@ -118,6 +119,7 @@ meMA.Ode1C1T.text = "Ever-virgin mother, having made to arise from you the Son w
 
 meMA.Ode3C11.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode3C11.greekmelody = he.h.m2_en_US_andronache.heHE.EnPetraMeTisPisteos.greekname
 meMA.Ode3C11.melody = he.h.m2_en_US_andronache.heHE.EnPetraMeTisPisteos.notmetered
 meMA.Ode3C11.incipit = "You quenched the uprisings of…"
 meMA.Ode3C11.text = "You quenched the uprisings of passions through intense struggles and were healed of them, famous Hillary, as you cry out: There is no one holy as our God and there is no one righteous except for you, Lord."
@@ -142,6 +144,7 @@ meMA.Ode3C1T.text = "He who shaped everything by his will alone, resolved to be 
 
 meMA.Ode3H.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode3H.greekmelody = he.h.m2_en_US_andronache.heHE.EnPetraMeTisPisteos.greekname
 meMA.Ode3H.melody = he.h.m2_en_US_andronache.heHE.EnPetraMeTisPisteos.melody
 meMA.Ode3H.incipit = he.h.m2_en_US_andronache.heHE.EnPetraMeTisPisteos.incipit
 meMA.Ode3H.text = he.h.m2_en_US_andronache.heHE.EnPetraMeTisPisteos.text
@@ -163,6 +166,7 @@ meMA.Ode3KathismaSt.text = //me.m10.d12_en_US_andronache.meMA.Ode3KathismaSt.tex
 
 meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode4C11.greekmelody = he.h.m2_en_US_andronache.heHE.YmnoSeAkoi.greekname
 meMA.Ode4C11.melody = he.h.m2_en_US_andronache.heHE.YmnoSeAkoi.notmetered
 meMA.Ode4C11.incipit = "Having mortified the mind of…"
 meMA.Ode4C11.text = "Having mortified the mind of the flesh, venerable Hillary, and fleeing the winter-flood of lawlessness and the craftiness of the demons, you rest with the righteous in the peace of the divine Spirit, Father."
@@ -187,6 +191,7 @@ meMA.Ode4C1T.text = "Blessed mother of God we perceive you as temple and soul-fi
 
 meMA.Ode5C11.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode5C11.greekmelody = he.h.m2_en_US_andronache.heHE.OFotismos.greekname
 meMA.Ode5C11.melody = he.h.m2_en_US_andronache.heHE.OFotismos.notmetered
 meMA.Ode5C11.incipit = "As lightning by the purity…"
 meMA.Ode5C11.text = "As lightning by the purity of life and being alike in conduct to the bodiless powers, you shone in the world and drove away the ruler of those in darkness, being illumined with the light of piety, O you who are blessed by God."
@@ -211,6 +216,7 @@ meMA.Ode5C1T.text = "You gave birth for us in a manner beyond describing to a hy
 
 meMA.Ode6C11.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode6C11.greekmelody = he.h.m2_en_US_andronache.heHE.EnAvyssoPtaismaton.greekname
 meMA.Ode6C11.melody = he.h.m2_en_US_andronache.heHE.EnAvyssoPtaismaton.notmetered
 meMA.Ode6C11.incipit = "Adoring the monarchy of the…"
 meMA.Ode6C11.text = "Adoring the monarchy of the Godhead, you put to shame the one who ruled over many in anarchy and abolished the impiety of idolatry by grace, godly-minded one."
@@ -235,6 +241,7 @@ meMA.Ode6C1T.text = "You conceived without the help of man, O Virgin and ever-re
 
 meMA.Ode6H.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode6H.greekmelody = he.h.m2_en_US_andronache.heHE.EnAvyssoPtaismaton.greekname
 meMA.Ode6H.melody = he.h.m2_en_US_andronache.heHE.EnAvyssoPtaismaton.melody
 meMA.Ode6H.incipit = he.h.m2_en_US_andronache.heHE.EnAvyssoPtaismaton.incipit
 meMA.Ode6H.text = he.h.m2_en_US_andronache.heHE.EnAvyssoPtaismaton.text
@@ -248,6 +255,7 @@ meMA.Oikos1.text = "Having loved the divine commandments of Christ and hating th
 
 meMA.Ode7C11.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode7C11.greekmelody = he.h.m2_en_US_andronache.heHE.AntitheonProstagma.greekname
 meMA.Ode7C11.melody = he.h.m2_en_US_andronache.heHE.AntitheonProstagma.notmetered
 meMA.Ode7C11.incipit = "The sound of your words…"
 meMA.Ode7C11.text = "The sound of your words and the divine grace of your wonders went out into all the earth, venerable father. Shining to all the faithful the gladness of healings by the fire of godliness."
@@ -272,6 +280,7 @@ meMA.Ode7C1T.text = "A virgin cloud bore you, the sun of righteousness, remainin
 
 meMA.Ode8C11.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode8C11.greekmelody = he.h.m2_en_US_andronache.heHE.KaminosPote.greekname
 meMA.Ode8C11.melody = he.h.m2_en_US_andronache.heHE.KaminosPote.notmetered
 meMA.Ode8C11.incipit = "You truly became a throne…"
 meMA.Ode8C11.text = "You truly became a throne of perception, being illumined with divine understanding and being guided in a godly-minded way by divine commandments and shining with virtue, venerable Hillary, the adornment of ascetics."
@@ -296,12 +305,14 @@ meMA.Ode8C1T.text = "Virgin, you bore a son named noetic myrrh that has been pou
 
 meMA.Ode8H.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode8H.greekmelody = he.h.m2_en_US_andronache.heHE.KaminosPote.greekname
 meMA.Ode8H.melody = he.h.m2_en_US_andronache.heHE.KaminosPote.melody
 meMA.Ode8H.incipit = he.h.m2_en_US_andronache.heHE.KaminosPote.incipit
 meMA.Ode8H.text = he.h.m2_en_US_andronache.heHE.KaminosPote.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode9C11.greekmelody = he.h.m2_en_US_andronache.heHE.AnarchouGennitoros.greekname
 meMA.Ode9C11.melody = he.h.m2_en_US_andronache.heHE.AnarchouGennitoros.notmetered
 meMA.Ode9C11.incipit = "You were made worthy to…"
 meMA.Ode9C11.text = "You were made worthy to dance in the dwellings of the saints; you finished your life in a holy manner, venerable one, and by appearing righteous a three-fold light arose for you and joy, its yoke-mate, received you."
@@ -326,6 +337,7 @@ meMA.Ode9C1T.text = "You were a bridal chamber of the incarnation beyond underst
 
 meMA.Ode9H.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Ode9H.greekmelody = he.h.m2_en_US_andronache.heHE.AnarchouGennitoros.greekname
 meMA.Ode9H.melody = he.h.m2_en_US_andronache.heHE.AnarchouGennitoros.melody
 meMA.Ode9H.incipit = he.h.m2_en_US_andronache.heHE.AnarchouGennitoros.incipit
 meMA.Ode9H.text = he.h.m2_en_US_andronache.heHE.AnarchouGennitoros.text

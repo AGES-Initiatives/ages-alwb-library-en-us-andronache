@@ -136,6 +136,7 @@ meMA.C2.verse = //prayers_en_US_andronache.pr.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode1C11.greekmelody = he.h.m4_en_US_andronache.heHE.AnoixoToStomaMou.greekname
 meMA.Ode1C11.melody = he.h.m4_en_US_andronache.heHE.AnoixoToStomaMou.notmetered
 meMA.Ode1C11.incipit = "As I honor your memory…"
 meMA.Ode1C11.text = "As I honor your memory and your noble struggles, all-famous Menas, entreat that a light-giving ray be sent to me from on high, chasing away the cloud of my ignorance."
@@ -160,6 +161,7 @@ meMA.Ode1C1T.text = "As a soul-endowed table, you held within yourself the bread
 
 meMA.Ode1C21.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode1C21.greekmelody = he.h.m8_en_US_andronache.heHE.ArmatilatinFarao.greekname
 meMA.Ode1C21.melody = he.h.m8_en_US_andronache.heHE.ArmatilatinFarao.notmetered
 meMA.Ode1C21.incipit = "…"
 meMA.Ode1C21.text = ""
@@ -190,6 +192,7 @@ meMA.Ode1C2T.text = ""
 
 meMA.Ode3C11.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode3C11.greekmelody = he.h.m4_en_US_andronache.heHE.OukEnSofia.greekname
 meMA.Ode3C11.melody = he.h.m4_en_US_andronache.heHE.OukEnSofia.notmetered
 meMA.Ode3C11.incipit = "The tyrant, having been agitated…"
 meMA.Ode3C11.text = "The tyrant, having been agitated by your all-wise words, flogs you unsparingly with cords of raw ox tendons, thinking by these to bend you down, O Menas."
@@ -214,6 +217,7 @@ meMA.Ode3C1T.text = "The one who took flesh from you, all-blameless one, lifted 
 
 meMA.Ode3C21.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C21.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3C21.greekmelody = he.h.m8_en_US_andronache.heHE.OStereosasKatArchas.greekname
 meMA.Ode3C21.melody = he.h.m8_en_US_andronache.heHE.OStereosasKatArchas.notmetered
 meMA.Ode3C21.incipit = "…"
 meMA.Ode3C21.text = ""
@@ -238,6 +242,7 @@ meMA.Ode3C2T.text = ""
 
 meMA.Ode3H.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3H.greekmelody = he.h.m8_en_US_andronache.heHE.OStereosasKatArchas.greekname
 meMA.Ode3H.melody = he.h.m8_en_US_andronache.heHE.OStereosasKatArchas.melody
 meMA.Ode3H.incipit = he.h.m8_en_US_andronache.heHE.OStereosasKatArchas.incipit
 meMA.Ode3H.text = he.h.m8_en_US_andronache.heHE.OStereosasKatArchas.text
@@ -269,6 +274,7 @@ meMA.Ode3KathismaSt.text = me.m01.d29_en_US_andronache.meMA.Ode3KathismaSt.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode4C11.greekmelody = he.h.m4_en_US_andronache.heHE.OKathimenosEnDoxi.greekname
 meMA.Ode4C11.melody = he.h.m4_en_US_andronache.heHE.OKathimenosEnDoxi.notmetered
 meMA.Ode4C11.incipit = "By the sprinkling of your…"
 meMA.Ode4C11.text = "By the sprinkling of your blood, the fires of polytheism were put out, the army of demons was overwhelmed, and the church of Christ was irrigated, all-blessed athlete, Menas worthy of praise."
@@ -293,6 +299,7 @@ meMA.Ode4C1T.text = "You brought forth God in the flesh in an unutterable manner
 
 meMA.Ode4C21.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode4C21.greekmelody = he.h.m8_en_US_andronache.heHE.SyMouIschys.greekname
 meMA.Ode4C21.melody = he.h.m8_en_US_andronache.heHE.SyMouIschys.notmetered
 meMA.Ode4C21.incipit = "…"
 meMA.Ode4C21.text = ""
@@ -317,6 +324,7 @@ meMA.Ode4C2T.text = ""
 
 meMA.Ode5C11.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode5C11.greekmelody = he.h.m4_en_US_andronache.heHE.AseveisOukOpsontai.greekname
 meMA.Ode5C11.melody = he.h.m4_en_US_andronache.heHE.AseveisOukOpsontai.notmetered
 meMA.Ode5C11.incipit = "You shone forth brightly with…"
 meMA.Ode5C11.text = "You shone forth brightly with rays of martyrdom, darkening the gloominess of godlessness, all-wise one, and you illumined the fullness of the faithful, all-famous athlete Menas."
@@ -335,6 +343,7 @@ meMA.Ode5C1T.text = "Born from you beyond nature, the redeemer renews me, the co
 
 meMA.Ode5C21.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C21.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode5C21.greekmelody = he.h.m8_en_US_andronache.heHE.InaTiMeAposo.greekname
 meMA.Ode5C21.melody = he.h.m8_en_US_andronache.heHE.InaTiMeAposo.notmetered
 meMA.Ode5C21.incipit = "…"
 meMA.Ode5C21.text = ""
@@ -359,6 +368,7 @@ meMA.Ode5C2T.text = ""
 
 meMA.Ode6C11.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode6C11.greekmelody = he.h.m4_en_US_andronache.heHE.EvoiseProtypon.greekname
 meMA.Ode6C11.melody = he.h.m4_en_US_andronache.heHE.EvoiseProtypon.notmetered
 meMA.Ode6C11.incipit = "You remain consumed painlessly in…"
 meMA.Ode6C11.text = "You remain consumed painlessly in fire and having your sides rubbed with hair rags, for the divine grace, being with you, strengthened you."
@@ -383,6 +393,7 @@ meMA.Ode6C1T.text = "Heal the incurable passions of my soul, all-blameless one, 
 
 meMA.Ode6C21.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C21.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode6C21.greekmelody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.greekname
 meMA.Ode6C21.melody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.notmetered
 meMA.Ode6C21.incipit = "…"
 meMA.Ode6C21.text = ""
@@ -407,6 +418,7 @@ meMA.Ode6C2T.text = ""
 
 meMA.Ode6H.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode6H.greekmelody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.greekname
 meMA.Ode6H.melody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.melody
 meMA.Ode6H.incipit = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.incipit
 meMA.Ode6H.text = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.text
@@ -420,6 +432,7 @@ meMA.Oikos2.text = "The memory of the martyrs is for us a cause of great joy, sh
 
 meMA.Ode7C11.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode7C11.greekmelody = he.h.m4_en_US_andronache.heHE.ODiasosasEnPyri.greekname
 meMA.Ode7C11.melody = he.h.m4_en_US_andronache.heHE.ODiasosasEnPyri.notmetered
 meMA.Ode7C11.incipit = "Through blows you put off…"
 meMA.Ode7C11.text = "Through blows you put off your skin-garments of sin and you put on the robe which does not grow old, blessed one, which was woven by the grace which appeared."
@@ -444,6 +457,7 @@ meMA.Ode7C1T.text = "Blessed is the fruit of your womb, whom the powers of heave
 
 meMA.Ode7C21.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C21.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode7C21.greekmelody = he.h.m8_en_US_andronache.heHE.TheouSynkatavasin.greekname
 meMA.Ode7C21.melody = he.h.m8_en_US_andronache.heHE.TheouSynkatavasin.notmetered
 meMA.Ode7C21.incipit = "…"
 meMA.Ode7C21.text = ""
@@ -468,6 +482,7 @@ meMA.Ode7C2T.text = ""
 
 meMA.Ode8C11.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode8C11.greekmelody = he.h.m4_en_US_andronache.heHE.PaidasEvageis.greekname
 meMA.Ode8C11.melody = he.h.m4_en_US_andronache.heHE.PaidasEvageis.notmetered
 meMA.Ode8C11.incipit = "You were seen as bread…"
 meMA.Ode8C11.text = "You were seen as bread being baked in the middle of fires, as a blameless burnt sacrifice, a perfect offering, as a soul-endowed temple, wholly burnt and sending up a divine fragrance smelled by God, Menas servant of God."
@@ -492,6 +507,7 @@ meMA.Ode8C1T.text = "He who by a word made the entire creation dwells in your wo
 
 meMA.Ode8C21.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode8C21.greekmelody = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.greekname
 meMA.Ode8C21.melody = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.notmetered
 meMA.Ode8C21.incipit = "…"
 meMA.Ode8C21.text = ""
@@ -522,12 +538,14 @@ meMA.Ode8C2T.text = ""
 
 meMA.Ode8H.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode8H.greekmelody = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.greekname
 meMA.Ode8H.melody = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.melody
 meMA.Ode8H.incipit = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.incipit
 meMA.Ode8H.text = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode9C11.greekmelody = he.h.m4_en_US_andronache.heHE.EvaMenToTisParakois.greekname
 meMA.Ode9C11.melody = he.h.m4_en_US_andronache.heHE.EvaMenToTisParakois.notmetered
 meMA.Ode9C11.incipit = "The earth covered your firm…"
 meMA.Ode9C11.text = "The earth covered your firm body which had struggled, blessed one and heaven bears your spirit rejoicing with the spirits of the martyrs and illumined with most brilliant glory. Therefore, we all bless you."
@@ -552,6 +570,7 @@ meMA.Ode9C1T.text = "You bore God the Logos having taken flesh according to hypo
 
 meMA.Ode9C21.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C21.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode9C21.greekmelody = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.greekname
 meMA.Ode9C21.melody = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.notmetered
 meMA.Ode9C21.incipit = "…"
 meMA.Ode9C21.text = ""
@@ -582,6 +601,7 @@ meMA.Ode9C2T.text = ""
 
 meMA.Ode9H.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode9H.greekmelody = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.greekname
 meMA.Ode9H.melody = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.melody
 meMA.Ode9H.incipit = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.incipit
 meMA.Ode9H.text = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.text
