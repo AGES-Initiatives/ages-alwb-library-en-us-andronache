@@ -20,7 +20,7 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = miscellanea_en_US_andronache.misc.Mode6
-meVE.Stichera01.melody = miscellanea_en_US_andronache.misc.Automelon
+meVE.Stichera01.melody = he.a.m6_en_US_andronache.heAU.OlinApothemenoi.melody
 meVE.Stichera01.incipit = he.a.m6_en_US_andronache.heAU.OlinApothemenoi.incipit
 meVE.Stichera01.text = he.a.m6_en_US_andronache.heAU.OlinApothemenoi.text
 
@@ -112,6 +112,7 @@ meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
 meMA.Kathisma11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Kathisma11.greekmelody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.greekname
 meMA.Kathisma11.melody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.notmetered
 meMA.Kathisma11.incipit = "…"
 meMA.Kathisma11.text = ""
@@ -122,6 +123,7 @@ meMA.Kathisma1T.incipit = "…"
 meMA.Kathisma1T.text = ""
 
 meMA.Kathisma21.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Kathisma21.greekmelody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.greekname
 meMA.Kathisma21.melody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.notmetered
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
@@ -188,6 +190,7 @@ meMA.Ode3C1T.incipit = "Pure holy Lady having given…"
 meMA.Ode3C1T.text = "Pure holy Lady having given a body by a word to the Word who is beyond holy, deliver me from senseless passions, as I piously hymn you with divine words."
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.incipit = "Givers of healings and wonderworkers…"
 meMA.Ode3Kathisma1.text = "Givers of healings and wonderworkers, light-giving lamps of wonders, you were shown to all by the grace of the Spirit, quenching the flame of the passions of the faithful by faith and you warm up the minds of the faithful by the same faith. Therefore, holding your divine temple as medicine for souls, we run for refuge in it, God-bearing unmercenaries. Entreat Christ God that remission of trespasses be granted to those who fervently celebrate your holy memory."

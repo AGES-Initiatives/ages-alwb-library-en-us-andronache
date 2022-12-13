@@ -110,6 +110,7 @@ meMA.Ode3H.incipit = he.h.m6_en_US_andronache.heHE.OukEstinAgios.incipit
 meMA.Ode3H.text = he.h.m6_en_US_andronache.heHE.OukEstinAgios.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode3
+meMA.Ode3Kathisma1.greekmelody = he.a.m3_en_US_andronache.heAU.TheiasPisteos.greekname
 meMA.Ode3Kathisma1.melody = he.a.m3_en_US_andronache.heAU.TheiasPisteos.notmetered
 meMA.Ode3Kathisma1.incipit = "Having received divine illumination from…"
 meMA.Ode3Kathisma1.text = "Having received divine illumination from the Lord you clearly preach that the King of glory will come from Sion, bringing forth redemption and shining eternally-living light upon the ends of the world. Earnestly beseech him that great mercy be granted unto us."

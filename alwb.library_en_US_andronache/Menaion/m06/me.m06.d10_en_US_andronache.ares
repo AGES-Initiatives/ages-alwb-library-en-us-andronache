@@ -112,6 +112,7 @@ meMA.Ode3H.incipit = he.h.m1_en_US_andronache.heHE.OMonosEidos.incipit
 meMA.Ode3H.text = he.h.m1_en_US_andronache.heHE.OMonosEidos.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode3Kathisma1.greekmelody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.greekname
 meMA.Ode3Kathisma1.melody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.notmetered
 meMA.Ode3Kathisma1.incipit = "The wondrous pair of august…"
 meMA.Ode3Kathisma1.text = "The wondrous pair of august prize-winners, who firmly endured the fire of torments, now stands in glory, interceding with the Trinity that grace, mercy, and forgiveness of sins be given to those who celebrate their glorious memory in spirit."

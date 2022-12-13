@@ -253,11 +253,13 @@ meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.incipit = "Egypt, who had been held…"
 meMA.Ode3Kathisma1.text = "Egypt, who had been held by the terrible darkness of ignorance, godly-minded martyr Menas, made you rise up as a luminary for the whole world, quickly driving away the night of godlessness with the arrows of you divine struggles. Therefore, brightly celebrating your august day, we earnestly cry out to you, the adornment of athletes: ever intercede with Christ God that remission of transgressions be granted to those who fervently celebrate your holy memory."
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_andronache.misc.Mode3
+meMA.Ode3Kathisma2.greekmelody = he.a.m3_en_US_andronache.heAU.TheiasPisteos.greekname
 meMA.Ode3Kathisma2.melody = he.a.m3_en_US_andronache.heAU.TheiasPisteos.notmetered
 meMA.Ode3Kathisma2.incipit = "You were rich in divine…"
 meMA.Ode3Kathisma2.text = "You were rich in divine dogmas, you saved the faith of Orthodoxy, having been in danger for it, O Theodore; you struggled in exiles and whippings and you were steadfast in prison for the wicked. Venerable Father, ever beseech Christ God that great mercy be granted unto us."

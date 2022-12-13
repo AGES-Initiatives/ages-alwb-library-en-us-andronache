@@ -184,11 +184,13 @@ meMA.Ode3H.incipit = he.h.m8_en_US_andronache.heHE.OuraniasApsidos.incipit
 meMA.Ode3H.text = he.h.m8_en_US_andronache.heHE.OuraniasApsidos.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.incipit = "Wise one, you seemed to…"
 meMA.Ode3Kathisma1.text = "Wise one, you seemed to us to be another Symeon, for you lifted up your body  from the earth onto a pillar, Father Alypios, and you put to flight the ranks of the bitterly bewailing demons, godly minded one, and you banished them into the abysses. Therefore you were shown to be a divine adornment, the boast of the Fathers, the support of monastics and in faith we cry to you: Ever intercede with Christ God that remission of offenses be given to those who fervently celebrate your holy memory."
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode3Kathisma2.greekmelody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.greekname
 meMA.Ode3Kathisma2.melody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.notmetered
 meMA.Ode3Kathisma2.incipit = "You imitated the sacred zeal…"
 meMA.Ode3Kathisma2.text = "You imitated the sacred zeal of the Baptist, and you preached to the world the fearful second coming of the Creator and cried out to all, our venerable father: Now, from perfected hearts, bring worthy fruits of repentance to the Lord."

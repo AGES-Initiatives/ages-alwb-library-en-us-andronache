@@ -211,11 +211,13 @@ meMA.Ode3H.incipit = he.h.m8_en_US_andronache.heHE.OStereosasLogo.incipit
 meMA.Ode3H.text = he.h.m8_en_US_andronache.heHE.OStereosasLogo.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.incipit = "Being an august son of…"
 meMA.Ode3Kathisma1.text = "Being an august son of piety, you were shown as a diminisher of impiety, O all-famous Mammas, by the power of the Spirit, for in the stadium you refuted the deception of the idols and with good courage you preached that the Trinity should be hymned. Therefore you were given to the beasts, o prize-bearer and you put to death the pursuer dragon, the beginner of evil. Therefore we cry to you: Ever intercede with Christ God that remission of transgressions be granted to those who fervently celebrate your holy memory."
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_andronache.misc.Mode3
+meMA.Ode3Kathisma2.greekmelody = he.a.m3_en_US_andronache.heAU.TheiasPisteos.greekname
 meMA.Ode3Kathisma2.melody = he.a.m3_en_US_andronache.heAU.TheiasPisteos.notmetered
 meMA.Ode3Kathisma2.incipit = "You were shown to be…"
 meMA.Ode3Kathisma2.text = "You were shown to be a divine vessel of self-control, inviolate treasure of piety, blessed John, making your life shine forth with dispassion, and pouring forth mercy to the needy, venerable Father. Beseech Christ God that great mercy be granted to us."

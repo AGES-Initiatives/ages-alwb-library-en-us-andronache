@@ -215,11 +215,13 @@ meMA.Ode3H.incipit = he.h.m8_en_US_andronache.heHE.SyEiToStereoma.incipit
 meMA.Ode3H.text = he.h.m8_en_US_andronache.heHE.SyEiToStereoma.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode3Kathisma1.greekmelody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.greekname
 meMA.Ode3Kathisma1.melody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.notmetered
 meMA.Ode3Kathisma1.incipit = "Your blood, wise one, cried…"
 meMA.Ode3Kathisma1.text = "Your blood, wise one, cried out mystically from the earth towards God as that of Abel, godly-minded one, for you clearly preached the uncreated Trinity. Therefore, O Anthimos, you were prominent among shepherds and you drove off the beasts of the heresies as a guardian of the faith."
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode3Kathisma2.greekmelody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.greekname
 meMA.Ode3Kathisma2.melody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.notmetered
 meMA.Ode3Kathisma2.incipit = "You were proclaimed a leader…"
 meMA.Ode3Kathisma2.text = "You were proclaimed a leader of the fathers and most clearly became a light to the world, Venerable Father Theoktistos. Therefore we unceasingly honor your memory."

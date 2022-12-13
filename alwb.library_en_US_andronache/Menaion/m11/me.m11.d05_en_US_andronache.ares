@@ -114,6 +114,7 @@ meMA.Ode3H.incipit = he.h.m6_en_US_andronache.heHE.OukEstinAgios.incipit
 meMA.Ode3H.text = he.h.m6_en_US_andronache.heHE.OukEstinAgios.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.greekname
 meMA.Ode3Kathisma1.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.notmetered
 meMA.Ode3Kathisma1.incipit = "By ascetic struggles you illumined…"
 meMA.Ode3Kathisma1.text = "By ascetic struggles you illumined the eye of your soul; by the ray of your contest you give light to the faithful, blessed Galaktion. Therefore with faith we celebrate your holy and light-bearing memory, piously crying out to you: As one having boldness towards Christ, intercede that we be saved."

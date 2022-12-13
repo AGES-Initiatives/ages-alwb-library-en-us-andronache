@@ -225,11 +225,13 @@ meMA.Ode3H.incipit = he.h.m6_en_US_andronache.heHE.OukEstinAgios.incipit
 meMA.Ode3H.text = he.h.m6_en_US_andronache.heHE.OukEstinAgios.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode3Kathisma1.greekmelody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.greekname
 meMA.Ode3Kathisma1.melody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.notmetered
 meMA.Ode3Kathisma1.incipit = "You were seen as a…"
 meMA.Ode3Kathisma1.text = "You were seen as a partaker of the passion of Christ, wise Apostle and as beholder of the Logos, for you drank the cup and were perfected through blood. But being a sharer of the throne and an inheritor, intercede fervently with Him for the peace of the world, for he is a lover of mankind."
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_andronache.misc.Mode5
+meMA.Ode3Kathisma2.greekmelody = he.a.m5_en_US_andronache.heAU.TonSynanarchonLogon.greekname
 meMA.Ode3Kathisma2.melody = he.a.m5_en_US_andronache.heAU.TonSynanarchonLogon.notmetered
 meMA.Ode3Kathisma2.incipit = "You taught the world that…"
 meMA.Ode3Kathisma2.text = "You taught the world that the Logos coeternal with the Father and the Spirit is coessential with them, truly illumined the faithful and destroying the quarrel of terrible heresies you stand with the Lord interceding for us, who hymn you, admirable Romanos."

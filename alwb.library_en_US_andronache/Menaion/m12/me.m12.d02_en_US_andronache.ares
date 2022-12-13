@@ -128,6 +128,7 @@ meMA.Ode3H.incipit = he.h.m4_en_US_andronache.heHE.ToxonDynatonIsthenise.incipit
 meMA.Ode3H.text = he.h.m4_en_US_andronache.heHE.ToxonDynatonIsthenise.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_andronache.heAU.OYpsotheisEnToStavro.greekname
 meMA.Ode3Kathisma1.melody = he.a.m4_en_US_andronache.heAU.OYpsotheisEnToStavro.notmetered
 meMA.Ode3Kathisma1.incipit = "You stood on the divine…"
 meMA.Ode3Kathisma1.text = "You stood on the divine watch, blessed one, and understood the coming of God through prophetic eyes, God-inspired one and therefore you cried out with fear, O Habakkuk: I have heard, Lord, your fearful coming and I hymn you as you will to wear earthly flesh from the Virgin."

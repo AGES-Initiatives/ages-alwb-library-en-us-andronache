@@ -139,11 +139,13 @@ meMA.Ode3H.incipit = "…"
 meMA.Ode3H.text = ""//he.h.m8_en_US_andronache.heHE.SyEiToStereoma.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode3Kathisma1.greekmelody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.greekname
 meMA.Ode3Kathisma1.melody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.notmetered
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode3Kathisma2.greekmelody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.greekname
 meMA.Ode3Kathisma2.melody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.notmetered
 meMA.Ode3Kathisma2.incipit = "Longing after Christ who is…"
 meMA.Ode3Kathisma2.text = "Longing after Christ who is handsome in beauty, you quickly proceeded to the greatest struggles, through which you utterly put the originator of evil to death. Deliver me from his tangled snares, guiding me, Fevronia, by your prayers to divine repentance."

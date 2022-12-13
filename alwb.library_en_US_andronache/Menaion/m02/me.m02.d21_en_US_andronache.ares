@@ -131,12 +131,13 @@ meMA.Ode3C1T.incipit = "Pure virgin, birth-giver of the…"
 meMA.Ode3C1T.text = "Pure virgin, birth-giver of the king of those who rule, break the ropes of my transgressions and guide me to the paths of repentance by your intercessions."
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.greekname
 meMA.Ode3Kathisma1.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.notmetered
 meMA.Ode3Kathisma1.incipit = "You were faithfully shown to…"
 meMA.Ode3Kathisma1.text = "You were faithfully shown to be a virgin in the body and were most faithful to the Maker, our venerable Father; therefore you rejoice with the choirs of wise virgins and the dance for joy with the venerable Fathers in faith for to us you have been shown to pour forth miracles."
 
 meMA.Ode3KathismaT.mode = miscellanea_en_US_andronache.misc.Mode4
-meMA.Ode3KathismaT.melody = miscellanea_en_US_andronache.misc.Automelon
+meMA.Ode3KathismaT.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.melody
 meMA.Ode3KathismaT.incipit = he.a.m4_en_US_andronache.heAU.TachyProkatalave.incipit
 meMA.Ode3KathismaT.text = he.a.m4_en_US_andronache.heAU.TachyProkatalave.text
 

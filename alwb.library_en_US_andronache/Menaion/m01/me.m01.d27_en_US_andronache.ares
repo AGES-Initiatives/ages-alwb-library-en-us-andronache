@@ -94,6 +94,7 @@ meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = //me.m11.d13_en_US_andronache.meVE.Apolytikion1.text
 
 meMA.Kathisma11.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Kathisma11.greekmelody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.greekname
 meMA.Kathisma11.melody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.notmetered
 meMA.Kathisma11.incipit = "…"
 meMA.Kathisma11.text = ""
@@ -104,6 +105,7 @@ meMA.Kathisma1T.incipit = "…"
 meMA.Kathisma1T.text = ""
 
 meMA.Kathisma21.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Kathisma21.greekmelody = he.a.m4_en_US_andronache.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kathisma21.melody = he.a.m4_en_US_andronache.heAU.OYpsotheisEnToStavro.notmetered
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
@@ -114,12 +116,13 @@ meMA.Kathisma2T.incipit = me.m01.d21_en_US_andronache.meMA.Ode3KathismaT.incipit
 meMA.Kathisma2T.text = me.m01.d21_en_US_andronache.meMA.Ode3KathismaT.text
 
 meMA.Kathisma31.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Kathisma31.greekmelody = he.a.m4_en_US_andronache.heAU.KateplagiIosif.greekname
 meMA.Kathisma31.melody = he.a.m4_en_US_andronache.heAU.KateplagiIosif.notmetered
 meMA.Kathisma31.incipit = "…"
 meMA.Kathisma31.text = ""
 
 meMA.Kathisma3T.mode = miscellanea_en_US_andronache.misc.Mode4
-meMA.Kathisma3T.melody = miscellanea_en_US_andronache.misc.Automelon
+meMA.Kathisma3T.melody = he.a.m4_en_US_andronache.heAU.KateplagiIosif.melody
 meMA.Kathisma3T.incipit = he.a.m4_en_US_andronache.heAU.KateplagiIosif.incipit
 meMA.Kathisma3T.text = he.a.m4_en_US_andronache.heAU.KateplagiIosif.text
 
@@ -321,6 +324,7 @@ meMA.Ode3C3T.incipit = "…"
 meMA.Ode3C3T.text = ""
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.incipit = "Having learned wisdom from on…"
 meMA.Ode3Kathisma1.text = "Having learned wisdom from on high and acquired the gift of oratory from God, you shone for all as gold in a furnace, you preached the Holy Trinity as a monad, and you shot down the deceit of love of money with your words. Therefore having reproved the queen with zeal, you were unrighteously taken away from your flock, blessed John Chrysostom. Ever intercede with Christ God that remission of transgressions be granted to those who fervently celebrate your holy memory."

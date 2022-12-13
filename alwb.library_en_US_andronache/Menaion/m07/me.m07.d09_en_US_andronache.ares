@@ -114,6 +114,7 @@ meMA.Ode3H.incipit = "…"
 meMA.Ode3H.text = //he.h.m1_en_US_andronache.heHE.StereothitoIKardiaMou.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.greekname
 meMA.Ode3Kathisma1.melody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.notmetered
 meMA.Ode3Kathisma1.incipit = "Champion of piety, trophy-bearer, hallowed…"
 meMA.Ode3Kathisma1.text = "Champion of piety, trophy-bearer, hallowed Pankratios, you were shown to be in heaven, standing now with the bodiless, praying to Christ that we be saved."

@@ -37,7 +37,7 @@ meVE.Stichera03.text = "The case of your relics pours out waters of healings lik
 
 meVE.SticTheotokion.mode = miscellanea_en_US_andronache.misc.Mode1
 meVE.SticTheotokion.greekmelody = he.a.m1_en_US_andronache.heAU.TonOuranionTagmaton.greekname
-meVE.SticTheotokion.melody = miscellanea_en_US_andronache.misc.Automelon
+meVE.SticTheotokion.melody = he.a.m1_en_US_andronache.heAU.TonOuranionTagmaton.melody
 meVE.SticTheotokion.incipit = he.a.m1_en_US_andronache.heAU.TonOuranionTagmaton.incipit
 meVE.SticTheotokion.text = he.a.m1_en_US_andronache.heAU.TonOuranionTagmaton.text
 
@@ -121,6 +121,7 @@ meMA.Ode3C1T.incipit = "Rejoice, unwedded mother, who held…"
 meMA.Ode3C1T.text = "Rejoice, unwedded mother, who held in your womb the Logos of God, and gave birth to Him in the flesh as both God and man."
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.greekname
 meMA.Ode3Kathisma1.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.notmetered
 meMA.Ode3Kathisma1.incipit = "You dyed your sacred robe…"
 meMA.Ode3Kathisma1.text = "You dyed your sacred robe in blood; you brought yourself as an acceptable sacrifice to God, glorious Paphnutios. You dashed the demons boldness, gladdening the angels by your steadfast resistance. Therefore, do not cease earnestly entreating that we be saved."

@@ -216,11 +216,13 @@ meMA.Ode3H.incipit = he.h.m8_en_US_andronache.heHE.SyEiToStereoma.incipit
 meMA.Ode3H.text = he.h.m8_en_US_andronache.heHE.SyEiToStereoma.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode5
+meMA.Ode3Kathisma1.greekmelody = he.a.m5_en_US_andronache.heAU.TonSynanarchonLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m5_en_US_andronache.heAU.TonSynanarchonLogon.notmetered
 meMA.Ode3Kathisma1.incipit = "When you suffered persecution for…"
 meMA.Ode3Kathisma1.text = "When you suffered persecution for the faith, you put away every heresy, Father. When you had your hand cut off together with the comely tongue, blessed Maximos, you received a crown from the hand of the Maker, for your confession. Now entreat Him unceasingly to grant mercy to our souls."
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode3Kathisma2.greekmelody = he.a.m4_en_US_andronache.heAU.OYpsotheisEnToStavro.greekname
 meMA.Ode3Kathisma2.melody = he.a.m4_en_US_andronache.heAU.OYpsotheisEnToStavro.notmetered
 meMA.Ode3Kathisma2.incipit = "When you sprang up as…"
 meMA.Ode3Kathisma2.text = "When you sprang up as a plant, new athlete, in the meadow of Christ's athletes, you brought forth fruits of divine knowledge to Christ. Those who honor you with faith are sustained by them, glorious courageously-minded athlete Neophytos. By your intercessions ever save us, as you stand with God."

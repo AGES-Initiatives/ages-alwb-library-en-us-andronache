@@ -123,11 +123,13 @@ meMA.Ode3C1T.incipit = "…"
 meMA.Ode3C1T.text = "O Spotless one, the one whom the angels on high cannot see is seen below, having become a perfect man from you, recovering the world which was perishing."
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = "Beholding noetically your labors and pains, O Wise one, all we faithful are filled with compunction of soul and we are stirred with yearning of heart unto divine hymns and the glory and praise of the Master of all, all-blessed Alexios, and we honor you in hymns and faithfully cry out to you, as a servant of the Lord: Intercede with Christ God that remission of transgressions be granted to those who with longing celebrate your holy memory."
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_andronache.misc.Mode3
+meMA.Ode3Kathisma2.greekmelody = he.a.m3_en_US_andronache.heAU.TinOraiotita.greekname
 meMA.Ode3Kathisma2.melody = he.a.m3_en_US_andronache.heAU.TinOraiotita.notmetered
 meMA.Ode3Kathisma2.incipit = "…"
 meMA.Ode3Kathisma2.text = "You left the delights of the world, venerable one, manifestly exchanging the fleeting riches for unchangeable and enduring ones, O Alexios. Therefore we glorify you with all the saints and we keep a sacred festival in your memory, asking that we receive great mercy through your prayers, O Father."

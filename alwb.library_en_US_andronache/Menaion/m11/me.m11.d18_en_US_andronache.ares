@@ -138,11 +138,13 @@ meMA.Ode3H.incipit = he.h.m8_en_US_andronache.heHE.OStereosasKatArchas.incipit
 meMA.Ode3H.text = he.h.m8_en_US_andronache.heHE.OStereosasKatArchas.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.incipit = "Being made wide in faith…"
 meMA.Ode3Kathisma1.text = "Being made wide in faith by the breadth of your struggles, wise martyr, you famously confined the contrivances of the foe and you finished the divine road well and reached the plateau of paradise rejoicing. Therefore the Church, being illumined today by the breadth of piety celebrates your memory and cries to you, blessed one: Ever intercede with Christ God that remission of errors be granted to those who fervently celebrate your holy memory."
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode3Kathisma2.greekmelody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.greekname
 meMA.Ode3Kathisma2.melody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.notmetered
 meMA.Ode3Kathisma2.incipit = "A beautiful youth by nature…"
 meMA.Ode3Kathisma2.text = "A beautiful youth by nature, all-blessed one, through pains of the body and the might of grace you put to flight the ancient foe who strikes the heel. Therefore the whole church with one voice keeps your memory, glorious Plato, glorifying Christ."

@@ -195,11 +195,13 @@ meMA.Ode3H.incipit = he.h.m4_en_US_andronache.heHE.EffrainetaiEpiSoi.incipit
 meMA.Ode3H.text = he.h.m4_en_US_andronache.heHE.EffrainetaiEpiSoi.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode3
+meMA.Ode3Kathisma1.greekmelody = he.a.m3_en_US_andronache.heAU.TheiasPisteos.greekname
 meMA.Ode3Kathisma1.melody = he.a.m3_en_US_andronache.heAU.TheiasPisteos.notmetered
 meMA.Ode3Kathisma1.incipit = "Having the divine zeal in…"
 meMA.Ode3Kathisma1.text = "Having the divine zeal in your soul, glorious one, you sternly refuted those vainly breaking the law and having joined in the battle, by tortures you reached the end of your contest with a brave mind, martyr Kallinikos; intercede with Christ God that great mercy be granted to us."
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode3Kathisma2.greekmelody = he.a.m4_en_US_andronache.heAU.OYpsotheisEnToStavro.greekname
 meMA.Ode3Kathisma2.melody = he.a.m4_en_US_andronache.heAU.OYpsotheisEnToStavro.notmetered
 meMA.Ode3Kathisma2.incipit = "Having loved Christ, the most…"
 meMA.Ode3Kathisma2.text = "Having loved Christ, the most beautiful one, and by purity having beautified your soul, through many pains and necessities, you were pledged to him as a blameless bride. Therefore he made you worthy of the heavenly chambers and you intercede with him for us who honor you, august all-blessed one."

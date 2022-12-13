@@ -192,11 +192,13 @@ meMA.Ode3H.melody = miscellanea_en_US_andronache.misc.HeirmosNotMetered
 meMA.Ode3H.text = "" //he.h.m1_en_US_andronache.heHE.OMonosEidos.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.greekname
 meMA.Ode3Kathisma1.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.notmetered
 meMA.Ode3Kathisma1.incipit = "O glorious one, illumined by…"
 meMA.Ode3Kathisma1.text = "O glorious one, illumined by divine gifts, you adorned the illustrious metropolis of the Ephesians; for you, together with the divine Paul, were shown to be a preacher bringing the word of salvation to all. Therefore we faithfully celebrate your memory."
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode3Kathisma2.greekmelody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.greekname
 meMA.Ode3Kathisma2.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.notmetered
 meMA.Ode3Kathisma2.incipit = "Being perfected in glory, you…"
 meMA.Ode3Kathisma2.text = "Being perfected in glory, you were shown to be most honorable, as having your mind made bright by divine illumination and knowing the power of the Cross. You became godly-minded, martyr Anastasios, being righteous in asceticism and a martyr through blood. Therefore Christ gushes forth the grace of miracles in you."

@@ -252,11 +252,13 @@ meMA.Oikos17.text = ""
 meMA.Oikos18.text = ""
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.incipit = "Having learned the knowledge of…"
 meMA.Ode3Kathisma1.text = "Having learned the knowledge of mercy, you were compassionate towards helping the poor in need, God-inspired John; for this reason, you became richer than all the saints, being rightly called by the name according to your practice. Therefore, as the one who greatly gave you mercy had mercy on you, godly minded one, and manifestly illumined you, all-famous hierarch, intercede with Christ God that forgiveness of offenses be granted to those who fervently celebrate your holy memory."
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3Kathisma2.greekmelody = he.a.m8_en_US_andronache.heAU.ToProstachthen.greekname
 meMA.Ode3Kathisma2.melody = he.a.m8_en_US_andronache.heAU.ToProstachthen.notmetered
 meMA.Ode3Kathisma2.incipit = "Having illumined your mind with…"
 meMA.Ode3Kathisma2.text = "Having illumined your mind with visions, you sprang forth rivers of theology, God-bearing Neilos, irrigating the hearts of those faithfully drawing water from them with the clear and pure drink of your teachings and who honor your bright and sacred memory, ornament of the venerable ones and the splendor of the Fathers."

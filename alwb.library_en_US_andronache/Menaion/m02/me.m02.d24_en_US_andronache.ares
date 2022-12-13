@@ -79,16 +79,18 @@ meVE.Apolytikion1.text = ""
 meCO.SupplicationVerse.text = ""
 
 meMA.Kathisma11.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Kathisma11.greekmelody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.greekname
 meMA.Kathisma11.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.notmetered
 meMA.Kathisma11.incipit = "…"
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma1T.mode = miscellanea_en_US_andronache.misc.Mode4
-meMA.Kathisma1T.melody = miscellanea_en_US_andronache.misc.Automelon
+meMA.Kathisma1T.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.melody
 meMA.Kathisma1T.incipit = he.a.m4_en_US_andronache.heAU.TachyProkatalave.incipit
 meMA.Kathisma1T.text = he.a.m4_en_US_andronache.heAU.TachyProkatalave.text
 
 meMA.Kathisma21.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Kathisma21.greekmelody = he.a.m4_en_US_andronache.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kathisma21.melody = he.a.m4_en_US_andronache.heAU.OYpsotheisEnToStavro.notmetered
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
@@ -99,6 +101,7 @@ meMA.Kathisma2T.incipit = "…"
 meMA.Kathisma2T.text = //ho.s23_en_US_andronache.hoCA.Apolytikion2.text
 
 meMA.Kathisma31.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Kathisma31.greekmelody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.greekname
 meMA.Kathisma31.melody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.notmetered
 meMA.Kathisma31.incipit = "…"
 meMA.Kathisma31.text = ""
@@ -194,17 +197,19 @@ meMA.Ode3C1T.incipit = "The wonder of your divine…"
 meMA.Ode3C1T.text = "The wonder of your divine birth-giving, pure one, is beyond all the order of nature, for beyond nature you conceived God in your womb and giving birth your remain ever-virgin."
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_andronache.heAU.ToProstachthen.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_andronache.heAU.ToProstachthen.notmetered
 meMA.Ode3Kathisma1.incipit = "The Forerunner’s head was guarded…"
 meMA.Ode3Kathisma1.text = "The Forerunner’s head was guarded in water like treasure placed in a storehouse, having hidden the voice of the Logos like wheat covered up in the depth of the earth, and it came up bearing divine life as fruit. Let us all honor its finding, glorifying Christ who gave it grace to bring forth healings."
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode3Kathisma2.greekmelody = he.a.m8_en_US_andronache.heAU.ToProstachthen.greekname
 meMA.Ode3Kathisma2.melody = he.a.m8_en_US_andronache.heAU.ToProstachthen.notmetered
 meMA.Ode3Kathisma2.incipit = "The head of the Baptist…"
 meMA.Ode3Kathisma2.text = "The head of the Baptist was hidden in water as a pearl under the earth and being make bright like a lamp shining with the light of God, it shines in the whole world with the working of miracles, and the Forerunner, springing up as a most beautiful sunrise and again revealing the unsetting light to us, cries out: Behold, the Lamb of God."
 
 meMA.Ode3KathismaT.mode = miscellanea_en_US_andronache.misc.Mode4
-meMA.Ode3KathismaT.melody = miscellanea_en_US_andronache.misc.Automelon
+meMA.Ode3KathismaT.melody = he.a.m8_en_US_andronache.heAU.ToProstachthen.melody
 meMA.Ode3KathismaT.incipit = he.a.m8_en_US_andronache.heAU.ToProstachthen.incipit
 meMA.Ode3KathismaT.text = he.a.m8_en_US_andronache.heAU.ToProstachthen.text
 

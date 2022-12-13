@@ -154,11 +154,13 @@ meMA.Ode3H.incipit = he.h.m1_en_US_andronache.heHE.ToProTonAionon.incipit
 meMA.Ode3H.text = he.h.m1_en_US_andronache.heHE.ToProTonAionon.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.incipit = "Having rejected worldly glory, Menas…"
 meMA.Ode3Kathisma1.text = "Having rejected worldly glory, Menas, Hermogenes, and the glorious Evgrafos were flown on the wings of divine glory and withstood the weight of the terrible torments by their willing choice, not sparing the flesh. Therefore, after their end, having been thrown in the depths of the sea, they were guided straight towards the heavenly shore. Let us cry out to them in faith: Intercede with Christ God that remission of offenses be granted to those who celebrate your holy memory with faith."
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode3Kathisma2.greekmelody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.greekname
 meMA.Ode3Kathisma2.melody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.notmetered
 meMA.Ode3Kathisma2.incipit = "The wondrous Menas and the…"
 meMA.Ode3Kathisma2.text = "The wondrous Menas and the renowned Hermogenes, the all-sacred pair of the holy Trinity, trampled down the insolence of poly-theism and, having completed their most holy journey by the power of the Spirit, they received crowns of victory from heaven."

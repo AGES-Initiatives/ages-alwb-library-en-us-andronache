@@ -145,6 +145,7 @@ meMA.Ode3C1T.incipit = "We glorify you who gave…"
 meMA.Ode3C1T.text = "We glorify you who gave birth to God, O Theotokos, fitting together a corresponding name and calling, all-pure Lady."
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.greekname
 meMA.Ode3Kathisma1.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.notmetered
 meMA.Ode3Kathisma1.incipit = "You adorned the Church of…"
 meMA.Ode3Kathisma1.text = "You adorned the Church of Christ by your words, and by your works you kept that which is according to the image of God, venerable Sophronios, for your soundness of mind illumined the world, shining with gifts of teachings on all who with faith celebrate your memory, O Father."

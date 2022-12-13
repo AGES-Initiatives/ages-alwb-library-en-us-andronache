@@ -117,6 +117,7 @@ meMA.Ode3H.melody = miscellanea_en_US_andronache.misc.HeirmosNotMetered
 meMA.Ode3H.text = "" //he.h.m4_en_US_andronache.heHE.ToxonDynatonIsthenise.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.greekname
 meMA.Ode3Kathisma1.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.notmetered
 meMA.Ode3Kathisma1.incipit = "Taking up the Cross as…"
 meMA.Ode3Kathisma1.text = "Taking up the Cross as armor you went against the unseen enemies and contested valiantly. Therefore, martyr Leontios, having vanquished their power you gained as a prize the grace to work wonders and you intercede for our salvation."

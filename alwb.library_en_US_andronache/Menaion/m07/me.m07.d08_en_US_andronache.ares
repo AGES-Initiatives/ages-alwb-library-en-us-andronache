@@ -176,6 +176,7 @@ meMA.Ode3H.incipit = he.h.m4_en_US_andronache.heHE.OukEnSofia.incipit
 meMA.Ode3H.text = he.h.m4_en_US_andronache.heHE.OukEnSofia.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode3Kathisma1.greekmelody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.greekname
 meMA.Ode3Kathisma1.melody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.notmetered
 meMA.Ode3Kathisma1.incipit = "As with Paul before, Christ…"
 meMA.Ode3Kathisma1.text = "As with Paul before, Christ calls you from heaven to the faith, wise Prokopios, having previously known the divine good/beauty of your heart. Therefore you contested in a most manly manner being a preacher of his passion and coming to humanity, all blessed one."

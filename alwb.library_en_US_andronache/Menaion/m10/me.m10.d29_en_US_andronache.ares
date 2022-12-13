@@ -195,11 +195,13 @@ meMA.Ode3H.incipit = he.h.m8_en_US_andronache.heHE.OuraniasApsidos.incipit
 meMA.Ode3H.text = he.h.m8_en_US_andronache.heHE.OuraniasApsidos.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode3Kathisma1.greekmelody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.greekname
 meMA.Ode3Kathisma1.melody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.notmetered
 meMA.Ode3Kathisma1.incipit = "From childhood you were dedicated…"
 meMA.Ode3Kathisma1.text = "From childhood you were dedicated to God, Venerable one, mortifying the passions of the flesh by self-control and you ran up unto the heights of martyrdom surrounded by glory, O Anastasia, having contested lawfully and overthrown the dragon into the abyss by the power of the Spirit."
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Ode3Kathisma2.greekmelody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.greekname
 meMA.Ode3Kathisma2.melody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.notmetered
 meMA.Ode3Kathisma2.incipit = "Having imitated Abraham of old…"
 meMA.Ode3Kathisma2.text = "Having imitated Abraham of old, O Father, you departed from your family according to the flesh, being obeying our God who was calling you. Therefore you struggled and showed your soul as more luminous than the rays of the sun, godly-minded and truly happy Avramios."

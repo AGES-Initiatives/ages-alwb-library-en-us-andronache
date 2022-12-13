@@ -213,11 +213,13 @@ meMA.Ode3H.incipit = he.h.m4_en_US_andronache.heHE.EffrainetaiEpiSoi.incipit
 meMA.Ode3H.text = he.h.m4_en_US_andronache.heHE.EffrainetaiEpiSoi.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.incipit = "You were a hierarch girded…"
 meMA.Ode3Kathisma1.text = "You were a hierarch girded about with holy unction by the work of God and perfected all in divine grace, most sacred one, adorned with the gifts of divine miracles, you worked signs and miracles without number, healing the sick and burning up demons and turning back all the deceived, O Averkios. Therefore we cry to you: intercede with Christ our God that forgiveness of offenses be granted to those who fervently celebrate your holy memory."
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Ode3Kathisma2.greekmelody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.greekname
 meMA.Ode3Kathisma2.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.notmetered
 meMA.Ode3Kathisma2.incipit = "You are as pillars of…"
 meMA.Ode3Kathisma2.text = "You are as pillars of the Church of Christ, you tore asunder the walls of faithlessness, wise seven-lighted martyrs. Therefore, having driven away the madness of the Greeks before death, and again after death, the storm of heresy; intercede for our souls."
