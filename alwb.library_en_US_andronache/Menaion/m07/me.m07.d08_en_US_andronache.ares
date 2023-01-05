@@ -183,8 +183,8 @@ meMA.Ode3Kathisma1.text = "As with Paul before, Christ calls you from heaven to 
 
 meMA.Ode3KathismaT.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode3KathismaT.melody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.notmetered
-meMA.Ode3KathismaT.incipit = "TThe hope of Christians, all…"
-meMA.Ode3KathismaT.text = "TThe hope of Christians, all pure virgin, ceaselessly beseech the God whom you bore beyond understanding, together with the powers on high, to give remission of sins and correction of life to all of us, who continually glorify you with faith and love."
+meMA.Ode3KathismaT.incipit = //me.m03.d03_en_US_andronache.meMA.Ode3KathismaT.incipit
+meMA.Ode3KathismaT.text = //me.m03.d03_en_US_andronache.meMA.Ode3KathismaT.text
 
 meMA.Ode3KathismaSt.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode3KathismaSt.melody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.notmetered

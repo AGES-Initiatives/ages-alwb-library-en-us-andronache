@@ -119,8 +119,8 @@ meMA.Ode3Kathisma1.text = "The wondrous pair of august prize-winners, who firmly
 
 meMA.Ode3KathismaT.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode3KathismaT.melody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.notmetered
-meMA.Ode3KathismaT.incipit = "Hope of Christians, all-holy virgin…"
-meMA.Ode3KathismaT.text = "Hope of Christians, all-holy virgin, together with the powers above ceaselessly entreat the God whom you bore beyond mind and reason that remission of sins and guidance of life be given to us all who with faith and fervor ever glorify you."
+meMA.Ode3KathismaT.incipit = //me.m03.d03_en_US_andronache.meMA.Ode3KathismaT.incipit
+meMA.Ode3KathismaT.text = //me.m03.d03_en_US_andronache.meMA.Ode3KathismaT.text
 
 meMA.Ode3KathismaSt.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode3KathismaSt.melody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.name
