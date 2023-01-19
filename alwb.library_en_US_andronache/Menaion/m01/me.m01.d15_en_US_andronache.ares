@@ -207,7 +207,7 @@ meMA.Ode3C2T.text = "The Clean one found you, O pure one, as a Myrrh-scented ros
 
 meMA.Ode3H.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_US_andronache.misc.Mode2
-meMA.Ode3H.melody = miscellanea_en_US_andronache.misc.Heirmos
+meMA.Ode3H.melody = //he.h.m2_en_US_andronache.heHE.ExinthisenIErimos.melody
 meMA.Ode3H.incipit = "…"
 meMA.Ode3H.text = //he.h.m2_en_US_andronache.heHE.ExinthisenIErimos.text
 
@@ -385,7 +385,7 @@ meMA.Ode6C2T.text = "By His unutterable compassion, you gave a body to the Engen
 
 meMA.Ode6H.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_US_andronache.misc.Mode2
-meMA.Ode6H.melody = miscellanea_en_US_andronache.misc.Heirmos
+meMA.Ode6H.melody = //he.h.m2_en_US_andronache.heHE.EnAvyssoPtaismaton.melody
 meMA.Ode6H.incipit = "…"
 meMA.Ode6H.text = //he.h.m2_en_US_andronache.heHE.EnAvyssoPtaismaton.text
 
@@ -504,7 +504,7 @@ meMA.Ode8C2T.text = "You sprung forth an ever-flowing spring for those who run t
 
 meMA.Ode8H.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_US_andronache.misc.Mode2
-meMA.Ode8H.melody = miscellanea_en_US_andronache.misc.Heirmos
+meMA.Ode8H.melody = //he.h.m2_en_US_andronache.heHE.TonEnKaminoTouPyros.melody
 meMA.Ode8H.incipit = "…"
 meMA.Ode8H.text = //he.h.m2_en_US_andronache.heHE.TonEnKaminoTouPyros.text
 
@@ -566,7 +566,7 @@ meMA.Ode9C2T.text = "Your womb became a dwelling of light, through which those w
 
 meMA.Ode9H.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_US_andronache.misc.Mode2
-meMA.Ode9H.melody = miscellanea_en_US_andronache.misc.Heirmos
+meMA.Ode9H.melody = //he.h.m2_en_US_andronache.heHE.AnarchouGennitoros.melody
 meMA.Ode9H.incipit = "…"
 meMA.Ode9H.text = //he.h.m2_en_US_andronache.heHE.AnarchouGennitoros.text
 

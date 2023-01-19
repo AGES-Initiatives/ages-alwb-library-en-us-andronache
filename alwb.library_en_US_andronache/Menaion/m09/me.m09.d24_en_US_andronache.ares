@@ -739,7 +739,7 @@ alt1.meMA.C1.verse = //prayers_en_US_andronache.pr.verse_Theotokos.text
 
 alt1.meMA.Ode1C1H.ode = miscellanea_en_US_andronache.misc.Ode1
 alt1.meMA.Ode1C1H.mode = miscellanea_en_US_andronache.misc.Mode1
-alt1.meMA.Ode1C1H.melody = miscellanea_en_US_andronache.misc.Heirmos
+alt1.meMA.Ode1C1H.melody = he.h.m1_en_US_andronache.heHE.PepoikilmeniTiTheiaDoxi.melody
 alt1.meMA.Ode1C1H.incipit = he.h.m1_en_US_andronache.heHE.PepoikilmeniTiTheiaDoxi.incipit
 alt1.meMA.Ode1C1H.text = he.h.m1_en_US_andronache.heHE.PepoikilmeniTiTheiaDoxi.text
 
@@ -769,7 +769,7 @@ alt1.meMA.Ode1C14.text = "The island of Kythera, which had previously been witho
 
 alt1.meMA.Ode3C1H.ode = miscellanea_en_US_andronache.misc.Ode3
 alt1.meMA.Ode3C1H.mode = miscellanea_en_US_andronache.misc.Mode1
-alt1.meMA.Ode3C1H.melody = miscellanea_en_US_andronache.misc.Heirmos
+alt1.meMA.Ode3C1H.melody = he.h.m1_en_US_andronache.heHE.IDimiourgiki.melody
 alt1.meMA.Ode3C1H.incipit = he.h.m1_en_US_andronache.heHE.IDimiourgiki.incipit
 alt1.meMA.Ode3C1H.text = he.h.m1_en_US_andronache.heHE.IDimiourgiki.text
 
@@ -809,7 +809,7 @@ alt1.meMA.Ode3Kathisma1.text = "The people of Kythera was piously struck with am
 
 alt1.meMA.Ode4C1H.ode = miscellanea_en_US_andronache.misc.Ode4
 alt1.meMA.Ode4C1H.mode = miscellanea_en_US_andronache.misc.Mode1
-alt1.meMA.Ode4C1H.melody = miscellanea_en_US_andronache.misc.Heirmos
+alt1.meMA.Ode4C1H.melody = he.h.m1_en_US_andronache.heHE.RiseisProfitonKaiAinigmata.melody
 alt1.meMA.Ode4C1H.incipit = he.h.m1_en_US_andronache.heHE.RiseisProfitonKaiAinigmata.incipit
 alt1.meMA.Ode4C1H.text = he.h.m1_en_US_andronache.heHE.RiseisProfitonKaiAinigmata.text
 
@@ -839,7 +839,7 @@ alt1.meMA.Ode4C14.text = "Having luminously arranged a new feast, we honor you, 
 
 alt1.meMA.Ode5C1H.ode = miscellanea_en_US_andronache.misc.Ode5
 alt1.meMA.Ode5C1H.mode = miscellanea_en_US_andronache.misc.Mode1
-alt1.meMA.Ode5C1H.melody = miscellanea_en_US_andronache.misc.Heirmos
+alt1.meMA.Ode5C1H.melody = he.h.m1_en_US_andronache.heHE.ToTheionKaiArriton.melody
 alt1.meMA.Ode5C1H.incipit = he.h.m1_en_US_andronache.heHE.ToTheionKaiArriton.incipit
 alt1.meMA.Ode5C1H.text = he.h.m1_en_US_andronache.heHE.ToTheionKaiArriton.text
 
@@ -869,7 +869,7 @@ alt1.meMA.Ode5C14.text = "O Virgin, according to the words of the prophet, now w
 
 alt1.meMA.Ode6C1H.ode = miscellanea_en_US_andronache.misc.Ode6
 alt1.meMA.Ode6C1H.mode = miscellanea_en_US_andronache.misc.Mode1
-alt1.meMA.Ode6C1H.melody = miscellanea_en_US_andronache.misc.Heirmos
+alt1.meMA.Ode6C1H.melody = he.h.m1_en_US_andronache.heHE.AlionPontogenes.melody
 alt1.meMA.Ode6C1H.incipit = he.h.m1_en_US_andronache.heHE.AlionPontogenes.incipit
 alt1.meMA.Ode6C1H.text = he.h.m1_en_US_andronache.heHE.AlionPontogenes.text
 
@@ -906,7 +906,7 @@ alt1.meMA.Oikos1.text = "Send me wisdom from heaven, as I try to tell of your ma
 
 alt1.meMA.Ode7C1H.ode = miscellanea_en_US_andronache.misc.Ode7
 alt1.meMA.Ode7C1H.mode = miscellanea_en_US_andronache.misc.Mode1
-alt1.meMA.Ode7C1H.melody = miscellanea_en_US_andronache.misc.Heirmos
+alt1.meMA.Ode7C1H.melody = he.h.m1_en_US_andronache.heHE.ItamoThymo.melody
 alt1.meMA.Ode7C1H.incipit = he.h.m1_en_US_andronache.heHE.ItamoThymo.incipit
 alt1.meMA.Ode7C1H.text = he.h.m1_en_US_andronache.heHE.ItamoThymo.text
 
@@ -936,7 +936,7 @@ alt1.meMA.Ode7C14.text = "You keep soldiers and the fort which is in your city u
 
 alt1.meMA.Ode8C1H.ode = miscellanea_en_US_andronache.misc.Ode8
 alt1.meMA.Ode8C1H.mode = miscellanea_en_US_andronache.misc.Mode1
-alt1.meMA.Ode8C1H.melody = miscellanea_en_US_andronache.misc.Heirmos
+alt1.meMA.Ode8C1H.melody = he.h.m1_en_US_andronache.heHE.FlogaDrosizousanOsious.melody
 alt1.meMA.Ode8C1H.incipit = he.h.m1_en_US_andronache.heHE.FlogaDrosizousanOsious.incipit
 alt1.meMA.Ode8C1H.text = he.h.m1_en_US_andronache.heHE.FlogaDrosizousanOsious.text
 
@@ -973,7 +973,7 @@ alt1.meMA.Ode9C1M0Th.text = ""
 
 alt1.meMA.Ode9C1H.ode = miscellanea_en_US_andronache.misc.Ode9
 alt1.meMA.Ode9C1H.mode = miscellanea_en_US_andronache.misc.Mode1
-alt1.meMA.Ode9C1H.melody = miscellanea_en_US_andronache.misc.Heirmos
+alt1.meMA.Ode9C1H.melody = he.h.m1_en_US_andronache.heHE.NenikintaiTisFyseos.melody
 alt1.meMA.Ode9C1H.incipit = he.h.m1_en_US_andronache.heHE.NenikintaiTisFyseos.incipit
 alt1.meMA.Ode9C1H.text = he.h.m1_en_US_andronache.heHE.NenikintaiTisFyseos.text
 
