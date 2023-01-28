@@ -51,6 +51,7 @@ meVE.SticStavrotheotokion.text = me.m01.d22_en_US_andronache.meVE.AposStavrotheo
 
 meVE.Apolytikion1.poet = //poets_en_US_andronache.Gerasimou
 meVE.Apolytikion1.mode = miscellanea_en_US_andronache.misc.Mode4
+meVE.Apolytikion1.greekmelody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.greekname
 meVE.Apolytikion1.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.notmetered
 meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""

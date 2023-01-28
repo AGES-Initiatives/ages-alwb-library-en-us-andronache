@@ -98,6 +98,7 @@ meVE.MM.GeneralApolytikion1.text = properties_en_US_andronache.media.key
 
 meVE.Apolytikion2.poet = //poets_en_US_andronache.Gerasimou
 meVE.Apolytikion2.mode = miscellanea_en_US_andronache.misc.Mode4
+meVE.Apolytikion2.greekmelody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.greekname
 meVE.Apolytikion2.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.notmetered
 meVE.Apolytikion2.incipit = "…"
 meVE.Apolytikion2.text = ""

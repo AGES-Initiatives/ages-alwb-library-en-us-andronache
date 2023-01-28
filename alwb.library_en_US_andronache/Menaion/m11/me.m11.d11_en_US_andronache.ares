@@ -104,18 +104,21 @@ meVE.AposStavrotheotokion.text = //oc.m6.d4_en_US_andronache.ocVE.AposTheotokion
 
 meVE.Apolytikion1.poet = //poets_en_US_andronache.Gerasimou
 meVE.Apolytikion1.mode = miscellanea_en_US_andronache.misc.Mode4
+meVE.Apolytikion1.greekmelody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.greekname
 meVE.Apolytikion1.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.name
 meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
 meVE.Apolytikion2.poet = //poets_en_US_andronache.Gerasimou
 meVE.Apolytikion2.mode = miscellanea_en_US_andronache.misc.Mode3
+meVE.Apolytikion2.greekmelody = he.a.m3_en_US_andronache.heAU.TheiasPisteos.greekname
 meVE.Apolytikion2.melody = he.a.m3_en_US_andronache.heAU.TheiasPisteos.name
 meVE.Apolytikion2.incipit = "…"
 meVE.Apolytikion2.text = ""
 
 meVE.Apolytikion3.poet = //poets_en_US_andronache.Gerasimou
 meVE.Apolytikion3.mode = miscellanea_en_US_andronache.misc.Mode5
+meVE.Apolytikion3.greekmelody = he.a.m5_en_US_andronache.heAU.TonSynanarchonLogon.greekname
 meVE.Apolytikion3.melody = he.a.m5_en_US_andronache.heAU.TonSynanarchonLogon.name
 meVE.Apolytikion3.incipit = "…"
 meVE.Apolytikion3.text = ""

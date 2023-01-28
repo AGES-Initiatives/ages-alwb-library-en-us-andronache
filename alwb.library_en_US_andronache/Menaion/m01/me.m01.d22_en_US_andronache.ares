@@ -97,6 +97,7 @@ meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
 meVE.Apolytikion2.mode = miscellanea_en_US_andronache.misc.Mode4
+meVE.Apolytikion2.greekmelody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.greekname
 meVE.Apolytikion2.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.notmetered
 meVE.Apolytikion2.text = miscellanea_en_US_andronache.misc.NotMetered //he.ga_en_US_andronache.heGA.OMartysSouKyrie.text
 
