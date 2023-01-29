@@ -388,6 +388,7 @@ alt1.meHO.note1 = ""
 alt1.meHO.note2 = ""
 
 alt1.meVE.Stichera01.mode = miscellanea_en_US_andronache.misc.Mode4
+alt1.meVE.Stichera01.greekmelody = he.a.m4_en_US_andronache.heAU.OsGennaionEnMartysi.greekname
 alt1.meVE.Stichera01.melody = he.a.m4_en_US_andronache.heAU.OsGennaionEnMartysi.notmetered
 alt1.meVE.Stichera01.incipit = "You were seen as a…"
 alt1.meVE.Stichera01.text = "You were seen as a bright light-giver today, on your divine memorial, glorious martyr Photini, for having drawn the light from the unsetting light, you illumined the people who were in darkness, and preached the Logos of God and God. Therefore you were worthily made worthy of the kingdom of heaven, august one."
@@ -438,16 +439,19 @@ alt1.meVE.LityBoth.incipit = "…"
 alt1.meVE.LityBoth.text = //oc.m5.d3_en_US_andronache.ocVE.AposTheotokion.text
 
 alt1.meVE.Aposticha1.mode = miscellanea_en_US_andronache.misc.Mode1
+alt1.meVE.Aposticha1.greekmelody = he.a.m1_en_US_andronache.heAU.TonOuranionTagmaton.greekname
 alt1.meVE.Aposticha1.melody = he.a.m1_en_US_andronache.heAU.TonOuranionTagmaton.notmetered
 alt1.meVE.Aposticha1.incipit = "Having been strengthened by divine…"
 alt1.meVE.Aposticha1.text = "Having been strengthened by divine yearning, Photini, martyr of Christ, by the contest of martyrdom you were crowned with a beautiful witness together with your children. Fearsome wonder, for your skin was peeled away and instead you were clothed in a bridal garment, O much-contending one."
 
 alt1.meVE.Aposticha2.mode = miscellanea_en_US_andronache.misc.Mode1
+alt1.meVE.Aposticha2.greekmelody = he.a.m1_en_US_andronache.heAU.TonOuranionTagmaton.greekname
 alt1.meVE.Aposticha2.melody = he.a.m1_en_US_andronache.heAU.TonOuranionTagmaton.notmetered
 alt1.meVE.Aposticha2.incipit = "You bravely suffered the contests…"
 alt1.meVE.Aposticha2.text = "You bravely suffered the contests and struggles, O you who conversed with Christ, with your household and children, being victorious over the noetic serpent, Nero, who was stirring up your troubles. Therefore, receiving the honors with them, pray greatly that we be saved."
 
 alt1.meVE.Aposticha3.mode = miscellanea_en_US_andronache.misc.Mode1
+alt1.meVE.Aposticha3.greekmelody = he.a.m1_en_US_andronache.heAU.TonOuranionTagmaton.greekname
 alt1.meVE.Aposticha3.melody = he.a.m1_en_US_andronache.heAU.TonOuranionTagmaton.notmetered
 alt1.meVE.Aposticha3.incipit = "Having the weapons of martyrdom…"
 alt1.meVE.Aposticha3.text = "Having the weapons of martyrdom, you ran the way of martyrdom until the city of Rome, where you brightly defeated the impious and mad Nero, all-famous and all-glorious Photini, greatly pray for those who honor you."
@@ -463,31 +467,37 @@ alt1.meVE.AposTheotokion.incipit = "…"
 alt1.meVE.AposTheotokion.text = //oc.m8.d5_en_US_andronache.ocMA.AposTheotokion.text
 
 alt1.meVE.Apolytikion1.mode = miscellanea_en_US_andronache.misc.Mode3
+alt1.meVE.Apolytikion1.greekmelody = he.a.m3_en_US_andronache.heAU.TheiasPisteos.greekname
 alt1.meVE.Apolytikion1.melody = he.a.m3_en_US_andronache.heAU.TheiasPisteos.notmetered
 alt1.meVE.Apolytikion1.incipit = "Illumined by the divine Spirit…"
 alt1.meVE.Apolytikion1.text = "Illumined by the divine Spirit and watered by the springs from Christ the Savior, all-praised one, you drank deeply of the water of salvation and distributed bounteously to those who thirst, great martyr and equal to the apostles Photini. Entreat Christ God that our souls be saved."
 
 alt1.meVE.Apolytikion2.mode = miscellanea_en_US_andronache.misc.Mode3
+alt1.meVE.Apolytikion2.greekmelody = he.a.m3_en_US_andronache.heAU.TheiasPisteos.greekname
 alt1.meVE.Apolytikion2.melody = he.a.m3_en_US_andronache.heAU.TheiasPisteos.name
 alt1.meVE.Apolytikion2.incipit = "…"
 alt1.meVE.Apolytikion2.text = ""
 
 alt1.meMA.Kathisma11.mode = miscellanea_en_US_andronache.misc.Mode4
+alt1.meMA.Kathisma11.greekmelody = he.a.m4_en_US_andronache.heAU.OYpsotheisEnToStavro.greekname
 alt1.meMA.Kathisma11.melody = he.a.m4_en_US_andronache.heAU.OYpsotheisEnToStavro.notmetered
 alt1.meMA.Kathisma11.incipit = "Your struggles, august one, and…"
 alt1.meMA.Kathisma11.text = "Your struggles, august one, and the crown, your sweat, pure one, and your wonders put to shame the trophies of the devil. For yearning for Christ your Savior in your heart, you were not frightened by either scourging or death for his sake, but, you were dedicated wholly to God and received the crown of martyrdom."
 
 alt1.meMA.Kathisma1T.mode = miscellanea_en_US_andronache.misc.Mode4
+alt1.meMA.Kathisma1T.greekmelody = he.a.m4_en_US_andronache.heAU.OYpsotheisEnToStavro.greekname
 alt1.meMA.Kathisma1T.melody = he.a.m4_en_US_andronache.heAU.OYpsotheisEnToStavro.name
 alt1.meMA.Kathisma1T.incipit = "…"
 alt1.meMA.Kathisma1T.text = //oc.m4.d3_en_US_andronache.ocVE.ApolTheotokionVM.text
 
 alt1.meMA.Kathisma21.mode = miscellanea_en_US_andronache.misc.Mode8
+alt1.meMA.Kathisma21.greekmelody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.greekname
 alt1.meMA.Kathisma21.melody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.notmetered
 alt1.meMA.Kathisma21.incipit = "Martyr of Christ, you considered…"
 alt1.meMA.Kathisma21.text = "Martyr of Christ, you considered Nero’s frightful promises as nothing, having a firm mind from the Lord and with all your household you went towards the prize. Therefore you received the crowns from God and everlasting glory in exchange for your tortures, admirable Photini. For this reason we cry out to you: ever intercede with Christ God that remission of errors be granted to those who celebrate with yearning your holy memory."
 
 alt1.meMA.Kathisma2T.mode = miscellanea_en_US_andronache.misc.Mode8
+alt1.meMA.Kathisma2T.greekmelody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.greekname
 alt1.meMA.Kathisma2T.melody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.name
 alt1.meMA.Kathisma2T.incipit = "…"
 alt1.meMA.Kathisma2T.text = //oc.m8.d1_en_US_andronache.ocMA.Kathisma13.text
@@ -517,6 +527,7 @@ alt1.meMA.C1.verse = //prayers_en_US_andronache.pr.verse_SaintW.text
 
 alt1.meMA.Ode1C11.ode = miscellanea_en_US_andronache.misc.Ode1
 alt1.meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode4
+alt1.meMA.Ode1C11.greekmelody = he.h.m4_en_US_andronache.heHE.AnoixoToStomaMou.greekname
 alt1.meMA.Ode1C11.melody = he.h.m4_en_US_andronache.heHE.AnoixoToStomaMou.name
 alt1.meMA.Ode1C11.incipit = "…"
 alt1.meMA.Ode1C11.text = ""
@@ -541,6 +552,7 @@ alt1.meMA.Ode1C1T.text = ""
 
 alt1.meMA.Ode3C11.ode = miscellanea_en_US_andronache.misc.Ode3
 alt1.meMA.Ode3C11.mode = miscellanea_en_US_andronache.misc.Mode4
+alt1.meMA.Ode3C11.greekmelody = he.h.m4_en_US_andronache.heHE.TousSousYmnologous.greekname
 alt1.meMA.Ode3C11.melody = he.h.m4_en_US_andronache.heHE.TousSousYmnologous.name
 alt1.meMA.Ode3C11.incipit = "…"
 alt1.meMA.Ode3C11.text = ""
@@ -564,6 +576,7 @@ alt1.meMA.Ode3C1T.incipit = "…"
 alt1.meMA.Ode3C1T.text = ""
 
 alt1.meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode8
+alt1.meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_andronache.heAU.ToProstachthen.greekname
 alt1.meMA.Ode3Kathisma1.melody = he.a.m8_en_US_andronache.heAU.ToProstachthen.name
 alt1.meMA.Ode3Kathisma1.incipit = "…"
 alt1.meMA.Ode3Kathisma1.text = ""
@@ -575,6 +588,7 @@ alt1.meMA.Ode3KathismaT.text = ""
 
 alt1.meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 alt1.meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode4
+alt1.meMA.Ode4C11.greekmelody = he.h.m4_en_US_andronache.heHE.TinAnexichniaston.greekname
 alt1.meMA.Ode4C11.melody = he.h.m4_en_US_andronache.heHE.TinAnexichniaston.name
 alt1.meMA.Ode4C11.incipit = "…"
 alt1.meMA.Ode4C11.text = ""
@@ -599,6 +613,7 @@ alt1.meMA.Ode4C1T.text = ""
 
 alt1.meMA.Ode5C11.ode = miscellanea_en_US_andronache.misc.Ode5
 alt1.meMA.Ode5C11.mode = miscellanea_en_US_andronache.misc.Mode4
+alt1.meMA.Ode5C11.greekmelody = he.h.m4_en_US_andronache.heHE.ExestiTaSympanta.greekname
 alt1.meMA.Ode5C11.melody = he.h.m4_en_US_andronache.heHE.ExestiTaSympanta.name
 alt1.meMA.Ode5C11.incipit = "…"
 alt1.meMA.Ode5C11.text = ""
@@ -623,6 +638,7 @@ alt1.meMA.Ode5C1T.text = ""
 
 alt1.meMA.Ode6C11.ode = miscellanea_en_US_andronache.misc.Ode6
 alt1.meMA.Ode6C11.mode = miscellanea_en_US_andronache.misc.Mode4
+alt1.meMA.Ode6C11.greekmelody = he.h.m4_en_US_andronache.heHE.TinTheianTaftin.greekname
 alt1.meMA.Ode6C11.melody = he.h.m4_en_US_andronache.heHE.TinTheianTaftin.name
 alt1.meMA.Ode6C11.incipit = "…"
 alt1.meMA.Ode6C11.text = ""
@@ -646,6 +662,7 @@ alt1.meMA.Ode6C1T.incipit = "…"
 alt1.meMA.Ode6C1T.text = ""
 
 alt1.meMA.Kontakion1.mode = miscellanea_en_US_andronache.misc.Mode3
+alt1.meMA.Kontakion1.greekmelody = he.a.m3_en_US_andronache.heAU.IParthenosSimeron.greekname
 alt1.meMA.Kontakion1.melody = he.a.m3_en_US_andronache.heAU.IParthenosSimeron.name
 alt1.meMA.Kontakion1.incipit = "…"
 alt1.meMA.Kontakion1.text = ""
@@ -661,6 +678,7 @@ alt1.meMA.couplet2.verse2 = ""
 
 alt1.meMA.Ode7C11.ode = miscellanea_en_US_andronache.misc.Ode7
 alt1.meMA.Ode7C11.mode = miscellanea_en_US_andronache.misc.Mode4
+alt1.meMA.Ode7C11.greekmelody = he.h.m4_en_US_andronache.heHE.OukElatrefsan.greekname
 alt1.meMA.Ode7C11.melody = he.h.m4_en_US_andronache.heHE.OukElatrefsan.name
 alt1.meMA.Ode7C11.incipit = "…"
 alt1.meMA.Ode7C11.text = ""
@@ -685,6 +703,7 @@ alt1.meMA.Ode7C1T.text = ""
 
 alt1.meMA.Ode8C11.ode = miscellanea_en_US_andronache.misc.Ode8
 alt1.meMA.Ode8C11.mode = miscellanea_en_US_andronache.misc.Mode4
+alt1.meMA.Ode8C11.greekmelody = he.h.m4_en_US_andronache.heHE.PaidasEvageis.greekname
 alt1.meMA.Ode8C11.melody = he.h.m4_en_US_andronache.heHE.PaidasEvageis.name
 alt1.meMA.Ode8C11.incipit = "…"
 alt1.meMA.Ode8C11.text = ""
@@ -709,6 +728,7 @@ alt1.meMA.Ode8C1T.text = ""
 
 alt1.meMA.Ode9C11.ode = miscellanea_en_US_andronache.misc.Ode9
 alt1.meMA.Ode9C11.mode = miscellanea_en_US_andronache.misc.Mode4
+alt1.meMA.Ode9C11.greekmelody = he.h.m4_en_US_andronache.heHE.ApasGigenis.greekname
 alt1.meMA.Ode9C11.melody = he.h.m4_en_US_andronache.heHE.ApasGigenis.name
 alt1.meMA.Ode9C11.incipit = "…"
 alt1.meMA.Ode9C11.text = ""
@@ -732,6 +752,7 @@ alt1.meMA.Ode9C1T.incipit = "…"
 alt1.meMA.Ode9C1T.text = ""
 
 alt1.meMA.Exaposteilarion1.mode = miscellanea_en_US_andronache.misc.Mode2
+alt1.meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_andronache.heAU.GynaikesAkoutisthite.greekname
 alt1.meMA.Exaposteilarion1.melody = he.a.m2_en_US_andronache.heAU.GynaikesAkoutisthite.notmetered
 alt1.meMA.Exaposteilarion1.incipit = "Your calling was all-light, rivaling…"
 alt1.meMA.Exaposteilarion1.text = "Your calling was all-light, rivaling your works, most luminous lady and splendid martyr. Ever request that those who honor you and faithfully celebrate your holy memory with delight, all-honored one, find forgiveness of errors."
@@ -742,16 +763,19 @@ alt1.meMA.ExapTheotokion.incipit = me.m11.d04_en_US_andronache.meMA.ExapTheotoki
 alt1.meMA.ExapTheotokion.text = me.m11.d04_en_US_andronache.meMA.ExapTheotokion.text
 
 alt1.meMA.Lauds1.mode = miscellanea_en_US_andronache.misc.Mode2
+alt1.meMA.Lauds1.greekmelody = he.a.m2_en_US_andronache.heAU.OteEkTouXylou.greekname
 alt1.meMA.Lauds1.melody = he.a.m2_en_US_andronache.heAU.OteEkTouXylou.notmetered
 alt1.meMA.Lauds1.incipit = "Come, lovers of martyrs, let…"
 alt1.meMA.Lauds1.text = "Come, lovers of martyrs, let us faithfully honor the glorious Photini who contended steadfastly for the Master of all. For being adorned her body with the robe of martyrdom and beautified her soul through struggles against the tyrant, she was brought to the heavenly temple, where she is crowned as a martyr and stands with Christ, the one who crowns."
 
 alt1.meMA.Lauds2.mode = miscellanea_en_US_andronache.misc.Mode2
+alt1.meMA.Lauds2.greekmelody = he.a.m2_en_US_andronache.heAU.OteEkTouXylou.greekname
 alt1.meMA.Lauds2.melody = he.a.m2_en_US_andronache.heAU.OteEkTouXylou.notmetered
 alt1.meMA.Lauds2.incipit = "Great is your deed, and…"
 alt1.meMA.Lauds2.text = "Great is your deed, and great your spirit and the prize of victory, martyr; being a weak nature on earth, you kill the unseen devil and receive the strongest prize. Therefore we honor you with faith and yearning, martyr Photini. Ever intercede with the Lord that our souls be saved."
 
 alt1.meMA.Lauds3.mode = miscellanea_en_US_andronache.misc.Mode2
+alt1.meMA.Lauds3.greekmelody = he.a.m2_en_US_andronache.heAU.OteEkTouXylou.greekname
 alt1.meMA.Lauds3.melody = he.a.m2_en_US_andronache.heAU.OteEkTouXylou.notmetered
 alt1.meMA.Lauds3.incipit = "All-praised, august Photini, you brought…"
 alt1.meMA.Lauds3.text = "All-praised, august Photini, you brought your blood to your Master as an alabaster box of myrrh, through violent tortures and you received from Him in exchange, the crown. With Him now, you truly walk in the inner chambers, where the choirs of heaven and the ranks of the martyrs ceaselessly intercede for our souls."

@@ -628,6 +628,7 @@ alt1.meDA.dismissal = ""
 alt1.meDA.poet = ""
 
 alt1.meSV.Stichera1.mode = miscellanea_en_US_andronache.misc.Mode4
+alt1.meSV.Stichera1.greekmelody = he.a.m4_en_US_andronache.heAU.EdokasSimeiosin.greekname
 alt1.meSV.Stichera1.melody = he.a.m4_en_US_andronache.heAU.EdokasSimeiosin.notmetered
 alt1.meSV.Stichera1.incipit = "…"
 alt1.meSV.Stichera1.text = ""
@@ -658,16 +659,19 @@ alt1.meSV.SticBoth.incipit = meMA.AposGlory.incipit
 alt1.meSV.SticBoth.text = meMA.AposGlory.text
 
 alt1.meSV.Aposticha1.mode = miscellanea_en_US_andronache.misc.Mode2
+alt1.meSV.Aposticha1.greekmelody = he.a.m2_en_US_andronache.heAU.OikosTouEfratha.greekname
 alt1.meSV.Aposticha1.melody = he.a.m2_en_US_andronache.heAU.OikosTouEfratha.notmetered
 alt1.meSV.Aposticha1.incipit = "…"
 alt1.meSV.Aposticha1.text = ""
 
 alt1.meSV.Aposticha2.mode = miscellanea_en_US_andronache.misc.Mode2
+alt1.meSV.Aposticha2.greekmelody = he.a.m2_en_US_andronache.heAU.OikosTouEfratha.greekname
 alt1.meSV.Aposticha2.melody = he.a.m2_en_US_andronache.heAU.OikosTouEfratha.notmetered
 alt1.meSV.Aposticha2.incipit = "…"
 alt1.meSV.Aposticha2.text = ""
 
 alt1.meSV.Aposticha3.mode = miscellanea_en_US_andronache.misc.Mode2
+alt1.meSV.Aposticha3.greekmelody = he.a.m2_en_US_andronache.heAU.OikosTouEfratha.greekname
 alt1.meSV.Aposticha3.melody = he.a.m2_en_US_andronache.heAU.OikosTouEfratha.notmetered
 alt1.meSV.Aposticha3.incipit = "…"
 alt1.meSV.Aposticha3.text = ""
@@ -683,6 +687,7 @@ alt1.meSV.AposBoth.incipit = "…"
 alt1.meSV.AposBoth.text = ""
 
 alt1.meVE.Stichera01.mode = miscellanea_en_US_andronache.misc.Mode1
+alt1.meVE.Stichera01.greekmelody = he.a.m1_en_US_andronache.heAU.TonOuranionTagmaton.greekname
 alt1.meVE.Stichera01.melody = he.a.m1_en_US_andronache.heAU.TonOuranionTagmaton.name
 alt1.meVE.Stichera01.incipit = "Kassiane, the devout saint, was…"
 alt1.meVE.Stichera01.text = "Kassiane, the devout saint, was reared and trained in divine * learning and admonition, * then through her own incessant * labors of ascetical discipline was purified, and richly received * the Holy Spirit's enlightenment in her soul. * O believers, let us sing her praise."
@@ -698,11 +703,13 @@ alt1.meVE.Stichera03.incipit = "Kassiane, full of virtues, refused…"
 alt1.meVE.Stichera03.text = "Kassiane, full of virtues, refused the love of the king, * for her heart was afire * with insatiable yearning * for the King of all and so she became * the sweet lyre of the divine * Holy Spirit and lived a life pleasing God. * O believers, let us honor her."
 
 alt1.meVE.Stichera04.mode = miscellanea_en_US_andronache.misc.Mode1
+alt1.meVE.Stichera04.greekmelody = he.a.m1_en_US_andronache.heAU.TonOuranionTagmaton.greekname
 alt1.meVE.Stichera04.melody = he.a.m1_en_US_andronache.heAU.TonOuranionTagmaton.name
 alt1.meVE.Stichera04.incipit = "Kassiane, the devout saint, vessel…"
 alt1.meVE.Stichera04.text = "Kassiane, the devout saint, vessel of self restraint * struggled in the caves of * the island of Kassos. * To women monastics she became a lamp * and was shown as a spotless dove. * She was noetically filled with the light of God. * O believers, let us honor her."
 
 alt1.meVE.Stichera05.mode = miscellanea_en_US_andronache.misc.Mode1
+alt1.meVE.Stichera05.greekmelody = he.a.m1_en_US_andronache.heAU.TonOuranionTagmaton.greekname
 alt1.meVE.Stichera05.melody = he.a.m1_en_US_andronache.heAU.TonOuranionTagmaton.name
 alt1.meVE.Stichera05.incipit = "Kassiane, the devout saint, forsook…"
 alt1.meVE.Stichera05.text = "Kassiane, the devout saint, forsook the cares of the flesh* with its corrupted beauty; * instead she was enraptured * by the uncreated comeliness of Christ * which remains ever incorrupt. * We ask, O Mother, always intercede for us * who run to you and sing your praise."
@@ -753,6 +760,7 @@ alt1.meVE.LityBoth.incipit = meVE.AposGlory.incipit
 alt1.meVE.LityBoth.text = meVE.AposGlory.text
 
 alt1.meVE.Aposticha1.mode = miscellanea_en_US_andronache.misc.Mode5
+alt1.meVE.Aposticha1.greekmelody = he.a.m5_en_US_andronache.heAU.ChairoisAskitikon.greekname
 alt1.meVE.Aposticha1.melody = he.a.m5_en_US_andronache.heAU.ChairoisAskitikon.name
 alt1.meVE.Aposticha1.incipit = "Rejoice, Kassiane praised in song…"
 alt1.meVE.Aposticha1.text = "Rejoice, * Kassiane praised in song, * support of women * who travail in the ascetic life; * you pondered the pleasures * and fleeting honors of life * and you then appraised them to be counterfeit * Instead you took up the yoke * of the all-holy Lord, our God * and with devotion * followed Him like the heavenly * hosts who sing His praise * in unending, thrice-holy hymns. * As we, the faithful, come today * to honor your memory, * we now sing anthems acclaiming * you the beloved vessel of grace * and ask that you mediate * and intercede for us eternally * with Christ, our loving God."
@@ -778,41 +786,49 @@ alt1.meVE.AposBoth.incipit = me.m09.d08_en_US_andronache.meVE.LityGlory.incipit
 alt1.meVE.AposBoth.text = me.m09.d08_en_US_andronache.meVE.LityGlory.text
 
 alt1.meVE.Apolytikion1.mode = miscellanea_en_US_andronache.misc.Mode5
+alt1.meVE.Apolytikion1.greekmelody = he.a.m5_en_US_andronache.heAU.TonSynanarchonLogon.greekname
 alt1.meVE.Apolytikion1.melody = he.a.m5_en_US_andronache.heAU.TonSynanarchonLogon.name
 alt1.meVE.Apolytikion1.incipit = "You were wise to refuse…"
 alt1.meVE.Apolytikion1.text = "You were wise to refuse the proposal of the king, * for your heart was aflame with the love of the Lord * And we, the faithful, now in song * extol your virtue and your skill, * for God inspired you to write * sacred poems for the Church, * Kassiane, most exalted. * And we ask you to petition that we * be made worthy of the kingdom of God."
 
 alt1.meVE.Apolytikion2.mode = miscellanea_en_US_andronache.misc.Mode4
+alt1.meVE.Apolytikion2.greekmelody = he.a.m4_en_US_andronache.heAU.KateplagiIosif.greekname
 alt1.meVE.Apolytikion2.melody = he.a.m4_en_US_andronache.heAU.KateplagiIosif.notmetered
 alt1.meVE.Apolytikion2.incipit = "…"
 alt1.meVE.Apolytikion2.text = //me.m09.d07_en_US_andronache.meVE.Apolytikion1.text
 
 alt1.meMA.Kathisma11.mode = miscellanea_en_US_andronache.misc.Mode1
+alt1.meMA.Kathisma11.greekmelody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.greekname
 alt1.meMA.Kathisma11.melody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.name
 alt1.meMA.Kathisma11.incipit = "As never-setting star * of…"
 alt1.meMA.Kathisma11.text = "As never-setting star * of salvific repentance, * bright light of grace divine * and companion of angels * bring light to our hearts we pray* with the light of Spirit  * and unbind the chains * of the passions which bind us * as we honor your memory."
 
 alt1.meMA.Kathisma12.mode = miscellanea_en_US_andronache.misc.Mode1
+alt1.meMA.Kathisma12.greekmelody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.greekname
 alt1.meMA.Kathisma12.melody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.name
 alt1.meMA.Kathisma12.incipit = "You are the shining fruit…"
 alt1.meMA.Kathisma12.text = "You are the shining fruit * of the godly-minded Anna * and holy Joachim, * O Virgin Theotokos. * Fill with joy by your radiant birth * those who honor you faithfully * for you budded forth * the Light that offers salvation * to those in the shadow of death."
 
 alt1.meMA.Kathisma21.mode = miscellanea_en_US_andronache.misc.Mode4
+alt1.meMA.Kathisma21.greekmelody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.greekname
 alt1.meMA.Kathisma21.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.name
 alt1.meMA.Kathisma21.incipit = "With the oil of vigilance…"
 alt1.meMA.Kathisma21.text = "With the oil of vigilance, dispassion, and chastity, * O holy one you made bright the precious lamp of your soul * and now you rejoice on high *  in the heavenly chambers * with the wise holy virgins. * And you exalt your Bridegroom * and beloved Lord and Master, *  O holy Kassiane, our venerable mother."
 
 alt1.meMA.Kathisma22.mode = miscellanea_en_US_andronache.misc.Mode4
+alt1.meMA.Kathisma22.greekmelody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.greekname
 alt1.meMA.Kathisma22.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.name
 alt1.meMA.Kathisma22.incipit = "By your divine birth you…"
 alt1.meMA.Kathisma22.text = "By your divine birth you brought, O Theotokos most pure, * joy unto the company of those who sing hymns to you, * all-praised Mary, virgin pure; * for in your womb you carried * the divine Son of the Father * and we cry out with fervor: * Rejoice, divine prelude * of the salvation of the world and our deliverance from death."
 
 alt1.meMA.Kathisma31.mode = miscellanea_en_US_andronache.misc.Mode3
+alt1.meMA.Kathisma31.greekmelody = he.a.m3_en_US_andronache.heAU.TinOraiotita.greekname
 alt1.meMA.Kathisma31.melody = he.a.m3_en_US_andronache.heAU.TinOraiotita.name
 alt1.meMA.Kathisma31.incipit = "Blessed Kassiane,  * beauty…"
 alt1.meMA.Kathisma31.text = "Blessed Kassiane,  * beauty of women saints, * in faith and piety * you cried unto the Lord  * \"Accept the streams of my tears * O Lover of mankind * and turn away the pain * that now afflicts my heart * and make me worthy to embrace * your all holy and spotless feet * You who inclined the roof of heaven, * and condescended to become man."
 
 alt1.meMA.Kathisma3T.mode = miscellanea_en_US_andronache.misc.Mode3
+alt1.meMA.Kathisma3T.greekmelody = he.a.m3_en_US_andronache.heAU.TinOraiotita.greekname
 alt1.meMA.Kathisma3T.melody = he.a.m3_en_US_andronache.heAU.TinOraiotita.name
 alt1.meMA.Kathisma3T.incipit = "O virgin Mary pure, *…"
 alt1.meMA.Kathisma3T.text = "O virgin Mary pure, * my soul is dim and gray; * bring light to it, I pray * by sending down the grace * of your own Son and our God, * O hope of the hopeless. * And drive away the mist * of my countless iniquities * so that when the judgment comes * I may be given mercy * and fervently cry out to you forever: * Rejoice, O woman full of grace ."
@@ -843,6 +859,7 @@ alt1.meMA.C1.verse = //prayers_en_US_andronache.pr.verse_DevoutWoman.text
 
 alt1.meMA.Ode1C11.ode = miscellanea_en_US_andronache.misc.Ode1
 alt1.meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode4
+alt1.meMA.Ode1C11.greekmelody = he.h.m4_en_US_andronache.heHE.AnoixoToStomaMou.greekname
 alt1.meMA.Ode1C11.melody = he.h.m4_en_US_andronache.heHE.AnoixoToStomaMou.notmetered
 alt1.meMA.Ode1C11.incipit = "…"
 alt1.meMA.Ode1C11.text = ""
@@ -867,6 +884,7 @@ alt1.meMA.Ode1C1T.text = ""
 
 alt1.meMA.Ode3C11.ode = miscellanea_en_US_andronache.misc.Ode3
 alt1.meMA.Ode3C11.mode = miscellanea_en_US_andronache.misc.Mode4
+alt1.meMA.Ode3C11.greekmelody = he.h.m4_en_US_andronache.heHE.TousSousYmnologous.greekname
 alt1.meMA.Ode3C11.melody = he.h.m4_en_US_andronache.heHE.TousSousYmnologous.notmetered
 alt1.meMA.Ode3C11.incipit = "…"
 alt1.meMA.Ode3C11.text = ""
@@ -890,17 +908,20 @@ alt1.meMA.Ode3C1T.incipit = "…"
 alt1.meMA.Ode3C1T.text = ""
 
 alt1.meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode3
+alt1.meMA.Ode3Kathisma1.greekmelody = he.a.m3_en_US_andronache.heAU.TheiasPisteos.greekname
 alt1.meMA.Ode3Kathisma1.melody = he.a.m3_en_US_andronache.heAU.TheiasPisteos.notmetered
 alt1.meMA.Ode3Kathisma1.incipit = "…"
 alt1.meMA.Ode3Kathisma1.text = ""
 
 alt1.meMA.Ode3Kathisma2.mode = miscellanea_en_US_andronache.misc.Mode3
+alt1.meMA.Ode3Kathisma2.greekmelody = he.a.m3_en_US_andronache.heAU.TheiasPisteos.greekname
 alt1.meMA.Ode3Kathisma2.melody = he.a.m3_en_US_andronache.heAU.TheiasPisteos.notmetered
 alt1.meMA.Ode3Kathisma2.incipit = "…"
 alt1.meMA.Ode3Kathisma2.text = ""
 
 alt1.meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 alt1.meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode4
+alt1.meMA.Ode4C11.greekmelody = he.h.m4_en_US_andronache.heHE.OKathimenosEnDoxi.greekname
 alt1.meMA.Ode4C11.melody = he.h.m4_en_US_andronache.heHE.OKathimenosEnDoxi.notmetered
 alt1.meMA.Ode4C11.incipit = "…"
 alt1.meMA.Ode4C11.text = ""
@@ -925,6 +946,7 @@ alt1.meMA.Ode4C1T.text = ""
 
 alt1.meMA.Ode5C11.ode = miscellanea_en_US_andronache.misc.Ode5
 alt1.meMA.Ode5C11.mode = miscellanea_en_US_andronache.misc.Mode4
+alt1.meMA.Ode5C11.greekmelody = he.h.m4_en_US_andronache.heHE.ExestiTaSympanta.greekname
 alt1.meMA.Ode5C11.melody = he.h.m4_en_US_andronache.heHE.ExestiTaSympanta.notmetered
 alt1.meMA.Ode5C11.incipit = "…"
 alt1.meMA.Ode5C11.text = ""
@@ -949,6 +971,7 @@ alt1.meMA.Ode5C1T.text = ""
 
 alt1.meMA.Ode6C11.ode = miscellanea_en_US_andronache.misc.Ode6
 alt1.meMA.Ode6C11.mode = miscellanea_en_US_andronache.misc.Mode4
+alt1.meMA.Ode6C11.greekmelody = he.h.m4_en_US_andronache.heHE.TinTheianTaftin.greekname
 alt1.meMA.Ode6C11.melody = he.h.m4_en_US_andronache.heHE.TinTheianTaftin.notmetered
 alt1.meMA.Ode6C11.incipit = "…"
 alt1.meMA.Ode6C11.text = ""
@@ -972,6 +995,7 @@ alt1.meMA.Ode6C1T.incipit = "…"
 alt1.meMA.Ode6C1T.text = ""
 
 alt1.meMA.Kontakion1.mode = miscellanea_en_US_andronache.misc.Mode8
+alt1.meMA.Kontakion1.greekmelody = he.a.m8_en_US_andronache.heAU.TiYpermacho.greekname
 alt1.meMA.Kontakion1.melody = he.a.m8_en_US_andronache.heAU.TiYpermacho.notmetered
 alt1.meMA.Kontakion1.incipit = "Let us honor Kassiane who…"
 alt1.meMA.Kontakion1.text = "Let us honor Kassiane who glorified God, as a lamp of compunction, for she has been adorned with all goodness and virtue; she was made holy through ceaseless vigil and was well-pleasing to Christ the King. Thus, let us cry to her with fervor: Rejoice, mother most luminous."
@@ -987,6 +1011,7 @@ alt1.meMA.Oikos18.text = "Rejoice, mother most luminous"
 
 alt1.meMA.Ode7C11.ode = miscellanea_en_US_andronache.misc.Ode7
 alt1.meMA.Ode7C11.mode = miscellanea_en_US_andronache.misc.Mode4
+alt1.meMA.Ode7C11.greekmelody = he.h.m4_en_US_andronache.heHE.OukElatrefsan.greekname
 alt1.meMA.Ode7C11.melody = he.h.m4_en_US_andronache.heHE.OukElatrefsan.notmetered
 alt1.meMA.Ode7C11.incipit = "…"
 alt1.meMA.Ode7C11.text = ""
@@ -1011,6 +1036,7 @@ alt1.meMA.Ode7C1T.text = ""
 
 alt1.meMA.Ode8C11.ode = miscellanea_en_US_andronache.misc.Ode8
 alt1.meMA.Ode8C11.mode = miscellanea_en_US_andronache.misc.Mode4
+alt1.meMA.Ode8C11.greekmelody = he.h.m4_en_US_andronache.heHE.PaidasEvageis.greekname
 alt1.meMA.Ode8C11.melody = he.h.m4_en_US_andronache.heHE.PaidasEvageis.notmetered
 alt1.meMA.Ode8C11.incipit = "…"
 alt1.meMA.Ode8C11.text = ""
@@ -1035,6 +1061,7 @@ alt1.meMA.Ode8C1T.text = ""
 
 alt1.meMA.Ode9C11.ode = miscellanea_en_US_andronache.misc.Ode9
 alt1.meMA.Ode9C11.mode = miscellanea_en_US_andronache.misc.Mode4
+alt1.meMA.Ode9C11.greekmelody = he.h.m4_en_US_andronache.heHE.ApasGigenis.greekname
 alt1.meMA.Ode9C11.melody = he.h.m4_en_US_andronache.heHE.ApasGigenis.notmetered
 alt1.meMA.Ode9C11.incipit = "…"
 alt1.meMA.Ode9C11.text = ""
@@ -1058,6 +1085,7 @@ alt1.meMA.Ode9C1T.incipit = "…"
 alt1.meMA.Ode9C1T.text = ""
 
 alt1.meMA.Exaposteilarion1.mode = miscellanea_en_US_andronache.misc.Mode2
+alt1.meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_andronache.heAU.GynaikesAkoutisthite.greekname
 alt1.meMA.Exaposteilarion1.melody = he.a.m2_en_US_andronache.heAU.GynaikesAkoutisthite.name
 alt1.meMA.Exaposteilarion1.incipit = "When king Theophilos chose you…"
 alt1.meMA.Exaposteilarion1.text = "When king Theophilos chose you * to be his queen and consort * you answered no and gave yourself * to your Lord God and Bridegroom; * in labor and repentance * you climbed the ladder rung by rung * unto the height of heaven * and rejoice in the presence * of the saints and the angels."
@@ -1068,6 +1096,7 @@ alt1.meMA.ExapTheotokion.incipit = "With joy we celebrate today…"
 alt1.meMA.ExapTheotokion.text = "With joy we celebrate today * the birth of Mary, bride of God, * daughter of holy Joachim, * and of the righteous Anna, * for she is our protection * and healer from diseases * and so with faith we cry to her * send down from heaven unto us * the joy of your Son and our God."
 
 alt1.meMA.Lauds1.mode = miscellanea_en_US_andronache.misc.Mode8
+alt1.meMA.Lauds1.greekmelody = he.a.m8_en_US_andronache.heAU.OTouParadoxou.greekname
 alt1.meMA.Lauds1.melody = he.a.m8_en_US_andronache.heAU.OTouParadoxou.name
 alt1.meMA.Lauds1.incipit = "You loved * Christ your…"
 alt1.meMA.Lauds1.text = "You loved * Christ your God with all your heart * Kassiane, blessed saint, * and you bravely refused the king * when he asked you to become * the queen of an earthly realm. * Instead you lived the angelic life on earth * and were made worthy to become in truth * partaker of the heavenly * kingdom ruled by the eternal King * and received the gift of joy * beyond all earthly ken."
