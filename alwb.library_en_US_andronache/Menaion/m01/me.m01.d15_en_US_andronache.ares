@@ -602,8 +602,8 @@ meMA.AposGlory.text = ""
 
 meMA.AposTheotokion.mode = miscellanea_en_US_andronache.misc.Mode8
 meMA.AposTheotokion.melody = ""
-meMA.AposTheotokion.incipit = "…"
-meMA.AposTheotokion.text = ""
+meMA.AposTheotokion.incipit = //oc.m8.d7_en_US_andronache.ocVE.AposTheotokion.incipit
+meMA.AposTheotokion.text = //oc.m8.d7_en_US_andronache.ocVE.AposTheotokion.text
 
 meMA.AposStavrotheotokion.mode = miscellanea_en_US_andronache.misc.Mode8
 meMA.AposStavrotheotokion.greekmelody = he.a.m8_en_US_andronache.heAU.OTouParadoxou.greekname
