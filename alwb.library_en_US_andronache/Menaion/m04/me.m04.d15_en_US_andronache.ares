@@ -140,7 +140,7 @@ meMA.Ode3Kathisma1.text = "You were shown to be an inheritor of eternal good thi
 meMA.Ode3KathismaT.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode3KathismaT.melody = he.a.m4_en_US_andronache.heAU.OYpsotheisEnToStavro.notmetered
 meMA.Ode3KathismaT.incipit = "…"
-meMA.Ode3KathismaT.text = //ho.s23_en_US_andronache.hoCA.Apolytikion2.text
+meMA.Ode3KathismaT.text = //ho.ho23_en_US_andronache.hoCA.Apolytikion2.text
 
 meMA.Ode3KathismaSt.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode3KathismaSt.melody = he.a.m4_en_US_andronache.heAU.OYpsotheisEnToStavro.notmetered

@@ -136,7 +136,7 @@ meMA.PostGospelGlory.text = ""
 meMA.PostGospelBoth.mode = miscellanea_en_US_andronache.misc.Mode2
 meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.incipit = "…"
-meMA.PostGospelBoth.text = //ho.s03_en_US_andronache.hoMA.PostGospelTheotokos.text
+meMA.PostGospelBoth.text = //ho.ho03_en_US_andronache.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = miscellanea_en_US_andronache.misc.Mode6
 meMA.PostGospelIdiomelon.melody = ""
