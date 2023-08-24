@@ -236,6 +236,7 @@ meMA.Ode6C1T.text = "You made heavenly the nature of humanity which had become e
 
 meMA.Kontakion1.poet = //poets_en_US_andronache.Gerasimou
 meMA.Kontakion1.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.greekname
 meMA.Kontakion1.melody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.notmetered
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
@@ -343,6 +344,7 @@ meMA.Ode9C1T.incipit = "…"
 meMA.Ode9C1T.text = "Having been revealed to be the birth-giver of the Creator of all beyond all understanding, all blameless one, you were shown to be higher than the heavens and the Sovereign Lady of all, all-hymned virgin Theotokos. Therefore we all magnify you."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

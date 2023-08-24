@@ -246,6 +246,7 @@ meMA.Ode6C1T.incipit = "All-blameless one, having conceived as…"
 meMA.Ode6C1T.text = "All-blameless one, having conceived as a pure lamb the one who takes away the sin of the world, entreat that forgiveness of sins be granted to your servants."
 
 meMA.Kontakion1.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Kontakion1.greekmelody = he.a.m1_en_US_andronache.heAU.ChorosAngelikos.greekname
 meMA.Kontakion1.melody = he.a.m1_en_US_andronache.heAU.ChorosAngelikos.notmetered
 meMA.Kontakion1.incipit = "Offering rational fruits to the…"
 meMA.Kontakion1.text = "Offering rational fruits to the Lord, wise Polycarp, through god-inspired virtues, you were shown to be worthy of God, blessed hierarch; therefore, today, we who have been illumined by your words hymn your memory, which is most worthy of praise, while glorifying the Lord."
@@ -372,6 +373,7 @@ meMA.ExapTheotokion.incipit = "…"
 meMA.ExapTheotokion.text = ""
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

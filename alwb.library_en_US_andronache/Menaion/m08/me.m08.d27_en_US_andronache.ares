@@ -211,6 +211,7 @@ meMA.Ode6H.melody = miscellanea_en_US_andronache.misc.HeirmosNotMetered
 meMA.Ode6H.text = "" //he.h.m8_en_US_andronache.heHE.ChitonaMoiParaschou.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.greekname
 meMA.Kontakion1.melody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.notmetered
 meMA.Kontakion1.incipit = "The holy memory of your…"
 meMA.Kontakion1.text = "The holy memory of your bright struggles, Venerable one, is appointed today, gladdening the souls of the pious ones, godly-minded shepherd, our venerable father."
@@ -312,6 +313,7 @@ meMA.ExapTheotokion.incipit = "…"
 meMA.ExapTheotokion.text = ""
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

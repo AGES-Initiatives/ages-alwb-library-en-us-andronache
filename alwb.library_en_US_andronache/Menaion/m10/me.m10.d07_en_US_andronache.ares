@@ -258,6 +258,7 @@ meMA.Ode6H.incipit = he.h.m1_en_US_andronache.heHE.EkyklosenImas.incipit
 meMA.Ode6H.text = he.h.m1_en_US_andronache.heHE.EkyklosenImas.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_andronache.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_andronache.heAU.TaAnoZiton.notmetered
 meMA.Kontakion1.incipit = "Having courageously prepared your mind…"
 meMA.Kontakion1.text = "Having courageously prepared your mind for enemies, you destroyed all their deceit and received victory from above, all-famous martyrs, and you cry out with one mind: It is good and pleasant to be with Christ."
@@ -430,6 +431,7 @@ meMA.AposStavrotheotokion.incipit = "…"
 meMA.AposStavrotheotokion.text = //me.m02.d25_en_US_andronache.meVE.SticStavrotheotokion.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

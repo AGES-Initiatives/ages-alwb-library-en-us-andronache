@@ -311,6 +311,7 @@ meMA.Ode6C1T.incipit = "Moses, great among prophets, wrote…"
 meMA.Ode6C1T.text = "Moses, great among prophets, wrote aforetime of you symbolically as ark and table and lampstand and jar, signifying the incarnation from you of the Most High, O virgin mother."
 
 meMA.Kontakion1.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_andronache.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_andronache.heAU.TaAnoZiton.notmetered
 meMA.Kontakion1.incipit = "Prophet of God and forerunner…"
 meMA.Kontakion1.text = "Prophet of God and forerunner of grace, having found in the earth your head as a most holy rose, we receive healings always and again, as before, you preach repentance in the world."
@@ -465,6 +466,7 @@ meMA.AposTheotokion.incipit = "…"
 meMA.AposTheotokion.text = //he.o_en_US_andronache.heOT.TheotokeSyEiProdromou.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

@@ -400,6 +400,7 @@ meMA.Ode6H.incipit = he.h.m8_en_US_andronache.heHE.ChitonaMoiParaschou.incipit
 meMA.Ode6H.text = he.h.m8_en_US_andronache.heHE.ChitonaMoiParaschou.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_andronache.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_andronache.heAU.TaAnoZiton.notmetered
 meMA.Kontakion1.incipit = "Now Anna rejoices, having been…"
 meMA.Kontakion1.text = "Now Anna rejoices, having been loosed from the bonds of barrenness and feeds the all-pure one, calling all together to hymn the one who from her womb has granted to mortals the only mother who did not know man."
@@ -616,6 +617,7 @@ meMA.AposGlory.incipit = "…"
 meMA.AposGlory.text = ""
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

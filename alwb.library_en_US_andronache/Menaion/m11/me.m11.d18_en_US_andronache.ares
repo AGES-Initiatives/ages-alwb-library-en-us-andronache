@@ -237,11 +237,13 @@ meMA.Ode6H.incipit = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.incipit
 meMA.Ode6H.text = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.greekname
 meMA.Kontakion1.melody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.notmetered
 meMA.Kontakion1.incipit = "The Church holds you truly…"
 meMA.Kontakion1.text = "The Church holds you truly as a great star, all praiseworthy Romanos, she is illumined by your contests, glorifying your luminous memory"
 
 meMA.Kontakion2.mode = miscellanea_en_US_andronache.misc.Mode3
+meMA.Kontakion2.greekmelody = he.a.m3_en_US_andronache.heAU.IParthenosSimeron.greekname
 meMA.Kontakion2.melody = he.a.m3_en_US_andronache.heAU.IParthenosSimeron.notmetered
 meMA.Kontakion2.incipit = "You holy memory makes the…"
 meMA.Kontakion2.text = "You holy memory makes the world glad, calling together all to your all-august temple, where now, being gathered together with joy, we hymn with songs your excellence and with faith cry out: deliver your city from barbarians, O saint."
@@ -349,6 +351,7 @@ meMA.ExapTheotokion.incipit = "…"
 meMA.ExapTheotokion.text = //ho.ho03_en_US_andronache.hoMA.ExapThuTh.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

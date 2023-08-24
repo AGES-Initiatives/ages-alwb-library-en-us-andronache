@@ -581,6 +581,7 @@ meMA.Ode6C3T.incipit = "…"
 meMA.Ode6C3T.text = ""
 
 meMA.Kontakion1.mode = miscellanea_en_US_andronache.misc.Mode1
+meMA.Kontakion1.greekmelody = he.a.m1_en_US_andronache.heAU.ChorosAngelikos.greekname
 meMA.Kontakion1.melody = he.a.m1_en_US_andronache.heAU.ChorosAngelikos.notmetered
 meMA.Kontakion1.incipit = "The august Church mystically rejoiced…"
 meMA.Kontakion1.text = "The august Church mystically rejoiced in the return of your august relics and, having hidden them as most-precious gold, she grants to those who hymn you without ceasing the grace of healings through your intercessions, O John Chrysostom."
@@ -878,6 +879,7 @@ meMA.LaudsTheotokion.incipit = "…"
 meMA.LaudsTheotokion.text = //oc.m4.d2_en_US_andronache.ocMA.AposTheotokion.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

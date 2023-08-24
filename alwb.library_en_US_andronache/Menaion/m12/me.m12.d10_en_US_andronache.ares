@@ -265,6 +265,7 @@ meMA.Ode6H.incipit = he.h.m1_en_US_andronache.heHE.SplanchnonIonan.incipit
 meMA.Ode6H.text = he.h.m1_en_US_andronache.heHE.SplanchnonIonan.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.greekname
 meMA.Kontakion1.melody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.notmetered
 meMA.Kontakion1.incipit = "The Lord who grants you…"
 meMA.Kontakion1.text = "The Lord who grants you the crown of incorruption carried you off from this temporary expedition and showed you a co-inheritor of incorruptible things, O Menas, with your co-contestants."
@@ -394,6 +395,7 @@ meMA.AposStavrotheotokion.incipit = "…"
 meMA.AposStavrotheotokion.text = ""
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

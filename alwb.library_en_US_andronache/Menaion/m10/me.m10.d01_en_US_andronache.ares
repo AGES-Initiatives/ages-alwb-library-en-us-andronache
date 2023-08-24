@@ -405,6 +405,7 @@ meMA.Ode6H.incipit = he.h.m6_en_US_andronache.heHE.TouViouTinThalassan.incipit
 meMA.Ode6H.text = he.h.m6_en_US_andronache.heHE.TouViouTinThalassan.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_andronache.misc.Mode6
+meMA.Kontakion1.greekmelody = he.a.m6_en_US_andronache.heAU.TinEnPresveiais.greekname
 meMA.Kontakion1.melody = he.a.m6_en_US_andronache.heAU.TinEnPresveiais.notmetered
 meMA.Kontakion1.incipit = "Ananias, most fervent protector, through…"
 meMA.Kontakion1.text = "Ananias, most fervent protector, through most fervent intercessions and most speedy listener to requests, accept our entreaty and importune Christ to to have mercy on us, as the only One glorified in His saints."
@@ -612,6 +613,7 @@ meMA.AposStavrotheotokion.incipit = "…"
 meMA.AposStavrotheotokion.text = ""
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

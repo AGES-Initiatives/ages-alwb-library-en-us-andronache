@@ -245,6 +245,7 @@ meMA.Ode6C1T.text = "When they disobediently tasted of the tree, the first-creat
 
 meMA.Kontakion1.poet = //poets_en_US_andronache.Gerasimou
 meMA.Kontakion1.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_andronache.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_andronache.heAU.TaAnoZiton.notmetered
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
@@ -346,6 +347,7 @@ meMA.Ode9C1T.incipit = "…"
 meMA.Ode9C1T.text = "O Theotokos, you are the glory, boldness, strength, and boast of your servants and the certain achievement of my expectations."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

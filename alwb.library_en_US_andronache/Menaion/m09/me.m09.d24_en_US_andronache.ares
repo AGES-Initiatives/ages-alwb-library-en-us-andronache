@@ -279,6 +279,7 @@ meMA.Ode6H.incipit = he.h.m8_en_US_andronache.heHE.TinDeisinEkcheo.incipit
 meMA.Ode6H.text = he.h.m8_en_US_andronache.heHE.TinDeisinEkcheo.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Kontakion1.greekmelody = he.a.m8_en_US_andronache.heAU.OsAparchas.greekname
 meMA.Kontakion1.melody = he.a.m8_en_US_andronache.heAU.OsAparchas.notmetered
 meMA.Kontakion1.incipit = "You shone forth with the…"
 meMA.Kontakion1.text = "You shone forth with the beauty of virginity and you were adorned with the crown of martyrdom; Virgin, you were entrusted an apostolate as highly honored. You changed the fiery flames into dew and you tamed the anger of the bull by your prayers, as the first contestant."
@@ -457,6 +458,7 @@ meMA.AposStavrotheotokion.incipit = "…"
 meMA.AposStavrotheotokion.text = ""
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

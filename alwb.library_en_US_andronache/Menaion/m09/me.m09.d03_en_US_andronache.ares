@@ -384,6 +384,7 @@ meMA.Ode6H.incipit = he.h.m8_en_US_andronache.heHE.TinDeisinEkcheo.incipit
 meMA.Ode6H.text = he.h.m8_en_US_andronache.heHE.TinDeisinEkcheo.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_US_andronache.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kontakion1.melody = he.a.m4_en_US_andronache.heAU.OYpsotheisEnToStavro.notmetered
 meMA.Kontakion1.incipit = "You were eminently pious in…"
 meMA.Kontakion1.text = "You were eminently pious in your priesthood and you finished the way of martyrdom; you quenched the honoring of idols becoming a champion for your flock, godly minded one. Therefore, honoring you, it cries out to you mystically: Ever rescue me from dangers by your prayers, our Father Anthimos"
@@ -590,6 +591,7 @@ meMA.AposStavrotheotokion.incipit = "…"
 meMA.AposStavrotheotokion.text = //me.m07.d18_en_US_andronache.meVE.SticStavrotheotokion.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

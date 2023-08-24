@@ -244,6 +244,7 @@ meMA.Ode6C1T.text = "Your conception is strange, O Maiden, and your birth-giving
 
 meMA.Kontakion1.poet = //poets_en_US_andronache.Gerasimou
 meMA.Kontakion1.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Kontakion1.greekmelody = he.a.m8_en_US_andronache.heAU.OsAparchas.greekname
 meMA.Kontakion1.melody = he.a.m8_en_US_andronache.heAU.OsAparchas.notmetered
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
@@ -351,6 +352,7 @@ meMA.Ode9C1T.incipit = "…"
 meMA.Ode9C1T.text = "Free me from the flames of Gehenna, you who beyond understanding bore the unbearable fire, and, spotless one, enkindle my soul with yearning for Him who came to cast the fire of knowledge upon the earth, God-graced maiden."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

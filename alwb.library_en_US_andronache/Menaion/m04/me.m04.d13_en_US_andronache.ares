@@ -238,6 +238,7 @@ meMA.Ode6C1T.text = "The laws of nature are undone in you, for you ineffably bea
 
 meMA.Kontakion1.poet = //poets_en_US_andronache.Gerasimou
 meMA.Kontakion1.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Kontakion1.greekmelody = he.a.m8_en_US_andronache.heAU.TiYpermacho.greekname
 meMA.Kontakion1.melody = he.a.m8_en_US_andronache.heAU.TiYpermacho.notmetered
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
@@ -357,6 +358,7 @@ meMA.Ode9C1T.incipit = "…"
 meMA.Ode9C1T.text = "Persuaded by the voices of the Fathers, pure one, we faithfully confess the one of the Trinity who was born of you as having two natures and wills and we magnify you, O Virgin."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

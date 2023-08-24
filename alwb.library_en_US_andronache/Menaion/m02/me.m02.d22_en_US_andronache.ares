@@ -234,6 +234,7 @@ meMA.Ode6C1T.incipit = "From you God appeared to…"
 meMA.Ode6C1T.text = "From you God appeared to mortals having put on flesh from you; the rich one took up my poverty, all blameless one, granting me entrance to immortality."
 
 meMA.Kontakion1.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.greekname
 meMA.Kontakion1.melody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.notmetered
 meMA.Kontakion1.incipit = "Having shone out from the…"
 meMA.Kontakion1.text = "Having shone out from the earth like a lamp, you scattered every cloud of impiety and illumined the faithful, divine martyrs, champions of the Trinity."
@@ -337,6 +338,7 @@ meMA.Ode9C1T.incipit = "Cloud of the noetic sun…"
 meMA.Ode9C1T.text = "Cloud of the noetic sun, drive away the clouds of my soul; gate of God, I entreat that you open to me the doors of righteousness, O Lady, and guide me towards the good entrances, redeeming me from the varied scandals of the evil one."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

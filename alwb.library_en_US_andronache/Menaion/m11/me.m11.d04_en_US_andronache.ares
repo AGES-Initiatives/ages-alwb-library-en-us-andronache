@@ -405,6 +405,7 @@ meMA.Ode6H.incipit = he.h.m4_en_US_andronache.heHE.EvoiseProtypon.incipit
 meMA.Ode6H.text = he.h.m4_en_US_andronache.heHE.EvoiseProtypon.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Kontakion1.greekmelody = he.a.m8_en_US_andronache.heAU.TiYpermacho.greekname
 meMA.Kontakion1.melody = he.a.m8_en_US_andronache.heAU.TiYpermacho.notmetered
 meMA.Kontakion1.incipit = "You were seen as an…"
 meMA.Kontakion1.text = "You were seen as an all-brilliant star shining upon the earth and illuminating those in the nether darkness of the passions, a most-helpful doctor to the ill, but as having received the grace of healing, grant all healing to us who entreat you so that we may cry: Rejoice, father Ioannikios."
@@ -618,6 +619,7 @@ meMA.ExapTheotokion.incipit = "…"
 meMA.ExapTheotokion.text = ""
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

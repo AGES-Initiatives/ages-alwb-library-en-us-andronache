@@ -510,6 +510,7 @@ meMA.Ode6C2T.incipit = "…"
 meMA.Ode6C2T.text = ""
 
 meMA.Kontakion1.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.greekname
 meMA.Kontakion1.melody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.notmetered
 meMA.Kontakion1.incipit = "The Church has acquired your…"
 meMA.Kontakion1.text = "The Church has acquired your skull as a very precious treasure, hieromartyr, prizewinner, and trophy-bearer Haralambos; therefore she rejoices, glorifying the Creator."
@@ -707,6 +708,7 @@ meMA.MM.Lauds1123as5678.text = properties_en_US_andronache.media.key
 meMA.MM.Lauds123as456.text = properties_en_US_andronache.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

@@ -237,6 +237,7 @@ meMA.Ode6C1T.incipit = "Sanctify my soul, Virgin, who…"
 meMA.Ode6C1T.text = "Sanctify my soul, Virgin, who bore the Holy Logos, our only God, who truly dwells in the saints as it is proper, and grant me waters of compunction as you are truly all-blameless."
 
 meMA.Kontakion1.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m6_en_US_andronache.heAU.TinEnPresveiais.greekname
 meMA.Kontakion1.melody = he.a.m6_en_US_andronache.heAU.TinEnPresveiais.notmetered
 meMA.Kontakion1.incipit = "Since he has been dedicated…"
 meMA.Kontakion1.text = "Since he has been dedicated from infancy and has received grace from his swaddling clothes, let us all crown with praises Leo, the beacon of the Church and her champion, for he is her support."
@@ -357,6 +358,7 @@ meMA.ExapTheotokion.incipit = "…"
 meMA.ExapTheotokion.text = ""
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

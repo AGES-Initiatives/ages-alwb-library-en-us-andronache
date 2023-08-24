@@ -250,6 +250,7 @@ meMA.Ode6C1T.incipit = "O wonder newer than all…"
 meMA.Ode6C1T.text = "O wonder newer than all wonders! That a virgin, having conceived in her womb without a husband the one who holds all things, did not lack the space to hold Him."
 
 meMA.Kontakion1.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_andronache.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_andronache.heAU.TaAnoZiton.notmetered
 meMA.Kontakion1.incipit = "Receiving the divine revelation from…"
 meMA.Kontakion1.text = "Receiving the divine revelation from on high, you went hastily from the midst of tumult and having dwelt in solitude, you received the working of miracles and gifts of prophecy, Venerable one, and being bereft of wife and riches."
@@ -365,6 +366,7 @@ meMA.Ode9C1T.incipit = "Take the entreaties of your…"
 meMA.Ode9C1T.text = "Take the entreaties of your people to your Son, O Theotokos, graciously making him merciful that those who hymn you be delivered from dangers and crises, for you are the protectress of our life."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

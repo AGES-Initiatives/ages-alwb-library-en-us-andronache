@@ -237,6 +237,7 @@ meMA.Ode6C1T.incipit = "Having taken off life in…"
 meMA.Ode6C1T.text = "Having taken off life in paradise, Adam put on death, O Virgin; but by your life-bearing giving birth he was made immortal, all-holy bride of God."
 
 meMA.Kontakion1.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.greekname
 meMA.Kontakion1.melody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.notmetered
 meMA.Kontakion1.incipit = "The Church holds you as…"
 meMA.Kontakion1.text = "The Church holds you as a great star, O Archippus; illumined by the rays of your miracles she cries to you: Save those who honor your memory with faith."
@@ -346,6 +347,7 @@ meMA.Ode9C1T.incipit = "Since you bore in your…"
 meMA.Ode9C1T.text = "Since you bore in your embrace Christ who holds all things by His command, entreat Him as your Son so that He save me from the hands of the enemy, all-pure one, and in His unfathomable mercy, embrace me and save me."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

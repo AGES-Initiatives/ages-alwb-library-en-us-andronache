@@ -441,11 +441,13 @@ meMA.Ode6H.incipit = he.h.m8_en_US_andronache.heHE.TinDeisinEkcheo.incipit
 meMA.Ode6H.text = he.h.m8_en_US_andronache.heHE.TinDeisinEkcheo.text
 
 meMA.Kontakion1.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.greekname
 meMA.Kontakion1.melody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.name
 meMA.Kontakion1.incipit = "Today, in the divine Transfiguration…"
 meMA.Kontakion1.text = "Today, in the divine Transfiguration, all mortal nature shines forth in a divine manner, crying out in gladness: Christ is transfigured, saving everyone."
 
 meMA.Kontakion2.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Kontakion2.greekmelody = he.a.m8_en_US_andronache.heAU.OsAparchas.greekname
 meMA.Kontakion2.melody = he.a.m8_en_US_andronache.heAU.OsAparchas.name
 meMA.Kontakion2.incipit = "As a witness of piety…"
 meMA.Kontakion2.text = "As a witness of piety and true god-mindedness, the church rejoices glorifying the divine contests today of the wise Evsignios, crying out unceasingly: protect your servants by his intercession, most-merciful one."
@@ -733,6 +735,7 @@ meMA.AposGlory.incipit = "…"
 meMA.AposGlory.text = ""
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

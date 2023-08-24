@@ -245,6 +245,7 @@ meMA.Ode6C1T.incipit = "He who sits uncircumscribed upon…"
 meMA.Ode6C1T.text = "He who sits uncircumscribed upon the wide array of the Cherubim, dwelt, circumscribedly, in your womb in flesh but not divinity, and came forth from you saving me, all blameless one."
 
 meMA.Kontakion1.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.greekname
 meMA.Kontakion1.melody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.notmetered
 meMA.Kontakion1.incipit = "Having arisen as a multi-luminous…"
 meMA.Kontakion1.text = "Having arisen as a multi-luminous start from the East you clearly shone the virtues of your wonders in the hearts of the faithful, wonder-bearer godly-minded Timothy."
@@ -352,6 +353,7 @@ meMA.Ode9C1T.incipit = "Having followed your words, generations…"
 meMA.Ode9C1T.text = "Having followed your words, generations of generations ever bless you, for you bore the truly blessed God  spotless pure one, who makes blessed all those who serve him without deceit."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

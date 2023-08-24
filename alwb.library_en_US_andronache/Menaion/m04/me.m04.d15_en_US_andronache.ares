@@ -245,6 +245,7 @@ meMA.Kontakion1.text = ""
 
 meMA.Kontakion2.poet = //poets_en_US_andronache.Gerasimou
 meMA.Kontakion2.mode = miscellanea_en_US_andronache.misc.Mode4
+meMA.Kontakion2.greekmelody = he.a.m4_en_US_andronache.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kontakion2.melody = he.a.m4_en_US_andronache.heAU.OYpsotheisEnToStavro.notmetered
 meMA.Kontakion2.incipit = "…"
 meMA.Kontakion2.text = ""
