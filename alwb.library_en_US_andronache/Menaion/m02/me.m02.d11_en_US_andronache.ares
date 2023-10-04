@@ -1,0 +1,307 @@
+A_Resource_Whose_Name = me.m02.d11_en_US_andronache
+
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+
+meMA.Ode1C1H.ode = miscellanea_en_US_andronache.misc.Ode1
+meMA.Ode1C1H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode1C1H.greekmelody = he.h.m8_en_US_andronache.heHE.AsmaAnapempsomen.greekname
+meMA.Ode1C1H.melody = he.h.m8_en_US_andronache.heHE.AsmaAnapempsomen.melody
+meMA.Ode1C1H.incipit = he.h.m8_en_US_andronache.heHE.AsmaAnapempsomen.incipit
+meMA.Ode1C1H.text = he.h.m8_en_US_andronache.heHE.AsmaAnapempsomen.text
+
+meMA.Ode1C11.ode = miscellanea_en_US_andronache.misc.Ode1
+meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode1C11.greekmelody = he.h.m8_en_US_andronache.heHE.AsmaAnapempsomen.greekname
+meMA.Ode1C11.melody = he.h.m8_en_US_andronache.heHE.AsmaAnapempsomen.notmetered
+meMA.Ode1C11.incipit = "As I faithfully praise…"
+meMA.Ode1C11.text = "As I faithfully praise with hymns your light-bearing, august, and holy contest, O hieromartyr of Christ, illumine my mind with a most bright light, as you have boldness towards the Creator."
+
+meMA.Ode1C12.ode = miscellanea_en_US_andronache.misc.Ode1
+meMA.Ode1C12.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode1C12.melody = he.h.m8_en_US_andronache.heHE.AsmaAnapempsomen.notmetered
+meMA.Ode1C12.incipit = "…"
+meMA.Ode1C12.text = "Confessing the Divinity to be one nature in trinity, you chased away the fog of polytheism and were seen as a morning shining forth with godly reverence for those held by the darkness of deceit."
+
+meMA.Ode1C13.ode = miscellanea_en_US_andronache.misc.Ode1
+meMA.Ode1C13.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode1C13.melody = he.h.m8_en_US_andronache.heHE.AsmaAnapempsomen.notmetered
+meMA.Ode1C13.incipit = "…"
+meMA.Ode1C13.text = "By diminishing the night of godlessness with the flashes of holy preaching you were shown to be a star, adorned with the brightness of miracles and the light of martyrdom and you illumine the entire creation."
+
+meMA.Ode1C1T.ode = miscellanea_en_US_andronache.misc.Ode1
+meMA.Ode1C1T.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode1C1T.melody = he.h.m8_en_US_andronache.heHE.AsmaAnapempsomen.notmetered
+meMA.Ode1C1T.incipit = "…"
+meMA.Ode1C1T.text = "Finding you wholly pure, the pure one dwelt in your womb, pure Virgin-mother, and took on flesh without sin, so that he might deliver us from deceit."
+
+meMA.Ode3C1H.ode = miscellanea_en_US_andronache.misc.Ode3
+meMA.Ode3C1H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3C1H.greekmelody = he.h.m8_en_US_andronache.heHE.EstereothiIKardiaMouEnKyrio.greekname
+meMA.Ode3C1H.melody = he.h.m8_en_US_andronache.heHE.EstereothiIKardiaMouEnKyrio.melody
+meMA.Ode3C1H.incipit = he.h.m8_en_US_andronache.heHE.EstereothiIKardiaMouEnKyrio.incipit
+meMA.Ode3C1H.text = he.h.m8_en_US_andronache.heHE.EstereothiIKardiaMouEnKyrio.text
+
+meMA.Ode3C11.ode = miscellanea_en_US_andronache.misc.Ode3
+meMA.Ode3C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3C11.greekmelody = he.h.m8_en_US_andronache.heHE.EstereothiIKardiaMouEnKyrio.greekname
+meMA.Ode3C11.melody = he.h.m8_en_US_andronache.heHE.EstereothiIKardiaMouEnKyrio.notmetered
+meMA.Ode3C11.incipit = "We, who are drowned…"
+meMA.Ode3C11.text = "We, who are drowned by the thorns of life’s mishaps, being purged by the sickle of your intercessions, unceasingly call upon you as a support."
+
+meMA.Ode3C12.ode = miscellanea_en_US_andronache.misc.Ode3
+meMA.Ode3C12.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3C12.melody = he.h.m8_en_US_andronache.heHE.EstereothiIKardiaMouEnKyrio.notmetered
+meMA.Ode3C12.incipit = ".…"
+meMA.Ode3C12.text = "By the most perfect inclination towards the divine you endured the waves of tortures and when your body was scraped you seemed as though another was suffering"
+
+meMA.Ode3C13.ode = miscellanea_en_US_andronache.misc.Ode3
+meMA.Ode3C13.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3C13.melody = he.h.m8_en_US_andronache.heHE.EstereothiIKardiaMouEnKyrio.notmetered
+meMA.Ode3C13.incipit = "…"
+meMA.Ode3C13.text = "As a hierarch, an unconquered prize-winning athlete illumined by divine glory you now stand before the highest desire, interceding for your flock."
+
+meMA.Ode3C1T.ode = miscellanea_en_US_andronache.misc.Ode3
+meMA.Ode3C1T.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3C1T.melody = he.h.m8_en_US_andronache.heHE.EstereothiIKardiaMouEnKyrio.notmetered
+meMA.Ode3C1T.incipit = "…"
+meMA.Ode3C1T.text = "The generations of people bless you with hymns, God-blessed one, who were shown to be higher than all created things and holier than all."
+
+meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.greekname
+meMA.Ode3Kathisma1.melody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.notmetered
+meMA.Ode3Kathisma1.incipit = "Having sprouted up…"
+meMA.Ode3Kathisma1.text = "Having sprouted up as a thriving tree in the house of the Lord, O hierarch, you planted many in the land of salvation and as a ram having led the flock well, you were tied in bonds and slaughtered, becoming a sacrifice to the one who by his mercy was slaughtered like a lamb and went to Him rejoicing, Father Blaise. Therefore we cry out to you: Intercede with Christ God that forgiveness of transgressions be granted to those who fervently celebrate your holy memory."
+
+meMA.Ode3KathismaT.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3KathismaT.melody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.notmetered
+meMA.Ode3KathismaT.incipit = "For the adornment of the world…"
+meMA.Ode3KathismaT.text = "For the adornment of the world and decoration of the the ranks above, O Virgin, you brought forth in the world the one who adorns the world . For before this, O Maiden, they were unadorned, as people not able to see the Lord. Therefore you showed yourself to be the orderly decorum of both, O Mother of God, by the decorum of your Childbirth, for through him you adorned the world with the ancient adornment and you greatly adorn most beautifully all the battle-ranks of the angels in you, protectress of the world."
+
+meMA.Ode3KathismaSt.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3KathismaSt.melody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.notmetered
+
+meMA.Ode4C1H.ode = miscellanea_en_US_andronache.misc.Ode4
+meMA.Ode4C1H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode4C1H.greekmelody = he.h.m8_en_US_andronache.heHE.ExOrousKataskiou.greekname
+meMA.Ode4C1H.melody = he.h.m8_en_US_andronache.heHE.ExOrousKataskiou.melody
+meMA.Ode4C1H.incipit = he.h.m8_en_US_andronache.heHE.ExOrousKataskiou.incipit
+meMA.Ode4C1H.text = he.h.m8_en_US_andronache.heHE.ExOrousKataskiou.text
+
+meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
+meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode4C11.greekmelody = he.h.m8_en_US_andronache.heHE.ExOrousKataskiou.greekname
+meMA.Ode4C11.melody = he.h.m8_en_US_andronache.heHE.ExOrousKataskiou.notmetered
+meMA.Ode4C11.incipit = "…"
+meMA.Ode4C11.text = "O Martyr and shepherd, having your soul brightly illumined with immaterial light, you courageously stood before the places of judgment, confessing the incarnation of God."
+
+meMA.Ode4C12.ode = miscellanea_en_US_andronache.misc.Ode4
+meMA.Ode4C12.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode4C12.melody = he.h.m8_en_US_andronache.heHE.ExOrousKataskiou.notmetered
+meMA.Ode4C12.incipit = "You were known as a mystic…"
+meMA.Ode4C12.text = "You were known as a mystic, priest, and crown-bearing martyr, unshaken pillar, foundation of piety, and support of the truth for the Church, O Martyr Blaise."
+
+meMA.Ode4C13.ode = miscellanea_en_US_andronache.misc.Ode4
+meMA.Ode4C13.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode4C13.melody = he.h.m8_en_US_andronache.heHE.ExOrousKataskiou.notmetered
+meMA.Ode4C13.incipit = "…"
+meMA.Ode4C13.text = "You piously pastored rational sheep, and offered yourself as an acceptable sacrifice to the Master, whole-burnt by the coals of martyrdom, all-honored priest and mystic."
+
+meMA.Ode4C14.ode = miscellanea_en_US_andronache.misc.Ode4
+meMA.Ode4C14.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode4C14.melody = he.h.m8_en_US_andronache.heHE.ExOrousKataskiou.notmetered
+meMA.Ode4C14.incipit = "…"
+meMA.Ode4C14.text = "With the speech of your wise lips evil lips were stopped from uttering blasphemies about the Master and King of all, O admirable priest and preacher."
+
+meMA.Ode4C1T.ode = miscellanea_en_US_andronache.misc.Ode4
+meMA.Ode4C1T.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode4C1T.melody = he.h.m8_en_US_andronache.heHE.ExOrousKataskiou.notmetered
+meMA.Ode4C1T.incipit = "…"
+meMA.Ode4C1T.text = "O Maiden, the prophet saw you as a new book having the Word of God written in, who tore apart the bond of sin of the forefathers."
+
+meMA.Ode5C1H.ode = miscellanea_en_US_andronache.misc.Ode5
+meMA.Ode5C1H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode5C1H.greekmelody = he.h.m8_en_US_andronache.heHE.TonZofonTisPsychisMou.greekname
+meMA.Ode5C1H.melody = he.h.m8_en_US_andronache.heHE.TonZofonTisPsychisMou.melody
+meMA.Ode5C1H.incipit = he.h.m8_en_US_andronache.heHE.TonZofonTisPsychisMou.incipit
+meMA.Ode5C1H.text = he.h.m8_en_US_andronache.heHE.TonZofonTisPsychisMou.text
+
+meMA.Ode5C11.ode = miscellanea_en_US_andronache.misc.Ode5
+meMA.Ode5C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode5C11.greekmelody = he.h.m8_en_US_andronache.heHE.TonZofonTisPsychisMou.greekname
+meMA.Ode5C11.melody = he.h.m8_en_US_andronache.heHE.TonZofonTisPsychisMou.notmetered
+meMA.Ode5C11.incipit = "You endured bravely…"
+meMA.Ode5C11.text = "You endured bravely the torturing of your flesh, ever-memorable one beingterribly wounded, yet wounding the deceit and shaking the enemies through your ascent toward God, admirable shepherd."
+
+meMA.Ode5C12.ode = miscellanea_en_US_andronache.misc.Ode5
+meMA.Ode5C12.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode5C12.melody = he.h.m8_en_US_andronache.heHE.TonZofonTisPsychisMou.notmetered
+meMA.Ode5C12.incipit = "…"
+meMA.Ode5C12.text = "Being an icon of the one nailed to the Cross by your suffering, blessed one, you endured the pains of the flesh bravely and became a conqueror worthily counted in the ranks of the martyrs."
+
+meMA.Ode5C13.ode = miscellanea_en_US_andronache.misc.Ode5
+meMA.Ode5C13.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode5C13.melody = he.h.m8_en_US_andronache.heHE.TonZofonTisPsychisMou.notmetered
+meMA.Ode5C13.incipit = "…"
+meMA.Ode5C13.text = "By trusting God, with the whip of your prayers, Father, you pushed/forced the beast to abandon the pray which it has caught unrighteously, fulfilling with a most merciful heart the faithful woman’s request."
+
+meMA.Ode5C1T.ode = miscellanea_en_US_andronache.misc.Ode5
+meMA.Ode5C1T.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode5C1T.melody = he.h.m8_en_US_andronache.heHE.TonZofonTisPsychisMou.notmetered
+meMA.Ode5C1T.incipit = "…"
+meMA.Ode5C1T.text = "We hymn you, Mary, who deified the dough of humans by your birth-giving which is beyond understanding and refashioned us who were perishing and crushed through the deceit of the serpent, all-pure one."
+
+meMA.Ode6C1H.ode = miscellanea_en_US_andronache.misc.Ode6
+meMA.Ode6C1H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode6C1H.greekmelody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.greekname
+meMA.Ode6C1H.melody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.melody
+meMA.Ode6C1H.incipit = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.incipit
+meMA.Ode6C1H.text = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.text
+
+meMA.Ode6C11.ode = miscellanea_en_US_andronache.misc.Ode6
+meMA.Ode6C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode6C11.greekmelody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.greekname
+meMA.Ode6C11.melody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.notmetered
+meMA.Ode6C11.incipit = "A crowd of august women…"
+meMA.Ode6C11.text = "A crowd of august women contended together with you, ever-memorable one, for strengthened by the power of the Cross, they crushed the much-scheming head of the enemy, he plaited for himself the diadem of victory."
+
+meMA.Ode6C12.ode = miscellanea_en_US_andronache.misc.Ode6
+meMA.Ode6C12.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode6C12.melody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.notmetered
+meMA.Ode6C12.incipit = "…"
+meMA.Ode6C12.text = "Weakness was strengthened by God’s power and grace, for behold, vigorously, women were most brave, trampling the serpent who once drove Eve out of Paradise."
+
+meMA.Ode6C13.ode = miscellanea_en_US_andronache.misc.Ode6
+meMA.Ode6C13.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode6C13.melody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.notmetered
+meMA.Ode6C13.incipit = "…"
+meMA.Ode6C13.text = "Drowning the lifeless images of the evil demons you moved yourselves to become treasures of the heavenly temple and you illuminated the church of the first-born."
+
+meMA.Ode6C1T.ode = miscellanea_en_US_andronache.misc.Ode6
+meMA.Ode6C1T.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode6C1T.melody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.notmetered
+meMA.Ode6C1T.incipit = "…"
+meMA.Ode6C1T.text = "O throne of God who is higher than the Cherubim, cloud of the light, Most holy one, illumine the eyes of my soul and cleanse my heart from the mist of passions."
+
+meMA.Kontakion1.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_andronache.heAU.TaAnoZiton.greekname
+meMA.Kontakion1.melody = he.a.m2_en_US_andronache.heAU.TaAnoZiton.notmetered
+meMA.Kontakion1.incipit = "…"
+meMA.Kontakion1.text = ""
+
+meMA.Oikos1.text = ""
+
+meMA.Ode7C1H.ode = miscellanea_en_US_andronache.misc.Ode7
+meMA.Ode7C1H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode7C1H.greekmelody = he.h.m8_en_US_andronache.heHE.TonChaldaionIKaminos.greekname
+meMA.Ode7C1H.melody = he.h.m8_en_US_andronache.heHE.TonChaldaionIKaminos.melody
+meMA.Ode7C1H.incipit = he.h.m8_en_US_andronache.heHE.TonChaldaionIKaminos.incipit
+meMA.Ode7C1H.text = he.h.m8_en_US_andronache.heHE.TonChaldaionIKaminos.text
+
+meMA.Ode7C11.ode = miscellanea_en_US_andronache.misc.Ode7
+meMA.Ode7C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode7C11.greekmelody = he.h.m8_en_US_andronache.heHE.TonChaldaionIKaminos.greekname
+meMA.Ode7C11.melody = he.h.m8_en_US_andronache.heHE.TonChaldaionIKaminos.notmetered
+meMA.Ode7C11.incipit = "Having acquired a heart…"
+meMA.Ode7C11.text = "Having acquired a heart full of divine illumination, you ran over the obstacles of deceit without stumbling and tripped up the steps of the enemies, O wise one, by your presence."
+
+meMA.Ode7C12.ode = miscellanea_en_US_andronache.misc.Ode7
+meMA.Ode7C12.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode7C12.melody = he.h.m8_en_US_andronache.heHE.TonChaldaionIKaminos.notmetered
+meMA.Ode7C12.incipit = "…"
+meMA.Ode7C12.text = "The fire of deceit was extinguished by the sprinkling of your blood. Creation was illumined by the brightness of your words as it cries out, O Blaise: Blessed is the God of our fathers."
+
+meMA.Ode7C13.ode = miscellanea_en_US_andronache.misc.Ode7
+meMA.Ode7C13.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode7C13.melody = he.h.m8_en_US_andronache.heHE.TonChaldaionIKaminos.notmetered
+meMA.Ode7C13.incipit = "…"
+meMA.Ode7C13.text = "You see the one for whom you thirsted not in the shadow nor in mysteries but face to face, for the mirrors were broken up, and you sing rejoicing: Blessed is the God of our fathers."
+
+meMA.Ode7C1T.ode = miscellanea_en_US_andronache.misc.Ode7
+meMA.Ode7C1T.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode7C1T.melody = he.h.m8_en_US_andronache.heHE.TonChaldaionIKaminos.notmetered
+meMA.Ode7C1T.incipit = "…"
+meMA.Ode7C1T.text = "Being held by the drowsiness of negligence, O Virgin, the sleep of sin which brings death seized me. Therefore wake me up by the ray of repentance which brings life and save me."
+
+meMA.Ode8C1H.ode = miscellanea_en_US_andronache.misc.Ode8
+meMA.Ode8C1H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode8C1H.greekmelody = he.h.m8_en_US_andronache.heHE.OStegazonEnYdasi.greekname
+meMA.Ode8C1H.melody = he.h.m8_en_US_andronache.heHE.OStegazonEnYdasi.melody
+meMA.Ode8C1H.incipit = he.h.m8_en_US_andronache.heHE.OStegazonEnYdasi.incipit
+meMA.Ode8C1H.text = he.h.m8_en_US_andronache.heHE.OStegazonEnYdasi.text
+
+meMA.Ode8C11.ode = miscellanea_en_US_andronache.misc.Ode8
+meMA.Ode8C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode8C11.greekmelody = he.h.m8_en_US_andronache.heHE.OStegazonEnYdasi.greekname
+meMA.Ode8C11.melody = he.h.m8_en_US_andronache.heHE.OStegazonEnYdasi.notmetered
+meMA.Ode8C11.incipit = "As a ram willingly sacrificed…"
+meMA.Ode8C11.text = "As a ram willingly sacrificed, as a holy vessel, as a guileless lamb, rejoicing you were brought to the lamb who was sacrificed for our redemption, were joined to the assembly of the martyrs, singing the most holy hymnody with the angels, all-blessed one."
+
+meMA.Ode8C12.ode = miscellanea_en_US_andronache.misc.Ode8
+meMA.Ode8C12.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode8C12.melody = he.h.m8_en_US_andronache.heHE.OStegazonEnYdasi.notmetered
+meMA.Ode8C12.incipit = "…"
+meMA.Ode8C12.text = "By the drops of your blood you dried up the deep sea of atheism, O Martyr. You sprang up for the world springs of healings, put an end to the burning of all manner of passions for those who with faith come to you and exalt Christ beyond measure unto all the ages."
+
+meMA.Ode8C13.ode = miscellanea_en_US_andronache.misc.Ode8
+meMA.Ode8C13.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode8C13.melody = he.h.m8_en_US_andronache.heHE.OStegazonEnYdasi.notmetered
+meMA.Ode8C13.incipit = "…"
+meMA.Ode8C13.text = "The blessed choir of holy women cried: We do not deny the Lord, who is God over all, Therefore being scraped and united to the fire, and having their heads cut off, they rejoice hymning Christ unto the ages."
+
+meMA.Ode8C1T.ode = miscellanea_en_US_andronache.misc.Ode8
+meMA.Ode8C1T.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode8C1T.melody = he.h.m8_en_US_andronache.heHE.OStegazonEnYdasi.notmetered
+meMA.Ode8C1T.incipit = "…"
+meMA.Ode8C1T.text = "Voices pronounced you holy beforehand, O Virgin-mother, for you were beyond nature food for your Creator, having a birth beyond word and conceiving in a strange manner. Therefore we hymn you unto all ages."
+
+meMA.Ode9C1H.ode = miscellanea_en_US_andronache.misc.Ode9
+meMA.Ode9C1H.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode9C1H.greekmelody = he.h.m8_en_US_andronache.heHE.TonProdilothenta.greekname
+meMA.Ode9C1H.melody = he.h.m8_en_US_andronache.heHE.TonProdilothenta.melody
+meMA.Ode9C1H.incipit = he.h.m8_en_US_andronache.heHE.TonProdilothenta.incipit
+meMA.Ode9C1H.text = he.h.m8_en_US_andronache.heHE.TonProdilothenta.text
+
+meMA.Ode9C11.ode = miscellanea_en_US_andronache.misc.Ode9
+meMA.Ode9C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode9C11.greekmelody = he.h.m8_en_US_andronache.heHE.TonProdilothenta.greekname
+meMA.Ode9C11.melody = he.h.m8_en_US_andronache.heHE.TonProdilothenta.notmetered
+meMA.Ode9C11.incipit = "You went up by means…"
+meMA.Ode9C11.text = "You went up by means of your blood as by a ladder beyond fire and took hold of the higher dwellings, O Martyr. You were shown beautiful by the splendor of your struggles and you stand before the one who gave you the crown."
+
+meMA.Ode9C12.ode = miscellanea_en_US_andronache.misc.Ode9
+meMA.Ode9C12.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode9C12.melody = he.h.m8_en_US_andronache.heHE.TonProdilothenta.notmetered
+meMA.Ode9C12.incipit = "…"
+meMA.Ode9C12.text = "Women yearned for you, the bright sun, they smelled the scent of your ointments, through their passion they became images of your passion, and became worthy of incorruption."
+
+meMA.Ode9C13.ode = miscellanea_en_US_andronache.misc.Ode9
+meMA.Ode9C13.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode9C13.melody = he.h.m8_en_US_andronache.heHE.TonProdilothenta.notmetered
+meMA.Ode9C13.incipit = "…"
+meMA.Ode9C13.text = "As a star illumining the day, dwelling with the ranks above, O Blaise, we ask that by your prayers you save those who honor your light-bearing memory from gloomy transgressions."
+
+meMA.Ode9C1T.ode = miscellanea_en_US_andronache.misc.Ode9
+meMA.Ode9C1T.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode9C1T.melody = he.h.m8_en_US_andronache.heHE.TonProdilothenta.notmetered
+meMA.Ode9C1T.incipit = "…"
+meMA.Ode9C1T.text = "You bear in your arms Christ who holds the entire world in his hands, O pure Virgin-mother. Intercede with him as your Son and Creator, to save the souls of those who hymn you."
+
+meMA.Exaposteilarion1.mode = miscellanea_en_US_andronache.misc.Mode3
+meMA.Exaposteilarion1.greekmelody = he.a.m3_en_US_andronache.heAU.EnPnevmatiToIero.greekname
+meMA.Exaposteilarion1.melody = he.a.m3_en_US_andronache.heAU.EnPnevmatiToIero.notmetered
+meMA.Exaposteilarion1.incipit = "…"
+meMA.Exaposteilarion1.text = ""
+
+meMA.Exaposteilarion2.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.Exaposteilarion2.greekmelody = he.a.m2_en_US_andronache.heAU.ToisMathitaisSynelthomen.greekname
+meMA.Exaposteilarion2.melody = he.a.m2_en_US_andronache.heAU.ToisMathitaisSynelthomen.notmetered
+meMA.Exaposteilarion2.incipit = "…"
+meMA.Exaposteilarion2.text = ""
+
+meMA.ExapTheotokion.mode = miscellanea_en_US_andronache.misc.Mode2
+meMA.ExapTheotokion.melody = he.a.m2_en_US_andronache.heAU.ToisMathitaisSynelthomen.notmetered
+meMA.ExapTheotokion.incipit = "…"
+meMA.ExapTheotokion.text = ""
+

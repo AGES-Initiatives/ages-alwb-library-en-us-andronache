@@ -1,135 +1,8 @@
 A_Resource_Whose_Name = me.m11.d12_en_US_andronache
 
-meDA.date = ""
-meDA.commemoration.full = "" // full title of day
-meDA.commemoration.first = ""
-meDA.commemoration.first_short = ""
-meDA.commemoration.first_title = ""
-meDA.commemoration.first_name = ""
-meDA.commemoration.second_title = ""
-meDA.commemoration.second_name = ""
-meDA.insert1 = "" // for use in petitions and dismissal
-meDA.insert2 = "" // for use in petitions and dismissal
-meDA.note = ""
-meLE.commemoration1 = ""
-meLE.commemoration2 = ""
-meHO.number = ""
-meHO.rank = ""
-meHO.commemorations = ""
-meHO.note1 = ""
-meHO.note2 = ""
-
-meVE.Stichera01.mode = miscellanea_en_US_andronache.misc.Mode4
-meVE.Stichera01.greekmelody = he.a.m4_en_US_andronache.heAU.EdokasSimeiosin.greekname
-meVE.Stichera01.melody = he.a.m4_en_US_andronache.heAU.EdokasSimeiosin.name
-meVE.Stichera01.incipit = "…"
-meVE.Stichera01.text = ""
-
-meVE.Stichera02.mode = miscellanea_en_US_andronache.misc.Mode4
-meVE.Stichera02.melody = he.a.m4_en_US_andronache.heAU.EdokasSimeiosin.name
-meVE.Stichera02.incipit = "…"
-meVE.Stichera02.text = ""
-
-meVE.Stichera03.mode = miscellanea_en_US_andronache.misc.Mode4
-meVE.Stichera03.melody = he.a.m4_en_US_andronache.heAU.EdokasSimeiosin.name
-meVE.Stichera03.incipit = "…"
-meVE.Stichera03.text = ""
-
-meVE.Stichera04.mode = miscellanea_en_US_andronache.misc.Mode8
-meVE.Stichera04.greekmelody = he.a.m8_en_US_andronache.heAU.TiYmasKalesomen.greekname
-meVE.Stichera04.melody = he.a.m8_en_US_andronache.heAU.TiYmasKalesomen.name
-meVE.Stichera04.incipit = "…"
-meVE.Stichera04.text = ""
-
-meVE.Stichera05.mode = miscellanea_en_US_andronache.misc.Mode8
-meVE.Stichera05.melody = he.a.m8_en_US_andronache.heAU.TiYmasKalesomen.name
-meVE.Stichera05.incipit = "…"
-meVE.Stichera05.text = ""
-
-meVE.Stichera06.mode = miscellanea_en_US_andronache.misc.Mode8
-meVE.Stichera06.melody = he.a.m8_en_US_andronache.heAU.TiYmasKalesomen.name
-meVE.Stichera06.incipit = "…"
-meVE.Stichera06.text = ""
-
-meVE.SticGlory.poet = //poets_en_US_andronache.Anatoliou
-meVE.SticGlory.mode = miscellanea_en_US_andronache.misc.Mode2
-meVE.SticGlory.melody = ""
-meVE.SticGlory.incipit = "…"
-meVE.SticGlory.text = ""
-
-meVE.SticTheotokion.mode = miscellanea_en_US_andronache.misc.Mode2
-meVE.SticTheotokion.greekmelody = he.a.m2_en_US_andronache.heAU.OteEkTouXylou.greekname
-meVE.SticTheotokion.melody = he.a.m2_en_US_andronache.heAU.OteEkTouXylou.name
-meVE.SticTheotokion.incipit = "…"
-meVE.SticTheotokion.text = ""
-
-meVE.SticStavrotheotokion.mode = miscellanea_en_US_andronache.misc.Mode2
-meVE.SticStavrotheotokion.greekmelody = he.a.m2_en_US_andronache.heAU.OteEkTouXylou.greekname
-meVE.SticStavrotheotokion.melody = he.a.m2_en_US_andronache.heAU.OteEkTouXylou.name
-meVE.SticStavrotheotokion.incipit = "…"
-meVE.SticStavrotheotokion.text = ""
-
-meVE.Aposticha1.mode = miscellanea_en_US_andronache.misc.Mode5
-meVE.Aposticha1.greekmelody = he.a.m5_en_US_andronache.heAU.ChairoisAskitikon.greekname
-meVE.Aposticha1.melody = he.a.m5_en_US_andronache.heAU.ChairoisAskitikon.name
-meVE.Aposticha1.incipit = "…"
-meVE.Aposticha1.text = ""
-
-meVE.Aposticha2.mode = miscellanea_en_US_andronache.misc.Mode5
-meVE.Aposticha2.melody = he.a.m5_en_US_andronache.heAU.ChairoisAskitikon.name
-meVE.Aposticha2.incipit = "…"
-meVE.Aposticha2.text = ""
-
-meVE.Aposticha3.mode = miscellanea_en_US_andronache.misc.Mode5
-meVE.Aposticha3.melody = he.a.m5_en_US_andronache.heAU.ChairoisAskitikon.name
-meVE.Aposticha3.incipit = "…"
-meVE.Aposticha3.text = ""
-
-meVE.AposGlory.mode = miscellanea_en_US_andronache.misc.Mode6
-meVE.AposGlory.melody = ""
-meVE.AposGlory.incipit = me.m01.d15_en_US_andronache.meVE.AposGlory.incipit
-meVE.AposGlory.text = me.m01.d15_en_US_andronache.meVE.AposGlory.text
-
-meVE.AposGlorya.mode = miscellanea_en_US_andronache.misc.Mode6
-meVE.AposGlorya.melody = ""
-meVE.AposGlorya.incipit = "…"
-meVE.AposGlorya.text = ""
-
-meVE.AposTheotokion.mode = miscellanea_en_US_andronache.misc.Mode6
-meVE.AposTheotokion.melody = //he.o_en_US_andronache.heOT.TheotokeSyEi.name
-meVE.AposTheotokion.incipit = "…"
-meVE.AposTheotokion.text = //he.o_en_US_andronache.heOT.TheotokeSyEiIerarchou.text
-
-meVE.AposStavrotheotokion.mode = miscellanea_en_US_andronache.misc.Mode6
-meVE.AposStavrotheotokion.greekmelody = he.a.m6_en_US_andronache.heAU.TriimerosAnestis.greekname
-meVE.AposStavrotheotokion.melody = he.a.m6_en_US_andronache.heAU.TriimerosAnestis.name
-meVE.AposStavrotheotokion.incipit = "…"
-meVE.AposStavrotheotokion.text = //oc.m6.d4_en_US_andronache.ocVE.AposTheotokion.text
-
-meVE.Apolytikion1.mode = miscellanea_en_US_andronache.misc.Mode8
-meVE.Apolytikion1.melody = ""
-meVE.Apolytikion1.incipit = "…"
-meVE.Apolytikion1.text = ""
-
-meVE.Apolytikion2.poet = //poets_en_US_andronache.Gerasimou
-meVE.Apolytikion2.mode = miscellanea_en_US_andronache.misc.Mode4
-meVE.Apolytikion2.greekmelody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.greekname
-meVE.Apolytikion2.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.name
-meVE.Apolytikion2.incipit = "…"
-meVE.Apolytikion2.text = ""
-
 meMA.C1.acrostic.title = "Canon for the Hierarch."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-meMA.C1.title = //titles_en_US_andronache.ti.CanonHierarch
-meMA.C1.verse = //prayers_en_US_andronache.pr.verse_SaintM.text
-
-meMA.C2.acrostic.title = ""
-meMA.C2.acrostic.notice1 = ""
-meMA.C2.acrostic.text = ""
-meMA.C2.poet = //poets_en_US_andronache.Theofanous
-meMA.C2.title = //titles_en_US_andronache.ti.CanonDevoutM
-meMA.C2.verse = //prayers_en_US_andronache.pr.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode8
@@ -156,31 +29,6 @@ meMA.Ode1C1T.melody = he.h.m8_en_US_andronache.heHE.IKekommeni.notmetered
 meMA.Ode1C1T.incipit = "In order to join those…"
 meMA.Ode1C1T.text = "In order to join those below to those above, the only God of all emerged from an unwedded mother and was seen in a likeness of flesh, and having broken down the wall of enmity, He mediated peace and bestowed life and a divine ransom."
 
-meMA.Ode1C21.ode = miscellanea_en_US_andronache.misc.Ode1
-meMA.Ode1C21.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Ode1C21.greekmelody = he.h.m8_en_US_andronache.heHE.YgranDiodefsas.greekname
-meMA.Ode1C21.melody = he.h.m8_en_US_andronache.heHE.YgranDiodefsas.notmetered
-meMA.Ode1C21.incipit = "…"
-meMA.Ode1C21.text = ""
-
-meMA.Ode1C22.ode = miscellanea_en_US_andronache.misc.Ode1
-meMA.Ode1C22.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Ode1C22.melody = he.h.m8_en_US_andronache.heHE.YgranDiodefsas.notmetered
-meMA.Ode1C22.incipit = "…"
-meMA.Ode1C22.text = ""
-
-meMA.Ode1C23.ode = miscellanea_en_US_andronache.misc.Ode1
-meMA.Ode1C23.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Ode1C23.melody = he.h.m8_en_US_andronache.heHE.YgranDiodefsas.notmetered
-meMA.Ode1C23.incipit = "…"
-meMA.Ode1C23.text = ""
-
-meMA.Ode1C2T.ode = miscellanea_en_US_andronache.misc.Ode1
-meMA.Ode1C2T.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Ode1C2T.melody = he.h.m8_en_US_andronache.heHE.YgranDiodefsas.notmetered
-meMA.Ode1C2T.incipit = "…"
-meMA.Ode1C2T.text = ""
-
 meMA.Ode3C11.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_andronache.misc.Mode8
 meMA.Ode3C11.greekmelody = he.h.m8_en_US_andronache.heHE.OuraniasApsidos.greekname
@@ -206,52 +54,12 @@ meMA.Ode3C1T.melody = he.h.m8_en_US_andronache.heHE.OuraniasApsidos.notmetered
 meMA.Ode3C1T.incipit = "All holy one, the Cause…"
 meMA.Ode3C1T.text = "All holy one, the Cause of all dwelt in you by His will and through His immeasurable compassion and wholly sanctified the entire nature of humanity, which had previously slid into transgression."
 
-meMA.Ode3C21.ode = miscellanea_en_US_andronache.misc.Ode3
-meMA.Ode3C21.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Ode3C21.greekmelody = he.h.m8_en_US_andronache.heHE.SyEiToStereoma.greekname
-meMA.Ode3C21.melody = he.h.m8_en_US_andronache.heHE.SyEiToStereoma.notmetered
-meMA.Ode3C21.incipit = "…"
-meMA.Ode3C21.text = ""
-
-meMA.Ode3C22.ode = miscellanea_en_US_andronache.misc.Ode3
-meMA.Ode3C22.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Ode3C22.melody = he.h.m8_en_US_andronache.heHE.SyEiToStereoma.notmetered
-meMA.Ode3C22.incipit = "…"
-meMA.Ode3C22.text = ""
-
-meMA.Ode3C23.ode = miscellanea_en_US_andronache.misc.Ode3
-meMA.Ode3C23.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Ode3C23.melody = he.h.m8_en_US_andronache.heHE.SyEiToStereoma.notmetered
-meMA.Ode3C23.incipit = "…"
-meMA.Ode3C23.text = ""
-
-meMA.Ode3C2T.ode = miscellanea_en_US_andronache.misc.Ode3
-meMA.Ode3C2T.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Ode3C2T.melody = he.h.m8_en_US_andronache.heHE.SyEiToStereoma.notmetered
-meMA.Ode3C2T.incipit = "…"
-meMA.Ode3C2T.text = ""
-
 meMA.Ode3H.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_US_andronache.misc.Mode8
 meMA.Ode3H.greekmelody = he.h.m8_en_US_andronache.heHE.SyEiToStereoma.greekname
 meMA.Ode3H.melody = he.h.m8_en_US_andronache.heHE.SyEiToStereoma.melody
 meMA.Ode3H.incipit = he.h.m8_en_US_andronache.heHE.SyEiToStereoma.incipit
 meMA.Ode3H.text = he.h.m8_en_US_andronache.heHE.SyEiToStereoma.text
-
-meMA.Kontakion1.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Kontakion1.greekmelody = he.a.m8_en_US_andronache.heAU.TiYpermacho.greekname
-meMA.Kontakion1.melody = he.a.m8_en_US_andronache.heAU.TiYpermacho.notmetered
-meMA.Kontakion1.incipit = "…"
-meMA.Kontakion1.text = ""
-
-meMA.Oikos1.text = ""
-meMA.Oikos12.text = ""
-meMA.Oikos13.text = ""
-meMA.Oikos14.text = ""
-meMA.Oikos15.text = ""
-meMA.Oikos16.text = ""
-meMA.Oikos17.text = ""
-meMA.Oikos18.text = ""
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode8
 meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.greekname
@@ -269,11 +77,6 @@ meMA.Ode3KathismaT.mode = miscellanea_en_US_andronache.misc.Mode8
 meMA.Ode3KathismaT.melody = he.a.m8_en_US_andronache.heAU.ToProstachthen.notmetered
 meMA.Ode3KathismaT.incipit = "By your steadfast and ceaseless…"
 meMA.Ode3KathismaT.text = "By your steadfast and ceaseless entreaties towards the Creator, Mother of God, save from all necessity and misfortune those who in faith honor your all holy Child and, as you have power and the boldness of a relative to  propitiate Him, grant that we find loosing from the sins we have committed in this life."
-
-meMA.Ode3KathismaSt.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Ode3KathismaSt.melody = he.a.m8_en_US_andronache.heAU.ToProstachthen.notmetered
-meMA.Ode3KathismaSt.incipit = "…"
-meMA.Ode3KathismaSt.text = ""
 
 meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode8
@@ -300,31 +103,6 @@ meMA.Ode4C1T.melody = he.h.m8_en_US_andronache.heHE.EisakikoaKyrie.notmetered
 meMA.Ode4C1T.incipit = "Heal the wounds of my…"
 meMA.Ode4C1T.text = "Heal the wounds of my heart, Maiden, and direct the movements of my soul to the will of God, O Virgin."
 
-meMA.Ode4C21.ode = miscellanea_en_US_andronache.misc.Ode4
-meMA.Ode4C21.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Ode4C21.greekmelody = he.h.m8_en_US_andronache.heHE.EisakikoaKyrie.greekname
-meMA.Ode4C21.melody = he.h.m8_en_US_andronache.heHE.EisakikoaKyrie.notmetered
-meMA.Ode4C21.incipit = "…"
-meMA.Ode4C21.text = ""
-
-meMA.Ode4C22.ode = miscellanea_en_US_andronache.misc.Ode4
-meMA.Ode4C22.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Ode4C22.melody = he.h.m8_en_US_andronache.heHE.EisakikoaKyrie.notmetered
-meMA.Ode4C22.incipit = "…"
-meMA.Ode4C22.text = ""
-
-meMA.Ode4C23.ode = miscellanea_en_US_andronache.misc.Ode4
-meMA.Ode4C23.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Ode4C23.melody = he.h.m8_en_US_andronache.heHE.EisakikoaKyrie.notmetered
-meMA.Ode4C23.incipit = "…"
-meMA.Ode4C23.text = ""
-
-meMA.Ode4C2T.ode = miscellanea_en_US_andronache.misc.Ode4
-meMA.Ode4C2T.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Ode4C2T.melody = he.h.m8_en_US_andronache.heHE.EisakikoaKyrie.notmetered
-meMA.Ode4C2T.incipit = "…"
-meMA.Ode4C2T.text = ""
-
 meMA.Ode5C11.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_andronache.misc.Mode8
 meMA.Ode5C11.greekmelody = he.h.m8_en_US_andronache.heHE.TonEkNyktosAgnosias.greekname
@@ -350,31 +128,6 @@ meMA.Ode5C1T.melody = he.h.m8_en_US_andronache.heHE.TonEkNyktosAgnosias.notmeter
 meMA.Ode5C1T.incipit = "By your light illumine my…"
 meMA.Ode5C1T.text = "By your light illumine my soul, darkened by the love for the pleasures of life, pure and all-blameless one, who gave birth to Christ the light who looses the darkness of ignorance."
 
-meMA.Ode5C21.ode = miscellanea_en_US_andronache.misc.Ode5
-meMA.Ode5C21.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Ode5C21.greekmelody = he.h.m8_en_US_andronache.heHE.OrthrizontesVoomenSoi.greekname
-meMA.Ode5C21.melody = he.h.m8_en_US_andronache.heHE.OrthrizontesVoomenSoi.notmetered
-meMA.Ode5C21.incipit = "…"
-meMA.Ode5C21.text = ""
-
-meMA.Ode5C22.ode = miscellanea_en_US_andronache.misc.Ode5
-meMA.Ode5C22.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Ode5C22.melody = he.h.m8_en_US_andronache.heHE.OrthrizontesVoomenSoi.notmetered
-meMA.Ode5C22.incipit = "…"
-meMA.Ode5C22.text = ""
-
-meMA.Ode5C23.ode = miscellanea_en_US_andronache.misc.Ode5
-meMA.Ode5C23.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Ode5C23.melody = he.h.m8_en_US_andronache.heHE.OrthrizontesVoomenSoi.notmetered
-meMA.Ode5C23.incipit = "…"
-meMA.Ode5C23.text = ""
-
-meMA.Ode5C2T.ode = miscellanea_en_US_andronache.misc.Ode5
-meMA.Ode5C2T.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Ode5C2T.melody = he.h.m8_en_US_andronache.heHE.OrthrizontesVoomenSoi.notmetered
-meMA.Ode5C2T.incipit = "…"
-meMA.Ode5C2T.text = ""
-
 meMA.Ode6C11.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_andronache.misc.Mode8
 meMA.Ode6C11.greekmelody = he.h.m8_en_US_andronache.heHE.TinDeisinEkcheo.greekname
@@ -399,31 +152,6 @@ meMA.Ode6C1T.mode = miscellanea_en_US_andronache.misc.Mode8
 meMA.Ode6C1T.melody = he.h.m8_en_US_andronache.heHE.TinDeisinEkcheo.notmetered
 meMA.Ode6C1T.incipit = "The prophets who proclaimed God…"
 meMA.Ode6C1T.text = "The prophets who proclaimed God, understanding the depth of your mystery, O Virgin, prophetically foretold it, being illumined by God in spirit. Now, manifestly beholding the events, we, too, believe."
-
-meMA.Ode6C21.ode = miscellanea_en_US_andronache.misc.Ode6
-meMA.Ode6C21.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Ode6C21.greekmelody = he.h.m8_en_US_andronache.heHE.TinDeisinEkcheo.greekname
-meMA.Ode6C21.melody = he.h.m8_en_US_andronache.heHE.TinDeisinEkcheo.notmetered
-meMA.Ode6C21.incipit = "…"
-meMA.Ode6C21.text = ""
-
-meMA.Ode6C22.ode = miscellanea_en_US_andronache.misc.Ode6
-meMA.Ode6C22.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Ode6C22.melody = he.h.m8_en_US_andronache.heHE.TinDeisinEkcheo.notmetered
-meMA.Ode6C22.incipit = "…"
-meMA.Ode6C22.text = ""
-
-meMA.Ode6C23.ode = miscellanea_en_US_andronache.misc.Ode6
-meMA.Ode6C23.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Ode6C23.melody = he.h.m8_en_US_andronache.heHE.TinDeisinEkcheo.notmetered
-meMA.Ode6C23.incipit = "…"
-meMA.Ode6C23.text = ""
-
-meMA.Ode6C2T.ode = miscellanea_en_US_andronache.misc.Ode6
-meMA.Ode6C2T.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Ode6C2T.melody = he.h.m8_en_US_andronache.heHE.TinDeisinEkcheo.notmetered
-meMA.Ode6C2T.incipit = "…"
-meMA.Ode6C2T.text = ""
 
 meMA.Ode6H.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_US_andronache.misc.Mode8
@@ -465,31 +193,6 @@ meMA.Ode7C1T.melody = he.h.m8_en_US_andronache.heHE.PaidesEvraion.notmetered
 meMA.Ode7C1T.incipit = "You alone gave birth to…"
 meMA.Ode7C1T.text = "You alone gave birth to one of the Trinity, seen in two natures and one hypostasis, to whom we sing: Blessed are you, Lord our God."
 
-meMA.Ode7C21.ode = miscellanea_en_US_andronache.misc.Ode7
-meMA.Ode7C21.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Ode7C21.greekmelody = he.h.m8_en_US_andronache.heHE.OiEkTisIoudaias.greekname
-meMA.Ode7C21.melody = he.h.m8_en_US_andronache.heHE.OiEkTisIoudaias.notmetered
-meMA.Ode7C21.incipit = "…"
-meMA.Ode7C21.text = ""
-
-meMA.Ode7C22.ode = miscellanea_en_US_andronache.misc.Ode7
-meMA.Ode7C22.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Ode7C22.melody = he.h.m8_en_US_andronache.heHE.OiEkTisIoudaias.notmetered
-meMA.Ode7C22.incipit = "…"
-meMA.Ode7C22.text = ""
-
-meMA.Ode7C23.ode = miscellanea_en_US_andronache.misc.Ode7
-meMA.Ode7C23.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Ode7C23.melody = he.h.m8_en_US_andronache.heHE.OiEkTisIoudaias.notmetered
-meMA.Ode7C23.incipit = "…"
-meMA.Ode7C23.text = ""
-
-meMA.Ode7C2T.ode = miscellanea_en_US_andronache.misc.Ode7
-meMA.Ode7C2T.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Ode7C2T.melody = he.h.m8_en_US_andronache.heHE.OiEkTisIoudaias.notmetered
-meMA.Ode7C2T.incipit = "…"
-meMA.Ode7C2T.text = ""
-
 meMA.Ode8C11.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_andronache.misc.Mode8
 meMA.Ode8C11.greekmelody = he.h.m8_en_US_andronache.heHE.NikitaiTyrannou.greekname
@@ -514,31 +217,6 @@ meMA.Ode8C1T.mode = miscellanea_en_US_andronache.misc.Mode8
 meMA.Ode8C1T.melody = he.h.m8_en_US_andronache.heHE.NikitaiTyrannou.notmetered
 meMA.Ode8C1T.incipit = "You were shown to be…"
 meMA.Ode8C1T.text = "You were shown to be the dwelling of the living spring, all-holy one. Drinking from it, we, who are subject to death, inherit life, crying out: All the works of the Lord bless the Lord and exalt Him beyond measure unto all the ages."
-
-meMA.Ode8C21.ode = miscellanea_en_US_andronache.misc.Ode8
-meMA.Ode8C21.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Ode8C21.greekmelody = he.h.m8_en_US_andronache.heHE.MousikonOrganon.greekname
-meMA.Ode8C21.melody = he.h.m8_en_US_andronache.heHE.MousikonOrganon.notmetered
-meMA.Ode8C21.incipit = "…"
-meMA.Ode8C21.text = ""
-
-meMA.Ode8C22.ode = miscellanea_en_US_andronache.misc.Ode8
-meMA.Ode8C22.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Ode8C22.melody = he.h.m8_en_US_andronache.heHE.MousikonOrganon.notmetered
-meMA.Ode8C22.incipit = "…"
-meMA.Ode8C22.text = ""
-
-meMA.Ode8C23.ode = miscellanea_en_US_andronache.misc.Ode8
-meMA.Ode8C23.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Ode8C23.melody = he.h.m8_en_US_andronache.heHE.MousikonOrganon.notmetered
-meMA.Ode8C23.incipit = "…"
-meMA.Ode8C23.text = ""
-
-meMA.Ode8C2T.ode = miscellanea_en_US_andronache.misc.Ode8
-meMA.Ode8C2T.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Ode8C2T.melody = he.h.m8_en_US_andronache.heHE.MousikonOrganon.notmetered
-meMA.Ode8C2T.incipit = "…"
-meMA.Ode8C2T.text = ""
 
 meMA.Ode8H.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_US_andronache.misc.Mode8
@@ -577,80 +255,3 @@ meMA.Ode9C1T.mode = miscellanea_en_US_andronache.misc.Mode8
 meMA.Ode9C1T.melody = he.h.m8_en_US_andronache.heHE.KyriosTheotokon.notmetered
 meMA.Ode9C1T.incipit = "You were shown to be…"
 meMA.Ode9C1T.text = "You were shown to be wider than the heavens, O Virgin; widen the narrowness of my thought, showing it able to contain the divine gifts of grace."
-
-meMA.Ode9C21.ode = miscellanea_en_US_andronache.misc.Ode9
-meMA.Ode9C21.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Ode9C21.greekmelody = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.greekname
-meMA.Ode9C21.melody = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.notmetered
-meMA.Ode9C21.incipit = "…"
-meMA.Ode9C21.text = ""
-
-meMA.Ode9C22.ode = miscellanea_en_US_andronache.misc.Ode9
-meMA.Ode9C22.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Ode9C22.melody = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.notmetered
-meMA.Ode9C22.incipit = "…"
-meMA.Ode9C22.text = ""
-
-meMA.Ode9C23.ode = miscellanea_en_US_andronache.misc.Ode9
-meMA.Ode9C23.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Ode9C23.melody = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.notmetered
-meMA.Ode9C23.incipit = "…"
-meMA.Ode9C23.text = ""
-
-meMA.Ode9C2T.ode = miscellanea_en_US_andronache.misc.Ode9
-meMA.Ode9C2T.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Ode9C2T.melody = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.notmetered
-meMA.Ode9C2T.incipit = "…"
-meMA.Ode9C2T.text = ""
-
-meMA.Ode9H.ode = miscellanea_en_US_andronache.misc.Ode9
-meMA.Ode9H.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Ode9H.greekmelody = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.greekname
-meMA.Ode9H.melody = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.melody
-meMA.Ode9H.incipit = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.incipit
-meMA.Ode9H.text = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.text
-
-meMA.Exaposteilarion1.mode = miscellanea_en_US_andronache.misc.Mode3
-meMA.Exaposteilarion1.greekmelody = he.a.m3_en_US_andronache.heAU.OOuranonToisAstrois.greekname
-meMA.Exaposteilarion1.melody = he.a.m3_en_US_andronache.heAU.OOuranonToisAstrois.name
-meMA.Exaposteilarion1.incipit = "…"
-meMA.Exaposteilarion1.text = ""
-
-meMA.Exaposteilarion2.mode = miscellanea_en_US_andronache.misc.Mode3
-meMA.Exaposteilarion2.greekmelody = he.a.m3_en_US_andronache.heAU.OOuranonToisAstrois.greekname
-meMA.Exaposteilarion2.melody = he.a.m3_en_US_andronache.heAU.OOuranonToisAstrois.name
-meMA.Exaposteilarion2.incipit = "…"
-meMA.Exaposteilarion2.text = ""
-
-meMA.ExapTheotokion.mode = miscellanea_en_US_andronache.misc.Mode3
-meMA.ExapTheotokion.melody = he.a.m3_en_US_andronache.heAU.OOuranonToisAstrois.name
-meMA.ExapTheotokion.incipit = "…"
-meMA.ExapTheotokion.text = //ho.ho23_en_US_andronache.hoCA.Exaposteilarion2.text
-
-meMA.AposGlory.mode = miscellanea_en_US_andronache.misc.Mode6
-meMA.AposGlory.melody = ""
-meMA.AposGlory.incipit = me.m01.d15_en_US_andronache.meVE.AposGlory.incipit
-meMA.AposGlory.text = me.m01.d15_en_US_andronache.meVE.AposGlory.text
-
-meMA.AposTheotokion.mode = miscellanea_en_US_andronache.misc.Mode6
-meMA.AposTheotokion.greekmelody = he.a.m6_en_US_andronache.heAU.TriimerosAnestis.greekname
-meMA.AposTheotokion.melody = he.a.m6_en_US_andronache.heAU.TriimerosAnestis.name
-meMA.AposTheotokion.incipit = "…"
-meMA.AposTheotokion.text = //me.m09.d04_en_US_andronache.meVE.AposTheotokion.text
-
-meMA.AposStavrotheotokion.mode = miscellanea_en_US_andronache.misc.Mode6
-meMA.AposStavrotheotokion.greekmelody = he.a.m6_en_US_andronache.heAU.TriimerosAnestis.greekname
-meMA.AposStavrotheotokion.melody = he.a.m6_en_US_andronache.heAU.TriimerosAnestis.name
-meMA.AposStavrotheotokion.incipit = "…"
-meMA.AposStavrotheotokion.text = ""
-
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
-
-meLI.MM.CommunionHymn.text = properties_en_US_andronache.media.key
-
-meMegalynarion.text = ""
-meMegalynarion2.text = ""

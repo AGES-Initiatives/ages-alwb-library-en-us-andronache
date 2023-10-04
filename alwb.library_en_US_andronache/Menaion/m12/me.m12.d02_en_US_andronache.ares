@@ -1,76 +1,8 @@
 A_Resource_Whose_Name = me.m12.d02_en_US_andronache
 
-meDA.date = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meDA.commemoration.full = "" //full title of day
-meDA.commemoration.first = ""
-meDA.commemoration.first_short = ""
-meDA.commemoration.first_title = ""
-meDA.commemoration.first_name = ""
-meDA.commemoration.second_title = ""
-meDA.commemoration.second_name = ""
-meDA.insert1 = "" //for use in petitions and dismissal
-meDA.insert2 = "" //for use in petitions and dismissal
-meDA.note = ""
-meLE.commemoration1 = ""
-meLE.commemoration2 = ""
-meHO.number = ""
-meHO.rank = ""
-meHO.commemorations = ""
-meHO.note1 = ""
-meHO.note2 = ""
-
-meVE.Stichera01.mode = miscellanea_en_US_andronache.misc.Mode4
-meVE.Stichera01.greekmelody = he.a.m4_en_US_andronache.heAU.OsGennaionEnMartysi.greekname
-meVE.Stichera01.melody = he.a.m4_en_US_andronache.heAU.OsGennaionEnMartysi.notmetered
-meVE.Stichera01.incipit = "…"
-meVE.Stichera01.text = ""
-
-meVE.Stichera02.mode = miscellanea_en_US_andronache.misc.Mode4
-meVE.Stichera02.melody = he.a.m4_en_US_andronache.heAU.OsGennaionEnMartysi.notmetered
-meVE.Stichera02.incipit = "…"
-meVE.Stichera02.text = ""
-
-meVE.Stichera03.mode = miscellanea_en_US_andronache.misc.Mode4
-meVE.Stichera03.melody = he.a.m4_en_US_andronache.heAU.OsGennaionEnMartysi.notmetered
-meVE.Stichera03.incipit = "…"
-meVE.Stichera03.text = ""
-
-meVE.SticTheotokion.mode = miscellanea_en_US_andronache.misc.Mode4
-meVE.SticTheotokion.greekmelody = he.a.m4_en_US_andronache.heAU.OsGennaionEnMartysi.greekname
-meVE.SticTheotokion.melody = he.a.m4_en_US_andronache.heAU.OsGennaionEnMartysi.notmetered
-meVE.SticTheotokion.incipit = "…"
-meVE.SticTheotokion.text = //oc.m4.d5_en_US_andronache.ocVE.SticTheotokion.text
-
-meVE.SticStavrotheotokion.mode = miscellanea_en_US_andronache.misc.Mode4
-meVE.SticStavrotheotokion.greekmelody = he.a.m4_en_US_andronache.heAU.OsGennaionEnMartysi.greekname
-meVE.SticStavrotheotokion.melody = he.a.m4_en_US_andronache.heAU.OsGennaionEnMartysi.notmetered
-meVE.SticStavrotheotokion.incipit = "…"
-meVE.SticStavrotheotokion.text = ""
-
-meVE.Apolytikion1.mode = miscellanea_en_US_andronache.misc.Mode2
-meVE.Apolytikion1.melody = //he.ga_en_US_andronache.heGA.TouProfitouSou.name
-meVE.GeneralApolytikion1.name = ""
-
-meVE.Apolytikion2.poet = //poets_en_US_andronache.Gerasimou
-meVE.Apolytikion2.mode = miscellanea_en_US_andronache.misc.Mode4
-meVE.Apolytikion2.greekmelody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.greekname
-meVE.Apolytikion2.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.notmetered
-meVE.Apolytikion2.incipit = "…"
-meVE.Apolytikion2.text = ""
-
-meVE.Apolytikion3.poet = //poets_en_US_andronache.Gerasimou
-meVE.Apolytikion3.mode = miscellanea_en_US_andronache.misc.Mode4
-meVE.Apolytikion3.greekmelody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.greekname
-meVE.Apolytikion3.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.notmetered
-meVE.Apolytikion3.incipit = "…"
-meVE.Apolytikion3.text = ""
-
 meMA.C1.acrostic.title = "Canon for the Prophet."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-meMA.C1.poet = //poets_en_US_andronache.Theofanous
-meMA.C1.title = //titles_en_US_andronache.ti.CanonProphet
-meMA.C1.verse = //prayers_en_US_andronache.pr.verse_Prophet.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode4
@@ -315,14 +247,4 @@ meMA.Ode9H.greekmelody = he.h.m4_en_US_andronache.heHE.OTokosSouAfthoros.greekna
 meMA.Ode9H.melody = he.h.m4_en_US_andronache.heHE.OTokosSouAfthoros.melody
 meMA.Ode9H.incipit = he.h.m4_en_US_andronache.heHE.OTokosSouAfthoros.incipit
 meMA.Ode9H.text = he.h.m4_en_US_andronache.heHE.OTokosSouAfthoros.text
-
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
-
-meLI.MM.CommunionHymn.text = properties_en_US_andronache.media.key
-
-meMegalynarion.text = ""
 

@@ -1,64 +1,8 @@
 A_Resource_Whose_Name = me.m04.d13_en_US_andronache
 
-meDA.date = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meDA.commemoration.full = "" //full title of day
-meDA.commemoration.first = ""
-meDA.commemoration.first_short = ""
-meDA.commemoration.first_title = ""
-meDA.commemoration.first_name = ""
-meDA.commemoration.second_title = ""
-meDA.commemoration.second_name = ""
-meDA.insert1 = "" //for use in petitions and dismissal
-meDA.insert2 = "" //for use in petitions and dismissal
-meDA.note = ""
-meLE.commemoration1 = ""
-meLE.commemoration2 = ""
-meHO.number = ""
-meHO.rank = ""
-meHO.commemorations = ""
-meHO.note1 = ""
-meHO.note2 = ""
-
-meVE.Stichera01.mode = miscellanea_en_US_andronache.misc.Mode8
-meVE.Stichera01.greekmelody = he.a.m8_en_US_andronache.heAU.TiYmasKalesomen.greekname
-meVE.Stichera01.melody = he.a.m8_en_US_andronache.heAU.TiYmasKalesomen.notmetered
-meVE.Stichera01.incipit = "…"
-meVE.Stichera01.text = ""
-
-meVE.Stichera02.mode = miscellanea_en_US_andronache.misc.Mode8
-meVE.Stichera02.melody = he.a.m8_en_US_andronache.heAU.TiYmasKalesomen.notmetered
-meVE.Stichera02.incipit = "…"
-meVE.Stichera02.text = ""
-
-meVE.Stichera03.mode = miscellanea_en_US_andronache.misc.Mode8
-meVE.Stichera03.melody = he.a.m8_en_US_andronache.heAU.TiYmasKalesomen.notmetered
-meVE.Stichera03.incipit = "…"
-meVE.Stichera03.text = ""
-
-meVE.SticTheotokion.mode = miscellanea_en_US_andronache.misc.Mode8
-meVE.SticTheotokion.greekmelody = he.a.m8_en_US_andronache.heAU.TiYmasKalesomen.greekname
-meVE.SticTheotokion.melody = he.a.m8_en_US_andronache.heAU.TiYmasKalesomen.notmetered
-meVE.SticTheotokion.incipit = "…"
-meVE.SticTheotokion.text = ""
-
-meVE.SticStavrotheotokion.mode = miscellanea_en_US_andronache.misc.Mode8
-meVE.SticStavrotheotokion.greekmelody = he.a.m8_en_US_andronache.heAU.TiYmasKalesomen.greekname
-meVE.SticStavrotheotokion.melody = he.a.m8_en_US_andronache.heAU.TiYmasKalesomen.notmetered
-meVE.SticStavrotheotokion.incipit = "…"
-meVE.SticStavrotheotokion.text = ""
-
-meVE.Apolytikion1.poet = //poets_en_US_andronache.Gerasimou
-meVE.Apolytikion1.mode = miscellanea_en_US_andronache.misc.Mode3
-meVE.Apolytikion1.greekmelody = he.a.m3_en_US_andronache.heAU.TheiasPisteos.greekname
-meVE.Apolytikion1.melody = he.a.m3_en_US_andronache.heAU.TheiasPisteos.notmetered
-meVE.Apolytikion1.incipit = "…"
-meVE.Apolytikion1.text = ""
-
 meMA.C1.acrostic.title = "Canon for the Saint."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-meMA.C1.title = //titles_en_US_andronache.ti.CanonSaintM
-meMA.C1.verse = //prayers_en_US_andronache.pr.verse_SaintM.text
 
 meMA.Ode1C1H.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_US_andronache.misc.Mode8
@@ -236,7 +180,6 @@ meMA.Ode6C1T.melody = he.h.m8_en_US_andronache.heHE.AvyssosAmartion.notmetered
 meMA.Ode6C1T.incipit = "…"
 meMA.Ode6C1T.text = "The laws of nature are undone in you, for you ineffably bear the maker of all, O all-hymned Theotokos, as God and mortal, having two wills and energies, O Virgin-mother."
 
-meMA.Kontakion1.poet = //poets_en_US_andronache.Gerasimou
 meMA.Kontakion1.mode = miscellanea_en_US_andronache.misc.Mode8
 meMA.Kontakion1.greekmelody = he.a.m8_en_US_andronache.heAU.TiYpermacho.greekname
 meMA.Kontakion1.melody = he.a.m8_en_US_andronache.heAU.TiYpermacho.notmetered
@@ -356,14 +299,4 @@ meMA.Ode9C1T.mode = miscellanea_en_US_andronache.misc.Mode8
 meMA.Ode9C1T.melody = he.h.m8_en_US_andronache.heHE.OrousParilthes.notmetered
 meMA.Ode9C1T.incipit = "…"
 meMA.Ode9C1T.text = "Persuaded by the voices of the Fathers, pure one, we faithfully confess the one of the Trinity who was born of you as having two natures and wills and we magnify you, O Virgin."
-
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
-
-meLI.MM.CommunionHymn.text = properties_en_US_andronache.media.key
-
-meMegalynarion.text = ""
 

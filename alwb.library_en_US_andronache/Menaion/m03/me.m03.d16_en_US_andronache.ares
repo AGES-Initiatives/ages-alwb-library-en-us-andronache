@@ -1,71 +1,8 @@
 A_Resource_Whose_Name = me.m03.d16_en_US_andronache
 
-meDA.date = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meDA.commemoration.full = "" //full title of day
-meDA.commemoration.first = ""
-meDA.commemoration.first_short = ""
-meDA.commemoration.first_title = ""
-meDA.commemoration.first_name = ""
-meDA.commemoration.second_title = ""
-meDA.commemoration.second_name = ""
-meDA.insert1 = "" //for use in petitions and dismissal
-meDA.insert2 = "" //for use in petitions and dismissal
-meDA.note = ""
-meLE.commemoration1 = ""
-meLE.commemoration2 = ""
-meHO.number = ""
-meHO.rank = ""
-meHO.commemorations = ""
-meHO.note1 = ""
-meHO.note2 = ""
-
-meVE.Stichera01.mode = miscellanea_en_US_andronache.misc.Mode8
-meVE.Stichera01.greekmelody = he.a.m8_en_US_andronache.heAU.KyrieEiKaiKritirio.greekname
-meVE.Stichera01.melody = he.a.m8_en_US_andronache.heAU.KyrieEiKaiKritirio.notmetered
-meVE.Stichera01.incipit = "…"
-meVE.Stichera01.text = ""
-
-meVE.Stichera02.mode = miscellanea_en_US_andronache.misc.Mode8
-meVE.Stichera02.melody = he.a.m8_en_US_andronache.heAU.KyrieEiKaiKritirio.notmetered
-meVE.Stichera02.incipit = "…"
-meVE.Stichera02.text = ""
-
-meVE.Stichera03.mode = miscellanea_en_US_andronache.misc.Mode8
-meVE.Stichera03.melody = he.a.m8_en_US_andronache.heAU.KyrieEiKaiKritirio.notmetered
-meVE.Stichera03.incipit = "…"
-meVE.Stichera03.text = ""
-
-meVE.SticTheotokion.mode = miscellanea_en_US_andronache.misc.Mode8
-meVE.SticTheotokion.greekmelody = he.a.m8_en_US_andronache.heAU.KyrieEiKaiKritirio.greekname
-meVE.SticTheotokion.melody = he.a.m8_en_US_andronache.heAU.KyrieEiKaiKritirio.notmetered
-meVE.SticTheotokion.incipit = "…"
-meVE.SticTheotokion.text = ""
-
-meVE.SticStavrotheotokion.mode = miscellanea_en_US_andronache.misc.Mode8
-meVE.SticStavrotheotokion.greekmelody = he.a.m8_en_US_andronache.heAU.KyrieEiKaiKritirio.greekname
-meVE.SticStavrotheotokion.melody = he.a.m8_en_US_andronache.heAU.KyrieEiKaiKritirio.notmetered
-meVE.SticStavrotheotokion.incipit = "…"
-meVE.SticStavrotheotokion.text = ""
-
-meVE.Apolytikion1.poet = //poets_en_US_andronache.Gerasimou
-meVE.Apolytikion1.mode = miscellanea_en_US_andronache.misc.Mode1
-meVE.Apolytikion1.greekmelody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.greekname
-meVE.Apolytikion1.melody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.notmetered
-meVE.Apolytikion1.incipit = "…"
-meVE.Apolytikion1.text = ""
-
-meVE.Apolytikion2.poet = //poets_en_US_andronache.Gerasimou
-meVE.Apolytikion2.mode = miscellanea_en_US_andronache.misc.Mode1
-meVE.Apolytikion2.greekmelody = he.a.m1_en_US_andronache.heAU.TisErimouPolitis.greekname
-meVE.Apolytikion2.melody = he.a.m1_en_US_andronache.heAU.TisErimouPolitis.notmetered
-meVE.Apolytikion2.incipit = "…"
-meVE.Apolytikion2.text = ""
-
 meMA.C1.acrostic.title = "Canon for the Saint."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-meMA.C1.title = //titles_en_US_andronache.ti.CanonSaintM
-meMA.C1.verse = //prayers_en_US_andronache.pr.verse_SaintM.text
 
 meMA.Ode1C1H.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_US_andronache.misc.Mode8
@@ -139,13 +76,9 @@ meMA.Ode3Kathisma1.text = "Glorious one, great prize-winner, soldier of the trut
 
 meMA.Ode3KathismaT.mode = miscellanea_en_US_andronache.misc.Mode3
 meMA.Ode3KathismaT.melody = ""
-meMA.Ode3KathismaT.incipit = //oc.m3.d3_en_US_andronache.ocMA.Kathisma33.incipit
-meMA.Ode3KathismaT.text = //oc.m3.d3_en_US_andronache.ocMA.Kathisma33.text
 
 meMA.Ode3KathismaSt.mode = miscellanea_en_US_andronache.misc.Mode3
 meMA.Ode3KathismaSt.melody = ""
-meMA.Ode3KathismaSt.incipit = //oc.m3.d4_en_US_andronache.ocMA.Kathisma13.incipit
-meMA.Ode3KathismaSt.text = //oc.m3.d4_en_US_andronache.ocMA.Kathisma13.text
 
 meMA.Ode4C1H.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_andronache.misc.Mode8
@@ -243,7 +176,6 @@ meMA.Ode6C1T.melody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.notmetered
 meMA.Ode6C1T.incipit = "…"
 meMA.Ode6C1T.text = "When they disobediently tasted of the tree, the first-created ones were cast out from delight, O spotless one. But we, partaking of Him who was born of you, delight in pure life."
 
-meMA.Kontakion1.poet = //poets_en_US_andronache.Gerasimou
 meMA.Kontakion1.mode = miscellanea_en_US_andronache.misc.Mode2
 meMA.Kontakion1.greekmelody = he.a.m2_en_US_andronache.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_andronache.heAU.TaAnoZiton.notmetered
@@ -345,12 +277,4 @@ meMA.Ode9C1T.mode = miscellanea_en_US_andronache.misc.Mode8
 meMA.Ode9C1T.melody = he.h.m8_en_US_andronache.heHE.KyriosTheotokon.notmetered
 meMA.Ode9C1T.incipit = "…"
 meMA.Ode9C1T.text = "O Theotokos, you are the glory, boldness, strength, and boast of your servants and the certain achievement of my expectations."
-
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
-
-meMegalynarion.text = ""
 

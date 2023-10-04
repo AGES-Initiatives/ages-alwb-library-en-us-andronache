@@ -1,63 +1,5 @@
 A_Resource_Whose_Name = me.m04.d18_en_US_andronache
 
-meDA.date = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meDA.commemoration.full = "" //full title of day
-meDA.commemoration.first = ""
-meDA.commemoration.first_short = ""
-meDA.commemoration.first_title = ""
-meDA.commemoration.first_name = ""
-meDA.commemoration.second_title = ""
-meDA.commemoration.second_name = ""
-meDA.insert1 = "" //for use in petitions and dismissal
-meDA.insert2 = "" //for use in petitions and dismissal
-meDA.note = ""
-meLE.commemoration1 = ""
-meLE.commemoration2 = ""
-meHO.number = ""
-meHO.rank = ""
-meHO.commemorations = ""
-meHO.note1 = ""
-meHO.note2 = ""
-
-meVE.Stichera01.mode = miscellanea_en_US_andronache.misc.Mode6
-meVE.Stichera01.greekmelody = he.a.m6_en_US_andronache.heAU.OlinApothemenoi.greekname
-meVE.Stichera01.melody = he.a.m6_en_US_andronache.heAU.OlinApothemenoi.notmetered
-meVE.Stichera01.incipit = "…"
-meVE.Stichera01.text = ""
-
-meVE.Stichera02.mode = miscellanea_en_US_andronache.misc.Mode6
-meVE.Stichera02.melody = he.a.m6_en_US_andronache.heAU.OlinApothemenoi.notmetered
-meVE.Stichera02.incipit = "…"
-meVE.Stichera02.text = ""
-
-meVE.Stichera03.mode = miscellanea_en_US_andronache.misc.Mode6
-meVE.Stichera03.melody = he.a.m6_en_US_andronache.heAU.OlinApothemenoi.notmetered
-meVE.Stichera03.incipit = "…"
-meVE.Stichera03.text = ""
-
-meVE.SticTheotokion.mode = miscellanea_en_US_andronache.misc.Mode6
-meVE.SticTheotokion.greekmelody = he.a.m6_en_US_andronache.heAU.OlinApothemenoi.greekname
-meVE.SticTheotokion.melody = he.a.m6_en_US_andronache.heAU.OlinApothemenoi.notmetered
-meVE.SticTheotokion.incipit = "…"
-meVE.SticTheotokion.text = ""
-
-meVE.SticStavrotheotokion.mode = miscellanea_en_US_andronache.misc.Mode6
-meVE.SticStavrotheotokion.greekmelody = he.a.m6_en_US_andronache.heAU.OlinApothemenoi.greekname
-meVE.SticStavrotheotokion.melody = he.a.m6_en_US_andronache.heAU.OlinApothemenoi.notmetered
-meVE.SticStavrotheotokion.incipit = "…"
-meVE.SticStavrotheotokion.text = ""
-
-meVE.Apolytikion1.poet = //poets_en_US_andronache.Gerasimou
-meVE.Apolytikion1.mode = miscellanea_en_US_andronache.misc.Mode5
-meVE.Apolytikion1.greekmelody = he.a.m5_en_US_andronache.heAU.TonSynanarchonLogon.greekname
-meVE.Apolytikion1.melody = he.a.m5_en_US_andronache.heAU.TonSynanarchonLogon.notmetered
-meVE.Apolytikion1.incipit = "…"
-meVE.Apolytikion1.text = ""
-
-meMA.C1.poet = //poets_en_US_andronache.Theofanous
-meMA.C1.title = //titles_en_US_andronache.ti.CanonSaintM
-meMA.C1.verse = //prayers_en_US_andronache.pr.verse_SaintM.text
-
 meMA.Ode1C1H.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_US_andronache.misc.Mode8
 meMA.Ode1C1H.greekmelody = he.h.m8_en_US_andronache.heHE.ArmatilatinFarao.greekname
@@ -234,7 +176,6 @@ meMA.Ode6C1T.melody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.notmetered
 meMA.Ode6C1T.incipit = "Let us piously hymn the…"
 meMA.Ode6C1T.text = "Let us piously hymn the immaculate Mary, the truly divine and all-august tabernacle of God, for having received Him, she contained the uncontainable and incomprehensible God."
 
-meMA.Kontakion1ger.poet = //poets_en_US_andronache.Gerasimou
 meMA.Kontakion1ger.mode = miscellanea_en_US_andronache.misc.Mode2
 meMA.Kontakion1ger.melody = he.a.m2_en_US_andronache.heAU.TousAsfaleis.notmetered
 meMA.Kontakion1ger.incipit = "…"
@@ -335,13 +276,4 @@ meMA.Ode9C1T.mode = miscellanea_en_US_andronache.misc.Mode8
 meMA.Ode9C1T.melody = he.h.m8_en_US_andronache.heHE.ExestiEpiTouto.notmetered
 meMA.Ode9C1T.incipit = "When you became the mother…"
 meMA.Ode9C1T.text = "When you became the mother of the redeemer, all-pure one, you again called us who had been thrown out of the heavenly life and wretchedly fallen into death, and again made us worthy to return to the original fatherland. Therefore, we unceasingly magnify you, mother of God."
-
-meLI.Kontakion1.mode = meMA.Kontakion1ger.mode
-meLI.Kontakion1.melody = meMA.Kontakion1ger.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1ger.incipit
-meLI.Kontakion1.text = meMA.Kontakion1ger.text
-
-meLI.MM.CommunionHymn.text = properties_en_US_andronache.media.key
-
-meMegalynarion.text = ""
 

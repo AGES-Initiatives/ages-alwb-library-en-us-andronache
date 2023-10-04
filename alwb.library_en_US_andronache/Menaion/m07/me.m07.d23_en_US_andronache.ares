@@ -1,85 +1,8 @@
 A_Resource_Whose_Name = me.m07.d23_en_US_andronache
 
-meDA.date = ""
-meDA.commemoration.full = "" //full title of day
-meDA.commemoration.first = ""
-meDA.commemoration.first_short = ""
-meDA.commemoration.first_title = ""
-meDA.commemoration.first_name = ""
-meDA.commemoration.second_title = ""
-meDA.commemoration.second_name = ""
-meDA.insert1 = "" //for use in petitions and dismissal
-meDA.insert2 = "" //for use in petitions and dismissal
-meDA.note = ""
-meLE.commemoration1 = ""
-meLE.commemoration2 = ""
-meHO.number = ""
-meHO.rank = ""
-meHO.commemorations = ""
-meHO.note1 = ""
-meHO.note2 = ""
-
-meVE.Stichera01.mode = miscellanea_en_US_andronache.misc.Mode1
-meVE.Stichera01.greekmelody = he.a.m1_en_US_andronache.heAU.TonOuranionTagmaton.greekname
-meVE.Stichera01.melody = he.a.m1_en_US_andronache.heAU.TonOuranionTagmaton.notmetered
-meVE.Stichera01.incipit = "…"
-meVE.Stichera01.text = ""
-
-meVE.Stichera02.mode = miscellanea_en_US_andronache.misc.Mode1
-meVE.Stichera02.melody = he.a.m1_en_US_andronache.heAU.TonOuranionTagmaton.notmetered
-meVE.Stichera02.incipit = "…"
-meVE.Stichera02.text = ""
-
-meVE.Stichera03.mode = miscellanea_en_US_andronache.misc.Mode1
-meVE.Stichera03.melody = he.a.m1_en_US_andronache.heAU.TonOuranionTagmaton.notmetered
-meVE.Stichera03.incipit = "…"
-meVE.Stichera03.text = ""
-
-meVE.SticGlory.mode = miscellanea_en_US_andronache.misc.Mode4
-meVE.SticGlory.melody = ""
-meVE.SticGlory.incipit = "…"
-meVE.SticGlory.text = ""
-
-meVE.SticTheotokion.mode = miscellanea_en_US_andronache.misc.Mode4
-meVE.SticTheotokion.melody = ""
-meVE.SticTheotokion.incipit = "…"
-meVE.SticTheotokion.text = //oc.m4.d2_en_US_andronache.ocMA.AposTheotokion.text
-
-meVE.SticStavrotheotokion.mode = miscellanea_en_US_andronache.misc.Mode4
-meVE.SticStavrotheotokion.greekmelody = he.a.m4_en_US_andronache.heAU.OsGennaionEnMartysi.greekname
-meVE.SticStavrotheotokion.melody = he.a.m4_en_US_andronache.heAU.OsGennaionEnMartysi.notmetered
-meVE.SticStavrotheotokion.incipit = "…"
-meVE.SticStavrotheotokion.text = ""
-
-meVE.GeneralApolytikion1.name = "" // name of saint for General Apolytikia when not in Menaion
-meVE.MM.GeneralApolytikion1.text = properties_en_US_andronache.media.key
-
-meVE.Apolytikion1.poet = //poets_en_US_andronache.Gerasimou
-meVE.Apolytikion1.mode = miscellanea_en_US_andronache.misc.Mode3
-meVE.Apolytikion1.greekmelody = he.a.m3_en_US_andronache.heAU.TheiasPisteos.greekname
-meVE.Apolytikion1.melody = he.a.m3_en_US_andronache.heAU.TheiasPisteos.notmetered
-meVE.Apolytikion1.incipit = "…"
-meVE.Apolytikion1.text = ""
-
-meVE.Apolytikion2.poet = //poets_en_US_andronache.Gerasimou
-meVE.Apolytikion2.mode = miscellanea_en_US_andronache.misc.Mode3
-meVE.Apolytikion2.greekmelody = he.a.m3_en_US_andronache.heAU.TheiasPisteos.greekname
-meVE.Apolytikion2.melody = he.a.m3_en_US_andronache.heAU.TheiasPisteos.notmetered
-meVE.Apolytikion2.incipit = "…"
-meVE.Apolytikion2.text = ""
-
-meVE.Apolytikion3.poet = //poets_en_US_andronache.Gerasimou
-meVE.Apolytikion3.mode = miscellanea_en_US_andronache.misc.Mode4
-meVE.Apolytikion3.greekmelody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.greekname
-meVE.Apolytikion3.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.notmetered
-meVE.Apolytikion3.incipit = "…"
-meVE.Apolytikion3.text = ""
-
 meMA.C1.acrostic.title = "Canon for the Saint."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-meMA.C1.title = //titles_en_US_andronache.ti.CanonSaintM
-meMA.C1.verse = //prayers_en_US_andronache.pr.verse_SaintM.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode4
@@ -147,7 +70,6 @@ meMA.Ode3H.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode3H.melody = miscellanea_en_US_andronache.misc.HeirmosNotMetered
 meMA.Ode3H.incipit = "…"
-meMA.Ode3H.text = //he.h.m4_en_US_andronache.heHE.EffrainetaiEpiSoi.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.greekname
@@ -157,8 +79,6 @@ meMA.Ode3Kathisma1.text = "Focas, while offering to Christ a bloodless sacrifice
 
 meMA.Ode3KathismaT.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode3KathismaT.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.notmetered
-meMA.Ode3KathismaT.incipit = "The only one who bore…"
-meMA.Ode3KathismaT.text = "The only one who bore in your womb the Creator of all, the only one who adorns humanity by your giving-birth, all pure one, deliver me from the snares of the deceitful Belial, establishing me upon the rock of Christ's will and forever entreating Him to whom you gave a body."
 
 meMA.Ode3KathismaSt.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode3KathismaSt.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.notmetered
@@ -244,7 +164,6 @@ meMA.Ode6H.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode6H.melody = miscellanea_en_US_andronache.misc.HeirmosNotMetered
 meMA.Ode6H.incipit = "…"
-meMA.Ode6H.text = //he.h.m4_en_US_andronache.heHE.ThysoSoiMetaFonis.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_andronache.misc.Mode4
@@ -306,7 +225,6 @@ meMA.Ode8H.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode8H.melody = miscellanea_en_US_andronache.misc.HeirmosNotMetered
 meMA.Ode8H.incipit = "…"
-meMA.Ode8H.text = //he.h.m4_en_US_andronache.heHE.CheirasEkpetasasDaniil.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_andronache.misc.Mode4
@@ -343,12 +261,4 @@ meMA.Ode9H.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode9H.melody = miscellanea_en_US_andronache.misc.HeirmosNotMetered
 meMA.Ode9H.incipit = "…"
-meMA.Ode9H.text = //he.h.m4_en_US_andronache.heHE.LithosAcheirotmitos.text
 
-meLI.Kontakion1.mode = ""
-meLI.Kontakion1.melody = ""
-meLI.Kontakion1.incipit = "…"
-meLI.Kontakion1.text = ""
-
-meMegalynarion.text = ""
-meMegalynarion2.text = ""
