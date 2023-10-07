@@ -54,12 +54,6 @@ meMA.Ode3C1T.melody = he.h.m8_en_US_andronache.heHE.SyEiToStereoma.notmetered
 meMA.Ode3C1T.incipit = "The famous martyr Fevronia found…"
 meMA.Ode3C1T.text = "The famous martyr Fevronia found God's all-pure mother to be her help and she put to shame the tyrants."
 
-meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode1
-meMA.Ode3Kathisma1.greekmelody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.greekname
-meMA.Ode3Kathisma1.melody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.notmetered
-meMA.Ode3Kathisma1.incipit = "…"
-meMA.Ode3Kathisma1.text = ""
-
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode3Kathisma2.greekmelody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.greekname
 meMA.Ode3Kathisma2.melody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.notmetered

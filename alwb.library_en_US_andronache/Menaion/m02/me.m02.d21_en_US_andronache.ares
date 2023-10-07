@@ -79,10 +79,6 @@ meMA.Ode3KathismaT.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.melod
 meMA.Ode3KathismaT.incipit = he.a.m4_en_US_andronache.heAU.TachyProkatalave.incipit
 meMA.Ode3KathismaT.text = he.a.m4_en_US_andronache.heAU.TachyProkatalave.text
 
-meMA.Ode3KathismaSt.mode = miscellanea_en_US_andronache.misc.Mode4
-meMA.Ode3KathismaSt.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.notmetered
-meMA.Ode3KathismaSt.incipit = "…"
-
 meMA.Ode4C1H.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_andronache.misc.Mode8
 meMA.Ode4C1H.greekmelody = he.h.m8_en_US_andronache.heHE.ExOrousKataskiou.greekname

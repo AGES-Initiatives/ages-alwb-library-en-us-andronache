@@ -73,11 +73,6 @@ meMA.Ode3KathismaT.melody = he.a.m3_en_US_andronache.heAU.TheiasPisteos.notmeter
 meMA.Ode3KathismaT.incipit = "You became the divine dwelling…"
 meMA.Ode3KathismaT.text = "You became the divine dwelling of the Logos, only all-pure Virgin-mother, having risen above the angels in purity. Cleanse me, who have become bowed down and filthy more than all others by the trespasses of the flesh by the divine waters of your intercessions and grant me great mercy, august one." //oc.m3.d2_en_US_andronache.ocMA.Kathisma23.text
 
-meMA.Ode3KathismaSt.mode = miscellanea_en_US_andronache.misc.Mode3
-meMA.Ode3KathismaSt.melody = he.a.m3_en_US_andronache.heAU.TheiasPisteos.name
-meMA.Ode3KathismaSt.incipit = "…"
-meMA.Ode3KathismaSt.text = ""
-
 meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode8
 meMA.Ode4C11.greekmelody = he.h.m8_en_US_andronache.heHE.EisakikoaKyrie.greekname

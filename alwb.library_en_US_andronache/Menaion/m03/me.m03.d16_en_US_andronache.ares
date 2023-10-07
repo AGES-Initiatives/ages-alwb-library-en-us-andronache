@@ -74,12 +74,6 @@ meMA.Ode3Kathisma1.melody = he.a.m3_en_US_andronache.heAU.IParthenosSimeron.notm
 meMA.Ode3Kathisma1.incipit = "Glorious one…"
 meMA.Ode3Kathisma1.text = "Glorious one, great prize-winner, soldier of the truth, golden martyr, herald of the divine Trinity, ask for grace from above for  those who honor you;  by your intercession grant peace to all who ceaselessly hymn the divine memory of your contests."
 
-meMA.Ode3KathismaT.mode = miscellanea_en_US_andronache.misc.Mode3
-meMA.Ode3KathismaT.melody = ""
-
-meMA.Ode3KathismaSt.mode = miscellanea_en_US_andronache.misc.Mode3
-meMA.Ode3KathismaSt.melody = ""
-
 meMA.Ode4C1H.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_andronache.misc.Mode8
 meMA.Ode4C1H.greekmelody = he.h.m8_en_US_andronache.heHE.EisakikoaKyrie.greekname
@@ -175,12 +169,6 @@ meMA.Ode6C1T.mode = miscellanea_en_US_andronache.misc.Mode8
 meMA.Ode6C1T.melody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.notmetered
 meMA.Ode6C1T.incipit = "…"
 meMA.Ode6C1T.text = "When they disobediently tasted of the tree, the first-created ones were cast out from delight, O spotless one. But we, partaking of Him who was born of you, delight in pure life."
-
-meMA.Kontakion1.mode = miscellanea_en_US_andronache.misc.Mode2
-meMA.Kontakion1.greekmelody = he.a.m2_en_US_andronache.heAU.TaAnoZiton.greekname
-meMA.Kontakion1.melody = he.a.m2_en_US_andronache.heAU.TaAnoZiton.notmetered
-meMA.Kontakion1.incipit = "…"
-meMA.Kontakion1.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_andronache.misc.Mode8

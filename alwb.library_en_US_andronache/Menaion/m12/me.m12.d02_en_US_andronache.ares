@@ -72,11 +72,6 @@ meMA.Ode3KathismaT.melody = he.a.m4_en_US_andronache.heAU.OYpsotheisEnToStavro.n
 meMA.Ode3KathismaT.incipit = me.m11.d28_en_US_andronache.meMA.Ode3KathismaT.incipit
 meMA.Ode3KathismaT.text = me.m11.d28_en_US_andronache.meMA.Ode3KathismaT.text
 
-meMA.Ode3KathismaSt.mode = miscellanea_en_US_andronache.misc.Mode4
-meMA.Ode3KathismaSt.melody = he.a.m4_en_US_andronache.heAU.OYpsotheisEnToStavro.notmetered
-meMA.Ode3KathismaSt.incipit = "…"
-meMA.Ode3KathismaSt.text = ""
-
 meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode4C11.greekmelody = he.h.m4_en_US_andronache.heHE.TousOuranousIAretiSou.greekname

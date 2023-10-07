@@ -63,14 +63,6 @@ meMA.Ode3Kathisma1.melody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.notm
 meMA.Ode3Kathisma1.incipit = "Having been wrapped up in…"
 meMA.Ode3Kathisma1.text = "Having been wrapped up in the multifold pains of the martyrs and having been manfully equipped with faith, you eagerly offered yourself to your Lord and by grace trampled on the daring of the foe, all-blessed Adrian, glorious martyr of Christ. Therefore Natalie, seeing your in contest, encourages you through words of salvation, all-famous one. Therefore we cry out to you: Ever intercede with Christ God that remission of sins be granted to those who fervently celebrate your holy memory."
 
-meMA.Ode3KathismaT.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Ode3KathismaT.melody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.notmetered
-meMA.Ode3KathismaT.incipit = "…"
-
-meMA.Ode3KathismaSt.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Ode3KathismaSt.melody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.notmetered
-meMA.Ode3KathismaSt.incipit = "…"
-
 meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode6
 meMA.Ode4C11.greekmelody = he.h.m6_en_US_andronache.heHE.ChristosMouDynamis.greekname

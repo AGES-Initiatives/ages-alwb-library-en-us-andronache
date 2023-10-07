@@ -182,11 +182,6 @@ meMA.Ode6C1T.melody = he.h.m2_en_US_andronache.heHE.EnAvyssoPtaismaton.notmetere
 meMA.Ode6C1T.incipit = "Tongues of mortals and angels…"
 meMA.Ode6C1T.text = "Tongues of mortals and angels praise the unutterable manner of your birth-giving, glorifying you, Lady, who are more excellent than all created things."
 
-meMA.Kontakion1ger.mode = miscellanea_en_US_andronache.misc.Mode3
-meMA.Kontakion1ger.melody = he.a.m3_en_US_andronache.heAU.IParthenosSimeron.notmetered
-meMA.Kontakion1ger.incipit = "…"
-meMA.Kontakion1ger.text = ""
-
 meMA.Ode7C1H.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_andronache.misc.Mode2
 meMA.Ode7C1H.greekmelody = he.h.m2_en_US_andronache.heHE.EikonosChrysis.greekname

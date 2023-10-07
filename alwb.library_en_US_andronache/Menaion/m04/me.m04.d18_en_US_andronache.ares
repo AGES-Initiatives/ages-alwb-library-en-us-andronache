@@ -176,11 +176,6 @@ meMA.Ode6C1T.melody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.notmetered
 meMA.Ode6C1T.incipit = "Let us piously hymn the…"
 meMA.Ode6C1T.text = "Let us piously hymn the immaculate Mary, the truly divine and all-august tabernacle of God, for having received Him, she contained the uncontainable and incomprehensible God."
 
-meMA.Kontakion1ger.mode = miscellanea_en_US_andronache.misc.Mode2
-meMA.Kontakion1ger.melody = he.a.m2_en_US_andronache.heAU.TousAsfaleis.notmetered
-meMA.Kontakion1ger.incipit = "…"
-meMA.Kontakion1ger.text = ""
-
 meMA.Ode7C1H.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_andronache.misc.Mode8
 meMA.Ode7C1H.greekmelody = he.h.m8_en_US_andronache.heHE.OiEkTisIoudaias.greekname

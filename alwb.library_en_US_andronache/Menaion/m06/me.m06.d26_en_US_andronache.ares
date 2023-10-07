@@ -72,9 +72,6 @@ meMA.Ode3KathismaT.melody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.notm
 meMA.Ode3KathismaT.incipit = "All-holy Virgin, Mother of God…"
 meMA.Ode3KathismaT.text = "All-holy Virgin, Mother of God, I pray you heal the grievous passions of my soul and grant me forgiveness for the errors I have made mindlessly, having stained my soul and body, wretch that I am. Woe is me! What will I do in that hour when the angels will separate my soul from my wretched body. Then, Lady, be my help and most fervent support, for I, your unworthy servant, have you as my hope."
 
-meMA.Ode3KathismaSt.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Ode3KathismaSt.melody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.notmetered
-
 meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode5
 meMA.Ode4C11.greekmelody = he.h.m5_en_US_andronache.heHE.TinTheianEnnoisas.greekname

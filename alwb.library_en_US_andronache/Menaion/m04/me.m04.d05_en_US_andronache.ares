@@ -186,12 +186,6 @@ meMA.Ode6C1T.melody = he.h.m4_en_US_andronache.heHE.ThysoSoiMetaFonis.notmetered
 meMA.Ode6C1T.incipit = "…"
 meMA.Ode6C1T.text = "All-blameless one, strengthen the power of my soul made weak by continual negligence and sin, so that with faith and yearning I may always celebrate you in song."
 
-meMA.Kontakion1.mode = miscellanea_en_US_andronache.misc.Mode2
-meMA.Kontakion1.greekmelody = he.a.m2_en_US_andronache.heAU.ToisTonAimatonSou.greekname
-meMA.Kontakion1.melody = he.a.m2_en_US_andronache.heAU.ToisTonAimatonSou.notmetered
-meMA.Kontakion1.incipit = "…"
-meMA.Kontakion1.text = ""
-
 meMA.Ode7C1H.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode7C1H.greekmelody = he.h.m4_en_US_andronache.heHE.EnTiKaminoAvramiaioi.greekname

@@ -180,12 +180,6 @@ meMA.Ode6C1T.melody = he.h.m8_en_US_andronache.heHE.AvyssosAmartion.notmetered
 meMA.Ode6C1T.incipit = "…"
 meMA.Ode6C1T.text = "The laws of nature are undone in you, for you ineffably bear the maker of all, O all-hymned Theotokos, as God and mortal, having two wills and energies, O Virgin-mother."
 
-meMA.Kontakion1.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Kontakion1.greekmelody = he.a.m8_en_US_andronache.heAU.TiYpermacho.greekname
-meMA.Kontakion1.melody = he.a.m8_en_US_andronache.heAU.TiYpermacho.notmetered
-meMA.Kontakion1.incipit = "…"
-meMA.Kontakion1.text = ""
-
 meMA.Ode7C1H.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_andronache.misc.Mode8
 meMA.Ode7C1H.greekmelody = he.h.m8_en_US_andronache.heHE.OiEkTisIoudaias.greekname

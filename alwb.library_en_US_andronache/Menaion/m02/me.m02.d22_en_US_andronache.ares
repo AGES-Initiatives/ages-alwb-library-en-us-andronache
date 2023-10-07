@@ -75,11 +75,6 @@ meMA.Ode3KathismaT.melody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.notme
 meMA.Ode3KathismaT.incipit = "Guide my wretched soul and…"
 meMA.Ode3KathismaT.text = "Guide my wretched soul and have mercy on it, as it has fallen deeply into perdition under many transgressions, all-blameless one; and in the fearful hour of death, free me from the accusing demons and all chastisement."
 
-meMA.Ode3KathismaSt.mode = miscellanea_en_US_andronache.misc.Mode1
-meMA.Ode3KathismaSt.melody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.notmetered
-meMA.Ode3KathismaSt.incipit = "…"
-meMA.Ode3KathismaSt.text = ""
-
 meMA.Ode4C1H.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_andronache.misc.Mode8
 meMA.Ode4C1H.greekmelody = he.h.m8_en_US_andronache.heHE.SyMouIschys.greekname

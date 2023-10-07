@@ -1,27 +1,5 @@
 A_Resource_Whose_Name = me.m07.d01_en_US_andronache
 
-meMA.Kathisma11.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Kathisma11.greekmelody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.greekname
-meMA.Kathisma11.melody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.notmetered
-meMA.Kathisma11.incipit = "…"
-meMA.Kathisma11.text = ""
-
-meMA.Kathisma1T.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Kathisma1T.melody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.notmetered
-meMA.Kathisma1T.incipit = "…"
-meMA.Kathisma1T.text = ""
-
-meMA.Kathisma21.mode = miscellanea_en_US_andronache.misc.Mode4
-meMA.Kathisma21.greekmelody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.greekname
-meMA.Kathisma21.melody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.notmetered
-meMA.Kathisma21.incipit = "…"
-meMA.Kathisma21.text = ""
-
-meMA.Kathisma2T.mode = miscellanea_en_US_andronache.misc.Mode4
-meMA.Kathisma2T.melody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.notmetered
-meMA.Kathisma2T.incipit = "…"
-meMA.Kathisma2T.text = ""
-
 meMA.C1.acrostic.title = "Canon for the Saints."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = "."
@@ -267,40 +245,4 @@ meMA.Ode9C1T.mode = miscellanea_en_US_andronache.misc.Mode6
 meMA.Ode9C1T.melody = he.h.m6_en_US_andronache.heHE.TheonAnthropois.notmetered
 meMA.Ode9C1T.incipit = "Having a fearsome conception, all-pure…"
 meMA.Ode9C1T.text = "Having a fearsome conception, all-pure one, I ask that in the fearsome day of trial you deliver me from the fearsome condemnation and make me a sharer in the portion of the saved, as I hymn you faithfully, God-graced one."
-
-meMA.Exaposteilarion1.mode = miscellanea_en_US_andronache.misc.Mode3
-meMA.Exaposteilarion1.greekmelody = he.a.m3_en_US_andronache.heAU.EnPnevmatiToIero.greekname
-meMA.Exaposteilarion1.melody = he.a.m3_en_US_andronache.heAU.EnPnevmatiToIero.notmetered
-meMA.Exaposteilarion1.incipit = "…"
-meMA.Exaposteilarion1.text = ""
-
-meMA.ExapTheotokion.mode = miscellanea_en_US_andronache.misc.Mode3
-meMA.ExapTheotokion.melody = he.a.m3_en_US_andronache.heAU.EnPnevmatiToIero.notmetered
-meMA.ExapTheotokion.incipit = "…"
-meMA.ExapTheotokion.text = ""
-
-meMA.Lauds1.mode = miscellanea_en_US_andronache.misc.Mode4
-meMA.Lauds1.greekmelody = he.a.m4_en_US_andronache.heAU.EdokasSimeiosin.greekname
-meMA.Lauds1.melody = he.a.m4_en_US_andronache.heAU.EdokasSimeiosin.notmetered
-meMA.Lauds1.incipit = "…"
-meMA.Lauds1.text = ""
-
-meMA.Lauds2.mode = miscellanea_en_US_andronache.misc.Mode4
-meMA.Lauds2.melody = he.a.m4_en_US_andronache.heAU.EdokasSimeiosin.notmetered
-meMA.Lauds2.incipit = "…"
-meMA.Lauds2.text = ""
-
-meMA.Lauds3.mode = miscellanea_en_US_andronache.misc.Mode4
-meMA.Lauds3.melody = he.a.m4_en_US_andronache.heAU.EdokasSimeiosin.notmetered
-meMA.Lauds3.incipit = "…"
-meMA.Lauds3.text = ""
-
-meMA.LaudsGlory.mode = miscellanea_en_US_andronache.misc.Mode4
-meMA.LaudsGlory.melody = ""
-meMA.LaudsGlory.incipit = "…"
-meMA.LaudsGlory.text = ""
-
-meMA.LaudsTheotokion.mode = miscellanea_en_US_andronache.misc.Mode4
-meMA.LaudsTheotokion.melody = ""
-meMA.LaudsTheotokion.incipit = "…"
 

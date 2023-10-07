@@ -28,12 +28,6 @@ meVE.SticStavrotheotokion.melody = he.a.m1_en_US_andronache.heAU.PaneffimoiMarty
 meVE.SticStavrotheotokion.incipit = "Seeing your unjust slaughter, O…"
 meVE.SticStavrotheotokion.text = "Seeing your unjust slaughter, O Christ, the Virgin in grief cried out: Most sweet child, how do you die unrighteously? How are you, who have suspended all the earth upon the waters, suspended on the tree? I entreat you, do not leave me, your mother and slave, alone, most merciful benefactor." //oc.m1.d4_en_US_andronache.ocVE.SticTheotokion.text
 
-meVE.Apolytikion1ger.mode = miscellanea_en_US_andronache.misc.Mode5
-meVE.Apolytikion1ger.greekmelody = he.a.m5_en_US_andronache.heAU.TonSynanarchonLogon.greekname
-meVE.Apolytikion1ger.melody = he.a.m5_en_US_andronache.heAU.TonSynanarchonLogon.notmetered
-meVE.Apolytikion1ger.incipit = "…"
-meVE.Apolytikion1ger.text = ""
-
 meMA.C1.acrostic.title = "Canon for the Saints."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""

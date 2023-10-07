@@ -180,12 +180,6 @@ meMA.Ode6C1T.melody = he.h.m4_en_US_andronache.heHE.ThysoSoiMetaFonis.notmetered
 meMA.Ode6C1T.incipit = "…"
 meMA.Ode6C1T.text = "The Lord who dwelt in your womb is holy, O Virgin, he who rests in the saints and glorifies those who with true faith glorify him, O Maiden."
 
-meMA.Kontakion1.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Kontakion1.greekmelody = he.a.m8_en_US_andronache.heAU.TiYpermacho.greekname
-meMA.Kontakion1.melody = he.a.m8_en_US_andronache.heAU.TiYpermacho.notmetered
-meMA.Kontakion1.incipit = "…"
-meMA.Kontakion1.text = ""
-
 meMA.Ode7C1H.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode7C1H.greekmelody = he.h.m4_en_US_andronache.heHE.EnTiKaminoAvramiaioi.greekname

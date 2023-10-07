@@ -60,25 +60,11 @@ meMA.Ode3C1T.melody = he.h.m2_en_US_andronache.heHE.EnPetraMeTisPisteos.notmeter
 meMA.Ode3C1T.incipit = "When He found you purer…"
 meMA.Ode3C1T.text = "When He found you purer than the angels, the one who abides in unapproachable light entered your holy womb, P Theotokos, and He was seen as human, taking flesh from you, and being known in two natures."
 
-meMA.Ode3H.ode = miscellanea_en_US_andronache.misc.Ode3
-meMA.Ode3H.mode = miscellanea_en_US_andronache.misc.Mode2
-meMA.Ode3H.melody = miscellanea_en_US_andronache.misc.HeirmosNotMetered
-meMA.Ode3H.incipit = "…"
-
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.greekname
 meMA.Ode3Kathisma1.melody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.notmetered
 meMA.Ode3Kathisma1.incipit = "As great lights illuminating the…"
 meMA.Ode3Kathisma1.text = "As great lights illuminating the world with the light of piety, you are forever glorified, wonderworking apostles of the Lord."
-
-meMA.Ode3KathismaT.mode = miscellanea_en_US_andronache.misc.Mode4
-meMA.Ode3KathismaT.melody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.notmetered
-meMA.Ode3KathismaT.incipit = "…"
-
-meMA.Ode3KathismaSt.mode = miscellanea_en_US_andronache.misc.Mode4
-meMA.Ode3KathismaSt.melody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.notmetered
-meMA.Ode3KathismaSt.incipit = "…"
-meMA.Ode3KathismaSt.text = ""
 
 meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode2
@@ -161,11 +147,6 @@ meMA.Ode6C1T.melody = he.h.m2_en_US_andronache.heHE.ProsKyrionEkKitous.notmetere
 meMA.Ode6C1T.incipit = "Having found you fair in…"
 meMA.Ode6C1T.text = "Having found you fair in beauty, the Creator dwelt in you and He was seen with a body, beautiful above all the sons born on earth, all hymned and all holy Virgin."
 
-meMA.Ode6H.ode = miscellanea_en_US_andronache.misc.Ode6
-meMA.Ode6H.mode = miscellanea_en_US_andronache.misc.Mode2
-meMA.Ode6H.melody = miscellanea_en_US_andronache.misc.HeirmosNotMetered
-meMA.Ode6H.incipit = "…"
-
 meMA.Ode7C11.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_andronache.misc.Mode2
 meMA.Ode7C11.greekmelody = he.h.m2_en_US_andronache.heHE.RitoresAnedeichthisanPaides.greekname
@@ -216,11 +197,6 @@ meMA.Ode8C1Tr.melody = he.h.m2_en_US_andronache.heHE.ToDogmatiToTyranniko.notmet
 meMA.Ode8C1Tr.incipit = "Let us hymn the life-originating…"
 meMA.Ode8C1Tr.text = "Let us hymn the life-originating Trinity being in three persons but known as one essence, and let us say, chanting: all the works of the Lord, bless the Lord."
 
-meMA.Ode8H.ode = miscellanea_en_US_andronache.misc.Ode8
-meMA.Ode8H.mode = miscellanea_en_US_andronache.misc.Mode2
-meMA.Ode8H.melody = miscellanea_en_US_andronache.misc.HeirmosNotMetered
-meMA.Ode8H.incipit = "…"
-
 meMA.Ode9C11.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_andronache.misc.Mode2
 meMA.Ode9C11.greekmelody = he.h.m2_en_US_andronache.heHE.ITonProIliouFostira.greekname
@@ -251,9 +227,4 @@ meMA.Ode9C1T.mode = miscellanea_en_US_andronache.misc.Mode2
 meMA.Ode9C1T.melody = he.h.m2_en_US_andronache.heHE.ITonProIliouFostira.notmetered
 meMA.Ode9C1T.incipit = "Almighty one who will again…"
 meMA.Ode9C1T.text = "Almighty one who will again come in glory in Your divinity to judge the world, spare me by the intercessions of the one why gave birth to You, Master, without the help of man, and do not send me out into the fire, even though I am self-convicted by sins."
-
-meMA.Ode9H.ode = miscellanea_en_US_andronache.misc.Ode9
-meMA.Ode9H.mode = miscellanea_en_US_andronache.misc.Mode2
-meMA.Ode9H.melody = miscellanea_en_US_andronache.misc.HeirmosNotMetered
-meMA.Ode9H.incipit = "…"
 

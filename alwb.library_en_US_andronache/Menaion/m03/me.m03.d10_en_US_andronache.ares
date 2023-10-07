@@ -70,9 +70,6 @@ meMA.Ode3Kathisma1.melody = he.a.m4_en_US_andronache.heAU.OYpsotheisEnToStavro.n
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = "By the patient endurance of afflictions you put to death the arrogant enemy, O prize-winner; you suffered death by the sword, together with the all-wise ones who contested with you, O Quadratus. Therefore we celebrate your august memory, crying out: Remember us to the Master, O invincible martyrs."
 
-meMA.Ode3KathismaT.mode = miscellanea_en_US_andronache.misc.Mode4
-meMA.Ode3KathismaT.melody = he.a.m4_en_US_andronache.heAU.OYpsotheisEnToStavro.notmetered
-
 meMA.Ode3KathismaSt.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode3KathismaSt.melody = he.a.m4_en_US_andronache.heAU.OYpsotheisEnToStavro.notmetered
 meMA.Ode3KathismaSt.incipit = "O Christ who were bor…"
@@ -173,12 +170,6 @@ meMA.Ode6C1T.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode6C1T.melody = he.h.m4_en_US_andronache.heHE.EvoiseProtypon.notmetered
 meMA.Ode6C1T.incipit = "…"
 meMA.Ode6C1T.text = "You made heavenly the nature of humanity which had become earthly, all-pure one, and having become corrupt, you deified it. Therefore we all glorify you with unceasing voices."
-
-meMA.Kontakion1.mode = miscellanea_en_US_andronache.misc.Mode4
-meMA.Kontakion1.greekmelody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.greekname
-meMA.Kontakion1.melody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.notmetered
-meMA.Kontakion1.incipit = "…"
-meMA.Kontakion1.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_andronache.misc.Mode4

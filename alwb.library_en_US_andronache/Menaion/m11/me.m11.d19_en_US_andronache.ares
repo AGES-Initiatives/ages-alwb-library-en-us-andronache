@@ -133,15 +133,6 @@ meMA.Ode3Kathisma2.melody = he.a.m4_en_US_andronache.heAU.OYpsotheisEnToStavro.n
 meMA.Ode3Kathisma2.incipit = "As an undaunted soldier of…"
 meMA.Ode3Kathisma2.text = "As an undaunted soldier of Christ and a trophy-winning, invincible athlete, the adornment of athletes, all-glorious one, you gained the unfading crown from heaven. Now you rejoice with the angels and dance unceasingly; by your intercessions ever save those who with faith praise your divine contest."
 
-meMA.Ode3KathismaT.mode = miscellanea_en_US_andronache.misc.Mode4
-meMA.Ode3KathismaT.melody = he.a.m4_en_US_andronache.heAU.OYpsotheisEnToStavro.notmetered
-meMA.Ode3KathismaT.incipit = "…"
-
-meMA.Ode3KathismaSt.mode = miscellanea_en_US_andronache.misc.Mode4
-meMA.Ode3KathismaSt.melody = he.a.m4_en_US_andronache.heAU.OYpsotheisEnToStavro.notmetered
-meMA.Ode3KathismaSt.incipit = "…"
-meMA.Ode3KathismaSt.text = ""
-
 meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode5
 meMA.Ode4C11.greekmelody = he.h.m5_en_US_andronache.heHE.EisakikoaTinAkoin.greekname

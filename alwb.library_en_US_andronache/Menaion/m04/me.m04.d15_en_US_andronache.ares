@@ -74,10 +74,6 @@ meMA.Ode3Kathisma1.melody = he.a.m4_en_US_andronache.heAU.OYpsotheisEnToStavro.n
 meMA.Ode3Kathisma1.incipit = "You were shown to be…"
 meMA.Ode3Kathisma1.text = "You were shown to be an inheritor of eternal good things through your faithful martyrdom, glorious great martyr, and you stand in the presence of the Master of all, resplendent with glory. Therefore, we celebrate your holy memorial, seeking release from errors through your intercessions, O Crescens."
 
-meMA.Ode3KathismaT.mode = miscellanea_en_US_andronache.misc.Mode4
-meMA.Ode3KathismaT.melody = he.a.m4_en_US_andronache.heAU.OYpsotheisEnToStavro.notmetered
-meMA.Ode3KathismaT.incipit = "…"
-
 meMA.Ode3KathismaSt.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode3KathismaSt.melody = he.a.m4_en_US_andronache.heAU.OYpsotheisEnToStavro.notmetered
 meMA.Ode3KathismaSt.incipit = "Your Mother, who bore you…"
@@ -172,17 +168,6 @@ meMA.Ode6C1T.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode6C1T.melody = he.h.m4_en_US_andronache.heHE.ThysoSoiMetaFonis.notmetered
 meMA.Ode6C1T.incipit = "We hymn you, Maiden, as…"
 meMA.Ode6C1T.text = "We hymn you, Maiden, as the fiery throne of the Master of all, a delightful palace and lampstand, bridal chamber and table which received God, immaculate one."
-
-meMA.Kontakion1.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Kontakion1.melody = ""
-meMA.Kontakion1.incipit = "…"
-meMA.Kontakion1.text = ""
-
-meMA.Kontakion2.mode = miscellanea_en_US_andronache.misc.Mode4
-meMA.Kontakion2.greekmelody = he.a.m4_en_US_andronache.heAU.OYpsotheisEnToStavro.greekname
-meMA.Kontakion2.melody = he.a.m4_en_US_andronache.heAU.OYpsotheisEnToStavro.notmetered
-meMA.Kontakion2.incipit = "…"
-meMA.Kontakion2.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_andronache.misc.Mode4

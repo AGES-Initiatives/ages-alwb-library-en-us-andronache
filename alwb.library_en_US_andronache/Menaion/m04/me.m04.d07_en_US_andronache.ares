@@ -180,12 +180,6 @@ meMA.Ode6C1T.melody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.notmetered
 meMA.Ode6C1T.incipit = "…"
 meMA.Ode6C1T.text = "Heal the measureless stumblings of my soul, pure one, and illumine my mind, ever darkened by all transgressions, so that, as is due, I may bless you in hymns of praise."
 
-meMA.Kontakion1.mode = miscellanea_en_US_andronache.misc.Mode3
-meMA.Kontakion1.greekmelody = he.a.m3_en_US_andronache.heAU.IParthenosSimeron.greekname
-meMA.Kontakion1.melody = he.a.m3_en_US_andronache.heAU.IParthenosSimeron.notmetered
-meMA.Kontakion1.incipit = "…"
-meMA.Kontakion1.text = ""
-
 meMA.Ode7C1H.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_andronache.misc.Mode8
 meMA.Ode7C1H.greekmelody = he.h.m8_en_US_andronache.heHE.OiEkTisIoudaias.greekname

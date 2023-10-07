@@ -70,11 +70,6 @@ meMA.Ode3KathismaT.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.notme
 meMA.Ode3KathismaT.incipit = "Set yourself against the enemies…"
 meMA.Ode3KathismaT.text = "Set yourself against the enemies that war against us, for they attacked your inheritance with power, most pure Lady. By your prayers destroy the daring of the barbarians, make the war-loving nations know your power, and by your command make them all disappear."
 
-meMA.Ode3KathismaSt.mode = miscellanea_en_US_andronache.misc.Mode4
-meMA.Ode3KathismaSt.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.notmetered
-meMA.Ode3KathismaSt.incipit = "…"
-meMA.Ode3KathismaSt.text = ""
-
 meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode4C11.greekmelody = he.h.m4_en_US_andronache.heHE.TousOuranousIAretiSou.greekname

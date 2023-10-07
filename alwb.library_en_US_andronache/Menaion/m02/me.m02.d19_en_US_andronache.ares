@@ -74,14 +74,6 @@ meMA.Ode3Kathisma1.melody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.notme
 meMA.Ode3Kathisma1.incipit = "Having become a student of…"
 meMA.Ode3Kathisma1.text = "Having become a student of Paul’s, god-bearer, you illumined nations to hymn the Trinity and by grace you destroyed temples of perdition. As you struggled patiently, with rejoicing you receiveded the crowns, interceding with Christ for us, martyr Archippus."
 
-meMA.Ode3KathismaT.mode = miscellanea_en_US_andronache.misc.Mode1
-meMA.Ode3KathismaT.melody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.notmetered
-
-meMA.Ode3KathismaSt.mode = miscellanea_en_US_andronache.misc.Mode1
-meMA.Ode3KathismaSt.melody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.notmetered
-meMA.Ode3KathismaSt.incipit = "…"
-meMA.Ode3KathismaSt.text = ""
-
 meMA.Ode4C1H.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode4C1H.greekmelody = he.h.m4_en_US_andronache.heHE.EparthentaSeIdousa.greekname

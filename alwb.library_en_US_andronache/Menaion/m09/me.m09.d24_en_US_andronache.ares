@@ -68,15 +68,6 @@ meMA.Ode3Kathisma1.melody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.notm
 meMA.Ode3Kathisma1.incipit = "The womanly nature was changed…"
 meMA.Ode3Kathisma1.text = "The womanly nature was changed to manliness through your virtues by yearning for Christ, becoming the house of God in two ways, for diminishing the darkness of the passions, you were shown to be the adornment of athletes by martyrdom. Therefore you also enlighten the world as a lamp, shining forth doubly with the rays of the Spirit, all-honored protomartyr. Intercede with Christ our God that he grant remission of offenses to those who fervently celebrate your holy memory."
 
-meMA.Ode3KathismaT.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Ode3KathismaT.melody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.notmetered
-meMA.Ode3KathismaT.incipit = "…"
-
-meMA.Ode3KathismaSt.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Ode3KathismaSt.melody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.name
-meMA.Ode3KathismaSt.incipit = "…"
-meMA.Ode3KathismaSt.text = ""
-
 meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode8
 meMA.Ode4C11.greekmelody = he.h.m8_en_US_andronache.heHE.EisakikoaKyrie.greekname
@@ -273,75 +264,6 @@ meMA.Ode9H.greekmelody = he.h.m8_en_US_andronache.heHE.SeTinApeirogamon.greeknam
 meMA.Ode9H.melody = he.h.m8_en_US_andronache.heHE.SeTinApeirogamon.melody
 meMA.Ode9H.incipit = he.h.m8_en_US_andronache.heHE.SeTinApeirogamon.incipit
 meMA.Ode9H.text = he.h.m8_en_US_andronache.heHE.SeTinApeirogamon.text
-
-meMA.Exaposteilarion1.mode = miscellanea_en_US_andronache.misc.Mode2
-meMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_andronache.heAU.GynaikesAkoutisthite.greekname
-meMA.Exaposteilarion1.melody = he.a.m2_en_US_andronache.heAU.GynaikesAkoutisthite.name
-meMA.Exaposteilarion1.incipit = "…"
-meMA.Exaposteilarion1.text = ""
-
-meMA.ExapTheotokion.mode = miscellanea_en_US_andronache.misc.Mode2
-meMA.ExapTheotokion.melody = he.a.m2_en_US_andronache.heAU.GynaikesAkoutisthite.name
-meMA.ExapTheotokion.incipit = "…"
-meMA.ExapTheotokion.text = ""
-
-meMA.Lauds1.poet = "" //poets_en_US_andronache.Anatoliou
-meMA.Lauds1.mode = miscellanea_en_US_andronache.misc.Mode1
-meMA.Lauds1.melody = ""
-meMA.Lauds1.incipit = "…"
-meMA.Lauds1.text = ""
-
-meMA.Lauds2.poet = "" //poets_en_US_andronache.Anatoliou
-meMA.Lauds2.mode = miscellanea_en_US_andronache.misc.Mode1
-meMA.Lauds2.melody = ""
-meMA.Lauds2.incipit = "…"
-meMA.Lauds2.text = ""
-
-meMA.Lauds3.poet = "" //poets_en_US_andronache.Anatoliou
-meMA.Lauds3.mode = miscellanea_en_US_andronache.misc.Mode4
-meMA.Lauds3.melody = ""
-meMA.Lauds3.incipit = "…"
-meMA.Lauds3.text = ""
-
-meMA.Lauds4.poet = "" //poets_en_US_andronache.Anatoliou
-meMA.Lauds4.mode = miscellanea_en_US_andronache.misc.Mode4
-meMA.Lauds4.melody = ""
-meMA.Lauds4.incipit = "…"
-meMA.Lauds4.text = ""
-
-meMA.LaudsGlory.mode = miscellanea_en_US_andronache.misc.Mode4
-meMA.LaudsGlory.melody = ""
-meMA.LaudsGlory.incipit = "…"
-meMA.LaudsGlory.text = ""
-
-meMA.LaudsTheotokion.mode = miscellanea_en_US_andronache.misc.Mode4
-meMA.LaudsTheotokion.greekmelody = he.a.m4_en_US_andronache.heAU.OsGennaionEnMartysi.greekname
-meMA.LaudsTheotokion.melody = he.a.m4_en_US_andronache.heAU.OsGennaionEnMartysi.name
-meMA.LaudsTheotokion.incipit = "…"
-meMA.LaudsTheotokion.text = ""
-
-meMA.LaudsStavrotheotokion.mode = miscellanea_en_US_andronache.misc.Mode4
-meMA.LaudsStavrotheotokion.greekmelody = he.a.m4_en_US_andronache.heAU.OsGennaionEnMartysi.greekname
-meMA.LaudsStavrotheotokion.melody = he.a.m4_en_US_andronache.heAU.OsGennaionEnMartysi.name
-meMA.LaudsStavrotheotokion.incipit = "…"
-
-meMA.AposGlory.poet = "" //poets_en_US_andronache.Anatoliou
-meMA.AposGlory.mode = miscellanea_en_US_andronache.misc.Mode2
-meMA.AposGlory.melody = ""
-meMA.AposGlory.incipit = "…"
-meMA.AposGlory.text = ""
-
-meMA.AposTheotokion.mode = miscellanea_en_US_andronache.misc.Mode2
-meMA.AposTheotokion.greekmelody = he.a.m2_en_US_andronache.heAU.OteEkTouXylou.greekname
-meMA.AposTheotokion.melody = he.a.m2_en_US_andronache.heAU.OteEkTouXylou.name
-meMA.AposTheotokion.incipit = "…"
-meMA.AposTheotokion.text = ""
-
-meMA.AposStavrotheotokion.mode = miscellanea_en_US_andronache.misc.Mode2
-meMA.AposStavrotheotokion.greekmelody = he.a.m2_en_US_andronache.heAU.OteEkTouXylou.greekname
-meMA.AposStavrotheotokion.melody = he.a.m2_en_US_andronache.heAU.OteEkTouXylou.name
-meMA.AposStavrotheotokion.incipit = "…"
-meMA.AposStavrotheotokion.text = ""
 
 alt1.meDA.date = ""
 alt1.meDA.commemoration.full = "" //full title of day

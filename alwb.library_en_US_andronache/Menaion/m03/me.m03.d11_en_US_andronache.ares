@@ -198,12 +198,6 @@ meMA.Ode6C1T.melody = he.h.m4_en_US_andronache.heHE.ThysoSoiMetaFonis.notmetered
 meMA.Ode6C1T.incipit = "O Theotokos, we hymn your…"
 meMA.Ode6C1T.text = "O Theotokos, we hymn your spotless birth-giving through which we all are saved and are delivered from the noose of death and most fearful sin and the innermost parts of Hades."
 
-meMA.Kontakion1.mode = miscellanea_en_US_andronache.misc.Mode4
-meMA.Kontakion1.greekmelody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.greekname
-meMA.Kontakion1.melody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.notmetered
-meMA.Kontakion1.incipit = "…"
-meMA.Kontakion1.text = ""
-
 meMA.Ode7C1H.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode7C1H.greekmelody = he.h.m4_en_US_andronache.heHE.ODiasosasEnPyri.greekname

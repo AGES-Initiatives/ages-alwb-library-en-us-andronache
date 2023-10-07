@@ -186,12 +186,6 @@ meMA.Ode6C1T.melody = he.h.m6_en_US_andronache.heHE.TouViouTinThalassan.notmeter
 meMA.Ode6C1T.incipit = "…"
 meMA.Ode6C1T.text = "Your conception is strange, O Maiden, and your birth-giving which is beyond understanding is strange and frightful and it reconciles with God those who had been made strangers to Him, granting them the former beauty."
 
-meMA.Kontakion1.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Kontakion1.greekmelody = he.a.m8_en_US_andronache.heAU.OsAparchas.greekname
-meMA.Kontakion1.melody = he.a.m8_en_US_andronache.heAU.OsAparchas.notmetered
-meMA.Kontakion1.incipit = "…"
-meMA.Kontakion1.text = ""
-
 meMA.Ode7C1H.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_andronache.misc.Mode6
 meMA.Ode7C1H.greekmelody = he.h.m6_en_US_andronache.heHE.DrosovolonMenTinKaminon.greekname

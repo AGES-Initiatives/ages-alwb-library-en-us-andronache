@@ -73,11 +73,6 @@ alt1.meMA.Exaposteilarion1.melody = he.a.m2_en_US_andronache.heAU.GynaikesAkouti
 alt1.meMA.Exaposteilarion1.incipit = "Your calling was all-light, rivaling…"
 alt1.meMA.Exaposteilarion1.text = "Your calling was all-light, rivaling your works, most luminous lady and splendid martyr. Ever request that those who honor you and faithfully celebrate your holy memory with delight, all-honored one, find forgiveness of errors."
 
-alt1.meMA.ExapTheotokion.mode = miscellanea_en_US_andronache.misc.Mode2
-alt1.meMA.ExapTheotokion.melody = he.a.m2_en_US_andronache.heAU.GynaikesAkoutisthite.name
-alt1.meMA.ExapTheotokion.incipit = me.m11.d04_en_US_andronache.meMA.ExapTheotokion.incipit
-alt1.meMA.ExapTheotokion.text = me.m11.d04_en_US_andronache.meMA.ExapTheotokion.text
-
 alt1.meMA.Lauds1.mode = miscellanea_en_US_andronache.misc.Mode2
 alt1.meMA.Lauds1.greekmelody = he.a.m2_en_US_andronache.heAU.OteEkTouXylou.greekname
 alt1.meMA.Lauds1.melody = he.a.m2_en_US_andronache.heAU.OteEkTouXylou.notmetered

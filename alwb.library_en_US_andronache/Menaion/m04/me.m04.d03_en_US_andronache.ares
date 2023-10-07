@@ -36,10 +36,6 @@ meMA.Ode1C14.melody = he.h.m2_en_US_andronache.heHE.EnVythoKatestrose.notmetered
 meMA.Ode1C14.incipit = "…"
 meMA.Ode1C14.text = "You were made to shine with soundness of mind, blessed one, and through purity you ascended to holy self-control, since you were adorned with the most bright garment of the priesthood, being known as a mediator of divine mysteries, Venerable one."
 
-meMA.Ode1C1T.ode = miscellanea_en_US_andronache.misc.Ode1
-meMA.Ode1C1T.mode = miscellanea_en_US_andronache.misc.Mode2
-meMA.Ode1C1T.melody = he.h.m2_en_US_andronache.heHE.EnVythoKatestrose.notmetered
-
 meMA.Ode3C1H.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_US_andronache.misc.Mode2
 meMA.Ode3C1H.greekmelody = he.h.m2_en_US_andronache.heHE.ExinthisenIErimos.greekname
@@ -195,16 +191,6 @@ meMA.Ode6C1T.mode = miscellanea_en_US_andronache.misc.Mode2
 meMA.Ode6C1T.melody = he.h.m2_en_US_andronache.heHE.EnAvyssoPtaismaton.notmetered
 meMA.Ode6C1T.incipit = "…"
 meMA.Ode6C1T.text = "You conceived without the help of man, O Virgin, and you ever-remain a Virgin, showing the true signs of the divinity of your Son and God."
-
-meMA.Kontakion1ger.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Kontakion1ger.melody = he.a.m8_en_US_andronache.heAU.TiYpermacho.notmetered
-meMA.Kontakion1ger.incipit = "…"
-meMA.Kontakion1ger.text = ""
-
-meMA.Kontakion2ger.mode = miscellanea_en_US_andronache.misc.Mode3
-meMA.Kontakion2ger.melody = he.a.m3_en_US_andronache.heAU.IParthenosSimeron.notmetered
-meMA.Kontakion2ger.incipit = "…"
-meMA.Kontakion2ger.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_andronache.misc.Mode2
