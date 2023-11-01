@@ -1,0 +1,195 @@
+A_Resource_Whose_Name = me.m02.d18_en_US_andronache
+
+meMA.Ode1C11.ode = miscellanea_en_US_andronache.misc.Ode1
+meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode1C11.greekmelody = he.h.m8_en_US_andronache.heHE.AsomenToKyrio.greekname
+meMA.Ode1C11.melody = he.h.m8_en_US_andronache.heHE.AsomenToKyrio.notmetered
+meMA.Ode1C11.incipit = "Sanctified by the anointing…"
+meMA.Ode1C11.text = "Sanctified by the anointing of the priesthood, all-blessed one, you adorned it with various kinds of virtues, all-happy one."
+
+meMA.Ode1C12.ode = miscellanea_en_US_andronache.misc.Ode1
+meMA.Ode1C12.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode1C12.melody = he.h.m8_en_US_andronache.heHE.AsomenToKyrio.notmetered
+meMA.Ode1C12.incipit = "…"
+meMA.Ode1C12.text = "Father, you pressed your mind as though it were a ripe grape and placed before all the bowl of the joy of your wisdom."
+
+meMA.Ode1C13.ode = miscellanea_en_US_andronache.misc.Ode1
+meMA.Ode1C13.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode1C13.melody = he.h.m8_en_US_andronache.heHE.AsomenToKyrio.notmetered
+meMA.Ode1C13.incipit = "…"
+meMA.Ode1C13.text = "You became an inheritor of the throne of Peter the chief apostle, having his disposition and the zeal of faith, godly minded one."
+
+meMA.Ode1C14.ode = miscellanea_en_US_andronache.misc.Ode1
+meMA.Ode1C14.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode1C14.melody = he.h.m8_en_US_andronache.heHE.AsomenToKyrio.notmetered
+meMA.Ode1C14.incipit = "…"
+meMA.Ode1C14.text = "You dispersed the darkest storm clouds of the heretics by the ray of your teachings, God-inspired hierarch of the Lord."
+
+meMA.Ode1C1T.ode = miscellanea_en_US_andronache.misc.Ode1
+meMA.Ode1C1T.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode1C1T.melody = he.h.m8_en_US_andronache.heHE.AsomenToKyrio.notmetered
+meMA.Ode1C1T.incipit = "…"
+meMA.Ode1C1T.text = "The first-created having been condemned by the transgression of the law, you saved him by bearing the Savior, pure Virgin-mother."
+
+meMA.Ode3C11.ode = miscellanea_en_US_andronache.misc.Ode3
+meMA.Ode3C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3C11.greekmelody = he.h.m8_en_US_andronache.heHE.OuraniasApsidos.greekname
+meMA.Ode3C11.melody = he.h.m8_en_US_andronache.heHE.OuraniasApsidos.notmetered
+meMA.Ode3C11.incipit = "All-wise Leo, suffering willingly…"
+meMA.Ode3C11.text = "All-wise Leo, suffering willingly you raised up a pillar of orthodoxy for the church of Christ. Having it, she disperses the godless ranks and assemblies of heretics."
+
+meMA.Ode3C12.ode = miscellanea_en_US_andronache.misc.Ode3
+meMA.Ode3C12.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3C12.melody = he.h.m8_en_US_andronache.heHE.OuraniasApsidos.notmetered
+meMA.Ode3C12.incipit = "…"
+meMA.Ode3C12.text = "Having been filled with heavenly and divine grace, you stand as a support of the church’s teachings, making war against all the godless babblings of the heretics, all-happy and godly Leo."
+
+meMA.Ode3C13.ode = miscellanea_en_US_andronache.misc.Ode3
+meMA.Ode3C13.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3C13.melody = he.h.m8_en_US_andronache.heHE.OuraniasApsidos.notmetered
+meMA.Ode3C13.incipit = "…"
+meMA.Ode3C13.text = "You shone brightly with most brilliant light you explained the meaning of the unutterable and divine taking on of humanity, saying that the nature is double and double the energy of God incarnate."
+
+meMA.Ode3C1T.ode = miscellanea_en_US_andronache.misc.Ode3
+meMA.Ode3C1T.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3C1T.melody = he.h.m8_en_US_andronache.heHE.OuraniasApsidos.notmetered
+meMA.Ode3C1T.incipit = "…"
+meMA.Ode3C1T.text = "You were beautiful as a bride with the beauty of virginity, O virgin full of grace and unwedded mother, for you graced more fully than all creation as you gave birth to the Logos, who is the cause of all."
+
+meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode3
+meMA.Ode3Kathisma1.greekmelody = he.a.m3_en_US_andronache.heAU.TheiasPisteos.greekname
+meMA.Ode3Kathisma1.melody = he.a.m3_en_US_andronache.heAU.TheiasPisteos.notmetered
+meMA.Ode3Kathisma1.incipit = "Shining with divine dogmas…"
+meMA.Ode3Kathisma1.text = "Shining with divine dogmas as lightning flashes you shone the light of orthodoxy and diminished the darkness of heresies and having moved from this life, all-blessed one,  dwelt in the unwaning light. Venerable Leo, entreat Christ God that great mercy be granted to our souls."
+
+meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
+meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode4C11.greekmelody = he.h.m8_en_US_andronache.heHE.ExOrousKataskiou.greekname
+meMA.Ode4C11.melody = he.h.m8_en_US_andronache.heHE.ExOrousKataskiou.notmetered
+meMA.Ode4C11.incipit = "You were truly seen as a lion…"
+meMA.Ode4C11.text = "You were truly seen as a lion, all-blessed one, chasing away the confounding foxes, with a royal roaring frightening the thoughts of the lawless."
+
+meMA.Ode4C12.ode = miscellanea_en_US_andronache.misc.Ode4
+meMA.Ode4C12.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode4C12.melody = he.h.m8_en_US_andronache.heHE.ExOrousKataskiou.notmetered
+meMA.Ode4C12.incipit = "…"
+meMA.Ode4C12.text = "With the screen of your teachings you hid the tracks of the heresies which are hateful to God, as you tracked the hidden truth, all-honored priest and mystic."
+
+meMA.Ode4C13.ode = miscellanea_en_US_andronache.misc.Ode4
+meMA.Ode4C13.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode4C13.melody = he.h.m8_en_US_andronache.heHE.ExOrousKataskiou.notmetered
+meMA.Ode4C13.incipit = "…"
+meMA.Ode4C13.text = "You made rise a dawn from the West, thrice-blessed one, sending out to the church the book of pious dogmas like a ray, Godly-minded one, and illumining our souls."
+
+meMA.Ode4C1T.ode = miscellanea_en_US_andronache.misc.Ode4
+meMA.Ode4C1T.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode4C1T.melody = he.h.m8_en_US_andronache.heHE.ExOrousKataskiou.notmetered
+meMA.Ode4C1T.incipit = "…"
+meMA.Ode4C1T.text = "Mortify the attacks of my passions, O Virgin; make the quaking of transgressions to cease, making the storm of sins disappear by your calmness, O birth-giver of God."
+
+meMA.Ode5C11.ode = miscellanea_en_US_andronache.misc.Ode5
+meMA.Ode5C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode5C11.greekmelody = he.h.m8_en_US_andronache.heHE.InaTiMeAposo.greekname
+meMA.Ode5C11.melody = he.h.m8_en_US_andronache.heHE.InaTiMeAposo.notmetered
+meMA.Ode5C11.incipit = "You became a preacher…"
+meMA.Ode5C11.text = "You became a preacher of the two energies of the Savior Christ, for you affirmed that each works that which belongs to it in a communion of agreement with the other."
+
+meMA.Ode5C12.ode = miscellanea_en_US_andronache.misc.Ode5
+meMA.Ode5C12.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode5C12.melody = he.h.m8_en_US_andronache.heHE.InaTiMeAposo.notmetered
+meMA.Ode5C12.incipit = "…"
+meMA.Ode5C12.text = "You knew the Logos as being of the same power with the Begetter and believed that he became flesh, Thrice-blessed one, and you affirmed that appropriately both energies effect the things belonging to the flesh, without confusion or change."
+
+meMA.Ode5C1T.ode = miscellanea_en_US_andronache.misc.Ode5
+meMA.Ode5C1T.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode5C1T.melody = he.h.m8_en_US_andronache.heHE.InaTiMeAposo.notmetered
+meMA.Ode5C1T.incipit = "…"
+meMA.Ode5C1T.text = "The mystery which before the ages was known only to God – that the master of all things created would become mortal and be compounded with flesh without change – was seen  to receive its fulfillment from you, O Virgin."
+
+meMA.Ode6C11.ode = miscellanea_en_US_andronache.misc.Ode6
+meMA.Ode6C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode6C11.greekmelody = he.h.m8_en_US_andronache.heHE.TinDeisinEkcheo.greekname
+meMA.Ode6C11.melody = he.h.m8_en_US_andronache.heHE.TinDeisinEkcheo.notmetered
+meMA.Ode6C11.incipit = "The successor of the august Peter…"
+meMA.Ode6C11.text = "The successor of the august Peter and enriched with his leadership and having the warmth of zeal, moved by God puts together the book which demolishes the disorder and confusion of confounding heresies."
+
+meMA.Ode6C12.ode = miscellanea_en_US_andronache.misc.Ode6
+meMA.Ode6C12.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode6C12.melody = he.h.m8_en_US_andronache.heHE.TinDeisinEkcheo.notmetered
+meMA.Ode6C12.incipit = "…"
+meMA.Ode6C12.text = "Minister of unspeakable mysteries, O Leo, acceptable to God, you preached one Son, the Christ and Lord, born of the Father before the ages and who for us was born from the Virgin and who appeared in the same nature with us in a manner beyond nature. "
+
+meMA.Ode6C1T.ode = miscellanea_en_US_andronache.misc.Ode6
+meMA.Ode6C1T.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode6C1T.melody = he.h.m8_en_US_andronache.heHE.TinDeisinEkcheo.notmetered
+meMA.Ode6C1T.incipit = "…"
+meMA.Ode6C1T.text = "All-pure one, we, the faithful confessing you  to be the cause of salvation cry out: Rejoice, pure one, rejoice Virgin bride, rejoice the overshadowed mountain of God, for you sprang up for the world the joy which is truly unmoved."
+
+meMA.Ode7C11.ode = miscellanea_en_US_andronache.misc.Ode7
+meMA.Ode7C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode7C11.greekmelody = he.h.m8_en_US_andronache.heHE.PaidesEvraion.greekname
+meMA.Ode7C11.melody = he.h.m8_en_US_andronache.heHE.PaidesEvraion.notmetered
+meMA.Ode7C11.incipit = "You did not give sleep…"
+meMA.Ode7C11.text = "You did not give sleep to you eyelids until you uprooted the error of Eutyches the deranged, crying out: Blessed are you, O Lord God, unto the ages."
+
+meMA.Ode7C12.ode = miscellanea_en_US_andronache.misc.Ode7
+meMA.Ode7C12.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode7C12.melody = he.h.m8_en_US_andronache.heHE.PaidesEvraion.notmetered
+meMA.Ode7C12.incipit = "…"
+meMA.Ode7C12.text = "You confessed Christ as one hypostasis in two natures, working and willing in a two-fold manner, and you chant: Blessed are you, O Lord God, unto the ages."
+
+meMA.Ode7C1T.ode = miscellanea_en_US_andronache.misc.Ode7
+meMA.Ode7C1T.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode7C1T.melody = he.h.m8_en_US_andronache.heHE.PaidesEvraion.notmetered
+meMA.Ode7C1T.incipit = "…"
+meMA.Ode7C1T.text = "Now I run to you, Mother of God, bound by the cords of transgressions; through your great mercy, save me, as I cry out: Most pure one, blessed is the fruit of your womb."
+
+meMA.Ode8C11.ode = miscellanea_en_US_andronache.misc.Ode8
+meMA.Ode8C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode8C11.greekmelody = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.greekname
+meMA.Ode8C11.melody = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.notmetered
+meMA.Ode8C11.incipit = "Wholly illumined like a sun…"
+meMA.Ode8C11.text = "Wholly illumined like a sun, you rose from the west, which wonder clearly is a paradox, O proclaimer of God; manifestly withering the mixing and confusion of Eutyches and cutting off Nestorius’ division, teaching the people to honor Christ in two natures, without division, change, or confusion."
+
+meMA.Ode8C12.ode = miscellanea_en_US_andronache.misc.Ode8
+meMA.Ode8C12.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode8C12.melody = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.notmetered
+meMA.Ode8C12.incipit = "…"
+meMA.Ode8C12.text = "Moved by God, you inscribed the teachings of piety as though written by God on tablets, and were shown as a second Moses to the godly people and the gathering of august teachers, crying out: Hymn him, bless him, O priests, and exalt Christ beyond measure, O people, unto the ages."
+
+meMA.Ode8C13.ode = miscellanea_en_US_andronache.misc.Ode8
+meMA.Ode8C13.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode8C13.melody = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.notmetered
+meMA.Ode8C13.incipit = "…"
+meMA.Ode8C13.text = "Venerable one, you knew the Logos of the Father, only-begotten and co-beginningless who had previously been without flesh, as incarnate; the timeless one – in time, you taught as circumscribed in body the one who as Creator did not know circumscription, crying out: Priests bless and people exalt Christ beyond measure unto the ages."
+
+meMA.Ode8C1T.ode = miscellanea_en_US_andronache.misc.Ode8
+meMA.Ode8C1T.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode8C1T.melody = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.notmetered
+meMA.Ode8C1T.incipit = "…"
+meMA.Ode8C1T.text = "God who illumined the heaven with the beauty of the luminaries, the sun and the moon, put on the covering of the body from your blood, all-pure one, showed you as another, living heaven, whom children bless, priests hymn, and people exalt beyond measure unto all the ages."
+
+meMA.Ode9C11.ode = miscellanea_en_US_andronache.misc.Ode9
+meMA.Ode9C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode9C11.greekmelody = he.h.m8_en_US_andronache.heHE.EfrixePasaAkoi.greekname
+meMA.Ode9C11.melody = he.h.m8_en_US_andronache.heHE.EfrixePasaAkoi.notmetered
+meMA.Ode9C11.incipit = "Mystic of Christ…"
+meMA.Ode9C11.text = "Mystic of Christ, you now shine, adorned with the crown of dignity and as a faithful priest you truly put on righteousness and dancing in the paradise of delight,  divinely-sounding one, unceasingly entreat the Master for your flock."
+
+meMA.Ode9C12.ode = miscellanea_en_US_andronache.misc.Ode9
+meMA.Ode9C12.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode9C12.melody = he.h.m8_en_US_andronache.heHE.EfrixePasaAkoi.notmetered
+meMA.Ode9C12.incipit = "…"
+meMA.Ode9C12.text = "You worthily made your dwelling in the place where the seats and thrones and orders of the patriarchs now are, all-famous father Leo, as a true patriarch, illumined with faith and grace. Therefore, we ever bless you."
+
+meMA.Ode9C13.ode = miscellanea_en_US_andronache.misc.Ode9
+meMA.Ode9C13.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode9C13.melody = he.h.m8_en_US_andronache.heHE.EfrixePasaAkoi.notmetered
+meMA.Ode9C13.incipit = "…"
+meMA.Ode9C13.text = "Having left the billows of this life, you drew near to Christ, great Leo, resting in a place of green pasture, where the snow-melts of delight, the unwaning light, and unutterable gladness and abiding joy are."
+
+meMA.Ode9C1T.ode = miscellanea_en_US_andronache.misc.Ode9
+meMA.Ode9C1T.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode9C1T.melody = he.h.m8_en_US_andronache.heHE.EfrixePasaAkoi.notmetered
+meMA.Ode9C1T.incipit = "…"
+meMA.Ode9C1T.text = "I gather the fruits of a ripe life, not hindered from the tree of knowledge, for you, All-pure one, sprouted forth the tree of life, Christ, who makes known the ways of life to all. Therefore, we, the faithful, magnify you all-pure Theotokos."
