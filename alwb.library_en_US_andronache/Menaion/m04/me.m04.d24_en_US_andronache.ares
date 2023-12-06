@@ -1,0 +1,201 @@
+A_Resource_Whose_Name = me.m04.d24_en_US_andronache
+
+meMA.Ode1C11.ode = miscellanea_en_US_andronache.misc.Ode1
+meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode1C11.greekmelody = he.h.m8_en_US_andronache.heHE.ArmatilatinFarao.greekname
+meMA.Ode1C11.melody = he.h.m8_en_US_andronache.heHE.ArmatilatinFarao.notmetered
+meMA.Ode1C11.incipit = "Surrounded on all sides…"
+meMA.Ode1C11.text = "Surrounded on all sides by the waves of the passions and with the soul troubled by the waves of evil thoughts, guide me to the calm harbor of Christ’s will by your prayers, as I hymn you, O Elizabeth."
+
+meMA.Ode1C12.ode = miscellanea_en_US_andronache.misc.Ode1
+meMA.Ode1C12.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode1C12.melody = he.h.m8_en_US_andronache.heHE.ArmatilatinFarao.notmetered
+meMA.Ode1C12.incipit = "…"
+meMA.Ode1C12.text = "Adorned with the gifts of virginity, God-blessed one, you were wedded to the pure Logos from infancy through ascetic endeavors, glorious one, and you followed his live-bearing steps, bearing with you the mortification of the passions."
+
+meMA.Ode1C13.ode = miscellanea_en_US_andronache.misc.Ode1
+meMA.Ode1C13.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode1C13.melody = he.h.m8_en_US_andronache.heHE.ArmatilatinFarao.notmetered
+meMA.Ode1C13.incipit = "…"
+meMA.Ode1C13.text = "Leaving the state of the world and being attached to the yearning for Christ, you melted the will of the body through fasting and were steadfast in virtues and labors and prayers, and were made worthy to work miracles."
+
+meMA.Ode1C1T.ode = miscellanea_en_US_andronache.misc.Ode1
+meMA.Ode1C1T.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode1C1T.melody = he.h.m8_en_US_andronache.heHE.ArmatilatinFarao.notmetered
+meMA.Ode1C1T.incipit = "…"
+meMA.Ode1C1T.text = "The ever-memorable Elizabeth, with ardent love yearning for you, the all-blameless one, who gave birth beyond understanding to the inseparable Logos of of the Father, became a vessel of the Holy Spirit, shining with divine virtues."
+
+meMA.Ode3C11.ode = miscellanea_en_US_andronache.misc.Ode3
+meMA.Ode3C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3C11.greekmelody = he.h.m8_en_US_andronache.heHE.OuraniasApsidos.greekname
+meMA.Ode3C11.melody = he.h.m8_en_US_andronache.heHE.OuraniasApsidos.notmetered
+meMA.Ode3C11.incipit = "You dwelt in the bright…"
+meMA.Ode3C11.text = "You dwelt in the bright heavenly chambers, having become a chosen bride of the Almighty and you spring up rivers of healings drying up the flows of the passions."
+
+meMA.Ode3C12.ode = miscellanea_en_US_andronache.misc.Ode3
+meMA.Ode3C12.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3C12.melody = he.h.m8_en_US_andronache.heHE.OuraniasApsidos.notmetered
+meMA.Ode3C12.incipit = "…"
+meMA.Ode3C12.text = "Emulating Elias and Moses, all-august one, you completed a fast as they did in length of days, receiving the heavenly bread of most wise visions by the grace of the Divine Spirit."
+
+meMA.Ode3C13.ode = miscellanea_en_US_andronache.misc.Ode3
+meMA.Ode3C13.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3C13.melody = he.h.m8_en_US_andronache.heHE.OuraniasApsidos.notmetered
+meMA.Ode3C13.incipit = "…"
+meMA.Ode3C13.text = "A divine revelation of the manner of life and brightness that would be given you through virtues by the Divine Spirit was given to your mother before your conception, Maiden, glorious Elizabeth."
+
+meMA.Ode3C1T.ode = miscellanea_en_US_andronache.misc.Ode3
+meMA.Ode3C1T.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode3C1T.melody = he.h.m8_en_US_andronache.heHE.OuraniasApsidos.notmetered
+meMA.Ode3C1T.incipit = "…"
+meMA.Ode3C1T.text = "The all-lauded Elizabeth, with faith yearning for you, the only pure temple of virginity, she rejoices, all-blameless one, she rejoices being brought to your Son, piously following after you."
+
+meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode3
+meMA.Ode3Kathisma1.greekmelody = he.a.m3_en_US_andronache.heAU.TheiasPisteos.greekname
+meMA.Ode3Kathisma1.melody = he.a.m3_en_US_andronache.heAU.TheiasPisteos.notmetered
+meMA.Ode3Kathisma1.incipit = "Bearing the toil…"
+meMA.Ode3Kathisma1.text = "Bearing the toil of self-control, you received the gift of dispassion and healings, God-inspired Elizabeth, to heal all manner of disease and drive away the work of demons, admirable one. Entreat Christ God that great mercy be given to us."
+
+meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
+meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode4C11.greekmelody = he.h.m8_en_US_andronache.heHE.SyMouIschys.greekname
+meMA.Ode4C11.melody = he.h.m8_en_US_andronache.heHE.SyMouIschys.notmetered
+meMA.Ode4C11.incipit = "Elizabeth, by your prayers…"
+meMA.Ode4C11.text = "Elizabeth, by your prayers you killed a terrible snake, a dragon, first crushing all the schemes of the evil one by divine power and gave it as food to the beasts and all the birds, giving glory to the Master of all."
+
+meMA.Ode4C12.ode = miscellanea_en_US_andronache.misc.Ode4
+meMA.Ode4C12.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode4C12.melody = he.h.m8_en_US_andronache.heHE.SyMouIschys.notmetered
+meMA.Ode4C12.incipit = "…"
+meMA.Ode4C12.text = "Yearning for the ways of life of the divine men, by divine might you spent forty days, august mother, not partaking of any food, but endured without eating, putting to death the rebellions of the flesh in a most wise way and enlivening the spirit, God-inspired one."
+
+meMA.Ode4C1T.ode = miscellanea_en_US_andronache.misc.Ode4
+meMA.Ode4C1T.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode4C1T.melody = he.h.m8_en_US_andronache.heHE.SyMouIschys.notmetered
+meMA.Ode4C1T.incipit = "…"
+meMA.Ode4C1T.text = "Only you carry in your womb God incarnate, who gives being to all, whom you desired from your soul, with whom Elizabeth was betrothed in the Spirit, O Virgin Theotokos, wonder for the angels and  wound for the demons, all-wondrous one."
+
+meMA.Ode5C11.ode = miscellanea_en_US_andronache.misc.Ode5
+meMA.Ode5C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode5C11.greekmelody = he.h.m8_en_US_andronache.heHE.InaTiMeAposo.greekname
+meMA.Ode5C11.melody = he.h.m8_en_US_andronache.heHE.InaTiMeAposo.notmetered
+meMA.Ode5C11.incipit = "You dried the rivers…"
+meMA.Ode5C11.text = "You dried the rivers of sins by the shedding of tears and you stopped by grace the flow of blood, which had been going on for many years, of the pious women who came to you in various ways, all-lauded venerable Elizabeth."
+
+meMA.Ode5C12.ode = miscellanea_en_US_andronache.misc.Ode5
+meMA.Ode5C12.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode5C12.melody = he.h.m8_en_US_andronache.heHE.InaTiMeAposo.notmetered
+meMA.Ode5C12.incipit = "…"
+meMA.Ode5C12.text = "For many you denied yourself the partaking of bread, glorious one, piously cleansing your soul by the toils of self-control and you gained the lack of flesh of the bodiless, Elizabeth, the adornment of the venerable ones."
+
+meMA.Ode5C13.ode = miscellanea_en_US_andronache.misc.Ode5
+meMA.Ode5C13.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode5C13.melody = he.h.m8_en_US_andronache.heHE.InaTiMeAposo.notmetered
+meMA.Ode5C13.incipit = "…"
+meMA.Ode5C13.text = "By every means you dedicated your mind to the Lord; you kept both your mind and heart looking at him and for three years you did not look at the sky, but at the earth as being made of earth, you who are glorified by God."
+
+meMA.Ode5C1T.ode = miscellanea_en_US_andronache.misc.Ode5
+meMA.Ode5C1T.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode5C1T.melody = he.h.m8_en_US_andronache.heHE.InaTiMeAposo.notmetered
+meMA.Ode5C1T.incipit = "…"
+meMA.Ode5C1T.text = "You became higher than the powers on high, having born the Logos of the Father, O Virgin, who is co-beginningless and eternal, by whose beacon lights, the God-bearer being illumined, she dispersed the darkness of the passions."
+
+meMA.Ode6C11.ode = miscellanea_en_US_andronache.misc.Ode6
+meMA.Ode6C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode6C11.greekmelody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.greekname
+meMA.Ode6C11.melody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.notmetered
+meMA.Ode6C11.incipit = "Yearning to attract…"
+meMA.Ode6C11.text = "Yearning to attract the mercy of God through asceticism, august one, you gave up eating oil from your childhood, being gladdened by the progress of your toils."
+
+meMA.Ode6C12.ode = miscellanea_en_US_andronache.misc.Ode6
+meMA.Ode6C12.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode6C12.melody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.notmetered
+meMA.Ode6C12.incipit = "…"
+meMA.Ode6C12.text = "Your illumined life was adorned with the virtues, your falling asleep shone forth sacredly with miracles, driving away demons and by divine grace dispersing the winter of the passions."
+
+meMA.Ode6C13.ode = miscellanea_en_US_andronache.misc.Ode6
+meMA.Ode6C13.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode6C13.melody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.notmetered
+meMA.Ode6C13.incipit = "…"
+meMA.Ode6C13.text = "Struggling against cold and frost through nakedness of body, you bore the burning of the sun steadfastly, glorious Elizabeth, directing your hopes towards the warmth which is on high."
+
+meMA.Ode6C1T.ode = miscellanea_en_US_andronache.misc.Ode6
+meMA.Ode6C1T.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode6C1T.melody = he.h.m8_en_US_andronache.heHE.IlasthitiMoiSotir.notmetered
+meMA.Ode6C1T.incipit = "…"
+meMA.Ode6C1T.text = "You conceived in the womb the one who is before the ages, O pure one, and bore in the flesh the One bodiless by nature, and nourished with milk the One who is the feeder of all, O unwedded Mother of God."
+
+meMA.Ode7C11.ode = miscellanea_en_US_andronache.misc.Ode7
+meMA.Ode7C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode7C11.greekmelody = he.h.m8_en_US_andronache.heHE.PaidesEvraion.greekname
+meMA.Ode7C11.melody = he.h.m8_en_US_andronache.heHE.PaidesEvraion.notmetered
+meMA.Ode7C11.incipit = "Having a god-loving wil…"
+meMA.Ode7C11.text = "Having a god-loving will, you lived with the angels pure one, keeping vigil fervently and chanting eagerly: Blessed are you, O Lord God, unto the ages."
+
+meMA.Ode7C12.ode = miscellanea_en_US_andronache.misc.Ode7
+meMA.Ode7C12.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode7C12.melody = he.h.m8_en_US_andronache.heHE.PaidesEvraion.notmetered
+meMA.Ode7C12.incipit = "…"
+meMA.Ode7C12.text = "You extend a hand of sympathy and grant health to those who run to your relics with faith, God-bearing Elizabeth, the support of monastics."
+
+meMA.Ode7C13.ode = miscellanea_en_US_andronache.misc.Ode7
+meMA.Ode7C13.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode7C13.melody = he.h.m8_en_US_andronache.heHE.PaidesEvraion.notmetered
+meMA.Ode7C13.incipit = "…"
+meMA.Ode7C13.text = "Performing great miracles and shown to be a handmaid of the Lord, august Elizabeth, you have now been translated to him with singing with the venerable ones: O God, you are blessed."
+
+meMA.Ode7C1T.ode = miscellanea_en_US_andronache.misc.Ode7
+meMA.Ode7C1T.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode7C1T.melody = he.h.m8_en_US_andronache.heHE.PaidesEvraion.notmetered
+meMA.Ode7C1T.incipit = "…"
+meMA.Ode7C1T.text = "See my affliction, O Virgin, which the fullness of my evil has brought on and snatch me out of the fire of Gehenna, as I cry out: All-pure one, blesses if the fruit of your womb."
+
+meMA.Ode8C11.ode = miscellanea_en_US_andronache.misc.Ode8
+meMA.Ode8C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode8C11.greekmelody = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.greekname
+meMA.Ode8C11.melody = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.notmetered
+meMA.Ode8C11.incipit = "Those who draw near…"
+meMA.Ode8C11.text = "Those who draw near to the bier of your relics always receive all their requests piously, God ever magnifying you, He who received your august struggles, to whom you unceasingly cry out: You priests, bless and people exalt Him beyond measure unto all the ages."
+
+meMA.Ode8C12.ode = miscellanea_en_US_andronache.misc.Ode8
+meMA.Ode8C12.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode8C12.melody = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.notmetered
+meMA.Ode8C12.incipit = "…"
+meMA.Ode8C12.text = "Having the eyes of your heart illumined by the Spirit, you gave sight to the one who came with faith to your divine sepulcher, being made rich by Christ with an abundance of means of healing, to whom, Venerable one, you cry: You priests, bless and people exalt Him beyond measure unto all the ages."
+
+meMA.Ode8C13.ode = miscellanea_en_US_andronache.misc.Ode8
+meMA.Ode8C13.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode8C13.melody = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.notmetered
+meMA.Ode8C13.incipit = "…"
+meMA.Ode8C13.text = "You rose like a sun shining upon the earth made bright with divine virtues, all-revered one, sending out the arrows of your holy miracles, O Elizabeth, and those who partake of them cry out: You children bless, priests hymn, and people exalt Him beyond measure unto all the ages."
+
+meMA.Ode8C1T.ode = miscellanea_en_US_andronache.misc.Ode8
+meMA.Ode8C1T.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode8C1T.melody = he.h.m8_en_US_andronache.heHE.EptaplasiosKaminon.notmetered
+meMA.Ode8C1T.incipit = "…"
+meMA.Ode8C1T.text = "Spotless Virgin, you bore, bearing a body, and held in your embraces Jesus the Lord, who holds all things by his almighty will. Therefore we hymn you as Mother of God, crying out in praise: You priests, bless and people exalt Him beyond measure unto all the ages."
+
+meMA.Ode9C11.ode = miscellanea_en_US_andronache.misc.Ode9
+meMA.Ode9C11.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode9C11.greekmelody = he.h.m8_en_US_andronache.heHE.EfrixePasaAkoi.greekname
+meMA.Ode9C11.melody = he.h.m8_en_US_andronache.heHE.EfrixePasaAkoi.notmetered
+meMA.Ode9C11.incipit = "You yearned to see…"
+meMA.Ode9C11.text = "You yearned to see the noetic beauty of the Bridegroom in purity and you fervently cried to him: where do you sleep? Where do you shepherd? That I may rest in you and delight in your delights, magnifying your goodness."
+
+meMA.Ode9C12.ode = miscellanea_en_US_andronache.misc.Ode9
+meMA.Ode9C12.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode9C12.melody = he.h.m8_en_US_andronache.heHE.EfrixePasaAkoi.notmetered
+meMA.Ode9C12.incipit = "…"
+meMA.Ode9C12.text = "O wonder! How after burial and lying years in the grave you relics are seen lying unspoiled, graced and enlightened with signs and wonders and granting streams of healings to the faithful every day."
+
+meMA.Ode9C13.ode = miscellanea_en_US_andronache.misc.Ode9
+meMA.Ode9C13.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode9C13.melody = he.h.m8_en_US_andronache.heHE.EfrixePasaAkoi.notmetered
+meMA.Ode9C13.incipit = "…"
+meMA.Ode9C13.text = "You had wisdom in your soul and humility and divine gentleness, pure faith and together with hope, divine love, attending God in night-long prayers and by the rays therefrom, Elizabeth, you were illumined most brightly."
+
+meMA.Ode9C1T.ode = miscellanea_en_US_andronache.misc.Ode9
+meMA.Ode9C1T.mode = miscellanea_en_US_andronache.misc.Mode8
+meMA.Ode9C1T.melody = he.h.m8_en_US_andronache.heHE.EfrixePasaAkoi.notmetered
+meMA.Ode9C1T.incipit = "…"
+meMA.Ode9C1T.text = "Spare me, O Savior, who were born and kept her who gave birth to you incorrupt after the birth, when you will sit to judge my works, overlooking my lawless deeds and my sins, since you are beyond good, and merciful, O good one who loves mankind."
