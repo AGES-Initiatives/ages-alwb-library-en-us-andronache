@@ -177,3 +177,8 @@ alt1.meMA.LaudsGlory.mode = miscellanea_en_US_andronache.misc.Mode5
 alt1.meMA.LaudsGlory.melody = 
 alt1.meMA.LaudsGlory.incipit = "You are worthy of God-pleasing…"
 alt1.meMA.LaudsGlory.text = "You are worthy of God-pleasing and all-harmonious hymnody, Venerable and all-glorious Mother Kassiane, for, having disregarded the earthly kingdom, you were made worthy to reign with Christ in paradise. Entreat Him, therefore, to make us also worthy of the eternal good things in the day of Judgment."
+
+alt1.meLI.Kontakion1.mode = alt1.meMA.Kontakion1.mode
+alt1.meLI.Kontakion1.melody = alt1.meMA.Kontakion1.melody
+alt1.meLI.Kontakion1.incipit = alt1.meMA.Kontakion1.incipit
+alt1.meLI.Kontakion1.text = alt1.meMA.Kontakion1.text
