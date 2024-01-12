@@ -83,7 +83,7 @@ meMA.Ode3Kathisma2.text = "You left the delights of the world, venerable one, ma
 meMA.Ode3KathismaT.mode = miscellanea_en_US_andronache.misc.Mode3
 meMA.Ode3KathismaT.melody = he.a.m3_en_US_andronache.heAU.TinOraiotita.notmetered
 meMA.Ode3KathismaT.incipit = "…"
-meMA.Ode3KathismaT.text = "Inconceivable and incomprehensible is the fearsome and great mystery that has come to pass through you, O Lady most graced by God, for conceiving the uncircumscribed one, you bore him from your spotless blood,  circumscribed by flesh. Ever entreat him as your Son to save our souls."
+meMA.Ode3KathismaT.text = "Inconceivable and incomprehensible is the fearsome and great mystery that has come to pass through you, O Lady most graced by God, for conceiving the uncircumscribed one, you bore him from your spotless blood, circumscribed by flesh. Ever entreat him as your Son to save our souls."
 
 meMA.Ode3KathismaSt.mode = miscellanea_en_US_andronache.misc.Mode3
 meMA.Ode3KathismaSt.melody = he.a.m3_en_US_andronache.heAU.TinOraiotita.notmetered
@@ -134,7 +134,7 @@ meMA.Ode5C11.mode = miscellanea_en_US_andronache.misc.Mode2
 meMA.Ode5C11.greekmelody = he.h.m2_en_US_andronache.heHE.MesitisTheou.greekname
 meMA.Ode5C11.melody = he.h.m2_en_US_andronache.heHE.MesitisTheou.notmetered
 meMA.Ode5C11.incipit = "…"
-meMA.Ode5C11.text = "Ever watering your soul by the streams of your sacred tears, you truly cultivated an ear of grain bringing forth  a hundredfold, observing well an immortal tilling."
+meMA.Ode5C11.text = "Ever watering your soul by the streams of your sacred tears, you truly cultivated an ear of grain bringing forth a hundredfold, observing well an immortal tilling."
 
 meMA.Ode5C12.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C12.mode = miscellanea_en_US_andronache.misc.Mode2
@@ -172,7 +172,7 @@ meMA.Ode6C12.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C12.mode = miscellanea_en_US_andronache.misc.Mode2
 meMA.Ode6C12.melody = he.h.m2_en_US_andronache.heHE.EnAvyssoPtaismaton.notmetered
 meMA.Ode6C12.incipit = "…"
-meMA.Ode6C12.text = "Your prayers were accepted by God as incense, blessed one. Therefore  by your way of life you made the minds of the faithful fragrant through the grace of the Spirit."
+meMA.Ode6C12.text = "Your prayers were accepted by God as incense, blessed one. Therefore by your way of life you made the minds of the faithful fragrant through the grace of the Spirit."
 
 meMA.Ode6C13.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C13.mode = miscellanea_en_US_andronache.misc.Mode2
@@ -282,7 +282,7 @@ meMA.Ode9C14.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C14.mode = miscellanea_en_US_andronache.misc.Mode2
 meMA.Ode9C14.melody = he.h.m2_en_US_andronache.heHE.AnarchouGennitoros.notmetered
 meMA.Ode9C14.incipit = "…"
-meMA.Ode9C14.text = "Having been taken up and riding  in a chariot of virtues, you went to rest in the place where there are the ranks of the venerable ones, apostles, martyrs, patriarchs, and all the righteous. With them remember us who honor you."
+meMA.Ode9C14.text = "Having been taken up and riding in a chariot of virtues, you went to rest in the place where there are the ranks of the venerable ones, apostles, martyrs, patriarchs, and all the righteous. With them remember us who honor you."
 
 meMA.Ode9C1T.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C1T.mode = miscellanea_en_US_andronache.misc.Mode2

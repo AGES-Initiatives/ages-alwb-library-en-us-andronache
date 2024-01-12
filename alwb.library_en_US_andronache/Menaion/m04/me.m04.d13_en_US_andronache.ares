@@ -16,7 +16,7 @@ meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode8
 meMA.Ode1C11.greekmelody = he.h.m8_en_US_andronache.heHE.IKekommeni.greekname
 meMA.Ode1C11.melody = he.h.m8_en_US_andronache.heHE.IKekommeni.notmetered
 meMA.Ode1C11.incipit = "O Martin you endured…"
-meMA.Ode1C11.text = "O Martin you endured countless pains for Christ God and now, having contested well,  you have gone to the life without pain. Therefore make light the painful suffering of my soul, so that, illumined by your prayers, I may hymn you."
+meMA.Ode1C11.text = "O Martin you endured countless pains for Christ God and now, having contested well, you have gone to the life without pain. Therefore make light the painful suffering of my soul, so that, illumined by your prayers, I may hymn you."
 
 meMA.Ode1C12.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C12.mode = miscellanea_en_US_andronache.misc.Mode8
@@ -96,7 +96,7 @@ meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode8
 meMA.Ode4C11.greekmelody = he.h.m8_en_US_andronache.heHE.EpevisEfIppous.greekname
 meMA.Ode4C11.melody = he.h.m8_en_US_andronache.heHE.EpevisEfIppous.notmetered
 meMA.Ode4C11.incipit = "Wise one…"
-meMA.Ode4C11.text = "Wise one, when you, the righteous one, were unjustly driven away from your throne by unjust men, you chose to suffer wrongs,  so that you could preserve unblemished the right dogma of the Church."
+meMA.Ode4C11.text = "Wise one, when you, the righteous one, were unjustly driven away from your throne by unjust men, you chose to suffer wrongs, so that you could preserve unblemished the right dogma of the Church."
 
 meMA.Ode4C12.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C12.mode = miscellanea_en_US_andronache.misc.Mode8

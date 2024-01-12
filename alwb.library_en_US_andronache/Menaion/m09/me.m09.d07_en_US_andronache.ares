@@ -62,12 +62,12 @@ alt1.meVE.Aposticha1.text = "Rejoice, * Kassiane praised in song, * support of w
 alt1.meVE.Aposticha2.mode = miscellanea_en_US_andronache.misc.Mode5
 alt1.meVE.Aposticha2.melody = he.a.m5_en_US_andronache.heAU.ChairoisAskitikon.name
 alt1.meVE.Aposticha2.incipit = "You cried unto to the Lord…"
-alt1.meVE.Aposticha2.text = "You cried * unto to the Lord, chosen one,* beautiful diadem * in the cluster of women saints,* “Do not disdain me, your servant, * although you know, being God, * all the darkness dwelling in my soul and mind * and all of my many sins; * but, O Savior of all the world,* instead receive now * of my tears the bitter streams *  and the multitude * of the sighs springing from my heart. *  For You move the water of *  the sea up to form the clouds * and you offer the water * of  life eternal to all of those * who faithfully draw near * to your spring of divine favor, infinite and rich."
+alt1.meVE.Aposticha2.text = "You cried * unto to the Lord, chosen one,* beautiful diadem * in the cluster of women saints,* “Do not disdain me, your servant, * although you know, being God, * all the darkness dwelling in my soul and mind * and all of my many sins; * but, O Savior of all the world,* instead receive now * of my tears the bitter streams * and the multitude * of the sighs springing from my heart. * For You move the water of * the sea up to form the clouds * and you offer the water * of life eternal to all of those * who faithfully draw near * to your spring of divine favor, infinite and rich."
 
 alt1.meVE.Aposticha3.mode = miscellanea_en_US_andronache.misc.Mode5
 alt1.meVE.Aposticha3.melody = he.a.m5_en_US_andronache.heAU.ChairoisAskitikon.name
 alt1.meVE.Aposticha3.incipit = "Rejoice * Kassiani, the defense…"
-alt1.meVE.Aposticha3.text = "Rejoice * Kassiani, the defense * helper and guardian, * of the people of Kassos, * the image of stillness and pure, virginal ewe, * the abode of virtues and beauty of soul. * You took your abode in caves * and you fasted with steadfastness. * The ground was your bed * as you grew in humility. * So we ask you now, * having boldness before our God, * fervently implore the Lord * and your longing Bridegroom *  that he send to us all who  * exalt your honorable memory * the powerful and holy medicine * to destroy all the devices of the enemy."
+alt1.meVE.Aposticha3.text = "Rejoice * Kassiani, the defense * helper and guardian, * of the people of Kassos, * the image of stillness and pure, virginal ewe, * the abode of virtues and beauty of soul. * You took your abode in caves * and you fasted with steadfastness. * The ground was your bed * as you grew in humility. * So we ask you now, * having boldness before our God, * fervently implore the Lord * and your longing Bridegroom * that he send to us all who * exalt your honorable memory * the powerful and holy medicine * to destroy all the devices of the enemy."
 
 alt1.meVE.AposGlory.mode = miscellanea_en_US_andronache.misc.Mode8
 alt1.meVE.AposGlory.melody = 
@@ -89,19 +89,19 @@ alt1.meMA.Kathisma11.mode = miscellanea_en_US_andronache.misc.Mode1
 alt1.meMA.Kathisma11.greekmelody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.greekname
 alt1.meMA.Kathisma11.melody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.name
 alt1.meMA.Kathisma11.incipit = "As never-setting star…"
-alt1.meMA.Kathisma11.text = "As never-setting star * of salvific repentance, *  bright light of grace divine * and companion of angels * bring light to our hearts we pray* with the light of the Spirit  *  and unbind the chains * of the passions which  keep us *  enslaved and torment us * for we honor your memory.* truly happy Kassiane."
+alt1.meMA.Kathisma11.text = "As never-setting star * of salvific repentance, * bright light of grace divine * and companion of angels * bring light to our hearts we pray* with the light of the Spirit * and unbind the chains * of the passions which keep us * enslaved and torment us * for we honor your memory.* truly happy Kassiane."
 
 alt1.meMA.Kathisma12.mode = miscellanea_en_US_andronache.misc.Mode1
 alt1.meMA.Kathisma12.greekmelody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.greekname
 alt1.meMA.Kathisma12.melody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.name
 alt1.meMA.Kathisma12.incipit = "You are the shining fruit…"
-alt1.meMA.Kathisma12.text = "You are the shining fruit * of the godly-minded Anna * and holy Joachim * O Virgin Theotokos. * Fill with joy by your radiant birth * those who honor you faithfully *  for you are the one * from whom arose for the faithful * the hope of salvation  * for those who slumber in darkness  *  in the bitter land of death."
+alt1.meMA.Kathisma12.text = "You are the shining fruit * of the godly-minded Anna * and holy Joachim * O Virgin Theotokos. * Fill with joy by your radiant birth * those who honor you faithfully * for you are the one * from whom arose for the faithful * the hope of salvation * for those who slumber in darkness * in the bitter land of death."
 
 alt1.meMA.Kathisma21.mode = miscellanea_en_US_andronache.misc.Mode4
 alt1.meMA.Kathisma21.greekmelody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.greekname
 alt1.meMA.Kathisma21.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.name
 alt1.meMA.Kathisma21.incipit = "With the oil of vigilance…"
-alt1.meMA.Kathisma21.text = "With the oil of vigilance, dispassion, and chastity, * O holy one you made bright the precious lamp of your soul * and now you rejoice on high *  in the heavenly chambers * with the wise holy virgins. * And you exalt your Bridegroom * and beloved Lord and Master, *  O holy Kassiane, our venerable mother."
+alt1.meMA.Kathisma21.text = "With the oil of vigilance, dispassion, and chastity, * O holy one you made bright the precious lamp of your soul * and now you rejoice on high * in the heavenly chambers * with the wise holy virgins. * And you exalt your Bridegroom * and beloved Lord and Master, * O holy Kassiane, our venerable mother."
 
 alt1.meMA.Kathisma22.mode = miscellanea_en_US_andronache.misc.Mode4
 alt1.meMA.Kathisma22.greekmelody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.greekname
@@ -112,8 +112,8 @@ alt1.meMA.Kathisma22.text = "By your divine birth you brought, O Theotokos most 
 alt1.meMA.Kathisma31.mode = miscellanea_en_US_andronache.misc.Mode3
 alt1.meMA.Kathisma31.greekmelody = he.a.m3_en_US_andronache.heAU.TinOraiotita.greekname
 alt1.meMA.Kathisma31.melody = he.a.m3_en_US_andronache.heAU.TinOraiotita.name
-alt1.meMA.Kathisma31.incipit = "Blessed Kassiane,  * beauty…"
-alt1.meMA.Kathisma31.text = "Blessed Kassiane,  * beauty of women saints, * in faith and piety * you cried unto the Lord  * \"Accept the streams of my tears * O Lover of mankind * and turn away the pain * that now afflicts my heart * and make me worthy to embrace * your all holy and spotless feet * You who inclined the roof of heaven, * and condescended to become man."
+alt1.meMA.Kathisma31.incipit = "Blessed Kassiane, * beauty…"
+alt1.meMA.Kathisma31.text = "Blessed Kassiane, * beauty of women saints, * in faith and piety * you cried unto the Lord * \"Accept the streams of my tears * O Lover of mankind * and turn away the pain * that now afflicts my heart * and make me worthy to embrace * your all holy and spotless feet * You who inclined the roof of heaven, * and condescended to become man."
 
 alt1.meMA.Kathisma3T.mode = miscellanea_en_US_andronache.misc.Mode3
 alt1.meMA.Kathisma3T.greekmelody = he.a.m3_en_US_andronache.heAU.TinOraiotita.greekname

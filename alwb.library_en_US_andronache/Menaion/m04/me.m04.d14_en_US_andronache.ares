@@ -78,7 +78,7 @@ meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.greekname
 meMA.Ode3Kathisma1.melody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.notmetered
 meMA.Ode3Kathisma1.incipit = "Apostles of the Lord…"
-meMA.Ode3Kathisma1.text = "Apostles of the Lord and mystics of heaven, the branches of the life-bearing vine, having brought forth clusters of grapes, you made  the wine of life pour out for us."
+meMA.Ode3Kathisma1.text = "Apostles of the Lord and mystics of heaven, the branches of the life-bearing vine, having brought forth clusters of grapes, you made the wine of life pour out for us."
 
 meMA.Ode3KathismaT.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode3KathismaT.melody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.notmetered
@@ -280,7 +280,7 @@ meMA.Ode9C14.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C14.mode = miscellanea_en_US_andronache.misc.Mode6
 meMA.Ode9C14.melody = he.h.m6_en_US_andronache.heHE.TheonAnthropois.notmetered
 meMA.Ode9C14.incipit = "…"
-meMA.Ode9C14.text = "You divine memory has shone forth; it illumines the church of Christ, O apostles; free her by your divine intercessions  from all harm of heresies, keeping her pious people unharmed."
+meMA.Ode9C14.text = "You divine memory has shone forth; it illumines the church of Christ, O apostles; free her by your divine intercessions from all harm of heresies, keeping her pious people unharmed."
 
 meMA.Ode9C1T.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C1T.mode = miscellanea_en_US_andronache.misc.Mode6

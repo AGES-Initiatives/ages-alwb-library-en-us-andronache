@@ -117,7 +117,7 @@ meMA.Ode3Kathisma2.mode = miscellanea_en_US_andronache.misc.Mode3
 meMA.Ode3Kathisma2.greekmelody = he.a.m3_en_US_andronache.heAU.TinOraiotita.greekname
 meMA.Ode3Kathisma2.melody = he.a.m3_en_US_andronache.heAU.TinOraiotita.notmetered
 meMA.Ode3Kathisma2.incipit = "Leaving perishable wealth and fleeting…"
-meMA.Ode3Kathisma2.text = "Leaving perishable wealth and fleeting glory you truly received heavenly and joy and eternal fame, O blessed Father. Therefore we bless your holy falling asleep and, holding a festival on its day, we cry out to you:  as one having boldness, ever remember us to the Lord, O John."
+meMA.Ode3Kathisma2.text = "Leaving perishable wealth and fleeting glory you truly received heavenly and joy and eternal fame, O blessed Father. Therefore we bless your holy falling asleep and, holding a festival on its day, we cry out to you: as one having boldness, ever remember us to the Lord, O John."
 
 meMA.Ode3KathismaT.mode = miscellanea_en_US_andronache.misc.Mode3
 meMA.Ode3KathismaT.melody = he.a.m3_en_US_andronache.heAU.TinOraiotita.notmetered
@@ -433,7 +433,7 @@ meMA.Ode9C24.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C24.mode = miscellanea_en_US_andronache.misc.Mode2
 meMA.Ode9C24.melody = he.h.m2_en_US_andronache.heHE.AnarchouGennitoros.notmetered
 meMA.Ode9C24.incipit = "The Lord sanctified you, Blessed…"
-meMA.Ode9C24.text = "The Lord sanctified you, Blessed one, from the womb, and you directed your steps towards Him; thus you were piously numbered as a fellow citizen of the Righteous, with whom you enjoy  deification, ever memorable one."
+meMA.Ode9C24.text = "The Lord sanctified you, Blessed one, from the womb, and you directed your steps towards Him; thus you were piously numbered as a fellow citizen of the Righteous, with whom you enjoy deification, ever memorable one."
 
 meMA.Ode9C2T.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C2T.mode = miscellanea_en_US_andronache.misc.Mode2

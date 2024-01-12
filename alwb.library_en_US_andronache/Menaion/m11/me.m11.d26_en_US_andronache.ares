@@ -68,7 +68,7 @@ meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode8
 meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.incipit = "Wise one, you seemed to…"
-meMA.Ode3Kathisma1.text = "Wise one, you seemed to us to be another Symeon, for you lifted up your body  from the earth onto a pillar, Father Alypios, and you put to flight the ranks of the bitterly bewailing demons, godly minded one, and you banished them into the abysses. Therefore you were shown to be a divine adornment, the boast of the Fathers, the support of monastics and in faith we cry to you: Ever intercede with Christ God that remission of offenses be given to those who fervently celebrate your holy memory."
+meMA.Ode3Kathisma1.text = "Wise one, you seemed to us to be another Symeon, for you lifted up your body from the earth onto a pillar, Father Alypios, and you put to flight the ranks of the bitterly bewailing demons, godly minded one, and you banished them into the abysses. Therefore you were shown to be a divine adornment, the boast of the Fathers, the support of monastics and in faith we cry to you: Ever intercede with Christ God that remission of offenses be given to those who fervently celebrate your holy memory."
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode3Kathisma2.greekmelody = he.a.m1_en_US_andronache.heAU.TonTafonSouSotir.greekname
@@ -200,7 +200,7 @@ meMA.Ode8C11.mode = miscellanea_en_US_andronache.misc.Mode5
 meMA.Ode8C11.greekmelody = he.h.m5_en_US_andronache.heHE.SoiToPantourgo.greekname
 meMA.Ode8C11.melody = he.h.m5_en_US_andronache.heHE.SoiToPantourgo.notmetered
 meMA.Ode8C11.incipit = "You were seen to be…"
-meMA.Ode8C11.text = "You were seen to be like a new Samuel, seeing the future, with a most pure mind, Alypios, as a divine prophet,  foretelling to all those things told to you by the Lord."
+meMA.Ode8C11.text = "You were seen to be like a new Samuel, seeing the future, with a most pure mind, Alypios, as a divine prophet, foretelling to all those things told to you by the Lord."
 
 meMA.Ode8C12.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C12.mode = miscellanea_en_US_andronache.misc.Mode5
