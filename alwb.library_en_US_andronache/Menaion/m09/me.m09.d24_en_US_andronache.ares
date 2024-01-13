@@ -47,7 +47,7 @@ meMA.Ode3C13.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C13.mode = miscellanea_en_US_andronache.misc.Mode8
 meMA.Ode3C13.melody = he.h.m8_en_US_andronache.heHE.SyEiToStereoma.notmetered
 meMA.Ode3C13.incipit = "Having departed entirely from the…"
-meMA.Ode3C13.text = "Having departed entirely from the passions of the flesh, you were not weakened by your mother's words, all famous athlete."
+meMA.Ode3C13.text = "Having departed entirely from the passions of the flesh, you were not weakened by your mother’s words, all famous athlete."
 
 meMA.Ode3C1T.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C1T.mode = miscellanea_en_US_andronache.misc.Mode8
@@ -78,8 +78,8 @@ meMA.Ode4C11.text = "When Thamyris sought you for marriage, Paul, the leader of 
 meMA.Ode4C12.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C12.mode = miscellanea_en_US_andronache.misc.Mode8
 meMA.Ode4C12.melody = he.h.m8_en_US_andronache.heHE.EisakikoaKyrie.notmetered
-meMA.Ode4C12.incipit = "Holding on to Paul's words…"
-meMA.Ode4C12.text = "Holding on to Paul's words about the love of honoring God you discarded as trash the words of Thamyris."
+meMA.Ode4C12.incipit = "Holding on to Paul’s words…"
+meMA.Ode4C12.text = "Holding on to Paul’s words about the love of honoring God you discarded as trash the words of Thamyris."
 
 meMA.Ode4C13.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C13.mode = miscellanea_en_US_andronache.misc.Mode8
@@ -128,8 +128,8 @@ meMA.Ode6C11.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_andronache.misc.Mode8
 meMA.Ode6C11.greekmelody = he.h.m8_en_US_andronache.heHE.TinDeisinEkcheo.greekname
 meMA.Ode6C11.melody = he.h.m8_en_US_andronache.heHE.TinDeisinEkcheo.notmetered
-meMA.Ode6C11.incipit = "The weakness of the maiden's…"
-meMA.Ode6C11.text = "The weakness of the maiden's nature was made strong by the power of the Savior, and the youthful adornment was removed by the divine yearning for by night she took courage and ran seeking her beloved's sweetly-fragrant teachings."
+meMA.Ode6C11.incipit = "The weakness of the maiden’s…"
+meMA.Ode6C11.text = "The weakness of the maiden’s nature was made strong by the power of the Savior, and the youthful adornment was removed by the divine yearning for by night she took courage and ran seeking her beloved’s sweetly-fragrant teachings."
 
 meMA.Ode6C12.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C12.mode = miscellanea_en_US_andronache.misc.Mode8
@@ -686,7 +686,7 @@ alt1.meMA.Ode5C13.ode = miscellanea_en_US_andronache.misc.Ode5
 alt1.meMA.Ode5C13.mode = miscellanea_en_US_andronache.misc.Mode1
 alt1.meMA.Ode5C13.melody = he.h.m1_en_US_andronache.heHE.ToTheionKaiArriton.notmetered
 alt1.meMA.Ode5C13.incipit = "The young one, playing games…"
-alt1.meMA.Ode5C13.text = "The young one, playing games, cried out as he was falling from on high upon a rock \"Theotokos of Myrtidia, help me.\" He was miraculously saved, O Lady, for you made it a quick help for him. Therefore, hymning, he proclaims your miracle."
+alt1.meMA.Ode5C13.text = "The young one, playing games, cried out as he was falling from on high upon a rock “Theotokos of Myrtidia, help me.” He was miraculously saved, O Lady, for you made it a quick help for him. Therefore, hymning, he proclaims your miracle."
 
 alt1.meMA.Ode5C14.ode = miscellanea_en_US_andronache.misc.Ode5
 alt1.meMA.Ode5C14.mode = miscellanea_en_US_andronache.misc.Mode1

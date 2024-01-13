@@ -75,7 +75,7 @@ meMA.Ode3Kathisma2.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode3Kathisma2.greekmelody = he.a.m4_en_US_andronache.heAU.OYpsotheisEnToStavro.greekname
 meMA.Ode3Kathisma2.melody = he.a.m4_en_US_andronache.heAU.OYpsotheisEnToStavro.notmetered
 meMA.Ode3Kathisma2.incipit = "When you sprang up as…"
-meMA.Ode3Kathisma2.text = "When you sprang up as a plant, new athlete, in the meadow of Christ's athletes, you brought forth fruits of divine knowledge to Christ. Those who honor you with faith are sustained by them, glorious courageously-minded athlete Neophytos. By your intercessions ever save us, as you stand with God."
+meMA.Ode3Kathisma2.text = "When you sprang up as a plant, new athlete, in the meadow of Christ’s athletes, you brought forth fruits of divine knowledge to Christ. Those who honor you with faith are sustained by them, glorious courageously-minded athlete Neophytos. By your intercessions ever save us, as you stand with God."
 
 meMA.Ode3KathismaT.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode3KathismaT.melody = he.a.m4_en_US_andronache.heAU.OYpsotheisEnToStavro.notmetered
@@ -190,13 +190,13 @@ meMA.Ode7C11.mode = miscellanea_en_US_andronache.misc.Mode8
 meMA.Ode7C11.greekmelody = he.h.m8_en_US_andronache.heHE.OiEkTisIoudaias.greekname
 meMA.Ode7C11.melody = he.h.m8_en_US_andronache.heHE.OiEkTisIoudaias.notmetered
 meMA.Ode7C11.incipit = "You affirmed one nature of…"
-meMA.Ode7C11.text = "You affirmed one nature of the Trinity, one will, and one energy, but you preached two natures, wills, and energies of the incarnate God, crying, \"God of our Fathers, you are blessed.\""
+meMA.Ode7C11.text = "You affirmed one nature of the Trinity, one will, and one energy, but you preached two natures, wills, and energies of the incarnate God, crying, “God of our Fathers, you are blessed.”"
 
 meMA.Ode7C12.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C12.mode = miscellanea_en_US_andronache.misc.Mode8
 meMA.Ode7C12.melody = he.h.m8_en_US_andronache.heHE.OiEkTisIoudaias.notmetered
 meMA.Ode7C12.incipit = "Father, you preached two wills…"
-meMA.Ode7C12.text = "Father, you preached two wills separated not by opposition of opinion, but rather by quality, being different in nature, crying, \"God of our Fathers, you are blessed.\""
+meMA.Ode7C12.text = "Father, you preached two wills separated not by opposition of opinion, but rather by quality, being different in nature, crying, “God of our Fathers, you are blessed.”"
 
 meMA.Ode7C13.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C13.mode = miscellanea_en_US_andronache.misc.Mode8
@@ -258,8 +258,8 @@ meMA.Ode9C11.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_andronache.misc.Mode8
 meMA.Ode9C11.greekmelody = he.h.m8_en_US_andronache.heHE.TonProdilothenta.greekname
 meMA.Ode9C11.melody = he.h.m8_en_US_andronache.heHE.TonProdilothenta.notmetered
-meMA.Ode9C11.incipit = "Your blood, as another Abel's…"
-meMA.Ode9C11.text = "Your blood, as another Abel's, proclaims the god-inspired dogmas to the Church of Christ with a piercing voice unto the ages, all blessed and great Maximos."
+meMA.Ode9C11.incipit = "Your blood, as another Abel’s…"
+meMA.Ode9C11.text = "Your blood, as another Abel’s, proclaims the god-inspired dogmas to the Church of Christ with a piercing voice unto the ages, all blessed and great Maximos."
 
 meMA.Ode9C12.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C12.mode = miscellanea_en_US_andronache.misc.Mode8

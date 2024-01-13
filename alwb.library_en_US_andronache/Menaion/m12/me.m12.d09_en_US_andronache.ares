@@ -74,14 +74,14 @@ meMA.Ode4C21.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode4C21.greekmelody = he.h.m1_en_US_andronache.heHE.EnPnevmatiProvlepon.greekname
 meMA.Ode4C21.melody = he.h.m1_en_US_andronache.heHE.EnPnevmatiProvlepon.notmetered
-meMA.Ode4C21.incipit = "\"O divine message! O strange…"
-meMA.Ode4C21.text = "\"O divine message! O strange utterance! that I also would conceive\" Anna cried out with a loud voice, amazed at the angel who had been sent to her, \"Glory to my God who does wonderful things.\""
+meMA.Ode4C21.incipit = "“O divine message! O strange…"
+meMA.Ode4C21.text = "“O divine message! O strange utterance! that I also would conceive” Anna cried out with a loud voice, amazed at the angel who had been sent to her, “Glory to my God who does wonderful things.”"
 
 meMA.Ode4C22.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C22.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode4C22.melody = he.h.m1_en_US_andronache.heHE.EnPnevmatiProvlepon.notmetered
 meMA.Ode4C22.incipit = "Anna cried out in celebration:…"
-meMA.Ode4C22.text = "Anna cried out in celebration: \"Rejoice with me, all the tribes of Israel: I have conceived in my womb the new heaven, from which the star of salvation will soon arise: Jesus, the giver of light.\""
+meMA.Ode4C22.text = "Anna cried out in celebration: “Rejoice with me, all the tribes of Israel: I have conceived in my womb the new heaven, from which the star of salvation will soon arise: Jesus, the giver of light.”"
 
 meMA.Ode4C23.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C23.mode = miscellanea_en_US_andronache.misc.Mode1

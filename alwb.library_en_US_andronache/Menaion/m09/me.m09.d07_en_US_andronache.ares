@@ -14,7 +14,7 @@ alt1.meVE.Stichera01.mode = miscellanea_en_US_andronache.misc.Mode1
 alt1.meVE.Stichera01.greekmelody = he.a.m1_en_US_andronache.heAU.TonOuranionTagmaton.greekname
 alt1.meVE.Stichera01.melody = he.a.m1_en_US_andronache.heAU.TonOuranionTagmaton.name
 alt1.meVE.Stichera01.incipit = "Kassiane, the devout saint, was…"
-alt1.meVE.Stichera01.text = "Kassiane, the devout saint, was reared and trained in divine * learning and admonition, * then through her own incessant * labors of ascetical discipline was purified, and richly received * the Holy Spirit's enlightenment in her soul. * O believers, let us sing her praise."
+alt1.meVE.Stichera01.text = "Kassiane, the devout saint, was reared and trained in divine * learning and admonition, * then through her own incessant * labors of ascetical discipline was purified, and richly received * the Holy Spirit’s enlightenment in her soul. * O believers, let us sing her praise."
 
 alt1.meVE.Stichera02.mode = miscellanea_en_US_andronache.misc.Mode1
 alt1.meVE.Stichera02.melody = he.a.m1_en_US_andronache.heAU.TonOuranionTagmaton.name
@@ -46,7 +46,7 @@ alt1.meVE.Stichera06.text = "Kassiane, the most blessed, heard coming to her cel
 alt1.meVE.SticGlory.mode = miscellanea_en_US_andronache.misc.Mode6
 alt1.meVE.SticGlory.melody = 
 alt1.meVE.SticGlory.incipit = "Let us honor Kassiane, for…"
-alt1.meVE.SticGlory.text = "Let us honor Kassiane, for great humility prevented her from falling into many sins and she sought the Lord's mercy. She refused the golden apple which would have led to an earthly kingdom, and she attained to the heavenly kingdom through her great toils and a life full of love for God and wisdom. And now she rejoices with Him who inclined the heavens because of His ineffable condescension, and she intercedes unceasingly that He send His rich and immeasurable mercy unto us."
+alt1.meVE.SticGlory.text = "Let us honor Kassiane, for great humility prevented her from falling into many sins and she sought the Lord’s mercy. She refused the golden apple which would have led to an earthly kingdom, and she attained to the heavenly kingdom through her great toils and a life full of love for God and wisdom. And now she rejoices with Him who inclined the heavens because of His ineffable condescension, and she intercedes unceasingly that He send His rich and immeasurable mercy unto us."
 
 alt1.meVE.SticBoth.mode = miscellanea_en_US_andronache.misc.Mode6
 alt1.meVE.SticBoth.melody = 
@@ -113,7 +113,7 @@ alt1.meMA.Kathisma31.mode = miscellanea_en_US_andronache.misc.Mode3
 alt1.meMA.Kathisma31.greekmelody = he.a.m3_en_US_andronache.heAU.TinOraiotita.greekname
 alt1.meMA.Kathisma31.melody = he.a.m3_en_US_andronache.heAU.TinOraiotita.name
 alt1.meMA.Kathisma31.incipit = "Blessed Kassiane, * beauty…"
-alt1.meMA.Kathisma31.text = "Blessed Kassiane, * beauty of women saints, * in faith and piety * you cried unto the Lord * \"Accept the streams of my tears * O Lover of mankind * and turn away the pain * that now afflicts my heart * and make me worthy to embrace * your all holy and spotless feet * You who inclined the roof of heaven, * and condescended to become man."
+alt1.meMA.Kathisma31.text = "Blessed Kassiane, * beauty of women saints, * in faith and piety * you cried unto the Lord * “Accept the streams of my tears * O Lover of mankind * and turn away the pain * that now afflicts my heart * and make me worthy to embrace * your all holy and spotless feet * You who inclined the roof of heaven, * and condescended to become man."
 
 alt1.meMA.Kathisma3T.mode = miscellanea_en_US_andronache.misc.Mode3
 alt1.meMA.Kathisma3T.greekmelody = he.a.m3_en_US_andronache.heAU.TinOraiotita.greekname
@@ -138,7 +138,7 @@ alt1.meMA.Oikos13.text = "Rejoice, the prefiguration of wisdom through works; re
 alt1.meMA.Oikos14.text = "Rejoice, most pleasant song of angelic living; rejoice, all-radiant fiery word of saving repentance."
 alt1.meMA.Oikos15.text = "Rejoice, who disregarded the earthly kingdom; rejoice, who sought out the kingdom of heaven."
 alt1.meMA.Oikos16.text = "Rejoice, ray of greatest participation; rejoice, container of divine wisdom."
-alt1.meMA.Oikos17.text = "Rejoice, ewe-lamb chosen of God; rejoice, raindrop of the Comforter's gifts."
+alt1.meMA.Oikos17.text = "Rejoice, ewe-lamb chosen of God; rejoice, raindrop of the Comforter’s gifts."
 alt1.meMA.Oikos18.text = "Rejoice, mother most luminous"
 
 alt1.meMA.Exaposteilarion1.mode = miscellanea_en_US_andronache.misc.Mode2
@@ -161,7 +161,7 @@ alt1.meMA.Lauds1.text = "You loved * Christ your God with all your heart * Kassi
 alt1.meMA.Lauds2.mode = miscellanea_en_US_andronache.misc.Mode8
 alt1.meMA.Lauds2.melody = he.a.m8_en_US_andronache.heAU.OTouParadoxou.name
 alt1.meMA.Lauds2.incipit = "You cleansed * the abysses…"
-alt1.meMA.Lauds2.text = "You cleansed * the abysses of your heart * Kassiane, precious maid, * and washed out the dark blemish of * murky passions with the streams * of the divine Spirit's grace. * And you were shown a pure vessel of His gifts * and a most fragrant garden full of song * to your beloved Lord * Bridegroom, Savior, and Redeemer, Christ our God, * the only benevolent * and Almighty One."
+alt1.meMA.Lauds2.text = "You cleansed * the abysses of your heart * Kassiane, precious maid, * and washed out the dark blemish of * murky passions with the streams * of the divine Spirit’s grace. * And you were shown a pure vessel of His gifts * and a most fragrant garden full of song * to your beloved Lord * Bridegroom, Savior, and Redeemer, Christ our God, * the only benevolent * and Almighty One."
 
 alt1.meMA.Lauds3.mode = miscellanea_en_US_andronache.misc.Mode8
 alt1.meMA.Lauds3.melody = he.a.m8_en_US_andronache.heAU.OTouParadoxou.name

@@ -14,8 +14,8 @@ meMA.Ode1C11.text = "Make me wise, Lord my God, to hymn your divine prophet Haba
 meMA.Ode1C12.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C12.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode1C12.melody = he.h.m4_en_US_andronache.heHE.AsomaiSoiKyrie.notmetered
-meMA.Ode1C12.incipit = "\"Until when, O Lord,\" the…"
-meMA.Ode1C12.text = "\"Until when, O Lord,\" the prophet says, \"will I cry to you and you will not hear? And why did you show me the impiety of the judges?\""
+meMA.Ode1C12.incipit = "“Until when, O Lord,” the…"
+meMA.Ode1C12.text = "“Until when, O Lord,” the prophet says, “will I cry to you and you will not hear? And why did you show me the impiety of the judges?”"
 
 meMA.Ode1C13.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C13.mode = miscellanea_en_US_andronache.misc.Mode4
@@ -114,7 +114,7 @@ meMA.Ode5C13.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C13.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode5C13.melody = he.h.m4_en_US_andronache.heHE.OAnateilasToFos.notmetered
 meMA.Ode5C13.incipit = "Wise one, with a great…"
-meMA.Ode5C13.text = "Wise one, with a great voice you cried out: \"I will rejoice and be glad in God the Savior,\" all-blessed Habakkuk."
+meMA.Ode5C13.text = "Wise one, with a great voice you cried out: “I will rejoice and be glad in God the Savior,” all-blessed Habakkuk."
 
 meMA.Ode5C1T.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C1T.mode = miscellanea_en_US_andronache.misc.Mode4

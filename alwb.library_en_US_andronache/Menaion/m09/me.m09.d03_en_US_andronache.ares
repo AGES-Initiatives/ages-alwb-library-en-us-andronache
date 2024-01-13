@@ -136,8 +136,8 @@ meMA.Ode4C11.text = "The rock of faith having supported your heart, you were str
 meMA.Ode4C12.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C12.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode4C12.melody = he.h.m4_en_US_andronache.heHE.DiAgapisinOiktirmon.notmetered
-meMA.Ode4C12.incipit = "God's zeal burned you with…"
-meMA.Ode4C12.text = "God's zeal burned you with divine flames. Therefore you did not feel the burning irons when you were pierced, O joy of martyrs."
+meMA.Ode4C12.incipit = "God’s zeal burned you with…"
+meMA.Ode4C12.text = "God’s zeal burned you with divine flames. Therefore you did not feel the burning irons when you were pierced, O joy of martyrs."
 
 meMA.Ode4C13.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C13.mode = miscellanea_en_US_andronache.misc.Mode4
@@ -391,7 +391,7 @@ meMA.Ode9C11.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode9C11.greekmelody = he.h.m4_en_US_andronache.heHE.EvaMenToTisParakois.greekname
 meMA.Ode9C11.melody = he.h.m4_en_US_andronache.heHE.EvaMenToTisParakois.notmetered
 meMA.Ode9C11.incipit = "You bloomed as a rose…"
-meMA.Ode9C11.text = "You bloomed as a rose of mystical fragrance in the house of our God. Therefore you bring a beautiful fragrance to us, having become the fragrance of God and you chase away the foul smell of our souls' passions, blessed one."
+meMA.Ode9C11.text = "You bloomed as a rose of mystical fragrance in the house of our God. Therefore you bring a beautiful fragrance to us, having become the fragrance of God and you chase away the foul smell of our souls’ passions, blessed one."
 
 meMA.Ode9C12.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C12.mode = miscellanea_en_US_andronache.misc.Mode4

@@ -9,7 +9,7 @@ meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode1C11.greekmelody = he.h.m4_en_US_andronache.heHE.ThalassisToErythraion.greekname
 meMA.Ode1C11.melody = he.h.m4_en_US_andronache.heHE.ThalassisToErythraion.notmetered
 meMA.Ode1C11.incipit = "The rays of the divine…"
-meMA.Ode1C11.text = "The rays of the divine light illumined you, glorious one, with knowledge beyond nature from your mother's pains of childbirth.Therefore, Focas, you were shown to be a light to those in travails to the ends of the world."
+meMA.Ode1C11.text = "The rays of the divine light illumined you, glorious one, with knowledge beyond nature from your mother’s pains of childbirth.Therefore, Focas, you were shown to be a light to those in travails to the ends of the world."
 
 meMA.Ode1C12.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C12.mode = miscellanea_en_US_andronache.misc.Mode4
@@ -158,7 +158,7 @@ meMA.Ode7C12.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C12.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode7C12.melody = he.h.m4_en_US_andronache.heHE.EnTiKaminoAvramiaioi.notmetered
 meMA.Ode7C12.incipit = "As He paid the ransom…"
-meMA.Ode7C12.text = "As He paid the ransom for us by his own blood, you offered your blood as a fitting offering in repayment and you chanted crying out \"Blessed are you, my God and Lord.\""
+meMA.Ode7C12.text = "As He paid the ransom for us by his own blood, you offered your blood as a fitting offering in repayment and you chanted crying out “Blessed are you, my God and Lord.”"
 
 meMA.Ode7C13.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C13.mode = miscellanea_en_US_andronache.misc.Mode4

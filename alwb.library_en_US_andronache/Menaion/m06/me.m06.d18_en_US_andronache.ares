@@ -9,7 +9,7 @@ meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode1C11.greekmelody = he.h.m4_en_US_andronache.heHE.AsomaiSoiKyrie.greekname
 meMA.Ode1C11.melody = he.h.m4_en_US_andronache.heHE.AsomaiSoiKyrie.notmetered
 meMA.Ode1C11.incipit = "Your virtue cannot be covered…"
-meMA.Ode1C11.text = "Your virtue cannot be covered by praises, O Leontios, Christ's servant. For He is your praise and happiness not to be taken away."
+meMA.Ode1C11.text = "Your virtue cannot be covered by praises, O Leontios, Christ’s servant. For He is your praise and happiness not to be taken away."
 
 meMA.Ode1C12.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C12.mode = miscellanea_en_US_andronache.misc.Mode4
@@ -112,7 +112,7 @@ meMA.Ode5C13.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C13.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode5C13.melody = he.h.m4_en_US_andronache.heHE.OKtisamenosImas.notmetered
 meMA.Ode5C13.incipit = "Against that, O Martyr, you…"
-meMA.Ode5C13.text = "Against that, O Martyr, you said: \"Let the gods who clearly did not make the earth and the heaven perish; for the crucified One is the Fashioner of all.\""
+meMA.Ode5C13.text = "Against that, O Martyr, you said: “Let the gods who clearly did not make the earth and the heaven perish; for the crucified One is the Fashioner of all.”"
 
 meMA.Ode5C1T.ode = miscellanea_en_US_andronache.misc.Ode5
 meMA.Ode5C1T.mode = miscellanea_en_US_andronache.misc.Mode4
@@ -161,25 +161,25 @@ meMA.Ode7C11.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode7C11.greekmelody = he.h.m4_en_US_andronache.heHE.ODiasosasEnPyri.greekname
 meMA.Ode7C11.melody = he.h.m4_en_US_andronache.heHE.ODiasosasEnPyri.notmetered
 meMA.Ode7C11.incipit = "By strength of will, like…"
-meMA.Ode7C11.text = "By strength of will, like the captive children, Leontios trampled both the flames of temptations and the error, singing out to You, Lord: \"O God of our Fathers, you are blessed.\""
+meMA.Ode7C11.text = "By strength of will, like the captive children, Leontios trampled both the flames of temptations and the error, singing out to You, Lord: “O God of our Fathers, you are blessed.”"
 
 meMA.Ode7C12.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C12.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode7C12.melody = he.h.m4_en_US_andronache.heHE.ODiasosasEnPyri.notmetered
 meMA.Ode7C12.incipit = "Through lack of concern for…"
-meMA.Ode7C12.text = "Through lack of concern for the flesh, strenuously ignoring the tortures, you suffered for Christ as an invincible martyr, singing unto your Creator: \"O God of our Fathers, you are blessed.\""
+meMA.Ode7C12.text = "Through lack of concern for the flesh, strenuously ignoring the tortures, you suffered for Christ as an invincible martyr, singing unto your Creator: “O God of our Fathers, you are blessed.”"
 
 meMA.Ode7C13.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C13.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode7C13.melody = he.h.m4_en_US_andronache.heHE.ODiasosasEnPyri.notmetered
 meMA.Ode7C13.incipit = "By wisdom and longing for…"
-meMA.Ode7C13.text = "By wisdom and longing for Christ, you forcibly conquered the nature of the perishable life, and chose a life-bearing death, O Leontios, while singing out \"O God of our Fathers, you are blessed.\""
+meMA.Ode7C13.text = "By wisdom and longing for Christ, you forcibly conquered the nature of the perishable life, and chose a life-bearing death, O Leontios, while singing out “O God of our Fathers, you are blessed.”"
 
 meMA.Ode7C1Tr.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C1Tr.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode7C1Tr.melody = he.h.m4_en_US_andronache.heHE.ODiasosasEnPyri.notmetered
 meMA.Ode7C1Tr.incipit = "Theologizing about one tri-hypostatic nature…"
-meMA.Ode7C1Tr.text = "Theologizing about one tri-hypostatic nature, the Word and Spirit with the Father, the steadfast and unconquerable martyr cried out: \"Most hymned Lord, the God of our Fathers, you are blessed.\""
+meMA.Ode7C1Tr.text = "Theologizing about one tri-hypostatic nature, the Word and Spirit with the Father, the steadfast and unconquerable martyr cried out: “Most hymned Lord, the God of our Fathers, you are blessed.”"
 
 meMA.Ode7C1T.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C1T.mode = miscellanea_en_US_andronache.misc.Mode4
@@ -192,19 +192,19 @@ meMA.Ode8C11.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode8C11.greekmelody = he.h.m4_en_US_andronache.heHE.TonEnToStavro.greekname
 meMA.Ode8C11.melody = he.h.m4_en_US_andronache.heHE.TonEnToStavro.notmetered
 meMA.Ode8C11.incipit = "The martyr bore wounds in…"
-meMA.Ode8C11.text = "The martyr bore wounds in the flesh and more greatly distressed the bodiless enemy singing, \"Exalt Christ our God beyond measure unto the ages.\""
+meMA.Ode8C11.text = "The martyr bore wounds in the flesh and more greatly distressed the bodiless enemy singing, “Exalt Christ our God beyond measure unto the ages.”"
 
 meMA.Ode8C12.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C12.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode8C12.melody = he.h.m4_en_US_andronache.heHE.TonEnToStavro.notmetered
 meMA.Ode8C12.incipit = "With the mind upright towards…"
-meMA.Ode8C12.text = "With the mind upright towards the Master, in the wounds of the thorns, O Martyr you stretched up with love, saying, \"Exalt beyond measure, singing to our God unto the ages.\""
+meMA.Ode8C12.text = "With the mind upright towards the Master, in the wounds of the thorns, O Martyr you stretched up with love, saying, “Exalt beyond measure, singing to our God unto the ages.”"
 
 meMA.Ode8C13.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C13.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode8C13.melody = he.h.m4_en_US_andronache.heHE.TonEnToStavro.notmetered
 meMA.Ode8C13.incipit = "Christ is your victory, of…"
-meMA.Ode8C13.text = "Christ is your victory, of Martyr, whom you glorified by the tortures of your flesh, crying out, \"Let everyone exalt Christ our God beyond measure unto all the ages.\""
+meMA.Ode8C13.text = "Christ is your victory, of Martyr, whom you glorified by the tortures of your flesh, crying out, “Let everyone exalt Christ our God beyond measure unto all the ages.”"
 
 meMA.Ode8C1T.ode = miscellanea_en_US_andronache.misc.Ode8
 meMA.Ode8C1T.mode = miscellanea_en_US_andronache.misc.Mode4
