@@ -281,7 +281,7 @@ meMA.Ode9C1T.incipit = "Since you bore in your…"
 meMA.Ode9C1T.text = "Since you bore in your embrace Christ who holds all things by His command, entreat Him as your Son so that He save me from the hands of the enemy, all-pure one, and in His unfathomable mercy, embrace me and save me."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
+meLI.Kontakion1.greekmelody = meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
