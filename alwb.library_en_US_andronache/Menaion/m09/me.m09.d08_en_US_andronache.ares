@@ -5,8 +5,8 @@ meVE.Stichera01.incipit = "Today, God who rests…"
 meVE.Stichera01.text = "Today, God who rests upon the noetic thrones has prepared a holy throne for Himself upon the earth. He who established the heavens in wisdom has prepared an animate heaven, in His love for mankind; from a fruitless root, He raised for us a life-bearing plant, His Mother. God of wonders and the hope of the hopeless, Lord, glory to You."
 
 meVE.SticGlory.mode = miscellanea_en_US_andronache.misc.Mode6
-meVE.SticGlory.incipit = meVE.Stichera01.incipit
-meVE.SticGlory.text = meVE.Stichera01.text
+meVE.SticGlory.incipit = me.m09.d08_en_US_andronache.meVE.Stichera01.incipit
+meVE.SticGlory.text = me.m09.d08_en_US_andronache.meVE.Stichera01.text
 
 meVE.LityGlory.mode = miscellanea_en_US_andronache.misc.Mode8
 meVE.LityGlory.incipit = "On this solemn day…"
