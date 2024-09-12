@@ -798,12 +798,12 @@ alt1.meMA.Ode8C14.melody = he.h.m1_en_US_andronache.heHE.FlogaDrosizousanOsious.
 alt1.meMA.Ode8C14.incipit = "O Theotokos, the man who…"
 alt1.meMA.Ode8C14.text = "O Theotokos, the man who had been weakened by the illness and could not move for three years, has become a clear proclaimer of the sign. When he became miraculously healthy in your temple, he was filled with divine joy and he glorifies your miracle; celebrating, we hymn the Creator and exalt Him beyond measure unto all the ages."
 
-alt1.meMA.Ode9C1M01.incipit = "…"
-alt1.meMA.Ode9C1M01.text = ""
+alt1.meMA.Ode9C1M01.incipit = //me.m01.d30_en_US_andronache.meMA.Ode9C2MTh.incipit
+alt1.meMA.Ode9C1M01.text = //me.m01.d30_en_US_andronache.meMA.Ode9C2MTh.text
 alt1.meMA.Ode9C1M0Tr.incipit = "…"
 alt1.meMA.Ode9C1M0Tr.text = ""
-alt1.meMA.Ode9C1M0Th.incipit = "…"
-alt1.meMA.Ode9C1M0Th.text = ""
+alt1.meMA.Ode9C1M0Th.incipit = //me.m01.d30_en_US_andronache.meMA.Ode9C2MTh.incipit
+alt1.meMA.Ode9C1M0Th.text = //me.m01.d30_en_US_andronache.meMA.Ode9C2MTh.text
 
 alt1.meMA.Ode9C1H.ode = miscellanea_en_US_andronache.misc.Ode9
 alt1.meMA.Ode9C1H.mode = miscellanea_en_US_andronache.misc.Mode1
