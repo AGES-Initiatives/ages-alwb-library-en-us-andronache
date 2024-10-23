@@ -102,11 +102,6 @@ meMA.Ode3KathismaT.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.notme
 meMA.Ode3KathismaT.incipit = "Spotless one, by your divine…"
 meMA.Ode3KathismaT.text = "Spotless one, by your divine giving birth you renewed the nature, corrupted by the passions, of earthborn mortals and you raised all from death to the life of incorruption. Therefore, as is proper, we all bless you, glorified Virgin, as you prophesied."
 
-meMA.Ode3KathismaSt.mode = miscellanea_en_US_andronache.misc.Mode4
-meMA.Ode3KathismaSt.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.notmetered
-meMA.Ode3KathismaSt.incipit = "All-blameless Virgin, Mother of Christ…"
-meMA.Ode3KathismaSt.text = "All-blameless Virgin, Mother of Christ God, a sword pierced through your most holy soul, when you saw your son and God crucified of His own will. Do not cease supplicating Him, O blessed one, that we be granted forgiveness of transgressions."
-
 meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode4C11.greekmelody = he.h.m1_en_US_andronache.heHE.OrosSeTiChariti.greekname

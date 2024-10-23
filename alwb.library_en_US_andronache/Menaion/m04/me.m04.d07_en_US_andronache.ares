@@ -79,11 +79,6 @@ meMA.Ode3KathismaT.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.notme
 meMA.Ode3KathismaT.incipit = "Listen, O Lady…"
 meMA.Ode3KathismaT.text = "Listen, O Lady, to your servant who cries out from a soul in great distress and grant remission of my former sins, for I call upon you night and day: Rescue me, O Theotokos from the fire of Gehenna and make me stand on the right of your Son and God."
 
-meMA.Ode3KathismaSt.mode = miscellanea_en_US_andronache.misc.Mode4
-meMA.Ode3KathismaSt.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.notmetered
-meMA.Ode3KathismaSt.incipit = "All-blameless Virgin…"
-meMA.Ode3KathismaSt.text = "All-blameless Virgin, Mother of Christ God, a sword pierced your all-holy soul when you saw your Son and God willingly crucified. Blessed one, do not cease entreating Him to grant us forgiveness of errors."
-
 meMA.Ode4C1H.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_andronache.misc.Mode8
 meMA.Ode4C1H.greekmelody = he.h.m8_en_US_andronache.heHE.EisakikoaKyrie.greekname

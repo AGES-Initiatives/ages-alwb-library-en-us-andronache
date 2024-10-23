@@ -81,11 +81,6 @@ meMA.Ode3KathismaT.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.notme
 meMA.Ode3KathismaT.incipit = "…"
 meMA.Ode3KathismaT.text = "By your divine birth-giving, spotless one, you renewed the nature of the earth-born, which was liable to death and had been corrupted by the passions, and you raised everyone up from death to a life of incorruption. Therefore, as is our duty, we all magnify you, glorious Virgin, as you prophesied. "
 
-meMA.Ode3KathismaSt.mode = miscellanea_en_US_andronache.misc.Mode4
-meMA.Ode3KathismaSt.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.notmetered
-meMA.Ode3KathismaSt.incipit = "…"
-meMA.Ode3KathismaSt.text = "All spotless Virgin, Mother of Christ God, a sword pierced your all-pure soul, when you saw your Son and God willingly crucified. Blessed one, do not cease entreating him to grant us forgiveness of our errors."
-
 meMA.Ode4C1H.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_andronache.misc.Mode8
 meMA.Ode4C1H.greekmelody = he.h.m8_en_US_andronache.heHE.EisakikoaKyrie.greekname
