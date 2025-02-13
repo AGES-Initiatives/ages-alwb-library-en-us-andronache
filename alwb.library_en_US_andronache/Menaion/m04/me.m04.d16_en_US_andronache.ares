@@ -108,10 +108,6 @@ meMA.Ode3Kathisma1.melody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.notm
 meMA.Ode3Kathisma1.incipit = "As wed to the Lord…"
 meMA.Ode3Kathisma1.text = "As wed to the Lord in a God-befitting manner, O prize-winning virgins, you offered to Him as a dowry your blood and your slaughter and you worthily obtained the divine bridal chamber, being unceasingly filled with unutterable light. Therefore, celebrating your holy and august memory in spirit, we glorify the Savior and faithfully cry out: Intercede with Christ God that remission of errors be granted to them who fervently celebrate your holy memory."
 
-meMA.Ode3KathismaT.mode = miscellanea_en_US_andronache.misc.Mode8
-meMA.Ode3KathismaT.melody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.notmetered
-meMA.Ode3KathismaT.text = "" //he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.text
-
 meMA.Ode3KathismaSt.mode = miscellanea_en_US_andronache.misc.Mode8
 meMA.Ode3KathismaSt.melody = he.a.m8_en_US_andronache.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3KathismaSt.incipit = "The ewe-lamb, beholding the lamb…"
