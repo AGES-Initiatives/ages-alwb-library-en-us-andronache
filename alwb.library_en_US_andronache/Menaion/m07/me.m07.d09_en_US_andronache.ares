@@ -5,7 +5,7 @@ meMA.Ode1C11.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode1C11.greekmelody = he.h.m1_en_US_andronache.heHE.OdinEpinikion.greekname
 meMA.Ode1C11.melody = he.h.m1_en_US_andronache.heHE.OdinEpinikion.notmetered
 meMA.Ode1C11.incipit = "The Church, always supported by…"
-meMA.Ode1C11.text = "The Church, always supported by the foundation of your words, knows you as an all-honored rock, Pankratios, and for this she honors your memory today."
+meMA.Ode1C11.text = "The Church, always supported by the foundation of your words, knows you as an all-honored rock, Pancratius, and for this she honors your memory today."
 
 meMA.Ode1C12.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C12.mode = miscellanea_en_US_andronache.misc.Mode1
@@ -17,7 +17,7 @@ meMA.Ode1C13.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C13.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode1C13.melody = he.h.m1_en_US_andronache.heHE.OdinEpinikion.notmetered
 meMA.Ode1C13.incipit = "With the plow of you…"
-meMA.Ode1C13.text = "With the plow of you divine words, Pankratios, you ploughed up the soil of the heart which before had been dry because of the drought of ill-belief, and you clearly showed them to be fertile through faith."
+meMA.Ode1C13.text = "With the plow of you divine words, Pancratius, you ploughed up the soil of the heart which before had been dry because of the drought of ill-belief, and you clearly showed them to be fertile through faith."
 
 meMA.Ode1C1T.ode = miscellanea_en_US_andronache.misc.Ode1
 meMA.Ode1C1T.mode = miscellanea_en_US_andronache.misc.Mode1
@@ -36,7 +36,7 @@ meMA.Ode3C12.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C12.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode3C12.melody = he.h.m1_en_US_andronache.heHE.StereothitoIKardiaMou.notmetered
 meMA.Ode3C12.incipit = "Venerable one, by your cutting…"
-meMA.Ode3C12.text = "Venerable one, by your cutting word you cut down the thorn of impiety and you planted the salvific dogmas in souls which were guided for the increase of virtues, Pankratios."
+meMA.Ode3C12.text = "Venerable one, by your cutting word you cut down the thorn of impiety and you planted the salvific dogmas in souls which were guided for the increase of virtues, Pancratius."
 
 meMA.Ode3C13.ode = miscellanea_en_US_andronache.misc.Ode3
 meMA.Ode3C13.mode = miscellanea_en_US_andronache.misc.Mode1
@@ -54,7 +54,7 @@ meMA.Ode3Kathisma1.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.greekname
 meMA.Ode3Kathisma1.melody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.notmetered
 meMA.Ode3Kathisma1.incipit = "Champion of piety, trophy-bearer, hallowed…"
-meMA.Ode3Kathisma1.text = "Champion of piety, trophy-bearer, hallowed Pankratios, you were shown to be in heaven, standing now with the bodiless, praying to Christ that we be saved."
+meMA.Ode3Kathisma1.text = "Champion of piety, trophy-bearer, hallowed Pancratius, you were shown to be in heaven, standing now with the bodiless, praying to Christ that we be saved."
 
 meMA.Ode3KathismaT.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode3KathismaT.melody = he.a.m4_en_US_andronache.heAU.EpefanisSimeron.notmetered
@@ -66,7 +66,7 @@ meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode4C11.greekmelody = he.h.m1_en_US_andronache.heHE.EnPnevmatiProvlepon.greekname
 meMA.Ode4C11.melody = he.h.m1_en_US_andronache.heHE.EnPnevmatiProvlepon.notmetered
 meMA.Ode4C11.incipit = "You were shown as fire-breathing…"
-meMA.Ode4C11.text = "You were shown as fire-breathing by the fire of the Paraclete. You burned the deceit, wise Pankratios, and you illumined like a lamp those being sunk in the sea of ignorance, and set them on the shore of the divine will."
+meMA.Ode4C11.text = "You were shown as fire-breathing by the fire of the Paraclete. You burned the deceit, wise Pancratius, and you illumined like a lamp those being sunk in the sea of ignorance, and set them on the shore of the divine will."
 
 meMA.Ode4C12.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C12.mode = miscellanea_en_US_andronache.misc.Mode1
@@ -122,13 +122,13 @@ meMA.Ode6C12.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C12.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode6C12.melody = he.h.m1_en_US_andronache.heHE.TonProfitinIonan.notmetered
 meMA.Ode6C12.incipit = "You released the nations from…"
-meMA.Ode6C12.text = "You released the nations from the sprinkling and the curse of the blood of idols and you were set forth as a lamb, Pankratios, to be offered up as a living sacrifice to God."
+meMA.Ode6C12.text = "You released the nations from the sprinkling and the curse of the blood of idols and you were set forth as a lamb, Pancratius, to be offered up as a living sacrifice to God."
 
 meMA.Ode6C13.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C13.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode6C13.melody = he.h.m1_en_US_andronache.heHE.TonProfitinIonan.notmetered
 meMA.Ode6C13.incipit = "You served as a priest…"
-meMA.Ode6C13.text = "You served as a priest of God’s Gospel, wise one, brightly sealing the divine teachings by your blood, priest and mystic martyr Pankratios."
+meMA.Ode6C13.text = "You served as a priest of God’s Gospel, wise one, brightly sealing the divine teachings by your blood, priest and mystic martyr Pancratius."
 
 meMA.Ode6C1T.ode = miscellanea_en_US_andronache.misc.Ode6
 meMA.Ode6C1T.mode = miscellanea_en_US_andronache.misc.Mode1
@@ -141,7 +141,7 @@ meMA.Ode7C11.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode7C11.greekmelody = he.h.m1_en_US_andronache.heHE.TousEnKaminoPaidas.greekname
 meMA.Ode7C11.melody = he.h.m1_en_US_andronache.heHE.TousEnKaminoPaidas.notmetered
 meMA.Ode7C11.incipit = "You have been baptized in…"
-meMA.Ode7C11.text = "You have been baptized in your own blood, Pankratios, as before you had baptized peoples water, and you were translated rejoicing to Christ; by adoption you were brightly deified, ever-blessed one."
+meMA.Ode7C11.text = "You have been baptized in your own blood, Pancratius, as before you had baptized peoples water, and you were translated rejoicing to Christ; by adoption you were brightly deified, ever-blessed one."
 
 meMA.Ode7C12.ode = miscellanea_en_US_andronache.misc.Ode7
 meMA.Ode7C12.mode = miscellanea_en_US_andronache.misc.Mode1
@@ -191,7 +191,7 @@ meMA.Ode9C11.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode9C11.greekmelody = he.h.m1_en_US_andronache.heHE.TinZoodochonPigin.greekname
 meMA.Ode9C11.melody = he.h.m1_en_US_andronache.heHE.TinZoodochonPigin.notmetered
 meMA.Ode9C11.incipit = "Being illumined by the light-giving…"
-meMA.Ode9C11.text = "Being illumined by the light-giving torches of Peter in both soul and mind, as a many-lighted star you reached the West, illumining by your teachings those fallen in the pits of ignorance, O Pankratios."
+meMA.Ode9C11.text = "Being illumined by the light-giving torches of Peter in both soul and mind, as a many-lighted star you reached the West, illumining by your teachings those fallen in the pits of ignorance, O Pancratius."
 
 meMA.Ode9C12.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C12.mode = miscellanea_en_US_andronache.misc.Mode1
@@ -203,7 +203,7 @@ meMA.Ode9C13.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C13.mode = miscellanea_en_US_andronache.misc.Mode1
 meMA.Ode9C13.melody = he.h.m1_en_US_andronache.heHE.TinZoodochonPigin.notmetered
 meMA.Ode9C13.incipit = "Being famous for your most…"
-meMA.Ode9C13.text = "Being famous for your most holy illumination, you shine with martyric brilliance, seeing the glory of God and being seen by a joyous soul, holy Pankratios, the ornament of priests and martyrs."
+meMA.Ode9C13.text = "Being famous for your most holy illumination, you shine with martyric brilliance, seeing the glory of God and being seen by a joyous soul, holy Pancratius, the ornament of priests and martyrs."
 
 meMA.Ode9C1T.ode = miscellanea_en_US_andronache.misc.Ode9
 meMA.Ode9C1T.mode = miscellanea_en_US_andronache.misc.Mode1
