@@ -86,16 +86,6 @@ meMA.Ode3Kathisma1.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.notme
 meMA.Ode3Kathisma1.incipit = "You adorned the Church of…"
 meMA.Ode3Kathisma1.text = "You adorned the Church of Christ by your words, and by your works you kept that which is according to the image of God, venerable Sophronios, for your soundness of mind illumined the world, shining with gifts of teachings on all who with faith celebrate your memory, O Father."
 
-meMA.Ode3KathismaT.mode = miscellanea_en_US_andronache.misc.Mode4
-meMA.Ode3KathismaT.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.notmetered
-meMA.Ode3KathismaT.incipit = "By your divine childbirth, undefiled…"
-meMA.Ode3KathismaT.text = "By your divine childbirth, undefiled one, you renewed the mortal nature which had been corrupted by the passions of those on earth and you lifted everyone up from death towards the life of incorruption. Therefore, as it proper, we all bless you, Virgin glorified as you had foretold."
-
-meMA.Ode3KathismaSt.mode = miscellanea_en_US_andronache.misc.Mode4
-meMA.Ode3KathismaSt.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.notmetered
-meMA.Ode3KathismaSt.incipit = "When she beheld you hanging…"
-meMA.Ode3KathismaSt.text = "When she beheld you hanging on the cross, your undefiled Mother, O Word of God, lamenting in a motherly manner uttered: What is this new and strange wonder, my Son. How do you, the life of all, willingly as a merciful one, enter into death to give life to those who had died?"
-
 meMA.Ode4C1H.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_andronache.misc.Mode4
 meMA.Ode4C1H.greekmelody = he.h.m4_en_US_andronache.heHE.OKathimenosEnDoxi.greekname

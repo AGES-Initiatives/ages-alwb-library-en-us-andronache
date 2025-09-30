@@ -127,11 +127,6 @@ meMA.Ode3Kathisma2.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.notme
 meMA.Ode3Kathisma2.incipit = "You are as pillars of…"
 meMA.Ode3Kathisma2.text = "You are as pillars of the Church of Christ, you tore asunder the walls of faithlessness, wise seven-lighted martyrs. Therefore, having driven away the madness of the Greeks before death, and again after death, the storm of heresy; intercede for our souls."
 
-meMA.Ode3KathismaT.mode = miscellanea_en_US_andronache.misc.Mode4
-meMA.Ode3KathismaT.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.notmetered
-meMA.Ode3KathismaT.incipit = "Immaculate one, you renewed the…"
-meMA.Ode3KathismaT.text = "Immaculate one, you renewed the mortal nature of those corrupted by passion and you lifted up everyone from death unto eternal life through your divine childbirth. Therefore, as is proper, we all bless you, Virgin, glorified as you prophesied."
-
 meMA.Ode4C11.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_andronache.misc.Mode2
 meMA.Ode4C11.greekmelody = he.h.m2_en_US_andronache.heHE.YmnoSeAkoi.greekname

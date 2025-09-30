@@ -85,11 +85,6 @@ meMA.Ode3KathismaT.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.notme
 meMA.Ode3KathismaT.incipit = "…"
 meMA.Ode3KathismaT.text = "I, the prodigal, having darkened my mind with many transgressions, call upon your true support. Illumine, O Theotokos, the face of my soul, shine the most bright light of repentance upon me and robe me in the weapons of light, all-blameless one."
 
-meMA.Ode3KathismaSt.mode = miscellanea_en_US_andronache.misc.Mode4
-meMA.Ode3KathismaSt.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.notmetered
-meMA.Ode3KathismaSt.incipit = "…"
-meMA.Ode3KathismaSt.text = "Having beheld you lifted up on the Cross, O Word of God, your blameless Mother, lamenting maternally cried out: What is this new strange wonder, My Son? How do you, the life of all partake of death, wishing, as merciful to give life to the dead?"
-
 meMA.Ode4C1H.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_andronache.misc.Mode2
 meMA.Ode4C1H.greekmelody = he.h.m2_en_US_andronache.heHE.ElilythasEkParthenou.greekname

@@ -76,11 +76,6 @@ meMA.Ode3Kathisma1.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.notme
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = "Confirming the dogmas of the faith, venerable one, you preached the Word co-eternal and of one essence with the Father. Therefore, you shepherded your flock in an orthodox manner, and you put to shame Arius’s ill-minded teaching. Therefore, having now gone over to Christ, intercede for us all."
 
-meMA.Ode3KathismaT.mode = miscellanea_en_US_andronache.misc.Mode4
-meMA.Ode3KathismaT.melody = he.a.m4_en_US_andronache.heAU.TachyProkatalave.notmetered
-meMA.Ode3KathismaT.incipit = "…"
-meMA.Ode3KathismaT.text = "By your divine birth-giving, spotless one, you renewed the nature of the earth-born, which was liable to death and had been corrupted by the passions, and you raised everyone up from death to a life of incorruption. Therefore, as is our duty, we all magnify you, glorious Virgin, as you prophesied. "
-
 meMA.Ode4C1H.ode = miscellanea_en_US_andronache.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_andronache.misc.Mode8
 meMA.Ode4C1H.greekmelody = he.h.m8_en_US_andronache.heHE.EisakikoaKyrie.greekname
